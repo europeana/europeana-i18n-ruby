@@ -1,6 +1,6 @@
 # europeana-i18n
 
-[![security](https://hakiri.io/github/europeana/europeana-i18n/develop.svg)](https://hakiri.io/github/europeana/europeana-i18n/develop) [![Dependency Status](https://gemnasium.com/europeana/europeana-i18n.svg)](https://gemnasium.com/europeana/europeana-i18n) [![Code Climate](https://codeclimate.com/github/europeana/europeana-i18n/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+[![Code Climate](https://codeclimate.com/github/europeana/europeana-i18n/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
 
 I18n for Europeana Rails apps.
 
