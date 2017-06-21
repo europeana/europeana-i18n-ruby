@@ -1,6 +1,6 @@
 # europeana-i18n
 
-[![Code Climate](https://codeclimate.com/github/europeana/europeana-i18n-ruby/badges/gpa.svg)](https://codeclimate.com/github/europeana/europeana-i18n-ruby)
+[![Build Status](https://travis-ci.org/europeana/europeana-i18n-ruby.svg?branch=develop)](https://travis-ci.org/europeana/europeana-i18n-ruby) [![Code Climate](https://codeclimate.com/github/europeana/europeana-i18n-ruby/badges/gpa.svg)](https://codeclimate.com/github/europeana/europeana-i18n-ruby)
 
 I18n for Europeana Rails apps.
 
