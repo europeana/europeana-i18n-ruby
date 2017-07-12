@@ -6,6 +6,11 @@ nl:
           description: Hier kunt u alle recente toevoegingen aan Europeana Collections vinden. Bekijk welke culturele instelling nieuwe items heeft bijgedragen, het aantal items die ze hebben toegevoegd en wanneer. Klik op de onderstaande links voor meer informatie.
         sources:
           description: Hieronder zie je een lijst van instellingen die hun inhoud aan Europeana Collections hebben bijgedragen.
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: 'link naar labs '
     navigation:

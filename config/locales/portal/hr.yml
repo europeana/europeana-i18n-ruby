@@ -6,6 +6,11 @@ hr:
           description: Na ovom mjestu možete pronaći sav sadržaj koji je nedavno dodan Europeaninim zbirkama. Ovdje možete vidjeti koja je ustanova objavila novi materijal, koliko materijala i kada! Samo kliknite na poveznice u nastavku kako biste vidjeli njihove zbirke.
         sources:
           description: U nastavku slijedi popis izvora za naše zbirke. Oni skupljaju i doprinose svojim zbirkama Europeani. Slijedite poveznicu koja vas zanima i pristupit ćete svim njihovim zbirkama!
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: http://labs.europeana.eu/
     navigation:

@@ -6,6 +6,11 @@ lv:
           description: Šajā sadaļā ir apkopots viss saturs, kas nesen ir ticis pievienots Europeana Kolekcijām. Te ir iespējams redzēt, kura institūcija ir publicējusi jaunus materiālus un kad. Klikšķiniet uz zemāk esošajām saitēm, lai apskatītu pievienoto.
         sources:
           description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu!
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: saite uz Laboratoriju
     navigation:

@@ -6,6 +6,11 @@ fi:
           description: Täällä voit tutustua kaikkiin viimeaikaiset lisäykset Europeanan kokoelmat. Katso mikä kulttuurilaitos on edistänyt uusia kohteita, kohteiden määrä he lisänneet ja milloin. Klikkaa alla olevia linkkejä lisätietoja.
         sources:
           description: Alla näet listan instituutiot, jotka ovat vaikuttaneet niiden sisältöä Europeanaan kokoelmat. Nämä instituutiot koota ja edistää tietonsa Europeanan klikkaa linkkiä, joka kiinnostaa sinua alla katsella tiettyä kumppani kokoelma!
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: linkki labsiin
     navigation:

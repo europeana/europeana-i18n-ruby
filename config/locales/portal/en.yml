@@ -6,6 +6,11 @@ en:
           description: 'Here, you can explore all the recent additions to Europeana Collections. See which cultural institution has contributed new items, the number of items they''ve added and when. Just click on the links below to find out more. '
         sources:
           description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
+      entity:
+        anagraphic:
+          birth: Born
+          death: Died
+          occupation: Occupation
   global:
     labs-link: 'link to labs '
     navigation:

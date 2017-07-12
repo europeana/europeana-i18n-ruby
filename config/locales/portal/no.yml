@@ -6,6 +6,11 @@
           description: I denne seksjonen kan du finne alt innhold som nylig har blitt lagt til på Europeana-samlingene. Her kan du se hvilke nye institusjoner som har publisert nytt innhold, hvor mye innhold og når! Bare klikk på lenkene under for å se samlingene deres.
         sources:
           description: Under ser du en liste over kilder for våre samlinger. Disse kildene utvider og bidrar til samlinger på Europeana, klikk på lenkene under som interesserer deg for å se på alle samlingene deres!
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: lenker til labs
     navigation:

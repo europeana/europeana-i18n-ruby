@@ -6,6 +6,11 @@ sk:
           description: 
         sources:
           description: 
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: 
     navigation:

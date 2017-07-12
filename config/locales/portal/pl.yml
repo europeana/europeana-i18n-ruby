@@ -6,6 +6,11 @@ pl:
           description: Poniżej przedstawiamy ostatnio dodane kolekcje. Kliknij na wybraną instytucję, aby zobaczyć ile oraz jakie obiekty dodała do Europeany!
         sources:
           description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: link do labs
     navigation:

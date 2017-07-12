@@ -6,6 +6,11 @@ ro:
           description: Aici, puteți explora toate recente completări la Europeana Colecții. A se vedea, pe care instituția culturală a contribuit noi elemente, numărul de articole care le-am adăugat și când. Doar să faceți clic pe link-urile de mai jos pentru a afla mai multe.
         sources:
           description: Mai jos vedeți o listă a instituțiilor care au contribuit conținutul lor la Europeana Colecții. Aceste instituții agregate și să contribuie datele lor la Europeana, faceți clic pe link-ul care vă interesează mai jos pentru a vizualiza o anumită colecție partener!
+      entity:
+        anagraphic:
+          birth: 
+          death: 
+          occupation: 
   global:
     labs-link: 
     navigation:
