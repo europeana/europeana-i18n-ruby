@@ -11,6 +11,9 @@ lv:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: saite uz Laboratoriju
     navigation:

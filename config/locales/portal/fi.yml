@@ -11,6 +11,9 @@ fi:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: linkki labsiin
     navigation:

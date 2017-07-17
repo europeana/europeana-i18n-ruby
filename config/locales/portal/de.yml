@@ -11,6 +11,9 @@ de:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: Link zu Labs
     navigation:

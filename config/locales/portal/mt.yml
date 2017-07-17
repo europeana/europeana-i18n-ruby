@@ -11,6 +11,9 @@ mt:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: Link lejn il-labs
     navigation:

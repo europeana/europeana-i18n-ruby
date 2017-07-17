@@ -11,6 +11,9 @@ uk:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: Посилання на Europeana Labs
     navigation:

@@ -11,6 +11,9 @@ ca:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: enllaç a labs
     navigation:

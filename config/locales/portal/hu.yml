@@ -11,6 +11,9 @@ hu:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: link a lab-hoz
     navigation:

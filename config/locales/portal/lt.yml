@@ -11,6 +11,9 @@ lt:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: Nuoroda į Labs
     navigation:

@@ -11,6 +11,9 @@ hr:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: http://labs.europeana.eu/
     navigation:

@@ -11,6 +11,9 @@ nl:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: 'link naar labs '
     navigation:

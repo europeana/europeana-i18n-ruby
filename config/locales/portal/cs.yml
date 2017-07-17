@@ -11,6 +11,9 @@ cs:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: 
     navigation:

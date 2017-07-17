@@ -11,6 +11,9 @@ en:
           birth: Born
           death: Died
           occupation: Occupation
+        labels:
+          bio: Bio
+          related: related
   global:
     labs-link: 'link to labs '
     navigation:

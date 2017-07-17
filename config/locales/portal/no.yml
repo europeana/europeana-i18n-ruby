@@ -11,6 +11,9 @@
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: lenker til labs
     navigation:

@@ -11,6 +11,9 @@ sv:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: Länk till Labs
     navigation:

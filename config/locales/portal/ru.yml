@@ -11,6 +11,9 @@ ru:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: Cсылка на Labs
     navigation:

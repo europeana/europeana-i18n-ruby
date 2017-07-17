@@ -11,6 +11,9 @@ bg:
           birth: 
           death: 
           occupation: 
+        labels:
+          bio: 
+          related: 
   global:
     labs-link: линк към лабораториите
     navigation:
