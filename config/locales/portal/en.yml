@@ -99,7 +99,7 @@ en:
     entities:
       anagraphic:
         birth: Birth
-        death: Died
+        death: Death
         occupation: Occupation
       labels:
         bio: Bio
