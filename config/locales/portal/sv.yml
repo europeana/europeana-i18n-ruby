@@ -6,11 +6,12 @@ sv:
           description: 'Här finner du de senaste uppdateringarna i Europeanas samlingar. Från vilken partner, hur mycket och när. '
         sources:
           description: Här finner du alla institutioner som har bidragit till Europeanas samlingar.
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ sv:
       music:
         description: 
         title: 
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

@@ -6,11 +6,12 @@ ro:
           description: Aici, puteți explora toate recente completări la Europeana Colecții. A se vedea, pe care instituția culturală a contribuit noi elemente, numărul de articole care le-am adăugat și când. Doar să faceți clic pe link-urile de mai jos pentru a afla mai multe.
         sources:
           description: Mai jos vedeți o listă a instituțiilor care au contribuit conținutul lor la Europeana Colecții. Aceste instituții agregate și să contribuie datele lor la Europeana, faceți clic pe link-ul care vă interesează mai jos pentru a vizualiza o anumită colecție partener!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ ro:
       music:
         description: <strong>Colecția de Muzică Europeana <strong> adună la un loc cele mai bune înregistrări muzicale, partituri și alte colecții legate de muzică de la arhivele, bibliotecile și muzeele din Europa <a href="/portal/channels/music/about">Află mai multe despre Colecția de Muzică.</a>
         title: Europeana Music
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

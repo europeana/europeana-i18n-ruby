@@ -6,11 +6,12 @@ bs:
           description: 
         sources:
           description: 
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ bs:
       music:
         description: 
         title: 
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

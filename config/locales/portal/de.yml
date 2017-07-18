@@ -6,11 +6,12 @@ de:
           description: Hier können Sie alle Neuigkeiten zu Europeana Collections erkunden. Sehen Sie, welche kulturelle Institution neue Artikel, die Anzahl der Artikel, die sie hinzugefügt haben und wann beigetragen hat. Klicken Sie einfach auf die untenstehenden Links, um mehr zu erfahren.
         sources:
           description: Unten sehen Sie eine Liste der Institutionen, die ihren Inhalt zu Europeana Collections beigetragen haben. Diese Institutionen aggregieren und tragen ihre Daten zu Europeana, klicken Sie auf den Link, der Sie unten interessiert, um eine bestimmte Partner-Kollektion zu sehen!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ de:
       music:
         description: Die <strong> Europeana Musik Sammlung </ strong> vereint die besten Musikaufnahmen, Noten und andere musikbezogene Sammlungen von Europas audiovisuellen Archiven und Bibliotheken. <a href="/portal/channels/music/about">Erfahren Sie mehr über die Musik Sammlung.</a>
         title: Europeana Musik
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

@@ -6,11 +6,12 @@ fi:
           description: Täällä voit tutustua kaikkiin viimeaikaiset lisäykset Europeanan kokoelmat. Katso mikä kulttuurilaitos on edistänyt uusia kohteita, kohteiden määrä he lisänneet ja milloin. Klikkaa alla olevia linkkejä lisätietoja.
         sources:
           description: Alla näet listan instituutiot, jotka ovat vaikuttaneet niiden sisältöä Europeanaan kokoelmat. Nämä instituutiot koota ja edistää tietonsa Europeanan klikkaa linkkiä, joka kiinnostaa sinua alla katsella tiettyä kumppani kokoelma!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ fi:
       music:
         description: <strong>Europeanan Musiikkikokoelma</strong> tuo yhteen parhaat musiikkitallenteet, nuotit, ja muut musiikkiaiheiset kokoelmat Euroopan audiovisuaalisista arkistoista, kirjastoista ja museoista. <a href="/portal/channels/music/about">Lisätietoa Musiikkikokoelma.</a>
         title: Europeana Musiikki
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

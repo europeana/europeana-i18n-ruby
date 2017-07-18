@@ -6,11 +6,12 @@
           description: I denne seksjonen kan du finne alt innhold som nylig har blitt lagt til på Europeana-samlingene. Her kan du se hvilke nye institusjoner som har publisert nytt innhold, hvor mye innhold og når! Bare klikk på lenkene under for å se samlingene deres.
         sources:
           description: Under ser du en liste over kilder for våre samlinger. Disse kildene utvider og bidrar til samlinger på Europeana, klikk på lenkene under som interesserer deg for å se på alle samlingene deres!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@
       music:
         description: ' <strong>Europeana musikksamling</strong> samler de beste musikkopptakene, noteark og annet materiale som er relatert til musikksamlinger fra Europas audio-visuelle arkiver, bibliotek, arkiv og museum. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>'
         title: Europeana Musikk
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

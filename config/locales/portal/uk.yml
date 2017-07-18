@@ -6,11 +6,12 @@ uk:
           description: У цьому розділі ви можете знайти весь контент, нещодавно доданий до колекцій Europeana. Тут ви можете побачити, яка нова установа опублікувала нові матеріали, скільки матеріалів і коли! Просто натисніть на посилання нижче, щоб побачити їх колекції.
         sources:
           description: Нижче ви можете побачити список джерел наших колекцій. Ці джерела об'єднують та поповнюють колекції Europeana, натисніть на цікаве вам посилання, щоб побачити всі їх колекції!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ uk:
       music:
         description: 
         title: 
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

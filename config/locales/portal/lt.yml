@@ -6,11 +6,12 @@ lt:
           description: Čia galite išsiaiškinti visus naujausius papildymus Europeana kolekcijas. Pamatyti, kokie kultūros įstaiga prisidėjo naujus elementus, vienetų skaičius, jie jau įtraukta ir kada. Tiesiog spustelėkite ant žemiau esančių nuorodų sužinoti daugiau.
         sources:
           description: Žemiau matote institucijų, kurie prisidėjo jų turinį Europeana rinkinių sąrašą. Šios institucijos kaupti ir prisidėti savo duomenis Europeana paspausti nuorodą, kuri jus domina toliau peržiūrėti konkretaus partnerio kolekciją!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ lt:
       music:
         description: <strong>Europeana muzikos kolekcija</strong> sujungia geriausių muzikos įrašų, natų ir kitų, su muzika susijusių, įrašų kolekcijas iš daugelio Europos vaizdo ir garso archyvų, bibliotekų, muziejų bei archyvų. <a href="/portal/channels/music/about">Sužinokite daugiau apie muzikos kolekcija.</a>
         title: Europeana muzika
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

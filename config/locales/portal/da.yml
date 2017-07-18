@@ -6,11 +6,12 @@ da:
           description: Her kan du udforske alle de seneste tilføjelser til Europeana samlinger. Se hvilke kulturinstitution har bidraget nye elementer, antallet af elementer, de har tilføjet, og hvornår. Bare klik på nedenstående links for at finde ud af mere.
         sources:
           description: Nedenfor ser du en liste over institutioner, der har bidraget deres indhold til Europeana samlinger. Disse institutioner samle og bidrage med deres data til Europeana, skal du klikke på linket, der interesserer dig nedenfor for at se en bestemt partner samling!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ da:
       music:
         description: <strong>Europeanas Musiksamling</strong> samler de bedste musikoptagelser, partiturer og andre musikrelaterede genstande fra Europas audiovisuelle arkiver, biblioteker og museer. <a href="/portal/channels/music/about">Find ud af mere om Musiksamling.</a>
         title: Europeana Musik
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 

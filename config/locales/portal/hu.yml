@@ -6,11 +6,12 @@ hu:
           description: Itt lehet felfedezni a közelmúltban kiegészítések Europeana gyűjtemények. Lásd, amely a kulturális intézmény hozzájárult az új elemek, az elemek száma, hogy már hozzá, és mikor. Csak kattints az alábbi linkekre, hogy többet megtudjon.
         sources:
           description: Alább egy listát az intézmények, akik hozzájárultak a tartalmat Europeana gyűjtemények. Ezek az intézmények gyűjtik össze és hozzájárulnak adataik az Europeana, kattints a linkre, amely érdekli az alábbiakban megtekintheti egy adott partner gyűjtemény!
-      entity:
+      entities:
         anagraphic:
           birth: 
           death: 
           occupation: 
+      entity:
         labels:
           bio: 
           related: 
@@ -104,6 +105,10 @@ hu:
       music:
         description: Az <strong> Europeana Zenei Gyűjtemény </ strong> egyesíti a legjobb zenei felvételeket, kottákat és más zenével kapcsolatos gyűjteményeket Európa audiovizuális archívumaiból, könyvtáraiból, levéltáraiból és múzeumaiból. <a href="/portal/channels/music/about"> Tudjon meg többet a Zenei Csatornáról. </a>
         title: Europeana Zene
+    entities:
+      labels:
+        bio: 
+        related: 
     events:
       all_day: 
       description: 
