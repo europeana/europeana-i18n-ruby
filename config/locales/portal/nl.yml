@@ -6,15 +6,6 @@ nl:
           description: Hier kunt u alle recente toevoegingen aan Europeana Collections vinden. Bekijk welke culturele instelling nieuwe items heeft bijgedragen, het aantal items die ze hebben toegevoegd en wanneer. Klik op de onderstaande links voor meer informatie.
         sources:
           description: Hieronder zie je een lijst van instellingen die hun inhoud aan Europeana Collections hebben bijgedragen.
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: 'link naar labs '
     navigation:
@@ -106,9 +97,16 @@ nl:
         description: 'Het <strong> Europeana collecties: muziek</strong> brengt u de beste muziek opnames, blad muziek en ander muziek gerelateerde collecties van Europa''s audio-visuele archieven, bibliotheken, archieven en musea. <a href="/portal/channels/music/about"> Meer over Europeana collecties: muziek</a>'
         title: Europeana Muziek
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 

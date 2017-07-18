@@ -6,15 +6,6 @@ et:
           description: Selles alaosas leiad sisu, mis on hiljuti lisatud Europeana kogusse. Siin on näha, millised institutsioonid on avaldanud uut ainest nagu ka selle hulka ja avaldamisaega. Lihtsalt klõpsa allolevatele linkidele nende kogude nägemiseks.
         sources:
           description: Allpool näed loetelu meie kogude allikaist. Need allikad koondavad ja panustavad kogusid Europeanasse. Klõpsa sind huvitavale lingile, et sind viidaks kõikide nende kogudeni!
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: link Labs'i
     navigation:
@@ -106,9 +97,16 @@ et:
         description: <strong>Europeana Muusikakogu</strong> toob ühte kohta kokku parimad salvestised, noodilehed ja muu muusikaga seotu kõikidest euroopa audiovisuaalarhiividest, raamatukogudest ja muuseumidest.<a href="/portal/channels/music/about">Tutvu kanaliga "Muusika" lähemalt</a>
         title: Europeana Muusika
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 

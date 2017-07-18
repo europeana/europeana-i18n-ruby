@@ -6,15 +6,6 @@ lv:
           description: Šajā sadaļā ir apkopots viss saturs, kas nesen ir ticis pievienots Europeana Kolekcijām. Te ir iespējams redzēt, kura institūcija ir publicējusi jaunus materiālus un kad. Klikšķiniet uz zemāk esošajām saitēm, lai apskatītu pievienoto.
         sources:
           description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu!
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: saite uz Laboratoriju
     navigation:
@@ -106,9 +97,16 @@ lv:
         description: <strong>Europeana Mūzikas kolekcija</strong> apkopo labākos mūzikas ierakstus, notis, un citas ar mūziku saistītas kolekcijas no Eiropas arhīviem, bibliotēkām, muzejiem un audiovizuālajiem arhīviem. <a href="/portal/channels/music/about">Uzziniet vairāk par Mūzikas kolekciju.</a>
         title: Europeana mūzika
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 

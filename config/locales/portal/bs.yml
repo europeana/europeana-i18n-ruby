@@ -6,15 +6,6 @@ bs:
           description: 
         sources:
           description: 
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: 
     navigation:
@@ -106,9 +97,16 @@ bs:
         description: 
         title: 
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 

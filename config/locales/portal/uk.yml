@@ -6,15 +6,6 @@ uk:
           description: У цьому розділі ви можете знайти весь контент, нещодавно доданий до колекцій Europeana. Тут ви можете побачити, яка нова установа опублікувала нові матеріали, скільки матеріалів і коли! Просто натисніть на посилання нижче, щоб побачити їх колекції.
         sources:
           description: Нижче ви можете побачити список джерел наших колекцій. Ці джерела об'єднують та поповнюють колекції Europeana, натисніть на цікаве вам посилання, щоб побачити всі їх колекції!
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: Посилання на Europeana Labs
     navigation:
@@ -106,9 +97,16 @@ uk:
         description: 
         title: 
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 

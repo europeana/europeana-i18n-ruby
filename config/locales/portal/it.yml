@@ -6,15 +6,6 @@ it:
           description: Qui, è possibile esplorare tutte le aggiunte più recenti a Europeana Collezioni. Vedere quale istituzione culturale ha contribuito nuovi elementi, il numero di oggetti che hanno aggiunto e quando. Basta cliccare sul link qui sotto per saperne di più.
         sources:
           description: Qui sotto puoi vedere un elenco di istituzioni che hanno contribuito i loro contenuti per Europeana collezioni. Queste istituzioni aggregare e contribuire con i loro dati di Europeana, fare clic sul link che ti interessa per visualizzare una particolare collezione partner!
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: Link ai laboratori
     navigation:
@@ -106,9 +97,16 @@ it:
         description: La collezione musicale di Europeana riunisce le migliori registrazioni musicali, spartiti ed altre raccolte musicali provenienti da archivi audiovisivi, biblioteche, archivi e musei europei. Scopri di più sul canale musicale.
         title: Europeana Musica
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 

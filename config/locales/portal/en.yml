@@ -6,15 +6,6 @@ en:
           description: 'Here, you can explore all the recent additions to Europeana Collections. See which cultural institution has contributed new items, the number of items they''ve added and when. Just click on the links below to find out more. '
         sources:
           description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
-      entities:
-        anagraphic:
-          birth: Birth
-          death: Died
-          occupation: Occupation
-      entity:
-        labels:
-          bio: Bio
-          related: related
   global:
     labs-link: 'link to labs '
     navigation:
@@ -106,9 +97,16 @@ en:
         description: The <strong>Europeana Music Collection</strong> brings together the best music recordings, sheet music, and other music related collections from Europe's audio-visual archives, libraries, archives and museums. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>
         title: Europeana Music
     entities:
+      anagraphic:
+        birth: Birth
+        death: Died
+        occupation: Occupation
       labels:
         bio: Bio
-        related: 
+        related: Related
+      tab_items:
+        items_about: Items about %{name}
+        items_by: Items by %{name}
     events:
       all_day: All Day
       description: Events

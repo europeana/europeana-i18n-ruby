@@ -6,15 +6,6 @@ hr:
           description: Na ovom mjestu možete pronaći sav sadržaj koji je nedavno dodan Europeaninim zbirkama. Ovdje možete vidjeti koja je ustanova objavila novi materijal, koliko materijala i kada! Samo kliknite na poveznice u nastavku kako biste vidjeli njihove zbirke.
         sources:
           description: U nastavku slijedi popis izvora za naše zbirke. Oni skupljaju i doprinose svojim zbirkama Europeani. Slijedite poveznicu koja vas zanima i pristupit ćete svim njihovim zbirkama!
-      entities:
-        anagraphic:
-          birth: 
-          death: 
-          occupation: 
-      entity:
-        labels:
-          bio: 
-          related: 
   global:
     labs-link: http://labs.europeana.eu/
     navigation:
@@ -106,9 +97,16 @@ hr:
         description: <strong>Europeana glazbena zbirka</strong> povezuje najbolje glazbene snimke, notne zapise i ostale zbirke glazbene tematike iz audio-vizualnih arhiva, knjižnica, arhiva i muzeja Europe. <a href="/portal/channels/music/about">Saznajte više o Glazbenoj zbirci.</a>
         title: Europeana glazba
     entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
       labels:
         bio: 
         related: 
+      tab_items:
+        items_about: 
+        items_by: 
     events:
       all_day: 
       description: 
