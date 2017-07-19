@@ -112,9 +112,9 @@ pl:
       description: 
       list:
         count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        future: Nadchodzące wydarzenia
+        page-title: Wydarzenia
+        past: Minione wydarzenia
     facet:
       language:
         show:
@@ -143,20 +143,20 @@ pl:
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
         contribution: 
         contribution-attachment: 
         contribution-attachments: 
         contribution-done: 
         contributor: 
-        events_list_breadcrumb: 
+        events_list_breadcrumb: Wydarzenia
         exhibitions:
           return_home: Wystawy
         item_detail: Obiekt
-        register: 
+        register: Zarejestruj
         reset-password: 
         results_list: Lista Wyników
-        results_list_mlt: 
+        results_list_mlt: Podobne obiekty
         return_home: Powrót do strony głównej
         sign-in: 
       search:
