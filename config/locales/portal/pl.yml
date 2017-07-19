@@ -189,7 +189,7 @@ pl:
         view-items-below: zobacz obiekty poniżej
       meta-label:
         additional-rights: 
-        annotations: 
+        annotations: Adnotacje użytkowników
         codec: Kodek
         collection-name: Zbiór
         concept: Koncept
@@ -253,7 +253,7 @@ pl:
         relations: Relacje
         rights: Prawa autorskie
         rights-human: Czy mogę tego użyć?
-        rights-statement: 
+        rights-statement: Licencje
         runtime: Długość
         runtime-unit-seconds: sekundy
         source: Źródło
@@ -337,9 +337,9 @@ pl:
         product-save: Zapisz
         saveto: Zapisz do
         show-all-collections: Pokaż wszystkie kolekcje
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Kilknij, aby zobaczyć wyniki spoza Europeany
+      federated-clicked: Obiekty spoza Europeany
+      federated_more: Zobacz wszystko (%{results_count}) z %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -372,12 +372,12 @@ pl:
           grid: Siatka
           list: Lista
         view-at-provider: Zobacz w
-      results: 
+      results: Wyniki
     search:
       browse: Przeglądaj
       or-browse: lub przeglądaj
       placeholder:
-        filter-text: 
+        filter-text: Szukaj
         text: Dodaj termin wyszukiwawczy
       similar:
         prefix: 'Podobne do: %{mlt_item}'
