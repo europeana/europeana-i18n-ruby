@@ -3,384 +3,399 @@ sl:
     site:
       browse:
         newcontent:
-          description: 
+          description: 'Tukaj lahko raziščete vse nedavne dodatke v zbirke Europeana. Preverite, katere kulturne ustanove so prispevale nove predmete, število predmetov in čas dodajanja. Za več informacij spodaj kliknite povezave. '
         sources:
-          description: 
+          description: Spodaj je prikazan seznam ustanov, ki so prispevale svoje vsebine v zbirke Europeana. Te ustanove zbirajo in prispevajo svoje podatke v zbirke Europeana, za ogled posamezne partnerske zbirke kliknite želeno povezavo!
   global:
-    labs-link: 
+    labs-link: 'povezava do laboratorijev '
     navigation:
-      agents: 
-      all_blog_posts: 
-      all_exhibitions: 
-      all_galleries: 
-      blog: 
-      browse: 
-      browse_colours: 
-      browse_newcontent: 
-      browse_sources: 
-      channels: 
-      collections: 
-      concepts: 
-      exhibitions: 
-      galleries: 
-      home: 
+      agents: Osebe
+      all_blog_posts: Vse objave v spletnem dnevniku ...
+      all_exhibitions: Vse razstave ...
+      all_galleries: Vse galerije ...
+      blog: Spletni dnevnik
+      browse: Razišči
+      browse_colours: Barve
+      browse_newcontent: Kaj je novega?
+      browse_sources: Viri
+      channels: Zbirke
+      collections: Zbirke
+      concepts: Teme
+      exhibitions: Razstave
+      galleries: Galerije
+      home: Domov
       more:
-        people: 
-        topics: 
-      periods: 
-      places: 
-      view-collection: 
-      view-detailed-description: 
-    pro-link: 
-    pro-text: 
-    settings: 
+        people: Več oseb
+        topics: Več tem
+      periods: Časovna obdobja
+      places: Mesta
+      view-collection: Ogled celotne zbirke
+      view-detailed-description: Ogled podrobnejšega opisa
+    pro-link: 'povezava do pro '
+    pro-text: besedilo za pro
+    settings: Nastavitve
   site:
     alpha:
       feedback_banner:
-        description: 
-        link-text: 
-        title: 
-    blog-link: 
+        description: Beta različica pomeni, da je to spletno mesto v aktivnem razvoju in bo redno posodabljano. Občasno morda ne bo dosegljivo. Vaše povratne informacije nam bodo v pomoč pri izboljšavi našega mesta.
+        link-text: Pošljite nam vaše mnenje!
+        title: To je beta različica naše nove »Zbirke« in »Glasbene zbirke«
+    blog-link: povezava do spletnega dnevnika
     blogs:
-      description: 
+      description: Spletni dnevniki
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} od %{results_count} objav v spletnem dnevniku"
+        page-title: Spletni dnevnik Europeana
+      min-to-read: min za branje
     browse:
       colours:
-        description: 
-        title: 
+        description: Iščite slike glede na njihovo barvo. Spodaj enostavno kliknite obarvan pravokotnik, da odkrijete slike z izbrano barvo!
+        title: Barve
       newcontent:
-        description: 
-        tableh1: 
-        tableh2: 
-        tableh3: 
-        title: 
+        description: 'Tukaj lahko raziščete vse nedavne dodatke v zbirke Europeana. Preverite, katere kulturne ustanove so prispevale nove predmete, število predmetov in čas dodajanja. Za več informacij spodaj kliknite povezave. '
+        tableh1: Vse ustanove
+        tableh2: Predmeti
+        tableh3: Datum
+        title: Kaj je novega?
       people:
-        description: 
-        title: 
+        description: Tukaj lahko najdete zanimivosti iz naših zbirk v zvezi z življenji in deli slavnih umetnikov, skladateljev in drugih pomembnih osebnosti iz zgodovine.
+        title: Osebe
       periods:
-        description: 
-        title: 
+        description: Brskaj po časovnem obdobju.
+        title: Časovna obdobja
       sources:
-        description: 
-        title: 
+        description: Spodaj je prikazan seznam ustanov, ki so prispevale svoje vsebine v zbirke Europeana. Te ustanove zbirajo in prispevajo svoje podatke v zbirke Europeana, za ogled posamezne partnerske zbirke kliknite želeno povezavo!
+        title: Viri
       topics:
-        description: 
-        title: 
+        description: 'Raziskujte naše preiskave po temah, tematikah ali žanrih. '
+        title: Teme
     collections:
       art-history:
-        description: 
-        title: 
+        description: Od renesanse do nadrealistov in od starodavnega rimskega kiparstva do sodobne umetnosti, Europeana Art vam predstavlja umetnike in umetnine iz celotne Evrope.
+        title: Umetnostna zgodovina Europeana
       data-types:
-        3d: 
-        all: 
-        count: 
-        images: 
-        moving-images: 
-        sound: 
-        texts: 
+        3d: 3D-predmeti
+        all: Vsi
+        count: predmeti
+        images: Slika
+        moving-images: Videoposnetki
+        sound: Zvočni posnetki
+        texts: Besedila
       e7a1418:
         contribute: Dodajte
         my-account: Moj račun
       labels:
-        credits: 
-        designer: 
+        credits: 'Kurator '
+        designer: Oblikovalec
         editors-picks: 
-        recent: 
+        recent: Nedavni dodatki
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
-        spotlight-on: 
-        whats-happening: 
+        sneak-peek-collection: Raziščite <i>%{preview_title}</i> v %{collection}
+        spotlight-on: 'V žarišču '
+        whats-happening: Kaj se dogaja
       music:
-        description: 
-        title: 
+        description: <strong>Glasbena zbirka Europeana</strong> združuje vse najboljše glasbene posnetke, notne zapise in druge zbirke v zvezi z glasbo iz evropskih avdio-vizualnih arhivov, knjižnic, arhivov in muzejev. <a href="/portal/channels/music/about">Več informacij o glasbeni zbirki.</a>
+        title: Glasba Europeana
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Rojstvo
+        death: Smrt
+        occupation: Poklic
       labels:
-        bio: 
-        related: 
+        bio: Bio
+        related: Povezano
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Predmeti o %{name}
+        items_by: Predmeti po %{name}
     events:
-      all_day: 
-      description: 
+      all_day: Ves dan
+      description: Dogodki
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} od %{results_count} dogodkov"
+        future: Prihajajoči dogodki
+        page-title: Dogodki
+        past: Pretekli dogodki
     facet:
       language:
         show:
-          results: 
+          results: Rezultati
     footer:
       menu:
-        about: 
-        become-a-provider: 
-        contact: 
-        contact-us: 
-        copyright: 
-        data-providers: 
-        help: 
-        new-collections: 
-        rights: 
-        roadmap: 
-        search-tips: 
-        using-myeuropeana: 
+        about: Informacije
+        become-a-provider: Postanite naš partner
+        contact: Kontakt
+        contact-us: Kontaktirajte nas
+        copyright: Avtorske pravice
+        data-providers: Vse ustanove
+        help: Pomoč
+        new-collections: Nove zbirke
+        rights: Določila uporabe in pravilniki
+        roadmap: Posodobitve razvoja
+        search-tips: Iskanje namigov
+        using-myeuropeana: Uporaba možnosti My Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
-    more: 
-    my-europeana: 
-    my-europeana-link: 
+      description: Kultura s kuratorjem, samo za vas! Odkrijte galerije Europeana!
+      description-default: Odkrijte več na spletnem mestu Europeana
+      share:
+        one: Deli to galerijo
+        other: Deli galerije
+    more: Več ...
+    my-europeana: Moja Europeana
+    my-europeana-link: povezava do Moja Europeana
     navigation:
       breadcrumb:
         account: račun
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Spletni dnevnik
+        contribution: Prispevek
+        contribution-attachment: Priloga
+        contribution-attachments: Priloge
+        contribution-done: končano
+        contributor: Vlagatelj
+        events_list_breadcrumb: Dogodki
         exhibitions:
-          return_home: 
-        item_detail: 
-        register: 
-        reset-password: 
-        results_list: 
-        results_list_mlt: 
-        return_home: 
-        sign-in: 
+          return_home: Razstave
+        item_detail: Predmet
+        register: Registriraj
+        reset-password: Ponastavi geslo
+        results_list: Rezultati
+        results_list_mlt: Podobni predmeti
+        return_home: Vrni se domov
+        sign-in: Prijava
       search:
         placeholder:
-          text: 
-    news: 
+          text: Tukaj iščite po ključni besedi
+    news: Novice
     object:
       actions:
-        attribute-author: 
-        attribute-html: 
-        attribute-plaintext: 
-        download: 
-        download-additional: 
-        download-retry: 
-        download-started: 
-        downloaddata: 
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
-        open-media: 
-        show-less-data: 
-        show-more-data: 
-        technicalmetadata: 
+        attribute-author: Dodeli avtorju
+        attribute-html: HTML
+        attribute-plaintext: Navadno besedilo
+        download: Prenos
+        download-additional: Na voljo tudi kot
+        download-retry: Poskusi znova
+        download-started: Prenos se je začel
+        downloaddata: Prenos podatkov
+        enlarge: Povečaj
+        explore-by-colour: Razišči po barvi
+        media-metadata: Predstavnostni metapodatki
+        open-media: Odpri ta predstavnostni element
+        show-less-data: Prikaži manj podatkov
+        show-more-data: Prikaži več podatkov
+        technicalmetadata: Tehnični metapodatki
       enrichment:
         who:
-          title: 
+          title: Naziv
       hierarchy:
-        title: 
-        view-items-above: 
-        view-items-below: 
+        title: Povezani predmeti
+        view-items-above: ogled zgornjih predmetov
+        view-items-below: ogled spodnjih predmetov
       meta-label:
-        additional-rights: 
-        annotations: 
-        codec: 
-        collection-name: 
-        concept: 
-        concepts: 
-        consists-of: 
-        contributor: 
-        copyright: 
-        creation-date: 
-        creator: 
-        current-location: 
-        data-provider: 
-        date: 
-        dates: 
-        description: 
-        dimensions: 
-        duration: 
+        additional-rights: Dodatne informacije o pravicah
+        annotations: Uporabniške opombe
+        codec: Kodek
+        collection-name: Nabor podatkov
+        concept: Teme
+        concepts: Klasifikacije
+        consists-of: Sestavljeno iz
+        contributor: Vlagatelj
+        copyright: Avtorske pravice
+        creation-date: Datum ustvarjanja
+        creator: Avtor
+        current-location: Trenutna lokacija
+        data-provider: Ustanova
+        date: Datum
+        dates: Datumi
+        description: Opis
+        dimensions: Mere
+        duration: Trajanje
         edm:
-          has-met: 
-          incorporates: 
-          is-derivative-of: 
-          is-representation-of: 
-          is-similar-to: 
-          is-successor-of: 
-          realises: 
-          was-present-at: 
-        extent: 
-        file-size: 
-        format: 
-        fps: 
-        has-type: 
-        identifier: 
-        intermediate-provider: 
-        is-format-of: 
-        is-part-of: 
-        is-referenced-by: 
-        is-replaced-by: 
-        is-required-by: 
-        issued: 
-        language: 
-        latitude: 
-        location: 
-        longitude: 
-        map: 
-        map-tiles: 
-        medium: 
-        people: 
-        period: 
-        place: 
-        place-time: 
-        properties: 
-        provenance: 
-        provided-by: 
-        provided-by-detail: 
-        provided-by-detail-no-link: 
-        provider: 
-        providing-country: 
-        publication-date: 
-        publisher: 
-        references: 
-        refs-rels: 
-        relations: 
-        rights: 
-        rights-human: 
-        rights-statement: 
-        runtime: 
-        runtime-unit-seconds: 
-        source: 
-        subject: 
-        temporal: 
-        time: 
-        timestamp-created: 
-        timestamp-updated: 
-        timestamp_created: 
-        timestamp_updated: 
-        title: 
-        toc: 
-        type: 
-        ugc: 
-        version: 
+          has-met: Je povezano z
+          incorporates: Vključuje
+          is-derivative-of: Je izpeljano iz
+          is-representation-of: Je predstavitev o
+          is-similar-to: Je podobno
+          is-successor-of: Je naslednik
+          realises: Spozna
+          was-present-at: Predstavi ob
+        extent: Velikost
+        file-size: Velikost datoteke
+        format: Format
+        fps: Sličice na sekundo
+        has-type: Ima vrsto
+        identifier: Identifikator
+        intermediate-provider: Vmesni ponudnik
+        is-format-of: Format
+        is-part-of: Je del
+        is-referenced-by: Sklicevano
+        is-replaced-by: Nadomestil
+        is-required-by: Zahteval
+        issued: Prva izdaja
+        language: Jezik
+        latitude: Zemljepisna širina
+        location: Lokacija
+        longitude: Zemljepisna dolžina
+        map: Zemljevid
+        map-tiles: Ploščice
+        medium: Srednje
+        people: Osebe
+        period: Obdobje
+        place: Lokacija
+        place-time: Lokacija/čas
+        properties: Lastnosti
+        provenance: Izvor
+        provided-by: Več informacij
+        provided-by-detail: 'Ogled ob %{institution_name_and_link}. '
+        provided-by-detail-no-link: Europeana prikazuje ta predmet prek
+        provider: Ponudnik
+        providing-country: Država ponudnika
+        publication-date: Datum objave
+        publisher: Izdajatelj
+        references: Reference
+        refs-rels: Reference in povezave
+        relations: Povezave
+        rights: Pravice
+        rights-human: Ali lahko to uporabim?
+        rights-statement: Izjava o pravicah
+        runtime: Čas izvajanja
+        runtime-unit-seconds: sekund
+        source: Vir
+        subject: Zadeva
+        temporal: Časovno
+        time: Čas
+        timestamp-created: Prva objava v sistemu Europeana
+        timestamp-updated: Zadnja posodobitev v sistemu Europeana
+        timestamp_created: Prvič objavljeno v Europeana (%{timestamp_created})
+        timestamp_updated: Zadnjič objavljeno v Europeana (%{timestamp_updated})
+        title: Naziv
+        toc: Kazalo vsebine
+        type: Vrsta
+        ugc: Vsebina, ki jo prispevajo uporabniki
+        version: Različica
       named-entities:
-        title: 
+        title: Entitete
         what:
-          broader: 
-          label: 
-          term: 
-          title: 
+          broader: Širši koncept
+          label: Oznaka koncepta
+          term: Pogoj koncepta
+          title: Zadeve, vrste virov, žanri in obrazci (koncepti)
         when:
-          begin: 
-          end: 
-          label: 
-          term: 
-          title: 
+          begin: Začetek obdobja
+          end: Konec obdobja
+          label: Oznaka obdobja
+          term: Pogoj obdobja
+          title: Časovni razponi in datumi (TimeSpan)
         where:
-          label: 
-          latitude: 
-          longitude: 
-          term: 
-          title: 
+          label: Oznaka mesta
+          latitude: Zemljepisna širina
+          longitude: Zemljepisna dolžina
+          term: Pogoj mesta
+          title: Imena mest (mesta)
         who:
-          label: 
-          term: 
-          title: 
+          label: Oznaka agenta
+          term: Pogoj agenta
+          title: Osebe in organizacije (agenti)
       nav:
-        next: 
-        prev: 
+        next: Naslednji
+        prev: Prejšnji
       points:
-        east: 
-        north: 
-        south: 
-        west: 
-      preview_unavailable: 
-      show-more-similar-items: 
-      similar-items: 
+        east: Vzhod
+        north: Sever
+        south: Jug
+        west: Zahod
+      preview_unavailable: Predogled predmeta ni na voljo, za dostop do celotne slike in dodatnih informacij o predmetu obiščite %{institution_name_and_link}
+      show-more-similar-items: prikaži več
+      similar-items: Podobni predmeti
     pages:
       '404':
-        intro: 
-        text: 
+        intro: Žal, te strani nismo uspeli najti.
+        text: Žal, iskane strani nismo uspeli najti. Preiščite spletno mesto Europeana ali spodaj izberite želeno vsebino.
       about:
-        text: 
-        title: 
+        text: |-
+          <p>Iščete najljubšo staro sliko? Izvajate preiskavo ali sestavljate seminarsko?  Iščete navdih za okrasitev nove skodelice za kavo?  Se želite naučiti česa novega? Kakršen koli razlog že imate za obisk spletnega mesta Europeana, dobrodošli!</p>
+
+          <p>Poglobite se v največjo spletno zbirko umetnosti, kulture in znanosti v Evropi. Zbirke Europeana vam prinašajo material iz slavnih in malo manj slavnih (vendar vedno izrednih) knjižnic, muzejev, galerij in arhivov v Evropi.</p>
+
+          <p>Knjige in rokopisi, fotografije in slike, kipi in notni zapisi, video in zvočni posnetki, dnevniki in zemljevidi – vse to je tukaj. Tako vam ni treba potovati po celotnem kontinentu, ne fizično ne virtualno!</p>
+
+          <p>Raziskujte, odkrivajte, glejte, poslušajte, berite, prenašajte ... Uživajte!</p>
+
+          <p>Zakaj ne bi preizkusili <a href="http://europeana.eu/portal/collections/art-history">Umetniško zgodovinskih zbirk Europeana</a> ali <a href="http://europeana.eu/portal/collections/music">Glasbenih zbirk Europeana</a>? Na voljo so nam tudi lastna sredstva za <a href="http://research.europeana.eu/">raziskovalce</a> in kulturne <a href="http://labs.europeana.eu/">razvijalce/inovatorje</a> (tukaj lahko najdete naše <a href="http://labs.europeana.eu/api">API-je</a>) ter množico <a href="http://exhibitions.europeana.eu/">virtualnih razstav</a> in <a href="http://blog.europeana.eu/">spletni dnevnik</a>. </p>
+
+          <p>Če si še vedno želite več, lahko prejmete dnevno dozo kulture na naših straneh <a href="https://www.facebook.com/Europeana">Facebook</a>, <a href="https://twitter.com/Europeanaeu">Twitter</a>, <a href="https://medium.com/@Europeana">Medium</a>, <a href="https://plus.google.com/+europeana">Google+</a>, <a href="http://europeanacollections.tumblr.com/">Tumblr</a> in <a href="https://www.pinterest.com/europeana/">Pinterest</a>.</p>
+
+          <p>Za več informacij o našem sodelovanju s kulturnimi ustanovami in njihovimi zbirkami obiščite <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
+        title: Dobrodošli, ljubitelj kulture!
       music-channel-about:
-        text: 
-        title: 
+        text: "<p>Predstavljajte si ogled originalnih ročno spisanih glasbenih rokopisov med poslušanjem različnih izvedb in branjem biografije skladatelja. In v glasbeni zbirki Europeana lahko počnete ravno to.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Naši partnerji</a>, vsi so glasbeni strokovnjaki, iz celotne Evrope so pazljivo sestavili to zbirko glasbenih posnetkov, notnih zapisov, slik glasbenih instrumentov, knjig o glasbi in drugih z glasbo povezanih vsebin. </p>\n\n<p>To zgodnjo preskusno različico glasbene zbirke smo pripravili vam, našim uporabnikom, da nam lahko pomagate pri oblikovanju in nadaljnjem razvoju. Tako vam bomo ob obiskovanju spletnega mesta občasno prikazali vprašanja ali ankete. Resnično bomo cenili, če si vzamete nekaj časa in odgovorite na vprašanja in ankete!</p>\n\n<p>V korist transparentnosti in zasebnosti vas želimo obvestiti, da beležimo uporabniške statistike in vedenje uporabnikov s storitvama Google Analytics in Hotjar. To izvajamo zato, da lažje prepoznamo mesta, kjer smo morda naredili napake pri oblikovanju in s tem si pomagamo pri izboljšanju glasbene zbirke. Vse dnevnike hranimo zasebne in anonimizirane, uporabljeni bodo samo za izboljšanje naše storitve.</p>\n\n<p>Spodbujamo vas k pregledovanju zbirke, predvajanju glasbe, ogled notnih zapisov ali branje spremnih zapisov. Ko avtorske pravice to dovoljujejo, si lahko prenesete najljubše vsebine. Obiščite tudi naše virtualne razstave na še nikoli prej viden način!</p>"
+        title: O glasbenih zbirkah
     results:
       actions:
-        configure-actions: 
-        dutchmasters: 
-        favouriteart: 
-        label: 
-        newcollection: 
-        product-save: 
-        saveto: 
-        show-all-collections: 
-      federated: 
-      federated-clicked: 
-      federated_more: 
+        configure-actions: Konfiguriranje dejanj
+        dutchmasters: Nizozemski mojstri
+        favouriteart: Priljubljena umetnina
+        label: Dejanja
+        newcollection: Nova zbirka
+        product-save: Shrani
+        saveto: Shrani v
+        show-all-collections: Prikaži vse zbirke
+      federated: Za ogled rezultatov iz ostalih virov kliknite tukaj
+      federated-clicked: Predmeti iz ostalih virov
+      federated_more: Ogled vseh %{results_count} rezultatov pri %{results_provider}
       list:
         all-results:
-          3D: 
-          images: 
-          text: 
-          video: 
-        count-and-terms: 
-        count-and-terms-with-range: 
-        empty: 
-        empty-with-terms: 
-        header: 
-        header-and: 
-        in-channel: 
-        less: 
-        less_adv: 
-        more: 
-        more_adv: 
-        per-page: 
-        product-3D: 
-        product-image: 
-        product-sound: 
-        product-text: 
-        product-video: 
-        results-relevance: 
+          3D: 3D
+          images: Slika
+          text: Besedilo
+          video: Video
+        count-and-terms: "%{results_count} rezultatov"
+        count-and-terms-with-range: "%{results_range} od %{results_count} rezultatov"
+        empty: Brez rezultatov
+        empty-with-terms: Vaše iskanje za %{query_terms} ni vrnilo rezultatov
+        header: Rezultati za
+        header-and: in
+        in-channel: v tematski zbirki
+        less: Manj
+        less_adv: Manj podrobno
+        more: Več
+        more_adv: Napredni filtri
+        per-page: Na stran
+        product-3D: 3D
+        product-image: Slika
+        product-sound: Zvok
+        product-text: Besedilo
+        product-video: Video
+        results-relevance: Pomembnost
         results-view:
-          grid: 
-          list: 
-        single-result: 
+          grid: Mreža
+          list: Seznam
+        single-result: 1 rezultat za %{query_terms}
         view:
-          grid: 
-          list: 
-        view-at-provider: 
-      results: 
+          grid: Mreža
+          list: Seznam
+        view-at-provider: Ogled ob
+      results: Rezultati
     search:
-      browse: 
-      or-browse: 
+      browse: Brskajte
+      or-browse: ali brskajte
       placeholder:
-        filter-text: 
-        text: 
+        filter-text: Išči
+        text: Dodaj iskalni izraz
       similar:
-        prefix: 
+        prefix: 'Podobno kot: %{mlt_item}'
     settings:
       actions:
-        clear-selection: 
-        save-settings: 
+        clear-selection: Počisti izbiro
+        save-settings: Shrani nastavitve
       language:
-        auto-translate-limit: 
-        auto-translate-page: 
-        auto-translate-page-short: 
-        auto-translate-query: 
-        available: 
-        default: 
+        auto-translate-limit: Izberete lahko največ %{max_languages}
+        auto-translate-page: Samodejno prevedi strani s predmeti v ...
+        auto-translate-page-short: Samodejno prevedi predmete v
+        auto-translate-query: Samodejno preveri iskane ključne besede v ...
+        available: Razpoložljivi jeziki
+        default: Privzeti jezik
         flash:
-          alert: 
-          notice: 
-        label: 
-        settings-label: 
-      title: 
+          alert: 'Izbran je bil neveljaven jezik. Razpoložljivi jeziki: %{locales}'
+          notice: Nastavitve jezika so shranjene.
+        label: Jezik
+        settings-label: jezikovne nastavitve
+      title: Nastavitve

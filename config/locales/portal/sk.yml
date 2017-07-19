@@ -3,384 +3,399 @@ sk:
     site:
       browse:
         newcontent:
-          description: 
+          description: 'Tu si môžete preskúmať všetky najnovšie príspevky do Europeana zbierok (Collections). Pozrite si, ktorá kultúrna inštitúcia pridala nové položky, počet položiek, ktoré pridala a kedy. Stačí kliknúť na nižšie uvedené linky a nájdete viac. '
         sources:
-          description: 
+          description: Nižšie je uvedený zoznam inštitúcií, ktoré prispeli svojim obsahom do Europeana zbierok (Collections) Tieto inštitúcie zhromažďujú a posielajú svoje údaje do Europeana, kliknite na link nižšie, ktorý vás zaujíma, a uvidíte zbierku konkrétneho partnera!
   global:
-    labs-link: 
+    labs-link: 'link na labs '
     navigation:
-      agents: 
-      all_blog_posts: 
-      all_exhibitions: 
-      all_galleries: 
-      blog: 
-      browse: 
-      browse_colours: 
-      browse_newcontent: 
-      browse_sources: 
-      channels: 
-      collections: 
-      concepts: 
-      exhibitions: 
-      galleries: 
-      home: 
+      agents: Ľudia
+      all_blog_posts: Všetky položky blogu...
+      all_exhibitions: Všetky výstavy...
+      all_galleries: Všetky galérie...
+      blog: Blog
+      browse: Preskúmať
+      browse_colours: Farby
+      browse_newcontent: Čo je nové?
+      browse_sources: Zdroje
+      channels: Zbierky (Collections)
+      collections: Zbierky (Collections)
+      concepts: Téma
+      exhibitions: Výstavy
+      galleries: Galérie
+      home: Domov
       more:
-        people: 
-        topics: 
-      periods: 
-      places: 
-      view-collection: 
-      view-detailed-description: 
-    pro-link: 
-    pro-text: 
-    settings: 
+        people: Viac ľudí
+        topics: Viac tém
+      periods: Časové obdobia
+      places: Miesta
+      view-collection: Pozrite si celú zbierku
+      view-detailed-description: Pozrite si podrobnejší popis
+    pro-link: 'link na pro '
+    pro-text: text pre pro
+    settings: Nastavenia
   site:
     alpha:
       feedback_banner:
-        description: 
-        link-text: 
-        title: 
-    blog-link: 
+        description: Beta verzia znamená, že táto webová stránka je v aktívnom vývoji a bude pravidelné aktualizovaná. Niekedy môže byť neprístupná (offline). Spätná väzba od vás nám pomôže zlepšovať našu stránku.
+        link-text: Poskytujte nám svoje pripomienky!
+        title: Toto je beta verzia našich nových "Zbierok" (Collections) a "Hudobných zbierok" (Music Collections)
+    blog-link: link na blog
     blogs:
-      description: 
+      description: Blogy
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range}  %{results_count} blogov"
+        page-title: Europeana Blog
+      min-to-read: min na čítanie
     browse:
       colours:
-        description: 
-        title: 
+        description: Vyhľadajte obrazy podľa ich farby. Jednoducho kliknite na farebný štvorček umiestnený nižšie a odhalíte obrazy, obsahujúce túto farbu!
+        title: Farby
       newcontent:
-        description: 
-        tableh1: 
-        tableh2: 
-        tableh3: 
-        title: 
+        description: 'Tu si môžete preskúmať všetky najnovšie príspevky do Europeana zbierok (Collections). Pozrite si, ktorá kultúrna inštitúcia pridala nové položky, počet položiek, ktoré pridala a kedy. Stačí kliknúť na nižšie uvedené linky a nájdete viac. '
+        tableh1: Všetky inštitúcie
+        tableh2: Položky
+        tableh3: Dátum
+        title: Čo je nové?
       people:
-        description: 
-        title: 
+        description: Tu môžete nájsť zvýraznené položky z našich zbierok, týkajúce sa životov a prác slávnych umelcov, skladateľov a ostatných dôležitých osobností v histórii.
+        title: Ľudia
       periods:
-        description: 
-        title: 
+        description: Prehľadávajte podľa časového obdobia.
+        title: Časové Obdobia
       sources:
-        description: 
-        title: 
+        description: Nižšie je uvedený zoznam inštitúcií, ktoré prispeli svojim obsahom do Europeana zbierok (Collections) Tieto inštitúcie zhromažďujú a posielajú svoje údaje do Europeana, kliknite na link nižšie, ktorý vás zaujíma, a uvidíte zbierku konkrétneho partnera!
+        title: Zdroje
       topics:
-        description: 
-        title: 
+        description: 'Preskúmajte naše kolekcie podľa predmetu, témy, alebo žánru. '
+        title: Téma
     collections:
       art-history:
-        description: 
-        title: 
+        description: Od renesancie po surrealistov a od starovekých rímskych skulptúr po súčasné umenie, Europeana Art vás uvádza do sveta umelcov a výtvarných umeleckých diel v rámci celej Európy.
+        title: Dejiny umenia Europeana
       data-types:
-        3d: 
-        all: 
-        count: 
-        images: 
-        moving-images: 
-        sound: 
-        texts: 
+        3d: 3D objekty
+        all: Všetko
+        count: položky
+        images: Obrazy
+        moving-images: Videá
+        sound: Zvukové nahrávky
+        texts: Texty
       e7a1418:
         contribute: Pridať 1914-1918 príbeh
         my-account: Môj účet
       labels:
-        credits: 
-        designer: 
+        credits: 'Organizované '
+        designer: Návrhár
         editors-picks: 
-        recent: 
+        recent: Najnovšie prírastky
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
-        spotlight-on: 
-        whats-happening: 
+        sneak-peek-collection: Preskúmajte <i>%{preview_title}</i> na %{collection}
+        spotlight-on: 'Upozornenie na '
+        whats-happening: Čo sa deje
       music:
-        description: 
-        title: 
+        description: <strong>Hudobná zbierka Europeana </strong> je súborom najlepších hudobných nahrávok, notových listov a iných hudby sa týkajúcich zbierok z európskych audiovizuálnych archívov, knižníc, archívov a múzeí. <a href="/portal/channels/music/about">Zistite si viac o hudobnej zbierke.</a>
+        title: Hudba Europeana
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Narodenie
+        death: Úmrtie
+        occupation: Povolanie
       labels:
-        bio: 
-        related: 
+        bio: Bio
+        related: Súvisiaci
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Položky o %{name}
+        items_by: Položky podľa %{name}
     events:
-      all_day: 
-      description: 
+      all_day: Celý deň
+      description: Udalosti
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} %{results_count} udalosti"
+        future: Nadchádzajúce udalosti
+        page-title: Udalosti
+        past: Minulé udalosti
     facet:
       language:
         show:
-          results: 
+          results: Výsledky
     footer:
       menu:
-        about: 
-        become-a-provider: 
-        contact: 
-        contact-us: 
-        copyright: 
-        data-providers: 
-        help: 
-        new-collections: 
-        rights: 
-        roadmap: 
-        search-tips: 
-        using-myeuropeana: 
+        about: O
+        become-a-provider: Staňte sa našim partnerom
+        contact: Kontakt
+        contact-us: Spojte sa s nami
+        copyright: Autorské práva
+        data-providers: Všetky inštitúcie
+        help: Pomoc
+        new-collections: Nové zbierky
+        rights: Používanie pojmov a postupy
+        roadmap: Aktualizácie vývoja
+        search-tips: Tipy na vyhľadávanie
+        using-myeuropeana: Používanie Mojej Europeany
     galleries:
-      description: 
-      description-default: 
-      share: 
-    more: 
-    my-europeana: 
-    my-europeana-link: 
+      description: Kultúra usporiadaná pre vás! Objavte Europeana galérie!
+      description-default: Zistite viac o Europeana
+      share:
+        one: Zdieľajte túto galériu
+        other: Zdieľajte galérie
+    more: Viac...
+    my-europeana: Moja Europeana
+    my-europeana-link: link na Moja Europeana
     navigation:
       breadcrumb:
         account: účet
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Príspevok
+        contribution-attachment: Príloha
+        contribution-attachments: Prílohy
+        contribution-done: hotovo (dokončené)
+        contributor: Prispievateľ
+        events_list_breadcrumb: Udalosti
         exhibitions:
-          return_home: 
-        item_detail: 
-        register: 
-        reset-password: 
-        results_list: 
-        results_list_mlt: 
-        return_home: 
-        sign-in: 
+          return_home: Výstavy
+        item_detail: Položka
+        register: Register
+        reset-password: Reset hesla
+        results_list: Výsledky
+        results_list_mlt: Podobné položky
+        return_home: Návrat domov
+        sign-in: Prihlásenie
       search:
         placeholder:
-          text: 
-    news: 
+          text: Tu vyhľadávajte podľa kľúčového slova
+    news: Správa
     object:
       actions:
-        attribute-author: 
-        attribute-html: 
-        attribute-plaintext: 
-        download: 
-        download-additional: 
-        download-retry: 
-        download-started: 
-        downloaddata: 
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
-        open-media: 
-        show-less-data: 
-        show-more-data: 
-        technicalmetadata: 
+        attribute-author: Atribút autora
+        attribute-html: HTML
+        attribute-plaintext: Prostý text
+        download: Download (stiahnuť)
+        download-additional: K dispozícii taktiež ako
+        download-retry: Skúste znova
+        download-started: Sťahovanie (download) sa začalo
+        downloaddata: Stiahnuť údaje
+        enlarge: Zväčšiť
+        explore-by-colour: Preskúmajte podľa farby
+        media-metadata: Metadáta média
+        open-media: Otvoriť túto mediálnu položku
+        show-less-data: Zobraziť menej údajov
+        show-more-data: Zobraziť viac údajov
+        technicalmetadata: Technické metadáta
       enrichment:
         who:
-          title: 
+          title: Nadpis
       hierarchy:
-        title: 
-        view-items-above: 
-        view-items-below: 
+        title: Príslušné položky
+        view-items-above: Pozrite si vyššie uvedené položky
+        view-items-below: Pozrite si nižšie uvedené položky
       meta-label:
-        additional-rights: 
-        annotations: 
-        codec: 
-        collection-name: 
-        concept: 
-        concepts: 
-        consists-of: 
-        contributor: 
-        copyright: 
-        creation-date: 
-        creator: 
-        current-location: 
-        data-provider: 
-        date: 
-        dates: 
-        description: 
-        dimensions: 
-        duration: 
+        additional-rights: Dodatočné informácie o právach
+        annotations: Anotácie používateľa
+        codec: Kodek
+        collection-name: Súbor údajov
+        concept: Téma
+        concepts: Klasifikácie
+        consists-of: Pozostáva z
+        contributor: Prispievateľ
+        copyright: Autorské práva
+        creation-date: Dátum vytvorenia
+        creator: Autor
+        current-location: Aktuálne umiestnenie
+        data-provider: Inštitúcia
+        date: Dátum
+        dates: Dátumy
+        description: Popis
+        dimensions: Rozmery
+        duration: Trvanie
         edm:
-          has-met: 
-          incorporates: 
-          is-derivative-of: 
-          is-representation-of: 
-          is-similar-to: 
-          is-successor-of: 
-          realises: 
-          was-present-at: 
-        extent: 
-        file-size: 
-        format: 
-        fps: 
-        has-type: 
-        identifier: 
-        intermediate-provider: 
-        is-format-of: 
-        is-part-of: 
-        is-referenced-by: 
-        is-replaced-by: 
-        is-required-by: 
-        issued: 
-        language: 
-        latitude: 
-        location: 
-        longitude: 
-        map: 
-        map-tiles: 
-        medium: 
-        people: 
-        period: 
-        place: 
-        place-time: 
-        properties: 
-        provenance: 
-        provided-by: 
-        provided-by-detail: 
-        provided-by-detail-no-link: 
-        provider: 
-        providing-country: 
-        publication-date: 
-        publisher: 
-        references: 
-        refs-rels: 
-        relations: 
-        rights: 
-        rights-human: 
-        rights-statement: 
-        runtime: 
-        runtime-unit-seconds: 
-        source: 
-        subject: 
-        temporal: 
-        time: 
-        timestamp-created: 
-        timestamp-updated: 
-        timestamp_created: 
-        timestamp_updated: 
-        title: 
-        toc: 
-        type: 
-        ugc: 
-        version: 
+          has-met: Týka sa
+          incorporates: Zahŕňa (obsahuje)
+          is-derivative-of: Je odvodené od
+          is-representation-of: Je stvárnením
+          is-similar-to: Podobá sa na
+          is-successor-of: Je nasledovníkom
+          realises: Realizuje sa
+          was-present-at: Prítomný na
+        extent: Veľkosť (rozmer)
+        file-size: Veľkosť súboru
+        format: Formát
+        fps: Počet snímkov za sekundu
+        has-type: Má typ
+        identifier: Identifikátor
+        intermediate-provider: Medziľahlý poskytovateľ
+        is-format-of: Je vo formáte
+        is-part-of: Je časťou
+        is-referenced-by: Je odkazovaný
+        is-replaced-by: Je nahradený
+        is-required-by: Je vyžadovaný
+        issued: Prvýkrát vydané
+        language: Jazyk
+        latitude: Zemepisná šírka
+        location: Poloha
+        longitude: Zemepisná dĺžka
+        map: Mapa
+        map-tiles: Mapové diely (štvorce)
+        medium: Stredný
+        people: Ľudia
+        period: Obdobie
+        place: Miesto
+        place-time: Miesto/čas
+        properties: Vlastnosti
+        provenance: Pôvod
+        provided-by: Zistite viac
+        provided-by-detail: 'Pohľad na %{institution_name_and_link}. '
+        provided-by-detail-no-link: Europeana zobrazuje túto položku prostredníctvom
+        provider: Dodávateľ
+        providing-country: Dodávajúca krajina
+        publication-date: Dátum publikovania
+        publisher: Vydavateľ
+        references: Odkazy
+        refs-rels: Odkazy a vzťahy
+        relations: Vzťahy
+        rights: Práva
+        rights-human: Môžem to použiť?
+        rights-statement: Vyhlásenie o právach
+        runtime: Doba behu
+        runtime-unit-seconds: sekundy
+        source: Zdroj
+        subject: Predmet
+        temporal: Dočasný
+        time: Čas
+        timestamp-created: Prvýkrát publikované v Europeana
+        timestamp-updated: Naposledy aktualizované v Europeana
+        timestamp_created: Prvýkrát publikované v Europeana (%{timestamp_created})
+        timestamp_updated: Naposledy aktualizované v Europeana (%{timestamp_updated})
+        title: Nadpis
+        toc: Obsah
+        type: Typ
+        ugc: Obsah pridaný používateľom
+        version: Verzia
       named-entities:
-        title: 
+        title: Entity
         what:
-          broader: 
-          label: 
-          term: 
-          title: 
+          broader: Širší koncept
+          label: Štítok konceptu
+          term: Názov konceptu
+          title: Subjekty, typy zdrojov, žánre a formy (Koncepty)
         when:
-          begin: 
-          end: 
-          label: 
-          term: 
-          title: 
+          begin: Začiatok obdobia
+          end: Koniec obdobia
+          label: Štítok obdobia
+          term: Názov obdobia
+          title: Časové úseky a dátumy (TimeSpan)
         where:
-          label: 
-          latitude: 
-          longitude: 
-          term: 
-          title: 
+          label: Štítok miesta
+          latitude: Zemepisná šírka
+          longitude: Zemepisná dĺžka
+          term: Názov miesta
+          title: Názvy miest (Miesta)
         who:
-          label: 
-          term: 
-          title: 
+          label: Štítok agenta
+          term: Názov agenta
+          title: Osoby a organizácie (Agenti)
       nav:
-        next: 
-        prev: 
+        next: Nasledujúce
+        prev: Predchádzajúce
       points:
-        east: 
-        north: 
-        south: 
-        west: 
-      preview_unavailable: 
-      show-more-similar-items: 
-      similar-items: 
+        east: Východ
+        north: Sever
+        south: Juh
+        west: Západ
+      preview_unavailable: Ukážka položky nie je k dispozícii, ak sa chcete dostať k úplnému obrazu a viac informáciám o položke, choďte na %{institution_name_and_link}
+      show-more-similar-items: ukázať viac
+      similar-items: Podobné položky
     pages:
       '404':
-        intro: 
-        text: 
+        intro: Prepáčte, nemôžeme nájsť túto stránku
+        text: Nanešťastie sme nemohli nájsť stránku, ktorú hľadáte Skúste prehľadať Europeana, alebo sa vám môžu páčiť vybrané položky, uvedené nižšie.
       about:
-        text: 
-        title: 
+        text: |-
+          <p>Hľadáte obľúbenú starú maľbu? Robíte nejaký výskum, alebo píšete školskú úlohu?  Hľadáte inšpiráciu pre dizajn kávovej šálky?  Radi sa učíte niečo nové? Nech je váš dôvod návštevy Europeana akýkoľvek, vitajte!</p>
+
+          </p>Ponorte sa do európskej najväčšej online zbierky umenia, kultúry a vedy. Europeana zbierky (Collections) vám prinesú materiál zo známych a menej známych (ale vždy fascinujúcich) knižníc, múzeí, galérií a archívov v Európe.</p>
+
+          </p>Knihy a rukopisy, fotografie a maľby, skulptúry a notové listy, videá a zvukové nahrávky, denníky a mapy - všetky sú tu. Nepotrebujete precestovať kontinent, fyzicky, alebo virtuálne!</p>
+
+          </p>Skúmajte, objavujte, sledujte, počúvajte, čítajte, sťahujte... Užívajte si!</p>
+
+          <p>Teraz, prečo nevyskúšať <a href="http://europeana.eu/portal/collections/art-history">Europeana zbierky dejín umenia (Art History Collections)</a> alebo <a href="http://europeana.eu/portal/collections/music">Europeana Hudobné zbierky (Music Collections)</a>? Taktiež máme prispôsobené zdroje pre <a href="http://research.europeana.eu/">výskumníkov</a> a kultúrnych <a href="http://labs.europeana.eu/">vývojárov/inovátorov</a> (tu môžete nájsť naše <a href="http://labs.europeana.eu/api">API</a>), ako aj rad <a href="http://exhibitions.europeana.eu/">virtuálnych výstav</a> a <a href="http://blog.europeana.eu/">blog</a>. </p>
+
+          <p>A ak stále túžite získať viac, môžete dostať svoju dennú dávku kultúry na<a href="https://www.facebook.com/Europeana">Facebook</a>, <a href="https://twitter.com/Europeanaeu">Twitter</a>, <a href="https://medium.com/@Europeana">Medium</a>, <a href="https://plus.google.com/+europeana">Google+</a>, <a href="http://europeanacollections.tumblr.com/">Tumblr</a> and <a href="https://www.pinterest.com/europeana/">Pinterest</a>.</p>
+
+          <p>Pre viac informácií o tom, ako pracujeme s kultúrnymi inštitúciami a ich zbierkami, navštívte <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
+        title: Vitajte, milovník kultúry!
       music-channel-about:
-        text: 
-        title: 
+        text: "<p>Predstavte si pohľad na originálne, rukou písané rukopisy hudobného diela, pri počúvaní jeho rôznych interpretácií a čítaní životopisu skladateľa. V Hudobnej zbierke Europeana (Europeana Music Collection) môžete.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Naši partneri</a>, všetci hudobní experti z celej Európy, pozorne tvorili túto zbierku hudobných nahrávok, notových listov, obrazov hudobných nástrojov, kníh o hudbe a iného obsahu, týkajúceho sa hudby. </p>\n\n</p>Túto testovaciu verziu Hudobnej zbierky (Music Collection) sme sprístupnili vám, našim používateľom, aby ste nám mohli pomôcť s jej úpravami počas ďalšieho vývoja. Takže keď navštívite stránku, vždy vám na obrazovke položíme otázky, alebo prieskumy. Veľmi by sme ocenili, keby ste si našli čas na napísanie odpovedí na tieto otázky a prieskumy!</p>\n\n</p>Taktiež v záujme transparentnosti a diskrétnosti, by ste mali vedieť, že zaznamenávame štatistické údaje používateľa a správanie sa používateľa v Google Analytics a službe nazývanej Hotjar. Robíme to kvôli tomu, že nám to ukáže, kde sme urobili chyby v návrhoch, čo nám pomôže zlepšovať Hudobnú zbierku (Music Collection). Všetky záznamy budú utajené a anonymizované a budú použité iba na zlepšenie našej služby.</p>\n\n</p>Prosíme, vyhľadávajte v našej zbierke, prehrávajte si hudbu, pozerajte notové listy, alebo si čítajte o hudbe. Ak to autorské práva umožňujú, môžete si stiahnuť veci, ktoré máte najradšej. Navštevujte naše virtuálne výstavy, aby ste objavovali hudbu spôsobmi, ktoré ste nikdy predtým nepoužívali!</p>"
+        title: O Hudobných zbierkach (Music Collections)
     results:
       actions:
-        configure-actions: 
-        dutchmasters: 
-        favouriteart: 
-        label: 
-        newcollection: 
-        product-save: 
-        saveto: 
-        show-all-collections: 
-      federated: 
-      federated-clicked: 
-      federated_more: 
+        configure-actions: Nakonfigurovať činnosti
+        dutchmasters: Holandskí majstri
+        favouriteart: Obľúbené umenie
+        label: Činnosti (opatrenia)
+        newcollection: Nová zbierka
+        product-save: Uložiť
+        saveto: Uložiť do
+        show-all-collections: Zobraziť všetky zbierky
+      federated: Kliknite sem, aby ste videli výsledky zo zdrojov iných než Europeana
+      federated-clicked: Položky zo zdrojov iných než Europeana
+      federated_more: Pozrite si všetky %{results_count} výsledky na %{results_provider}
       list:
         all-results:
-          3D: 
-          images: 
-          text: 
-          video: 
-        count-and-terms: 
-        count-and-terms-with-range: 
-        empty: 
-        empty-with-terms: 
-        header: 
-        header-and: 
-        in-channel: 
-        less: 
-        less_adv: 
-        more: 
-        more_adv: 
-        per-page: 
-        product-3D: 
-        product-image: 
-        product-sound: 
-        product-text: 
-        product-video: 
-        results-relevance: 
+          3D: 3D
+          images: Obrazy
+          text: Text
+          video: Video
+        count-and-terms: "%{results_count} výsledkov"
+        count-and-terms-with-range: "%{results_range} of %{results_count} výsledky"
+        empty: Žiadne výsledky
+        empty-with-terms: Vyhľadávanie %{query_terms} nemá žiadne výsledky
+        header: Výsledky pre
+        header-and: a
+        in-channel: v tematickej zbierke
+        less: Menej
+        less_adv: Menej podrobností
+        more: Viac
+        more_adv: Pokročilé filtre
+        per-page: Na jednu stránku
+        product-3D: 3D
+        product-image: Obraz
+        product-sound: Zvuk
+        product-text: Text
+        product-video: Video
+        results-relevance: Dôležitosť
         results-view:
-          grid: 
-          list: 
-        single-result: 
+          grid: Mriežka
+          list: Zoznam
+        single-result: 1 výsledok pre %{query_terms}
         view:
-          grid: 
-          list: 
-        view-at-provider: 
-      results: 
+          grid: Mriežka
+          list: Zoznam
+        view-at-provider: Pozrieť na
+      results: Výsledky
     search:
-      browse: 
-      or-browse: 
+      browse: Prehľadávať
+      or-browse: alebo prehľadávajte
       placeholder:
-        filter-text: 
-        text: 
+        filter-text: Hľadať
+        text: Vložte hľadaný výraz
       similar:
-        prefix: 
+        prefix: 'Podobné: %{mlt_item}'
     settings:
       actions:
-        clear-selection: 
-        save-settings: 
+        clear-selection: Vymazať výber
+        save-settings: Uložiť nastavenia
       language:
-        auto-translate-limit: 
-        auto-translate-page: 
-        auto-translate-page-short: 
-        auto-translate-query: 
-        available: 
-        default: 
+        auto-translate-limit: 'Maximálne je možné vybrať %{max_languages} '
+        auto-translate-page: Automaticky preložiť stránky do...
+        auto-translate-page-short: Automaticky preložiť položky do
+        auto-translate-query: Automaticky preložiť vyhľadávané kľúčové slová do...
+        available: Dostupné jazyky
+        default: Prednastavený jazyk
         flash:
-          alert: 
-          notice: 
-        label: 
-        settings-label: 
-      title: 
+          alert: 'Špecifikovaný neplatný jazyk. Dostupné jazyky: %{locales}'
+          notice: Uložené nastavenia jazyka.
+        label: Jazyk
+        settings-label: nastavenia jazyka
+      title: Nastavenia
