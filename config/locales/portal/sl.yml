@@ -107,6 +107,7 @@ sl:
       tab_items:
         items_about: Predmeti o %{name}
         items_by: Predmeti po %{name}
+      wiki_link_text: 
     events:
       all_day: Ves dan
       description: Dogodki

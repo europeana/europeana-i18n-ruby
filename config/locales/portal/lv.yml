@@ -107,6 +107,7 @@ lv:
       tab_items:
         items_about: 
         items_by: 
+      wiki_link_text: 
     events:
       all_day: 
       description: 

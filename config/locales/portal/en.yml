@@ -107,6 +107,7 @@ en:
       tab_items:
         items_about: Items about %{name}
         items_by: Items by %{name}
+      wiki_link_text: Resource obtained from Wikimedia Commons
     events:
       all_day: All Day
       description: Events

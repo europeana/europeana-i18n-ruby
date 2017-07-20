@@ -107,6 +107,7 @@ sk:
       tab_items:
         items_about: Položky o %{name}
         items_by: Položky podľa %{name}
+      wiki_link_text: 
     events:
       all_day: Celý deň
       description: Udalosti
