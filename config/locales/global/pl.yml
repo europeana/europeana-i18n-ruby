@@ -290,7 +290,7 @@ pl:
         landscape: Pejzaż
         portrait: Portret
       image_colour:
-        'false': Czarno-biały
+        'false': Czarno-białe
         'true': W kolorze
       image_size:
         extra_large: Bardzo duży
