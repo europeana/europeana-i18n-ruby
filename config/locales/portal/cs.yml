@@ -105,7 +105,7 @@ cs:
         bio: Životopis
         related: Související
       tab_items:
-        items_about: 
+        items_about: Položky o autorovi %{name}
         items_by: Položky od autora %{name}
       wiki_link_text: 
     events:
@@ -137,7 +137,9 @@ cs:
     galleries:
       description: Kultura vybraná pro vás! Objevte galerie Europeana!
       description-default: Další informace o službě Europeana
-      share: 
+      share:
+        one: Sdílet tuto galerii
+        other: Sdílet galerie
     more: Více...
     my-europeana: Moje Europeana
     my-europeana-link: Odkaz na web Moje Europeana
