@@ -335,7 +335,7 @@ sv:
       less: Färre
       license:
         hide-specific: Dölja specifika uttalanden rättigheter
-        show-specific: Dölja specifika uttalanden rättigheter
+        show-specific: Visa specifika uttalanden rättigheter
       media:
         'false': Nej
         'true': Ja

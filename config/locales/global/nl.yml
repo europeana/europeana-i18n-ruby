@@ -334,8 +334,8 @@ nl:
         yi: 
       less: Minder
       license:
-        hide-specific: Verberg specifieke licencies
-        show-specific: Verberg bepaalde licencies
+        hide-specific: Verberg specifieke licenties
+        show-specific: Toon specifieke licenties
       media:
         'false': Nee
         'true': Ja
