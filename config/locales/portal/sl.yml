@@ -143,6 +143,7 @@ sl:
     more: Več ...
     my-europeana: Moja Europeana
     my-europeana-link: povezava do Moja Europeana
+    name: 
     navigation:
       breadcrumb:
         account: račun
@@ -378,6 +379,7 @@ sl:
     search:
       browse: Brskajte
       or-browse: ali brskajte
+      page-title: 
       placeholder:
         filter-text: Išči
         text: Dodaj iskalni izraz

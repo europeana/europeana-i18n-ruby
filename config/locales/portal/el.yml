@@ -141,6 +141,7 @@ el:
     more: Περισσότερα...
     my-europeana: 
     my-europeana-link: συνδεσμος για το my Europeana
+    name: 
     navigation:
       breadcrumb:
         account: Λογαριασμός
@@ -372,6 +373,7 @@ el:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Προσθήκη όρου αναζήτησης

@@ -141,6 +141,7 @@ uk:
     more: 
     my-europeana: 
     my-europeana-link: 
+    name: 
     navigation:
       breadcrumb:
         account: 
@@ -363,6 +364,7 @@ uk:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: 

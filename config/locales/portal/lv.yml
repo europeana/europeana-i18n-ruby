@@ -144,6 +144,7 @@ lv:
     more: Vairāk...
     my-europeana: Mana Europeana
     my-europeana-link: saite uz "Mana Europeana"
+    name: 
     navigation:
       breadcrumb:
         account: konts
@@ -379,6 +380,7 @@ lv:
     search:
       browse: Pārlūko
       or-browse: vai pārlūko
+      page-title: 
       placeholder:
         filter-text: 
         text: Pievienot meklējamo vārdu

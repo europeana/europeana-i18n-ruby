@@ -141,6 +141,7 @@ sv:
     more: Mera...
     my-europeana: Mitt Europeana
     my-europeana-link: länk till Mitt Europeana
+    name: 
     navigation:
       breadcrumb:
         account: konto
@@ -363,6 +364,7 @@ sv:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Lägg till sökterm

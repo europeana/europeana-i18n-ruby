@@ -143,6 +143,7 @@ et:
     more: Veel...
     my-europeana: Minu Europeana
     my-europeana-link: linu Minu Europeanasse
+    name: 
     navigation:
       breadcrumb:
         account: konto
@@ -387,6 +388,7 @@ et:
     search:
       browse: Sirvi
       or-browse: või sirvi
+      page-title: 
       placeholder:
         filter-text: Otsi
         text: Lisa otsisõna

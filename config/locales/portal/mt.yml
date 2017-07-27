@@ -141,6 +141,7 @@ mt:
     more: Aktar...
     my-europeana: L-Europeana tiegħi
     my-europeana-link: Link lejn l-Europeana tiegħi
+    name: 
     navigation:
       breadcrumb:
         account: kont
@@ -385,6 +386,7 @@ mt:
     search:
       browse: Fittex
       or-browse: jew fittex
+      page-title: 
       placeholder:
         filter-text: 
         text: Żid terminu ġdid għat-tfittxija

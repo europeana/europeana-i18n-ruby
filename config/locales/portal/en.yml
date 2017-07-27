@@ -143,6 +143,7 @@ en:
     more: More...
     my-europeana: My Europeana
     my-europeana-link: link to My Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: account
@@ -378,6 +379,7 @@ en:
     search:
       browse: Browse
       or-browse: or browse
+      page-title: Search Results
       placeholder:
         filter-text: Search
         text: Add a search term

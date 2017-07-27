@@ -141,6 +141,7 @@ nl:
     more: Meer...
     my-europeana: Mijn Europeana
     my-europeana-link: Link naar mijn Europeana
+    name: 
     navigation:
       breadcrumb:
         account: account
@@ -363,6 +364,7 @@ nl:
     search:
       browse: Bladeren
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Voeg zoekterm toe

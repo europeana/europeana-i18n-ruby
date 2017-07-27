@@ -141,6 +141,7 @@ hu:
     more: Tovább...
     my-europeana: Saját Europeana
     my-europeana-link: link a Saját Europeana-ra
+    name: 
     navigation:
       breadcrumb:
         account: fiók
@@ -372,6 +373,7 @@ hu:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Keresési kulcsszó megadása

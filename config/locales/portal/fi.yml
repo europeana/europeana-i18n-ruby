@@ -141,6 +141,7 @@ fi:
     more: Lisää...
     my-europeana: Minun Europeana
     my-europeana-link: linkki Minun Europeanaan
+    name: 
     navigation:
       breadcrumb:
         account: tili
@@ -390,6 +391,7 @@ fi:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Lisää hakutermi

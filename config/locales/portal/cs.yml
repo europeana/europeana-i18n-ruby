@@ -143,6 +143,7 @@ cs:
     more: Více...
     my-europeana: Moje Europeana
     my-europeana-link: Odkaz na web Moje Europeana
+    name: 
     navigation:
       breadcrumb:
         account: účet
@@ -378,6 +379,7 @@ cs:
     search:
       browse: Procházet
       or-browse: nebo procházet
+      page-title: 
       placeholder:
         filter-text: Hledat
         text: Přidat vyhledávací výraz

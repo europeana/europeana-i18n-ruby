@@ -141,6 +141,7 @@ da:
     more: Mere...
     my-europeana: Mit Europeana
     my-europeana-link: link til mit Europeana
+    name: 
     navigation:
       breadcrumb:
         account: konto
@@ -372,6 +373,7 @@ da:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Tilføj en søgeterm

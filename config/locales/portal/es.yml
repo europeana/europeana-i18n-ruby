@@ -141,6 +141,7 @@ es:
     more: Más...
     my-europeana: Mi Europeana
     my-europeana-link: link a Mi Europeana
+    name: 
     navigation:
       breadcrumb:
         account: cuenta
@@ -370,6 +371,7 @@ es:
     search:
       browse: Navegar
       or-browse: o navegar
+      page-title: 
       placeholder:
         filter-text: 
         text: 'Añadir término de búsqueda '

@@ -141,6 +141,7 @@ bg:
     more: Още...
     my-europeana: Моята Европеана
     my-europeana-link: линк към Моята Европеана
+    name: 
     navigation:
       breadcrumb:
         account: сметка
@@ -374,6 +375,7 @@ bg:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Добави дума за търсене

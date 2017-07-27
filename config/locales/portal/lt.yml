@@ -141,6 +141,7 @@ lt:
     more: Daugiau...
     my-europeana: Mano Europeana
     my-europeana-link: Nuoroda į Mano Europeana
+    name: 
     navigation:
       breadcrumb:
         account: sąskaita
@@ -372,6 +373,7 @@ lt:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Pridėti paieškos sąlygų

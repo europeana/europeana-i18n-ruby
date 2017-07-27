@@ -141,6 +141,7 @@ ru:
     more: Еще...
     my-europeana: My Europeana
     my-europeana-link: Ссылка на My Europeana
+    name: 
     navigation:
       breadcrumb:
         account: Счет
@@ -372,6 +373,7 @@ ru:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Добавить поисковый термин

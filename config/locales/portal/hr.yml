@@ -141,6 +141,7 @@ hr:
     more: Više...
     my-europeana: My Europeana
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login
+    name: 
     navigation:
       breadcrumb:
         account: račun
@@ -376,6 +377,7 @@ hr:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Upišite pojam za pretraživanje

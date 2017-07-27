@@ -141,6 +141,7 @@ ca:
     more: Més...
     my-europeana: La meva Europeana
     my-europeana-link: enllaç a La meva Europeana
+    name: 
     navigation:
       breadcrumb:
         account: compte
@@ -385,6 +386,7 @@ ca:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Afegir terme de cerca

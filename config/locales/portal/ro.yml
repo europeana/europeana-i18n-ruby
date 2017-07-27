@@ -141,6 +141,7 @@ ro:
     more: Mai mult...
     my-europeana: Contul My Europeana
     my-europeana-link: 
+    name: 
     navigation:
       breadcrumb:
         account: contul
@@ -383,6 +384,7 @@ ro:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: Adaugă termen de căutare
