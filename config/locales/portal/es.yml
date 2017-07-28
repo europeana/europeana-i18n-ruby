@@ -103,10 +103,16 @@ es:
         occupation: 
       labels:
         bio: 
+        born: 
+        died: 
         related: 
       tab_items:
         items_about: 
         items_by: 
+      types:
+        agent: 
+        concept: 
+        place: 
       wiki_link_text: 
     events:
       all_day: 

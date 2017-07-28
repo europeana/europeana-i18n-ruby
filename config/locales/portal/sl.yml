@@ -103,10 +103,16 @@ sl:
         occupation: Poklic
       labels:
         bio: Bio
+        born: 
+        died: 
         related: Povezano
       tab_items:
         items_about: Predmeti o %{name}
         items_by: Predmeti po %{name}
+      types:
+        agent: 
+        concept: 
+        place: 
       wiki_link_text: 
     events:
       all_day: Ves dan

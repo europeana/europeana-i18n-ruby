@@ -103,10 +103,18 @@ en:
         occupation: Occupation
       labels:
         bio: Bio
+        born: Born
+        died: Died
         related: Related
       tab_items:
         items_about: Items about %{name}
         items_by: Items by %{name}
+      types:
+        agent: Person
+        concept: Concept
+        place: 'Place
+
+'
       wiki_link_text: Resource obtained from Wikimedia Commons
     events:
       all_day: All Day
