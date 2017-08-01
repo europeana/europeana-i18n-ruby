@@ -373,7 +373,7 @@ cs:
         simple: Jednoduché
       sound_duration:
         long: Dlouhé (>6 min)
-        medium: Středná (3–6 min)
+        medium: Středná (3-6 min)
         short: Krátké (30 s – 3 min)
         very_short: Velmi krátké (<30 s)
       sound_hq:
@@ -439,7 +439,7 @@ cs:
       placeholder: Dejte nám vědět, co si myslíte a co bychom mohli zlepšit. Chcete-li, abychom vás kontaktovali, zadejte také e-mailovou adresu.
       submit: Odeslat
       thanks:
-        long: Děmujeme za názor. V případě pořeby se vám ozveme co nejdříve
+        long: Děmujeme za názor. V případě pořeby se vám ozveme co nejdříve.
         short: Děkujeme!
       title: 
       type:

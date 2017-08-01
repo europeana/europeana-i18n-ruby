@@ -373,7 +373,7 @@ pl:
         simple: Proste
       sound_duration:
         long: Długi
-        medium: Średni
+        medium: Średnia (3-6 min)
         short: Krótki
         very_short: Bardzo krótki
       sound_hq:

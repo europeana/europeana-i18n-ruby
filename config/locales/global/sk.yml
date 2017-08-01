@@ -272,7 +272,7 @@ sk:
         language_of_description: Jazyk popisu
         media: Iba položky s linkami na médiá
         mime_type: Formát súboru
-        provider: Zberateľský subjekt (zberné miesto)
+        provider: Zberateľský subjekt
         providing_country: Poskytujúca krajina
         proxy_dcterms_created: Vytvorený dátum
         reusability: Môžem to použiť?
@@ -402,7 +402,7 @@ sk:
           label: Kvalita
         size:
           explanation: Čo znamenajú tieto rozmery?
-          label: Veľkosť (rozmer) zobrazenia
+          label: Veľkosť zobrazenia
           large: Veľké (%{data})
           medium: Stredné (%{data})
           small: Malé (%{data})
@@ -439,12 +439,12 @@ sk:
       placeholder: Dajte nám vedieť čo si myslíte a čo môžeme zlepšiť. Ak chcete, aby sme vás kontaktovali, vložte sem aj vašu emailovú adresu!
       submit: Predložiť
       thanks:
-        long: Ďakujeme vám za spätnú väzbu. V prípade potreby; vrátime sa k vám čo najskôr
+        long: Ďakujeme vám za spätnú väzbu. V prípade potreby sa Vám čo najskôr ozveme
         short: Ďakujeme vám!
       title: 
       type:
         bug: chyba
-        comment: poznámka (komentár)
+        comment: poznámka
         correction: oprava
     find-us-elsewhere: Nájdite nás niekde inde
     find-us-social-media: 
@@ -528,7 +528,7 @@ sk:
     professional: Pro
     professional-text: Zapojte sa, zdieľajte svoje údaje, alebo používajte naše
     promotions:
-      app: App (aplikácia)
+      app: Aplikacia
       apps: Apps (aplikácie)
       blog: Blog
       blogs: Blogy
@@ -554,7 +554,7 @@ sk:
       stories: Príbehy
       story: Príbeh
       timeline: Harmonogram
-      timelines: Harmonogramy
+      timelines: Časové osy
     refine-your-search: Upresnite svoje vyhľadávanie
     refine-your-search-short: 
     register: Zaregistrovanie sa
@@ -564,7 +564,7 @@ sk:
       search-button-image-alt: Hľadať
       search-placeholder-text: Vložiť hľadaný výraz
     search-collections: Zbierky
-    search-collections-text: Preskúmať európske kultúrne dedičstvo
+    search-collections-text: Objavte európske kultúrne dedičstvo
     share: Zdieľať
     sitemap: Mapa stránky
     subscribe: Podpísať

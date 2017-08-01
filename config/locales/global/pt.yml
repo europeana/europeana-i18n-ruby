@@ -439,7 +439,7 @@ pt:
       placeholder: Deixe-nos saber o que você pensa eo que podemos melhorar. Se você quiser ser contatado, por favor deixe seu endereço de e-mail aqui também!
       submit: Enviar
       thanks:
-        long: Obrigado pelo seu feedback. Se necessário; Entraremos em contato o mais breve possível.
+        long: Obrigado pelo seu feedback. Se necessário, entraremos em contato o mais breve possível.
         short: Obrigado!
       title: 
       type:
