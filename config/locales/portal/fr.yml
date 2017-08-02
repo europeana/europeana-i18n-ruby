@@ -7,6 +7,11 @@ fr:
         sources:
           description: Vous trouverez ci-dessous une liste des institutions qui ont contribué leur contenu à Europeana Collections. Ces institutions regroupent et contribuent leurs données à Europeana, cliquez sur le lien qui vous intéresse ci-dessous pour afficher une collection de partenaires particuliers!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: ''
     navigation:
       agents: Gens

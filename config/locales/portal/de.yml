@@ -7,6 +7,11 @@ de:
         sources:
           description: Unten sehen Sie eine Liste der Institutionen, die ihren Inhalt zu Europeana Collections beigetragen haben. Diese Institutionen aggregieren und tragen ihre Daten zu Europeana, klicken Sie auf den Link, der Sie unten interessiert, um eine bestimmte Partner-Kollektion zu sehen!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: Link zu Labs
     navigation:
       agents: Menschen

@@ -7,6 +7,11 @@ sl:
         sources:
           description: Spodaj je prikazan seznam ustanov, ki so prispevale svoje vsebine v zbirke Europeana. Te ustanove zbirajo in prispevajo svoje podatke v zbirke Europeana, za ogled posamezne partnerske zbirke kliknite želeno povezavo!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: 'povezava do laboratorijev '
     navigation:
       agents: Osebe

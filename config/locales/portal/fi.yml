@@ -7,6 +7,11 @@ fi:
         sources:
           description: Alla näet listan instituutiot, jotka ovat vaikuttaneet niiden sisältöä Europeanaan kokoelmat. Nämä instituutiot koota ja edistää tietonsa Europeanan klikkaa linkkiä, joka kiinnostaa sinua alla katsella tiettyä kumppani kokoelma!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: linkki labsiin
     navigation:
       agents: Ihmiset

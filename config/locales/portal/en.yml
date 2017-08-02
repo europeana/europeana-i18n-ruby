@@ -7,6 +7,11 @@ en:
         sources:
           description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
   global:
+    date:
+      eras:
+        gregorian:
+          before: "%{years} BCE"
+          current: "%{years} CE"
     labs-link: 'link to labs '
     navigation:
       agents: People

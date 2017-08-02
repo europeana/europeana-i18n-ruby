@@ -7,6 +7,11 @@ ca:
         sources:
           description: A continuació veureu una llista d&#39;institucions que han aportat el seu contingut a Europeana Col·leccions. Aquestes institucions afegir i aportar les seves dades a Europeana, feu clic a 'enllaç de sota que li interessi per veure una col·lecció soci en particular!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: enllaç a labs
     navigation:
       agents: Gent

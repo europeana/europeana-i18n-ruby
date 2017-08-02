@@ -7,6 +7,11 @@ ro:
         sources:
           description: Mai jos vedeți o listă a instituțiilor care au contribuit conținutul lor la Europeana Colecții. Aceste instituții agregate și să contribuie datele lor la Europeana, faceți clic pe link-ul care vă interesează mai jos pentru a vizualiza o anumită colecție partener!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: 
     navigation:
       agents: oameni

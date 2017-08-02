@@ -7,6 +7,11 @@ sv:
         sources:
           description: Här finner du alla institutioner som har bidragit till Europeanas samlingar.
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: Länk till Labs
     navigation:
       agents: Personligheter

@@ -7,6 +7,11 @@ hu:
         sources:
           description: Alább egy listát az intézmények, akik hozzájárultak a tartalmat Europeana gyűjtemények. Ezek az intézmények gyűjtik össze és hozzájárulnak adataik az Europeana, kattints a linkre, amely érdekli az alábbiakban megtekintheti egy adott partner gyűjtemény!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: link a lab-hoz
     navigation:
       agents: Emberek

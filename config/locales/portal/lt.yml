@@ -7,6 +7,11 @@ lt:
         sources:
           description: Žemiau matote institucijų, kurie prisidėjo jų turinį Europeana rinkinių sąrašą. Šios institucijos kaupti ir prisidėti savo duomenis Europeana paspausti nuorodą, kuri jus domina toliau peržiūrėti konkretaus partnerio kolekciją!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: Nuoroda į Labs
     navigation:
       agents: žmonės

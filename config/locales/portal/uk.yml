@@ -7,6 +7,11 @@ uk:
         sources:
           description: Нижче ви можете побачити список джерел наших колекцій. Ці джерела об'єднують та поповнюють колекції Europeana, натисніть на цікаве вам посилання, щоб побачити всі їх колекції!
   global:
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     labs-link: Посилання на Europeana Labs
     navigation:
       agents: 
