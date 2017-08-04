@@ -193,6 +193,11 @@ uk:
     cookie_disclaimer:
       more_info: 
       text: 
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: адреса електронної пошти
     error:
       unavailable: 

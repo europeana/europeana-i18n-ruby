@@ -193,6 +193,11 @@ pl:
     cookie_disclaimer:
       more_info: Więcej informacji
       text: Nasza strona używa plików cookies (tzw. ciasteczek) aby zapewnić wygodniejsze korzystanie z serwisu. Pozostając na niej, wyrażasz zgodę na gromadzenie przez nas danych poprzez pliki cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: email
     error:
       unavailable: 

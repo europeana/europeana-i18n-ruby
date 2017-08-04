@@ -193,6 +193,11 @@ sv:
     cookie_disclaimer:
       more_info: Mer information
       text: Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen på vår hemsida. Genom att klicka på eller navigera på webbplatsen, godkänner du att vår samling av information via cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-postadress
     error:
       unavailable: 

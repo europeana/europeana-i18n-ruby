@@ -193,6 +193,11 @@ da:
     cookie_disclaimer:
       more_info: Mere info
       text: Denne hjemmeside bruger cookies til at sikre, at du får den bedste oplevelse på vores hjemmeside. Ved at klikke eller navigere på webstedet, accepterer du at give vores indsamling af oplysninger via cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-mail adresse
     error:
       unavailable: 

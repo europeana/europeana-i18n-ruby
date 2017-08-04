@@ -195,6 +195,11 @@ mt:
     cookie_disclaimer:
       more_info: Izjed informazzjoni
       text: F'din il-websajt jintuzaw 'cookies' biex jiżguraw li jkollok l-aħjar esperjenza fuq il-websajt tagħna. Jekk tikklikkja jew iżżur is-sit, inti tkun qed taqbel li tippermetti l-ġbir ta 'informazzjoni.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: Indirizz tal-email
     error:
       unavailable: 

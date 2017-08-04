@@ -193,6 +193,11 @@ sl:
     cookie_disclaimer:
       more_info: Več informacij
       text: Da bi zagotovili najboljše izkušnje na našem spletišču, uporabljamo piškotke. S klikom ali navigacijo po spletišču se strinjate z našim zbiranjem informacij s pomočjo piškotkov.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-poštni naslov
     error:
       unavailable: Ni na voljo

@@ -193,6 +193,11 @@ et:
     cookie_disclaimer:
       more_info: Rohkem infot
       text: See veebileht kasutab küpsiseid, et tagada teile parim kogemus meie veebisaidil. Klõpsates või Saidil olete nõus, et võimaldada meie teabe kogumine toimub küpsised.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-posti aadress
     error:
       unavailable: 

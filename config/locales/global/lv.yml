@@ -193,6 +193,11 @@ lv:
     cookie_disclaimer:
       more_info: Papildinformācija
       text: Šī vietne izmanto sīkdatnes, lai palīdzētu uzlabot vietnes lietošanas pieredzi. Klikšķinot vai pārvietojoties vietnē, jūs piekrītat, ka ar sīdatņu starpniecību tiek uzkrāta informācija.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-pasta adrese
     error:
       unavailable: 

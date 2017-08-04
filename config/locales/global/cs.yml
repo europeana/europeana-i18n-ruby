@@ -193,6 +193,11 @@ cs:
     cookie_disclaimer:
       more_info: Další informace
       text: Tento web využívá soubory cookie, aby byl pro vás zajištěn co nejlepší uživatelský dojem. Kliknutím či navigací na tomto webu vyjadřujete souhlas se sběrem údajů prostřednictvím souborů cookie.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-mailová adresa
     error:
       unavailable: Nedostupné

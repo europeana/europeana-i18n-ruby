@@ -193,6 +193,11 @@ pt:
     cookie_disclaimer:
       more_info: Mais informações
       text: Este site usa cookies para garantir que você obtenha a melhor experiência em nosso site. Ao clicar ou navegar no site, você concorda em permitir a coleta de informações por meio de cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: endereço de email
     error:
       unavailable: 

@@ -193,6 +193,11 @@ hu:
     cookie_disclaimer:
       more_info: Több információ
       text: Ez a weboldal cookie-kat használ, hogy biztosítsa, hogy a legjobb élményt a honlapunkon. Kattintva, vagy a navigációt az oldalon, akkor beleegyezik abba, hogy mi az információgyűjtés sütikkel.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: Email cím
     error:
       unavailable: 

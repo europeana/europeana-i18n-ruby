@@ -193,6 +193,11 @@ nl:
     cookie_disclaimer:
       more_info: Meer informatie
       text: Deze website maakt gebruik van cookies om ervoor te zorgen voor een betere website-ervaring. Door te klikken gaat u hiermee akkoord.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: e-mail adres
     error:
       unavailable: 

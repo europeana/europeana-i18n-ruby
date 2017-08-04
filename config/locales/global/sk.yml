@@ -193,6 +193,11 @@ sk:
     cookie_disclaimer:
       more_info: Viac informácií
       text: Táto webová stránka používa cookies, aby jej zobrazenie bolo čo najlepšie. Kliknutím, alebo navigovaním na stránke súhlasíte s tým, aby sme zhromažďovali informácie prostredníctvom cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: emailová adresa
     error:
       unavailable: Nie je k dispozícii

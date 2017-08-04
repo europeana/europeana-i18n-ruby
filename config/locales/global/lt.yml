@@ -193,6 +193,11 @@ lt:
     cookie_disclaimer:
       more_info: Daugiau informacijos
       text: Ši svetainė naudoja slapukus, siekiant užtikrinti jums gauti geriausią patirtį mūsų svetainėje. Paspaudę arba naršyti svetainėje, Jūs sutinkate, kad mūsų informacijos rinkimo per slapukus.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: el. pašto adresas
     error:
       unavailable: 

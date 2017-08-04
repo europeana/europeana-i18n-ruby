@@ -193,6 +193,11 @@ bs:
     cookie_disclaimer:
       more_info: 
       text: 
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: 
     error:
       unavailable: 

@@ -193,6 +193,11 @@ de:
     cookie_disclaimer:
       more_info: Mehr Info
       text: Diese Website verwendet Cookies, um sicherzustellen, dass Sie die besten Erfahrungen auf unserer Website erhalten. Durch Anklicken oder Navigieren der Website stimmen Sie zu, dass wir unsere Sammlung von Informationen über Cookies zulassen.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: E-Mail-Adresse
     error:
       unavailable: 

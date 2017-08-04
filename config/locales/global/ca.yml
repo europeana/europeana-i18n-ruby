@@ -193,6 +193,11 @@ ca:
     cookie_disclaimer:
       more_info: Més informació
       text: Aquest lloc web fa servir galetes per assegurar d&#39;obtenir la millor experiència en el nostre lloc web. En fer clic o navegar pel lloc, vostè es compromet a permetre que la nostra recopilació d&#39;informació a través de cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: correu electrònic
     error:
       unavailable: 

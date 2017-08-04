@@ -193,6 +193,11 @@ fi:
     cookie_disclaimer:
       more_info: Lisätietoja
       text: Tämä sivusto käyttää evästeitä, jotta saat parhaan kokemuksen sivuillamme. Klikkaamalla tai navigoinnin sivusto, annat meidän kokoelma tietoja evästeiden avulla.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: sähköpostiosoite
     error:
       unavailable: 

@@ -193,6 +193,11 @@ en:
     cookie_disclaimer:
       more_info: More info
       text: This website uses cookies to ensure you get the best experience on our website. By clicking or navigating the site, you agree to allow our collection of information through cookies.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: email address
     error:
       unavailable: Unavailable
