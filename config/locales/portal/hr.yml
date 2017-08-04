@@ -7,11 +7,6 @@ hr:
         sources:
           description: U nastavku slijedi popis izvora za naše zbirke. Oni skupljaju i doprinose svojim zbirkama Europeani. Slijedite poveznicu koja vas zanima i pristupit ćete svim njihovim zbirkama!
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: http://labs.europeana.eu/
     navigation:
       agents: narod

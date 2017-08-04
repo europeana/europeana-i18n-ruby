@@ -7,11 +7,6 @@ mt:
         sources:
           description: Hawn taħt tista' tara lista ta' sorsi għall-kollezzjonijiet tagħna. Dawn is sorsi ikomplu u jżidu kollezzjonijiet fuq Europeana, ikklikja fuq il-link li tinteressak hawn taħt biex tara l-kollezzjonijiet kollha!
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: Link lejn il-labs
     navigation:
       agents: Nies

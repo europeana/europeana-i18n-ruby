@@ -7,11 +7,6 @@ pt:
         sources:
           description: Abaixo, você verá uma lista de instituições que contribuíram com seu conteúdo para as Coleções Europeana. Essas instituições agregam e contribuem seus dados para a Europeana, clique no link que lhe interessa abaixo para ver uma coleção de parceiros específica!
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: ''
     navigation:
       agents: Pessoas

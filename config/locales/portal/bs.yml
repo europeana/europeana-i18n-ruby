@@ -7,11 +7,6 @@ bs:
         sources:
           description: 
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: 
     navigation:
       agents: 

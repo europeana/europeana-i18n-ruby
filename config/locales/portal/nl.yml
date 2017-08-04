@@ -7,11 +7,6 @@ nl:
         sources:
           description: Hieronder zie je een lijst van instellingen die hun inhoud aan Europeana Collections hebben bijgedragen.
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: 'link naar labs '
     navigation:
       agents: Mensen

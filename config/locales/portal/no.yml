@@ -7,11 +7,6 @@
         sources:
           description: Under ser du en liste over kilder for våre samlinger. Disse kildene utvider og bidrar til samlinger på Europeana, klikk på lenkene under som interesserer deg for å se på alle samlingene deres!
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: lenker til labs
     navigation:
       agents: Mennesker

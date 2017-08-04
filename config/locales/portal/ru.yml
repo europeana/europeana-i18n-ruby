@@ -7,11 +7,6 @@ ru:
         sources:
           description: 
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: Cсылка на Labs
     navigation:
       agents: 

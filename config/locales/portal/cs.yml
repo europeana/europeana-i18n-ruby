@@ -7,11 +7,6 @@ cs:
         sources:
           description: Níže uvádíme seznam institucí, které přispěly svým obsahem do Kolekcí Europeana. Tyto instituce sourhnně přispívají svými daty do služby Europeana. Po kliknutí na odkaz se zobrazí sbírka příslušného partnera.
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: 'odkaz na laboratoře '
     navigation:
       agents: Lidé

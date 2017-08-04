@@ -7,11 +7,6 @@ da:
         sources:
           description: Nedenfor ser du en liste over institutioner, der har bidraget deres indhold til Europeana samlinger. Disse institutioner samle og bidrage med deres data til Europeana, skal du klikke på linket, der interesserer dig nedenfor for at se en bestemt partner samling!
   global:
-    date:
-      eras:
-        gregorian:
-          before: 
-          current: 
     labs-link: link til labs
     navigation:
       agents: Mennesker
