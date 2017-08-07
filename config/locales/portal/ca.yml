@@ -25,7 +25,9 @@ ca:
       galleries: 
       home: Inici
       more:
+        agents: 
         people: Més gent
+        periods: 
         topics: més temes
       periods: Els períodes de temps
       places: llocs

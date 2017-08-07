@@ -25,7 +25,9 @@ sv:
       galleries: 
       home: Start
       more:
+        agents: 
         people: Fler människor
+        periods: 
         topics: fler ämnen
       periods: 
       places: platser
@@ -370,7 +372,7 @@ sv:
     search:
       browse: 
       or-browse: 
-      page-title: 
+      page-title: Sök Resultat
       placeholder:
         filter-text: 
         text: Lägg till sökterm

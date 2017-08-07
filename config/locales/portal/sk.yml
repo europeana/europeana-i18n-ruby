@@ -25,7 +25,9 @@ sk:
       galleries: Galérie
       home: Domov
       more:
+        agents: 
         people: Viac ľudí
+        periods: 
         topics: Viac tém
       periods: Časové obdobia
       places: Miesta

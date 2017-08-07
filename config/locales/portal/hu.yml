@@ -25,7 +25,9 @@ hu:
       galleries: 
       home: Főoldal
       more:
+        agents: 
         people: Több ember
+        periods: 
         topics: További témák
       periods: időszakok
       places: Helyek

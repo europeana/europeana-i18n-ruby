@@ -25,7 +25,9 @@ lt:
       galleries: 
       home: Pagrindinis
       more:
+        agents: 
         people: Daugiau žmonių
+        periods: 
         topics: Daugiau temų
       periods: laikotarpiai
       places: Lankytinos

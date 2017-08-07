@@ -25,7 +25,9 @@ el:
       galleries: 
       home: Αρχική
       more:
+        agents: 
         people: Περισσότεροι άνθρωποι
+        periods: 
         topics: περισσότερα θέματα
       periods: χρονικές περιόδους
       places: Μέρη

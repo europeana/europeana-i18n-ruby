@@ -25,7 +25,9 @@ ru:
       galleries: 
       home: Домой
       more:
+        agents: 
         people: Больше людей
+        periods: 
         topics: Дополнительные разделы
       periods: Периоды времени
       places: места

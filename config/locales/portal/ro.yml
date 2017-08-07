@@ -25,7 +25,9 @@ ro:
       galleries: 
       home: Acasă
       more:
+        agents: 
         people: Mai multi oameni
+        periods: 
         topics: Mai multe subiecte
       periods: perioadele de timp
       places: Locuri

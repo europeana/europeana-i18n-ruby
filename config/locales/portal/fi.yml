@@ -25,7 +25,9 @@ fi:
       galleries: 
       home: Koti
       more:
+        agents: 
         people: Enemmän ihmisiä
+        periods: 
         topics: lisää aiheita
       periods: ajanjaksot
       places: paikat

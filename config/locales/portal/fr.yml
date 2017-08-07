@@ -25,7 +25,9 @@ fr:
       galleries: 
       home: Accueil
       more:
+        agents: 
         people: Plus de gens
+        periods: 
         topics: Plus de sujets
       periods: Périodes de temps
       places: Places

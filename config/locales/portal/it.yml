@@ -25,7 +25,9 @@ it:
       galleries: 
       home: Pagina principale
       more:
+        agents: 
         people: Più persone
+        periods: 
         topics: Più argomenti
       periods: I periodi di tempo
       places: posti

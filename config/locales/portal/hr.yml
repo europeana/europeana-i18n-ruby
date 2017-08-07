@@ -25,7 +25,9 @@ hr:
       galleries: 
       home: Naslovnica
       more:
+        agents: 
         people: Više ljudi
+        periods: 
         topics: Više tema
       periods: Vremenska razdoblja
       places: Mjesta

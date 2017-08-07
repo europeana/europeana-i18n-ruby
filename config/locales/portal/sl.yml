@@ -25,7 +25,9 @@ sl:
       galleries: Galerije
       home: Domov
       more:
+        agents: 
         people: Več oseb
+        periods: 
         topics: Več tem
       periods: Časovna obdobja
       places: Mesta

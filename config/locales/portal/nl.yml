@@ -25,7 +25,9 @@ nl:
       galleries: 
       home: Home
       more:
+        agents: 
         people: Meer mensen
+        periods: 
         topics: meer onderwerpen
       periods: Tijdvakken
       places: plaatsen

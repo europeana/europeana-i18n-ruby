@@ -25,7 +25,9 @@ da:
       galleries: 
       home: Hjem
       more:
+        agents: 
         people: Flere folk
+        periods: 
         topics: Flere emner
       periods: tidsperioder
       places: Steder

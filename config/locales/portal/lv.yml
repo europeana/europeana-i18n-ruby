@@ -25,7 +25,9 @@ lv:
       galleries: 
       home: Sākums
       more:
+        agents: 
         people: Vairāk cilvēku
+        periods: 
         topics: Vairāk tēmu
       periods: Laika periodi
       places: Vietas

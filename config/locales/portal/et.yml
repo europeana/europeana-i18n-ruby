@@ -25,7 +25,9 @@ et:
       galleries: 
       home: Avaleht
       more:
+        agents: 
         people: Rohkem inimesi
+        periods: 
         topics: Veel teemasid
       periods: ajaperioodid
       places: Kohad

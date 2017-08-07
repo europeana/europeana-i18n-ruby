@@ -25,7 +25,9 @@ en:
       galleries: Galleries
       home: Home
       more:
+        agents: People
         people: More people
+        periods: Time Periods
         topics: More topics
       periods: Time periods
       places: Places

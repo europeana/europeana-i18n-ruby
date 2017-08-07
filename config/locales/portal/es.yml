@@ -25,7 +25,9 @@ es:
       galleries: 
       home: Inicio
       more:
+        agents: 
         people: Más personas
+        periods: 
         topics: Más temas
       periods: Períodos de tiempo
       places: Lugares

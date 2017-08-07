@@ -25,7 +25,9 @@ cs:
       galleries: Galerie
       home: Domů
       more:
+        agents: 
         people: Více lidí
+        periods: 
         topics: Více témat
       periods: Časová období
       places: Místa

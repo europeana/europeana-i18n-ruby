@@ -25,7 +25,9 @@ bg:
       galleries: 
       home: Начало
       more:
+        agents: 
         people: Повече хора
+        periods: 
         topics: Още теми
       periods: Сроковете
       places: места
