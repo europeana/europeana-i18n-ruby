@@ -147,35 +147,35 @@ ga:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: Maidir linne
+    about-us: Fúinne
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      new: 
-      next: 
-      previous: 
+      collapse: Leacaigh
+      delete: Scrios
+      edit: Cuir in eagar
+      expand: Fairsingigh
+      filter-all: Uile
+      filter-by: Scag de réir
+      fullscreen-enter: lánscáileán
+      fullscreen-exit: scoir lánscáileán
+      new: Nua
+      next: ar aghaidh
+      previous: roimhe
       register: Cláraigh
-      share: 
+      share: Comhroinn
       sign-in: 'Sínigh isteach '
       sign-out: Sínigh amach
-      skip-to-main: 
-      skip-to-section: 
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      skip-to-main: Scipeáil chuig inneachar leathanaigh
+      skip-to-section: Scipeáil chuig mír
+      view: Féach
+      view-at: Féach ag
+      view-more-at: Féach a thuilleadh-ag
+      withdraw: aistarraing
     channel:
-      all: 
+      all: Chuile mír
       archaeology: 
       architecture: 
       art: 
-      art-history: Stair na healaíne
+      art-history: 
       fashion: 
       first-world-war: 
       home: 
@@ -189,43 +189,43 @@ ga:
     channels-art-link: 
     channels-fashion: 
     channels-music: Ceol
-    choose-language: 
+    choose-language: Teanga
     cookie_disclaimer:
-      more_info: 
-      text: 
+      more_info: Breis eolas
+      text: Úsaideann an suíomh gréasáin seo fianáin chun cinntiú go mbainfidh tú tairbhe ar fheabhas ónár suíomh gréasáin. Má chliceálann tú nó má ndéanann tú nascleanúint ar an suíomh, aontaíonn tú lenár mbailiúchán eolais trí na fianáin.
     date:
       eras:
         gregorian:
           before: 
           current: 
-    email-address: 
+    email-address: seoladh ríomhphoist
     error:
-      unavailable: 
+      unavailable: Díchumasaithe
     facet:
       advanced:
-        options: 
+        options: Roghanna
         show:
-          ugc: 
+          ugc: Ábhar ó úsáideoirí
       art:
         form:
           paintings:
-            genre: 
-            medium: 
-      carrier: 
-      colour: 
-      colour-black-and-white: 
+            genre: Seánraí
+            medium: Meán
+      carrier: Iompróir
+      colour: Dath
+      colour-black-and-white: Dubh agus bán
       country:
-        austria: 
-        belgium: 
-        bulgaria: 
-        croatia: 
-        cyprus: 
-        czechrepublic: 
-        denmark: 
-        estonia: 
-        europe: 
-        finland: 
-        france: 
+        austria: An Ostair
+        belgium: An Bheilg
+        bulgaria: An Bhulgáir
+        croatia: An Chróit
+        cyprus: An Chipir
+        czechrepublic: Poblacht na Seice
+        denmark: An Danmhairg
+        estonia: An Eastóin
+        europe: An Eoraip
+        finland: An Fhionlainn
+        france: An Fhrainc
         germany: 
         greece: 
         hungary: 
