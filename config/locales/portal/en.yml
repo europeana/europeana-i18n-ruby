@@ -47,7 +47,7 @@ en:
       description: Blogs
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
-        page-title: Europeana Blog
+        page-title: Blog
       min-to-read: min to read
     browse:
       colours:
