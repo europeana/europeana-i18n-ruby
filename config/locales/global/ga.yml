@@ -1,5 +1,5 @@
 ga:
-  Symphonies: 
+  Symphonies: Siansaí
   X11:
     colours:
       '000000': 
@@ -226,82 +226,82 @@ ga:
         europe: An Eoraip
         finland: An Fhionlainn
         france: An Fhrainc
-        germany: 
-        greece: 
-        hungary: 
-        iceland: 
-        ireland: 
-        israel: 
-        italy: 
-        latvia: 
-        lithuania: 
-        luxembourg: 
-        malta: 
-        netherlands: 
-        norway: 
-        poland: 
+        germany: An Ghearmáin
+        greece: An Ghréig
+        hungary: An Ungáir
+        iceland: An Íoslan
+        ireland: Éire
+        israel: An Iosrael
+        italy: An Iodáil
+        latvia: An Laitvia
+        lithuania: An Liotuáin
+        luxembourg: Lucsamburg
+        malta: Málta
+        netherlands: An Ísiltír
+        norway: An Iorua
+        poland: An Pholainn
         portugal: 
-        romania: 
-        russia: 
-        serbia: 
-        slovakia: 
-        slovenia: 
-        spain: 
-        sweden: 
-        switzerland: 
-        turkey: 
-        ukraine: 
-        unitedkingdom: 
-        unitedstatesofamerica: 
-        vaticancity: 
-      creator: 
-      filter: 
+        romania: An Rómáin
+        russia: An Rúis
+        serbia: An tSeirbia
+        slovakia: An tSlóvaic
+        slovenia: An tSlóivéin
+        spain: An Spáinn
+        sweden: An tSualainn
+        switzerland: An Eilvéis
+        turkey: An Tuirc
+        ukraine: An Úcráin
+        unitedkingdom: An Ríocht Aontaithe
+        unitedstatesofamerica: SAM
+        vaticancity: Cathair na Vatacáine
+      creator: cruthaitheoir
+      filter: scagaire
       header:
-        collection: 
-        colourpalette: 
-        country: 
-        data_provider: 
-        date-created: 
-        edm_ugc: 
+        collection: Bailúcháin
+        colourpalette: Dath
+        country: Tír
+        data_provider: Institiúid
+        date-created: Dáta-cruthaithe
+        edm_ugc: Taispeáin inneachar soláthartha ag úsáideoirí
         fashion:
-          colour: 
+          colour: Dath
           designer: Dearthóir
-          material: 
-          technique: Teicníocht
-          type: cineál Mír
-        image_aspectratio: 
-        image_colour: 
-        image_size: 
-        intermediateprovider: 
-        language: 
-        language_of_description: 
-        media: 
-        mime_type: 
-        provider: 
-        providing_country: 
-        proxy_dcterms_created: 
-        reusability: 
-        rights: 
-        sound_duration: 
-        sound_hq: 
-        text_fulltext: 
-        thumbnail: 
-        type: 
-        ugc: 
-        video_duration: 
-        video_hd: 
-        year: 
+          material: Ábhar
+          technique: Teicníc
+          type: Cló míre
+        image_aspectratio: Treoshuíomh
+        image_colour: Pailéad
+        image_size: Méid
+        intermediateprovider: Soláthróir idirmheánaigh
+        language: Teanga
+        language_of_description: Teanga Tuairisce
+        media: Abháir a nascann le meáin amháin
+        mime_type: Formáid chomhaid
+        provider: Comhbhailitheoir
+        providing_country: Tír soláthartha
+        proxy_dcterms_created: Dáta Cruthaithe
+        reusability: An féidir liom é/í a úsáid?
+        rights: Ceadúnas
+        sound_duration: Fad ama
+        sound_hq: Caighdeán Árd
+        text_fulltext: Téacs iomlán
+        thumbnail: Abháir le mionsamhlacha amháin
+        type: Meáin
+        ugc: Taispeáin inneachar soláthartha ag úsáideoirí
+        video_duration: Fad ama
+        video_hd: Caighdeán
+        year: Dáta
       image_aspectratio:
-        landscape: 
-        portrait: 
+        landscape: Tírdhreach
+        portrait: Portráid
       image_colour:
-        'false': 
-        'true': 
+        'false': Dubh agus bán
+        'true': Dath
       image_size:
-        extra_large: 
-        large: 
-        medium: 
-        small: 
+        extra_large: Ola mhór (4MP+)
+        large: Mór (1-4MP)
+        medium: Meán (0.5-1MP)
+        small: Beag (<0.5MP)
       language:
         bg: 
         ca: 
@@ -323,8 +323,8 @@ ga:
         lt: 
         lv: 
         mt: 
-        mul: 
-        nl: Nederlands
+        mul: Ilteangach
+        nl: 
         'no': 
         pl: 
         pt: 
@@ -337,19 +337,19 @@ ga:
         tr: 
         uk: 
         yi: 
-      less: 
+      less: Is teirce
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Ráitis cearta folú-oiriúnaithe
+        show-specific: Ráitis cearta léiriú-oiriúnaithe
       media:
-        'false': 
-        'true': 
-      more: 
-      more-refinements: 
+        'false': Níl
+        'true': Tá
+      more: Breis
+      more-refinements: Múnlú breise céim ar chéim
       resource:
-        type: 
+        type: Cineál
       reusability:
-        advanced: 
+        advanced: Forbartha
         advanced-cc-by: 
         advanced-cc-by-nc: 
         advanced-cc-by-nc-nd: 
@@ -357,221 +357,227 @@ ga:
         advanced-cc-by-nd: 
         advanced-cc-by-sa: 
         advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
+        advanced-orphan-work: Dílleachtach
+        advanced-out-of-copyright-non-commercial: As-feidhm - ath-úsáid neamhthráchtála
+        advanced-public: Fearann Poiblí Marcáilte
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
-        expiry: 
-        open: 
-        permission: 
-        restricted: 
-        rs_noc_oklr: 
-        simple: 
+        advanced-rs-cne: Cóipcheart Neamh-mheasúnaithe
+        advanced-rs-inc: Cóipcheart i bhfeidhm
+        advanced-rs-inc-edu: Cóipcheart i bhfeidhm - Ceadaithe don Earnáil Oideachais
+        advanced-rs-inc-ow-eu: Cóipcheart i bhfeidhm - AE Dílleachtach
+        advanced-rs-noc-nc: Gan Cóipcheart - Úsáíd Neamhthráchtála amháin
+        advanced-rs-noc-oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
+        advanced-ucs: Stádas cóipchirt nach bhfuil ar eolas
+        expiry: 'go dtí %{date}
+
+'
+        open: Athúsáíd Saor in aisce
+        permission: Cosc ar Athúsáíd
+        restricted: Athúsáíd teoranta
+        rs_noc_oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
+        simple: Simplí
       sound_duration:
-        long: 
-        medium: 
-        short: 
-        very_short: 
+        long: Fada (6+ nóiméad)
+        medium: Meán (3-6 nóiméad)
+        short: Gearr (30s - 3 nóiméad)
+        very_short: An- ghearr (<30s)
       sound_hq:
-        'true': 
-      source: 
+        'true': Tá
+      source: Foinseach
       text_fulltext:
-        'false': 
-        'true': 
+        'false': Níl
+        'true': Tá
       thumbnail:
-        'false': 
-        'true': 
+        'false': Níl
+        'true': Tá
       type:
         3d: 
-        image: 
-        sound: 
-        text: 
-        video: 
+        image: Íomhá
+        sound: Fuaim
+        text: Téacs
+        video: Físeán
       type-image:
         orientation:
-          label: 
-          landscape: 
-          portrait: 
+          label: Fuaim
+          landscape: Téacs
+          portrait: Físeán
         quality:
-          all: 
-          hq-only: 
-          label: 
+          all: Léirigh gach rud
+          hq-only: Léirigh caighdeán ard
+          label: Caighdeán
         size:
-          explanation: 
-          label: 
-          large: 
-          medium: 
-          small: 
-          xl: 
+          explanation: Cad a chiallaíonn na méideanna seo?
+          label: Méid na híomhá
+          large: Mór (%{data})
+          medium: Meán (%{data})
+          small: Beag (%{data})
+          xl: Olmhór (%{data})
       type-sound:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
-          very-short: 
+          label: Fad ama
+          long: Fada (%{data})
+          medium: Meán (%{data})
+          short: Gearr (%{data})
+          very-short: An-ghearr (%{data})
       type-video:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
+          label: Fad ama
+          long: Fada (%{data})
+          medium: Meán (%{data})
+          short: Gearr (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Níl
+        'true': Tá
       video_duration:
-        long: 
-        medium: 
-        short: 
+        long: Fada (20+ nóiméad)
+        medium: Meán (4-20 nóiméad)
+        short: Gearr (<4 nóiméad)
       video_hd:
-        'true': 
+        'true': Ardghléine (576p+)
       year:
-        from: 
-        to: 
+        from: ó
+        to: fo
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: 
-      submit: 
+      close: Dún
+      error: Earráid
+      open: Aiseolas
+      placeholder: Inis dúinn cad a mheasann tú. Cad ar féidir linn a fheabhsú? Más mian leat go rachfaidh muid i dteagmháil leat, fág do sheoladh ríomhphoist anseo leis!
+      submit: Taisc
       thanks:
-        long: 
-        short: 
-      title: 
+        long: Buíochas as ucht d’aiseolas. Más gá; tiocfáidh muid ar ais chugat chomh lua agus is féidir
+        short: Go raibh maith agat!
+      title: Aiseolas
       type:
-        bug: 
-        comment: 
-        correction: 
-    find-us-elsewhere: 
-    find-us-social-media: 
-    follow-channel: 
-    forgot-password: 
+        bug: fabht
+        comment: nóta tráchta
+        correction: ceartúchán
+    find-us-elsewhere: Aimsigh muid in áit eile
+    find-us-social-media: Aimsigh %{channel} ar na meáin shóisialta
+    follow-channel: Lean %{channel}
+    forgot-password: Dearmad ar do phasfhocal?
     galleries: Gailearaithe
-    genres: 
-    genres-chamber-music: 
-    genres-classical-music: 
-    genres-concertos: 
-    genres-non-western-classical-music: 
-    genres-opera: 
-    genres-popular-music: 
-    genres-traditional-music: 
+    genres: seánraí
+    genres-chamber-music: Ceol aireagail
+    genres-classical-music: Ceol clasaiceach
+    genres-concertos: Coinséartónna
+    genres-non-western-classical-music: Ceol-clasaiceach-neamh-iartharach
+    genres-opera: Ceoldráma
+    genres-popular-music: Ceol pobail
+    genres-traditional-music: Ceol traidisiúnta
     header:
-      connect: 
-      develop: 
-      discover: 
-      network: 
-    help: 
-    home: 
-    javascript-required: 
+      connect: Nasc
+      develop: Fairsingigh
+      discover: Braith
+      network: Gréasán
+    help: Cabhair
+    home: Baile
+    javascript-required: Leis an ábhar seo a fheiscint, cumasaigh JavaScript, agus taiscéal uasghrádú go brabhsálaí gréasáin a ghlacann le hinneachar HTML5.
     labels:
-      by: 
-      images: 
+      by: le
+      images: íomhánna
     labs: 
     labs-text: 
-    language-basque: 
-    language-bulgarian: 
-    language-catalan: 
-    language-croatian: 
-    language-czech: 
-    language-danish: 
-    language-dutch: 
-    language-english: 
-    language-estonian: 
-    language-finnish: 
-    language-french: 
-    language-gaelic: 
-    language-german: 
-    language-greek: 
-    language-hungarian: 
-    language-icelandic: 
-    language-italian: 
-    language-latvian: 
-    language-lithuanian: 
-    language-maltese: 
-    language-norwegian: 
-    language-polish: 
-    language-portuguese: 
-    language-romanian: 
-    language-russian: 
-    language-slovakian: 
-    language-slovenian: 
-    language-spanish: 
-    language-swedish: 
-    language-ukranian: 
-    login: 
-    mission: 
-    mission-title: 
+    language-basque: Bascais
+    language-bulgarian: Bulgáiris
+    language-catalan: Catalóinis
+    language-croatian: Cróitis
+    language-czech: Seicis
+    language-danish: Danmhairgis
+    language-dutch: Ollainis
+    language-english: Béarla
+    language-estonian: Eastóinis
+    language-finnish: Fionlainnis
+    language-french: Fraincis
+    language-gaelic: Fraincis
+    language-german: Gearmáinis
+    language-greek: Gréigis
+    language-hungarian: Ungáiris
+    language-icelandic: Íoslainnis
+    language-italian: Iodáilis
+    language-latvian: Laitvis
+    language-lithuanian: Liotuáinis
+    language-maltese: Máltais
+    language-norwegian: Ioruais
+    language-polish: Polainnis
+    language-portuguese: Portaingéilis
+    language-romanian: Rómáinis
+    language-russian: Rúisis
+    language-slovakian: Slóvacach
+    language-slovenian: 'Slóivéinis
+
+'
+    language-spanish: Spáinnis
+    language-swedish: Sualainnis
+    language-ukranian: Úcráinis
+    login: Logáil isteach
+    mission: Trasfhoirmíonn muid an domhan le cultúr! Ta sé mar chuspóir againn oidhreacht shaibhir an Eoraip a fhorbairt agus éascú le húsáid ag chuile duine don obair, don fhoghlaim, nó mar chaitheamh aimsire.
+    mission-title: Ár misean
     more:
-      load-more: 
-      show-more: 
-      view-more: 
-    more-info: 
+      load-more: Breis
+      show-more: Taispeáin breis
+      view-more: Féach breis
+    more-info: Breis eolais
     newsletter:
-      choose-language: 
-      email-address-invalid: 
-      email-address-required: 
+      choose-language: Roghnaigh teanga
+      email-address-invalid: Caithfidh an seoladh ríomhphoist bheith bailí.
+      email-address-required: Caithfear seoladh ríomhphoist a shonrú.
       fashion:
-        heading: Clarú
-        subheading: 
-      language-required: 
-      signup: 
-      submit-alt: 
-    our-sites: 
-    page: 
-    password: 
+        heading: Cláraigh!
+        subheading: 'Cláraigh don nuachtlitir Europeana Fashion
+
+'
+      language-required: Caithfear teanga a shonrú.
+      signup: Cláraigh le haghaidh ár nuachtlitir
+      submit-alt: Suibscríobh
+    our-sites: ár suíomhanna
+    page: leathanach
+    password: Pasfhocal
     professional: 
     professional-text: 
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
-    refine-your-search: 
-    refine-your-search-short: 
-    register: 
+      app: Aip
+      apps: Aipeanna
+      blog: Blag
+      blogs: Blaganna
+      collection: Bailiúchán téamach
+      collections: Bailúcháin téamach
+      dataset: Tacar sonraí
+      datasets: Tacair sonraí
+      event: Tarlú
+      events: Tarluithe
+      exhibition: Taispeántas
+      exhibitions: Taispeántais
+      featured_site: Suíomh ar fáil
+      featured_sites: Suíomhanna ar fáil
+      galleries: Gailearaithe
+      gallery: Gailearaí
+      image: Íomhá
+      images: Íomhánna
+      new: Cad atá nua
+      partner: Ár gComhpháirtí
+      partners: Ár gComhpháirtithe
+      playlist: Seinnliosta
+      playlists: Seinnliostaí
+      stories: Scéalta
+      story: Scéal
+      timeline: Amlíne
+      timelines: Amlínte
+    refine-your-search: Beachtaigh do chuardach
+    refine-your-search-short: Scagaire
+    register: Cláraigh
     research: 
-    research-text: 
+    research-text: Ag comhnascú leis an bpobal acadúil
     search-area:
-      search-button-image-alt: 
-      search-placeholder-text: 
-    search-collections: 
-    search-collections-text: 
-    share: 
-    sitemap: 
-    subscribe: 
-    terms-and-policies: 
+      search-button-image-alt: Cuardaigh
+      search-placeholder-text: Cuir téarma cuardaigh leis
+    search-collections: Bailúcháin
+    search-collections-text: Taiscéal oidhreacht chultúrtha na nEorpa
+    share: Comhroinn
+    sitemap: Mapa suímh
+    subscribe: Suibscríobh
+    terms-and-policies: Coinníollacha úsáide & Polasaithe
     tooltips:
       channels:
         galleries:
@@ -582,12 +588,12 @@ ga:
         search:
           new-filter: 
           new-grid: 
-    type: 
-  'no': 
-  pl: 
+    type: cló
+  'no': An Iorua
+  pl: An Phortaingéil
   site:
     facet:
       language:
         show:
-          results: 
-        show-results-all: 
+          results: Torthaí
+        show-results-all: Taispeáin torthaí ar fad
