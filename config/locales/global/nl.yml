@@ -507,6 +507,42 @@ nl:
     language-spanish: Spaans
     language-swedish: Zweeds
     language-ukranian: Ukraans
+    languages:
+      bg: Bulgaars
+      ca: Catalaans
+      cs: Tjechisch
+      da: Deens
+      de: Duits
+      el: Grieks
+      en: Engels
+      es: Spaans
+      et: Ests
+      eu: Baskisch
+      fi: Fins
+      fr: Frans
+      ga: Iers
+      he: 
+      hr: Kroatisch
+      hu: Hongaars
+      is: Ijslands
+      it: Italiaans
+      lt: Litouws
+      lv: Lets
+      mt: Maltees
+      mul: 
+      nl: Nederlands
+      'no': Noors
+      pl: Pools
+      pt: Portugees
+      ro: Romaans
+      ru: Russisch
+      sk: Slovaaks
+      sl: Sloveens
+      sr: 
+      sv: Zweeds
+      tr: 
+      uk: Ukraans
+      yi: 
     login: Aanmelden
     mission: 'Wij geloven dat cultuur de wereld een stukje beter maakt! Daarom verzamelen wij al het cultureel erfgoed en maken het online beschikbaar zodat u het kan gebruiken voor professionele, entertainment en leerdoeleinden. '
     mission-title: Onze missie

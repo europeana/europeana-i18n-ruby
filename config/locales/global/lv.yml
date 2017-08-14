@@ -507,6 +507,42 @@ lv:
     language-spanish: Spāņu
     language-swedish: Zviedru
     language-ukranian: Ukraiņu
+    languages:
+      bg: Bulgāru
+      ca: Katalāņu
+      cs: Čehu
+      da: Dāņu
+      de: Vācu
+      el: Grieķu
+      en: Angļu
+      es: Spāņu
+      et: Igauņu
+      eu: Basku
+      fi: Somu
+      fr: Franču
+      ga: Gēļu
+      he: 
+      hr: Horvātu
+      hu: Ungāru
+      is: Islandiešu
+      it: Itāliešu
+      lt: Lietuviešu
+      lv: Latviešu
+      mt: Maltiešu
+      mul: Daudzvalodu
+      nl: Holandiešu
+      'no': Norvēģu
+      pl: Poļu
+      pt: Portugāļu
+      ro: Rumāņu
+      ru: Krievu
+      sk: Slovāku
+      sl: Slovēņu
+      sr: 
+      sv: Zviedru
+      tr: 
+      uk: Ukraiņu
+      yi: 
     login: Pieslēgties
     mission: Ar kultūru mēs mainām pasauli! Mēs vēlamies attīstīt Eiropas bagāto kultūras mantojumu un padarīt to cilvēkiem pieejamāku izmantošanai, - gan darbam, gan mācībām, gan izklaidei.
     mission-title: Mūsu misija

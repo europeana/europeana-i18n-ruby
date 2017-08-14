@@ -507,6 +507,42 @@ hr:
     language-spanish: Španjolski
     language-swedish: Švedski
     language-ukranian: Ukrajinski
+    languages:
+      bg: Bugarski
+      ca: Katalonski
+      cs: Češki
+      da: Danski
+      de: Njemački
+      el: Grčki
+      en: Engleski
+      es: Španjolski
+      et: Estonski
+      eu: Baskijski
+      fi: Finski
+      fr: Francuski
+      ga: Galski
+      he: 
+      hr: Hrvatski
+      hu: Mađarski
+      is: Islandski
+      it: Talijanski
+      lt: Litvanski
+      lv: Latvijski
+      mt: Malteški
+      mul: 
+      nl: Nizozemski
+      'no': Norveški
+      pl: Poljski
+      pt: Portugalski
+      ro: Rumunjski
+      ru: Ruski
+      sk: Slovački
+      sl: Slovenski
+      sr: 
+      sv: Švedski
+      tr: 
+      uk: Ukrajinski
+      yi: 
     login: Prijava
     mission: Mi preoblikujemo svijet kulturom! Želimo unaprijediti bogatu baštinu Europe i olakšati ljudima njeno korištenje, bilo za posao, učenje ili samo za zabavu.
     mission-title: Naša misija

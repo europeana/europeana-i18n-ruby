@@ -509,6 +509,42 @@ et:
     language-spanish: hispaania
     language-swedish: rootsi
     language-ukranian: ukraina
+    languages:
+      bg: bulgaaria
+      ca: katalaani
+      cs: tšehhi
+      da: taani
+      de: saksa
+      el: kreeka
+      en: inglise
+      es: hispaania
+      et: Eesti
+      eu: baski
+      fi: soome
+      fr: prantsuse
+      ga: gaeli
+      he: 
+      hr: horvaatia
+      hu: ungari
+      is: islandi
+      it: itaalia
+      lt: leedu
+      lv: läti
+      mt: malta
+      mul: mitmekeelne
+      nl: hollandi
+      'no': norra
+      pl: poola
+      pt: portugali
+      ro: rumeenia
+      ru: vene
+      sk: slovakkia
+      sl: sloveenia
+      sr: 
+      sv: rootsi
+      tr: 
+      uk: ukraina
+      yi: 
     login: Logi sisse
     mission: Me muudame kultuuri abil maailma! Tahame võtta aluseks euroopa rikka pärandi ja teha selle inimestele kergemi kasutatavaks - olgu eesmärgiks töö, õppimine või lihtsalt lõbu.
     mission-title: Meie missioon

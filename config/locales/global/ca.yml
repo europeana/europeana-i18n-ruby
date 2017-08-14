@@ -507,6 +507,42 @@ ca:
     language-spanish: Castellà
     language-swedish: Suec
     language-ukranian: Ucraïnès
+    languages:
+      bg: Búlgar
+      ca: Català
+      cs: Txec
+      da: Danès
+      de: Alemany
+      el: Grec
+      en: Anglès
+      es: Castellà
+      et: Estonià
+      eu: Basc
+      fi: Finès
+      fr: Francès
+      ga: Gaèl·lic
+      he: עברית
+      hr: Croat
+      hu: Hongarès
+      is: Islandès
+      it: Italià
+      lt: Lituà
+      lv: Letó
+      mt: Maltès
+      mul: multilíngüe
+      nl: Neerlandès
+      'no': Noruec
+      pl: Polonès
+      pt: Portuguès
+      ro: Romanès
+      ru: Rus
+      sk: Eslovac
+      sl: Eslovè
+      sr: Српски
+      sv: Suec
+      tr: Türkçe
+      uk: Ucraïnès
+      yi: ייִדיש
     login: Identifica't
     mission: Transformem el món amb cultura! Volem construir sobre el ric patrimoni d'Europa i fer-ho fàcil de fer servir, tant a nivell laboral, docent o per gaudi personal.
     mission-title: La nostra missió

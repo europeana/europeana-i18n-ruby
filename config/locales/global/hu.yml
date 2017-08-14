@@ -507,6 +507,42 @@ hu:
     language-spanish: Spanyol
     language-swedish: Svéd
     language-ukranian: Ukrán
+    languages:
+      bg: Bolgár
+      ca: Katalán
+      cs: Cseh
+      da: Dán
+      de: Német
+      el: Görög
+      en: Angol
+      es: Spanyol
+      et: Észt
+      eu: Baszk
+      fi: Finn
+      fr: Francia
+      ga: Kelta
+      he: 
+      hr: Horvát
+      hu: Magyar
+      is: Izlandi
+      it: Olasz
+      lt: Litván
+      lv: Lett
+      mt: Máltai
+      mul: 
+      nl: Holland
+      'no': Norvég
+      pl: Lengyel
+      pt: Portugál
+      ro: Román
+      ru: Orosz
+      sk: Szlovák
+      sl: Szlovén
+      sr: 
+      sv: Svéd
+      tr: 
+      uk: Ukrán
+      yi: 
     login: Bejelentkezés
     mission: Megváltoztatjuk a világot a kultúra segítségével! Európa gazdag örökségére akarunk építeni és ezt könnyen hozzáférhetővé tenni az emberek számára, legyen látogatóink célja munka, tanulás vagy akár csupán szórakozás.
     mission-title: Küldetésünk

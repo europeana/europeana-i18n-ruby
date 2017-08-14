@@ -509,6 +509,42 @@ en:
     language-spanish: Spanish
     language-swedish: Swedish
     language-ukranian: Ukrainian
+    languages:
+      bg: Bulgarian
+      ca: Catalan
+      cs: Czech
+      da: Danish
+      de: German
+      el: Greek
+      en: English
+      es: Spanish
+      et: Estonian
+      eu: Basque
+      fi: Finnish
+      fr: French
+      ga: Gaelic
+      he: עברית
+      hr: Croatian
+      hu: Hungarian
+      is: Icelandic
+      it: Italian
+      lt: Lithuanian
+      lv: Latvian
+      mt: Maltese
+      mul: Multilingual
+      nl: Dutch
+      'no': Norwegian
+      pl: Polish
+      pt: Portuguese
+      ro: Romanian
+      ru: Russian
+      sk: Slovak
+      sl: Slovenian
+      sr: Српски
+      sv: Swedish
+      tr: Türkçe
+      uk: Ukrainian
+      yi: ייִדיש
     login: Login
     mission: We transform the world with culture! We want to build on Europe’s rich heritage and make it easier for people to use, whether for work, for learning or just for fun.
     mission-title: Our mission

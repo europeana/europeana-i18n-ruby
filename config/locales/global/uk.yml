@@ -507,6 +507,42 @@ uk:
     language-spanish: 
     language-swedish: 
     language-ukranian: 
+    languages:
+      bg: 
+      ca: 
+      cs: 
+      da: 
+      de: 
+      el: 
+      en: 
+      es: 
+      et: 
+      eu: 
+      fi: 
+      fr: 
+      ga: 
+      he: 
+      hr: 
+      hu: 
+      is: 
+      it: 
+      lt: 
+      lv: 
+      mt: 
+      mul: 
+      nl: Nederlands
+      'no': 
+      pl: 
+      pt: 
+      ro: 
+      ru: 
+      sk: 
+      sl: 
+      sr: 
+      sv: 
+      tr: 
+      uk: 
+      yi: 
     login: 
     mission: 
     mission-title: 

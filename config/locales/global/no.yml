@@ -507,6 +507,42 @@
     language-spanish: Spansk
     language-swedish: Svensk
     language-ukranian: 
+    languages:
+      bg: språk-bulgarsk
+      ca: språk-katalansk
+      cs: språk-tsjekkisk
+      da: Dansk
+      de: Tysk
+      el: Gresk
+      en: Engelsk
+      es: Spansk
+      et: Estisk
+      eu: språk-baskisk
+      fi: Finsk
+      fr: Fransk
+      ga: Irsk
+      he: Hebraisk
+      hr: språk-kroatisk
+      hu: Ungarsk
+      is: Islandsk
+      it: Italiensk
+      lt: Litauisk
+      lv: Latvisk
+      mt: Maltesisk
+      mul: Flerspråklig
+      nl: Nederlandsk
+      'no': Norsk
+      pl: Polsk
+      pt: Portugisisk
+      ro: Rumensk
+      ru: Russisk
+      sk: Slovakisk
+      sl: Slovensk
+      sr: Serbokroatisk
+      sv: Svensk
+      tr: Tykrkisk
+      uk: 
+      yi: Jiddisch
     login: 
     mission: 
     mission-title: 

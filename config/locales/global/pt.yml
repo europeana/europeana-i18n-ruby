@@ -507,6 +507,42 @@ pt:
     language-spanish: Espanhol
     language-swedish: Sueco
     language-ukranian: Ucraniano
+    languages:
+      bg: Búlgaro
+      ca: Catalão
+      cs: Checo
+      da: Dinamarquês
+      de: Alemão
+      el: Grego
+      en: Inglês
+      es: Espanhol
+      et: Estónio
+      eu: Basco
+      fi: Finlandês
+      fr: Francês
+      ga: Gaélico
+      he: 
+      hr: Croata
+      hu: Húngaro
+      is: Islandês
+      it: Italiano
+      lt: Lituano
+      lv: Letão
+      mt: Maltês
+      mul: 
+      nl: Holandês
+      'no': Norueguês
+      pl: Polaco
+      pt: Português
+      ro: Romeno
+      ru: Russo
+      sk: Eslovaco
+      sl: Esloveno
+      sr: 
+      sv: Sueco
+      tr: 
+      uk: Ucraniano
+      yi: 
     login: Entrar
     mission: Transformamos o mundo com cultura! Queremos construir sobre a rica herança cultural Europeia e tornar o seu uso mais fácil, seja para trabalhar, para aprender ou apenas para diversão.
     mission-title: A nossa missão

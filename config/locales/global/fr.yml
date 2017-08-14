@@ -507,6 +507,42 @@ fr:
     language-spanish: Espagnol
     language-swedish: Suédois
     language-ukranian: Ukrainien
+    languages:
+      bg: Bulgare
+      ca: Catalan
+      cs: Tchèque
+      da: Danois
+      de: Allemand
+      el: Grec
+      en: Anglais
+      es: Espagnol
+      et: Estonien
+      eu: Basque
+      fi: Finnois
+      fr: Français
+      ga: Gaélique
+      he: 
+      hr: Croate
+      hu: Hongrois
+      is: Islandais
+      it: Italien
+      lt: Lituanien
+      lv: Letton
+      mt: Maltais
+      mul: 
+      nl: Néerlandais
+      'no': Norvégien
+      pl: Polonais
+      pt: Portugais
+      ro: Roumain
+      ru: Russe
+      sk: Slovaque
+      sl: Slovène
+      sr: 
+      sv: Suédois
+      tr: 
+      uk: Ukrainien
+      yi: 
     login: S'identifier
     mission: On transforme le monde par la culture! Nous voulons construire sur le riche héritage culturel européen et donner aux gens la possibilité de le réutiliser facilement, pour leur travail, pour leur apprentissage personnel ou tout simplement pour s'amuser.
     mission-title: Notre mission

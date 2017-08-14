@@ -509,6 +509,42 @@ da:
     language-spanish: Spansk
     language-swedish: Svensk
     language-ukranian: Ukrainsk
+    languages:
+      bg: Bulgarisk
+      ca: Catalansk
+      cs: Tjekkisk
+      da: Dansk
+      de: Tysk
+      el: Græsk
+      en: Engelsk
+      es: Spansk
+      et: Estisk
+      eu: Basque
+      fi: Finsk
+      fr: Fransk
+      ga: Gælisk
+      he: 
+      hr: Kroatisk
+      hu: Ungarsk
+      is: Islandsk
+      it: Italiensk
+      lt: Litauisk
+      lv: Lettisk
+      mt: Maltesisk
+      mul: Flersprogede
+      nl: Hollandsk
+      'no': Norsk
+      pl: Polsk
+      pt: Portugisisk
+      ro: Rumænsk
+      ru: Russisk
+      sk: Slovakisk
+      sl: Slovensk
+      sr: 
+      sv: Svensk
+      tr: Tyrkisk
+      uk: Ukrainsk
+      yi: 
     login: Login
     mission: Vi ændre verden med kultur. Vi ønsker at bygge videre på den rige arv fra Europa og gøre det nemmere for folk at bruge uanset om det er til arbejde, uddannelse eller underholdning.
     mission-title: Vores mission

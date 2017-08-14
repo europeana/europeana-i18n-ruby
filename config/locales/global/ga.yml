@@ -511,6 +511,42 @@ ga:
     language-spanish: Spáinnis
     language-swedish: Sualainnis
     language-ukranian: Úcráinis
+    languages:
+      bg: Bulgáiris
+      ca: Catalóinis
+      cs: Seicis
+      da: Danmhairgis
+      de: Gearmáinis
+      el: Gréigis
+      en: Béarla
+      es: Spáinnis
+      et: Eastóinis
+      eu: Bascais
+      fi: Fionlainnis
+      fr: Fraincis
+      ga: Fraincis
+      he: 
+      hr: Cróitis
+      hu: Ungáiris
+      is: Íoslainnis
+      it: Iodáilis
+      lt: Liotuáinis
+      lv: Laitvis
+      mt: Máltais
+      mul: Ilteangach
+      nl: Ollainis
+      'no': Ioruais
+      pl: Polainnis
+      pt: Portaingéilis
+      ro: Rómáinis
+      ru: Rúisis
+      sk: Slóvacach
+      sl: Slóivéinis
+      sr: 
+      sv: Sualainnis
+      tr: 
+      uk: Úcráinis
+      yi: 
     login: Logáil isteach
     mission: Trasfhoirmíonn muid an domhan le cultúr! Ta sé mar chuspóir againn oidhreacht shaibhir an Eoraip a fhorbairt agus éascú le húsáid ag chuile duine don obair, don fhoghlaim, nó mar chaitheamh aimsire.
     mission-title: Ár misean

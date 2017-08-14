@@ -507,6 +507,42 @@ fi:
     language-spanish: Espanja
     language-swedish: Ruotsi
     language-ukranian: Ukraina
+    languages:
+      bg: Bulgaria
+      ca: Katalaani
+      cs: Tšekki
+      da: Tanska
+      de: Saksa
+      el: Kreikka
+      en: Englanti
+      es: Espanja
+      et: Viro
+      eu: Baski
+      fi: Suomi
+      fr: Ranska
+      ga: Iiri
+      he: עברית
+      hr: Kroaatti
+      hu: Unkari
+      is: Islanti
+      it: Italia
+      lt: Liettua
+      lv: Latvia
+      mt: Malta
+      mul: Monikielinen
+      nl: Hollanti
+      'no': Norja
+      pl: Puola
+      pt: Portugali
+      ro: Romania
+      ru: Venäjä
+      sk: Slovakki
+      sl: Sloveeni
+      sr: 
+      sv: Ruotsi
+      tr: 
+      uk: Ukraina
+      yi: 
     login: Kirjaudu
     mission: Muutamme maailmaa kulttuurilla! Haluamme rakentaa Euroopan rikasta kulttuuriperintöä ja tuoda sitä ihmisille käytettäväksi - työhön, oppimiseen tai vain huvin vuoksi.
     mission-title: Missiomme

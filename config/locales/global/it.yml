@@ -509,6 +509,42 @@ it:
     language-spanish: Spagnolo
     language-swedish: Svedese
     language-ukranian: Ucraino
+    languages:
+      bg: Bulgaro
+      ca: Catalano
+      cs: Ceco
+      da: Danese
+      de: Tedesco
+      el: Greco
+      en: Inglese
+      es: Spagnolo
+      et: Estone
+      eu: Basco
+      fi: Finlandese
+      fr: Francese
+      ga: Gaelico
+      he: 
+      hr: Croato
+      hu: Ungherese
+      is: Islandese
+      it: Italiano
+      lt: Lituano
+      lv: Lettone
+      mt: Maltese
+      mul: Multilingue
+      nl: Olandese
+      'no': Norvegese
+      pl: Polacco
+      pt: Portoghese
+      ro: Romeno
+      ru: Russo
+      sk: Slovacco
+      sl: Sloveno
+      sr: 
+      sv: Svedese
+      tr: 
+      uk: Ucraino
+      yi: 
     login: Login
     mission: 
     mission-title: La nostra missione

@@ -507,6 +507,42 @@ pl:
     language-spanish: Hiszpański
     language-swedish: Szwedzki
     language-ukranian: Ukraiński
+    languages:
+      bg: Bułgarski
+      ca: Kataloński
+      cs: Czeski
+      da: Duński
+      de: Niemiecki
+      el: Grecki
+      en: Angielski
+      es: Hiszpański
+      et: Estoński
+      eu: Baskijski
+      fi: Fiński
+      fr: Francuski
+      ga: Irlandzki
+      he: 
+      hr: Chorwacki
+      hu: Węgierski
+      is: Islandzki
+      it: Włoski
+      lt: Litewski
+      lv: Łotewski
+      mt: Maltański
+      mul: Wielojęzyczny
+      nl: Niderlandzki
+      'no': Norweski
+      pl: Polski
+      pt: Portugalski
+      ro: Rumuński
+      ru: Rosyjski
+      sk: Słowacki
+      sl: Słoweński
+      sr: 
+      sv: Szwedzki
+      tr: 
+      uk: Ukraiński
+      yi: 
     login: Login
     mission: Kulturą zmieniamy świat! Chcemy budować na bogatym dziedzictwie kulturowym Europy i ułatwić do niego dostęp, aby każdy miał szansę wykorzystać je w pracy, do nauki lub po prostu dla zabawy.
     mission-title: Nasza misja

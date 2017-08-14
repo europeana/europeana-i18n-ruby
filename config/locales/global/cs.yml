@@ -509,6 +509,42 @@ cs:
     language-spanish: Španělština
     language-swedish: Švédština
     language-ukranian: Ukrajinština
+    languages:
+      bg: Bulharština
+      ca: Katalánština
+      cs: Čeština
+      da: Dánština
+      de: Němčina
+      el: Řečtina
+      en: English
+      es: Španělština
+      et: Estonština
+      eu: Baskičtina
+      fi: Finština
+      fr: Francouzština
+      ga: Gaelština
+      he: עברית
+      hr: Chorvatština
+      hu: Maďarština
+      is: Islandština
+      it: Italština
+      lt: Lotyština
+      lv: Litevština
+      mt: Maltština
+      mul: Vícejazyčné
+      nl: Nizozemština
+      'no': Norština
+      pl: Polština
+      pt: Portugalština
+      ro: Rumunština
+      ru: Ruština
+      sk: Slovenština
+      sl: Slovinština
+      sr: Српски
+      sv: Švédština
+      tr: Türkçe
+      uk: Ukrajinština
+      yi: ייִדיש
     login: Přihlášení
     mission: Měníme svět kulturou! Chceme stavět na bohatém kulturním dědictví Evropy a usnadnit lidem jeho použití – k práci, studiu i jen pro zábavu.
     mission-title: Naše poslání

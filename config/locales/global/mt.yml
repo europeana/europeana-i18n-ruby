@@ -509,6 +509,42 @@ mt:
     language-spanish: Spanjol
     language-swedish: Svediż
     language-ukranian: Ukrain
+    languages:
+      bg: Bulgaru
+      ca: Katalan
+      cs: Ċek
+      da: Daniż
+      de: Germaniż
+      el: Grieg
+      en: Ingliż
+      es: Spanjol
+      et: Estonjan
+      eu: Bask
+      fi: Finlandiż
+      fr: Franċiż
+      ga: Gaelic
+      he: Hibru
+      hr: Kroat
+      hu: Ungariż
+      is: Iżlandiż
+      it: Taljan
+      lt: Litwan
+      lv: Latvjan
+      mt: Malti
+      mul: Aktar minn lingwa waħda
+      nl: Olandiż
+      'no': Norveġiż
+      pl: Pollakk
+      pt: Portugiż
+      ro: Rumen
+      ru: Russu
+      sk: Slovakk
+      sl: Sloven
+      sr: Serb
+      sv: Svediż
+      tr: Tork
+      uk: Ukrain
+      yi: Jiddix
     login: Irrifma biex tid
     mission: Aħna nittrasformaw id-dinja permezz tal-kultura! Rridu li nibnu fuq il-wirt għani tal-Ewropa u nagħmluha aktar faċli għal persuni li jużaw, kemm jekk għal xogħol, għat-tagħlim jew biss għall-gost.
     mission-title: Il-missjoni tagħna

@@ -509,6 +509,42 @@ es:
     language-spanish: Español
     language-swedish: Sueco
     language-ukranian: Ucraniano
+    languages:
+      bg: Búlgaro
+      ca: Catalán
+      cs: Checo
+      da: Danés
+      de: Alemán
+      el: Griego
+      en: Inglés
+      es: Español
+      et: Estonio
+      eu: Vasco
+      fi: Finés
+      fr: Francés
+      ga: Gaélico
+      he: Hebreo
+      hr: Croata
+      hu: Hungaro
+      is: Islandés
+      it: Italiano
+      lt: Lituano
+      lv: Letón
+      mt: Maltés
+      mul: Multilingüe
+      nl: Holandés
+      'no': Noruego
+      pl: Polaco
+      pt: Portugués
+      ro: Rumano
+      ru: Ruso
+      sk: Eslovaco
+      sl: Esloveno
+      sr: Serbio
+      sv: Sueco
+      tr: Turco
+      uk: Ucraniano
+      yi: Yidish
     login: Accede
     mission: "¡Transformamos el mundo a través de la cultura! Queremos aprovechar el enorme patrimonio cultural Europeo y que la gente pueda usarlo fácilmente para su trabajo, su aprendizaje o por puro placer.\n"
     mission-title: Nuestra misión

@@ -509,6 +509,42 @@ sl:
     language-spanish: Španščina
     language-swedish: Švedščina
     language-ukranian: Ukrajinščina
+    languages:
+      bg: Bolgarščina
+      ca: Katalanščina
+      cs: Češčina
+      da: Danščina
+      de: Nemščina
+      el: Grščina
+      en: Angleščina
+      es: Španščina
+      et: Estonščina
+      eu: Baskovščina
+      fi: Finščina
+      fr: Francoščina
+      ga: Galščina
+      he: עברית
+      hr: Hrvaščina
+      hu: Madžarščina
+      is: Islandščina
+      it: Italijanščina
+      lt: Litvanščina
+      lv: Latvijščina
+      mt: Malteščina
+      mul: Večjezični
+      nl: Nizozemščina
+      'no': Norveščina
+      pl: Poljščina
+      pt: Portugalščina
+      ro: Romunščina
+      ru: Ruščina
+      sk: Slovaščina
+      sl: Slovenščina
+      sr: Српски
+      sv: Švedščina
+      tr: Türkçe
+      uk: Ukrajinščina
+      yi: ייִדיש
     login: Prijava
     mission: Svet spreminjamo s kulturo! Želimo graditi na bogati evropski dediščini in ljudem olajšati njeno uporabo, bodisi za delo, za učenje ali samo za zabavo.
     mission-title: Naše poslanstvo

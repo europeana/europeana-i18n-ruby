@@ -507,6 +507,42 @@ lt:
     language-spanish: Ispanų
     language-swedish: Švedų
     language-ukranian: Ukrainiečių
+    languages:
+      bg: Bulgarų
+      ca: Katalonų
+      cs: Čekų
+      da: Danų
+      de: Vokiečių
+      el: Graikų
+      en: Anglų
+      es: Ispanų
+      et: Estų
+      eu: Baskų
+      fi: Suomių
+      fr: Prancūzų
+      ga: Airių
+      he: Hebrajų
+      hr: Kroatų
+      hu: Vengrų
+      is: Islandų
+      it: Italų
+      lt: Lietuvių
+      lv: Latvių
+      mt: Maltiečių
+      mul: Daugiakalbis
+      nl: Olandų
+      'no': Norvegų
+      pl: Lenkų
+      pt: Portugalų
+      ro: Rumunų
+      ru: Rusų
+      sk: Slovakų
+      sl: Slovėnų
+      sr: Serbų
+      sv: Švedų
+      tr: Turkų
+      uk: Ukrainiečių
+      yi: Jidiš
     login: Prisijungti
     mission: Mes keičiame pasaulį kultūros pagalba! Siekiame kurti turtingiausią Europos kultūrinio paveldo sistemą ir padaryti ją patogia naudotis tiek darbo, tiek mokslo, tiek laisvalaikio tikslais.
     mission-title: Mūsų misija
