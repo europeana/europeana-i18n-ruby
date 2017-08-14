@@ -610,9 +610,6 @@ pl:
     terms-and-policies: Regulamin i polityka prywatności
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

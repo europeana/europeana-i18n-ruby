@@ -610,9 +610,6 @@ el:
     terms-and-policies: Όροι και πολιτική χρήσης
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

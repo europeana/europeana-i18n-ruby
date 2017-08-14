@@ -610,9 +610,6 @@ nl:
     terms-and-policies: Gebruikersvoorwaarden
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

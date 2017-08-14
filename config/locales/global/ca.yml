@@ -610,9 +610,6 @@ ca:
     terms-and-policies: Termes d'ús i polítiques
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

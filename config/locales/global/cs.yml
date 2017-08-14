@@ -612,9 +612,6 @@ cs:
     terms-and-policies: Podmínky používání a zásady
     tooltips:
       channels:
-        galleries:
-          filter: Galerie můžete filtrovat zde.
-          info: Po umístění kurzoru se zobrazí více informací o galerii.
         home:
           new-galleries: Už jste navštívili naše nové galerie?
         search:

@@ -612,9 +612,6 @@ sl:
     terms-and-policies: Pogoji uporabe in pravilniki
     tooltips:
       channels:
-        galleries:
-          filter: Tukaj lahko filtrirate galerije.
-          info: Če želite izvedeti več o galeriji, lebdite prek nje z miško
         home:
           new-galleries: Ste raziskali naše nove galerije?
         search:

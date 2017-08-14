@@ -612,9 +612,6 @@ en:
     terms-and-policies: Terms of use & Policies
     tooltips:
       channels:
-        galleries:
-          filter: You can filter the galleries here.
-          info: Hover to find out more about a gallery
         home:
           new-galleries: Have you explored our new galleries?
         search:

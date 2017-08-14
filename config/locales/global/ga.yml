@@ -524,7 +524,7 @@ ga:
       eu: Bascais
       fi: Fionlainnis
       fr: Fraincis
-      ga: Fraincis
+      ga: Gaeilge
       he: 
       hr: Cróitis
       hu: Ungáiris
@@ -616,9 +616,6 @@ ga:
     terms-and-policies: Coinníollacha úsáide & Polasaithe
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

@@ -610,9 +610,6 @@ fr:
     terms-and-policies: 'Conditions générales d''utilisation '
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

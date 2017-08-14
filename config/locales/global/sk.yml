@@ -612,9 +612,6 @@ sk:
     terms-and-policies: Podmienky používania a postupy (politiky)
     tooltips:
       channels:
-        galleries:
-          filter: Tu si môžete filtrovať galérie.
-          info: Pohybom nad stránkou zistíte viac o galérii
         home:
           new-galleries: Preskúmali ste si naše nové galérie?
         search:

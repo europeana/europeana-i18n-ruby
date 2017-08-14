@@ -612,9 +612,6 @@ it:
     terms-and-policies: 'Condizioni e politiche di utilizzo '
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:
