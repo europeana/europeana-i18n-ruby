@@ -107,6 +107,7 @@ en:
         bio: Biography
         born: Born
         died: Died
+        learn_more: Learn more about
         related: Related
       tab_items:
         items_about: Items about %{name}

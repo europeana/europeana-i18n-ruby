@@ -107,6 +107,7 @@ sk:
         bio: Bio
         born: 
         died: 
+        learn_more: 
         related: Súvisiaci
       tab_items:
         items_about: Položky o %{name}

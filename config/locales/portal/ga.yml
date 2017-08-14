@@ -115,6 +115,7 @@ ga:
         bio: 
         born: 
         died: 
+        learn_more: 
         related: Gaolmhar
       tab_items:
         items_about: Míreanna faoi %{name}

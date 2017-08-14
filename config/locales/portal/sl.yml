@@ -107,6 +107,7 @@ sl:
         bio: Bio
         born: 
         died: 
+        learn_more: 
         related: Povezano
       tab_items:
         items_about: Predmeti o %{name}

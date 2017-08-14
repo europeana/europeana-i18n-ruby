@@ -107,6 +107,7 @@ cs:
         bio: Životopis
         born: 
         died: 
+        learn_more: 
         related: Související
       tab_items:
         items_about: Položky o autorovi %{name}
