@@ -166,7 +166,7 @@ sk:
       sign-out: Odhlásiť sa
       skip-to-main: Preskočiť na stránku s obsahom
       skip-to-section: Preskočiť na odsek
-      view: Pohľad (náhľad)
+      view: Pohľad
       view-at: Vidieť na
       view-more-at: 'Vidieť viac na '
       withdraw: odstrániť
@@ -211,7 +211,7 @@ sk:
           paintings:
             genre: Žáner
             medium: Médium
-      carrier: Doručovateľ (prepravca)
+      carrier: Doručovateľ
       colour: Farba
       colour-black-and-white: Čierna a biela
       country:
@@ -271,7 +271,7 @@ sk:
           type: Typ položky
         image_aspectratio: Orientácia
         image_colour: Paleta
-        image_size: Veľkosť (rozmer)
+        image_size: Rozmer
         intermediateprovider: Medziľahlý poskytovateľ
         language: Jazyk
         language_of_description: Jazyk popisu
@@ -350,13 +350,13 @@ sk:
         type: Typ
       reusability:
         advanced: Pokročilý
-        advanced-cc-by: CC BY (iba uvedenie autora)
-        advanced-cc-by-nc: CC BY-NC (uvedenie autora + nekomerčné použitie)
-        advanced-cc-by-nc-nd: CC BY-NC-ND (uvedenie autora + nekomerčné použitie + žiadne úpravy)
-        advanced-cc-by-nc-sa: CC BY-NC-SA (uvedenie autora + nekomerčné použitie + zachovanie licencie)
-        advanced-cc-by-nd: CC BY-ND (uvedenie autora + žiadne odvodené diela)
-        advanced-cc-by-sa: CC BY-SA (uvedenie autora + zachovanie licencie)
-        advanced-cc0: CC0 (žiadne autorské práva)
+        advanced-cc-by: CC BY
+        advanced-cc-by-nc: CC BY-NC
+        advanced-cc-by-nc-nd: CC BY-NC-ND
+        advanced-cc-by-nc-sa: CC BY-NC-SA
+        advanced-cc-by-nd: CC BY-ND
+        advanced-cc-by-sa: CC BY-SA
+        advanced-cc0: CC0
         advanced-orphan-work: Osirelé dielo
         advanced-out-of-copyright-non-commercial: 'Bez ochrany autorským právom - nekomerčné neobmedzené používanie '
         advanced-public: Označené ako voľne šíriteľné dielo
@@ -579,7 +579,7 @@ sk:
       datasets: Súbory údajov
       event: Udalosť
       events: Udalosti
-      exhibition: Výstava (ukážka)
+      exhibition: Výstava
       exhibitions: Výstavy (ukážky)
       featured_site: Špeciálna stránka
       featured_sites: špeciálne stránky
