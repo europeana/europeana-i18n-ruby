@@ -358,7 +358,7 @@ de:
       federated_more: 
       list:
         all-results:
-          3D: 
+          3D: 3D
           images: Bilder
           text: 
           video: 
@@ -374,7 +374,7 @@ de:
         more: Mehr
         more_adv: Erweiterte Filter
         per-page: 
-        product-3D: 
+        product-3D: 3D
         product-image: Bild
         product-sound: Audio
         product-text: 
