@@ -393,7 +393,7 @@ ga:
         'false': Níl
         'true': Tá
       type:
-        3d: 
+        3d: 3D
         image: Íomhá
         sound: Fuaim
         text: Téacs

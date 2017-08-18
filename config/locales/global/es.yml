@@ -391,7 +391,7 @@ es:
         'false': 
         'true': 
       type:
-        3d: 
+        3d: 3D
         image: Imagen
         sound: Sonido
         text: Texto
