@@ -5,14 +5,14 @@ ru:
         newcontent:
           description: Здесь Вы можете исследовать все последние дополнения к Europeana коллекций. Смотрите, какие учреждение культуры способствовало новые предметы, они добавили количество элементов и когда. Просто нажмите на ссылку ниже, чтобы узнать больше.
         sources:
-          description: 
+          description: Ниже вы видите список учреждений, которые внесли свой контент в Europeana Collections. Эти учреждения собирают и вносят свои данные в Europeana. Кликните по заинтересовавшей вас ссылке ниже, чтобы просмотреть коллекцию конкретного партнёра!
   global:
     labs-link: Cсылка на Labs
     navigation:
-      agents: 
+      agents: Люди
       all_blog_posts: Все сообщения
       all_exhibitions: Все выставки
-      all_galleries: 
+      all_galleries: Все галереи...
       blog: Блог
       browse: Просмотр
       browse_colours: Каталог цветов
@@ -20,19 +20,19 @@ ru:
       browse_sources: Источники
       channels: Коллекции
       collections: Коллекции
-      concepts: 
+      concepts: Темы
       exhibitions: Выставки
-      galleries: 
+      galleries: Галереи
       home: Домой
       more:
-        agents: 
+        agents: Люди
         people: Больше людей
-        periods: 
+        periods: Временные периоды
         topics: Дополнительные разделы
       periods: Периоды времени
       places: места
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Просмотреть всю коллекцию
+      view-detailed-description: Просмотреть подробное описание
     pro-link: Ссылка на Pro
     pro-text: Текст для Pro
     settings: Настройки
@@ -44,17 +44,17 @@ ru:
         title: Это Beta релиз наших новых проектов Collections и Music Collection и  Art Collections
     blog-link: Ссылка на блог
     blogs:
-      description: 
+      description: Блоги
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} сообщений в блоге из %{results_count}"
+        page-title: Блог
+      min-to-read: минут на прочтение
     browse:
       colours:
-        description: 
+        description: Поиск изображений по их цвету. Чтобы найти изображения, содержащие этот цвет, просто кликните на цветное окно ниже!
         title: Цвета
       newcontent:
-        description: 
+        description: 'Здесь вы можете изучить все последние поступления в Europeana Collections. Посмотрите, какие учреждения культуры внесли новые объекты, а также когда и сколько их добавили. Просто нажмите на ссылки ниже, чтобы узнать больше. '
         tableh1: Все организации
         tableh2: Элементы
         tableh3: Дата
@@ -64,13 +64,13 @@ ru:
         title: люди
       periods:
         description: Обзор за определенный период времени
-        title: 
+        title: Временные периоды
       sources:
-        description: 
+        description: Ниже вы видите список учреждений, которые внесли свой контент в Europeana Collections. Эти учреждения собирают и вносят свои данные в Europeana. Кликните по заинтересовавшей вас ссылке ниже, чтобы просмотреть коллекцию конкретного партнёра!
         title: Источники
       topics:
         description: Изучите наши коллекции по темам, темы или жанра.
-        title: 
+        title: Темы
     collections:
       art-history:
         description: От художников Возрождения до сюрреалистов, от древнеримской скульптуры до современного искусства, коллекция Europeana Art History знакомит Вас с художниками и произведениями искусства со всей Европы.
@@ -84,7 +84,7 @@ ru:
         sound: Звукозаписи
         texts: Тексты
       e7a1418:
-        contribute: 
+        contribute: Добавьте свой рассказ 1914-1918
         my-account: Мой аккаунт
       labels:
         credits: Курируется
@@ -92,38 +92,40 @@ ru:
         editors-picks: "  "
         recent: Последние новинки
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Исследовать <i>%{preview_title}</i> из %{collection}
         spotlight-on: В центре внимания
-        whats-happening: 
+        whats-happening: Что происходит
       music:
         description: <strong>Коллекция Europeana Music</strong> включает в себя лучшие музыкальные звукозаписи, нотный архив, а также другие коллекции, имеющие отношение к музыке, из других европейских аудио-визуальных архивов, библиотек, архивов и музеев. <a href="/portal/channels/music/about">Узнайте больше о Коллекция Europeana Music.</a>
         title: Europeana Music
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Рождение
+        death: Смерть
+        occupation: Профессия
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Биография
+        born: Родился
+        died: Умер
+        related: Связан
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Объекты о %{name}
+        items_by: Объекты по %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Человек
+        concept: Концепция
+        place: 'Место
+
+'
+      wiki_link_text: Ресурс, полученный из Викисклада
     events:
-      all_day: 
-      description: 
+      all_day: Весь день
+      description: События
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} событий из %{results_count}"
+        future: Предстоящие события
+        page-title: События
+        past: Прошедшие события
     facet:
       language:
         show:
@@ -133,45 +135,47 @@ ru:
         about: О нас
         become-a-provider: Станьте партнером
         contact: Контакты
-        contact-us: 
+        contact-us: Свяжитесь с нами
         copyright: Copyright
         data-providers: Все организации
         help: Помощь
         new-collections: Новые коллекции
         rights: Условия использования и Политика конфиденциальности
-        roadmap: 
+        roadmap: Новости разработки
         search-tips: Советы по поиску
         using-myeuropeana: My Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Культура специально для вас! Откройте для себя галереи Europeana!
+      description-default: Узнайте больше о Europeana
+      share:
+        one: Поделиться этой галереей
+        other: Поделиться галереями
     more: Еще...
     my-europeana: My Europeana
     my-europeana-link: Ссылка на My Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: Счет
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Блог
+        contribution: Вклад
+        contribution-attachment: Вложение
+        contribution-attachments: Вложения
+        contribution-done: сделано
+        contributor: Источник
+        events_list_breadcrumb: События
         exhibitions:
-          return_home: 
+          return_home: Выставки
         item_detail: Подробная информация
-        register: 
-        reset-password: 
+        register: Регистрация
+        reset-password: Сброс пароля
         results_list: Список результатов
-        results_list_mlt: 
+        results_list_mlt: Похожие объекты
         return_home: Домой
-        sign-in: 
+        sign-in: Войти
       search:
         placeholder:
-          text: 
+          text: Поиск по ключевым словам
     news: Новости
     object:
       actions:
@@ -180,12 +184,12 @@ ru:
         attribute-plaintext: Простой текст
         download: Скачать
         download-additional: Также доступно в формате
-        download-retry: 
-        download-started: 
+        download-retry: Повторить попытку
+        download-started: Загрузка началась
         downloaddata: Скачать данные
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Увеличить
+        explore-by-colour: Исследовать по цвету
+        media-metadata: Метаданные материала
         open-media: Открыть этот файл
         show-less-data: Меньше
         show-more-data: Больше
@@ -198,8 +202,8 @@ ru:
         view-items-above: Показать вышестоящие элементы
         view-items-below: Показать нижестоящие элементы
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Дополнительная информация о правах
+        annotations: Аннотации пользователя
         codec: Кодек
         collection-name: Набор данных
         concept: Концепция
@@ -231,7 +235,7 @@ ru:
         fps: Кадровая частота
         has-type: Тип
         identifier: Идентификатор
-        intermediate-provider: 
+        intermediate-provider: Промежуточный провайдер
         is-format-of: Является форматом для
         is-part-of: Является частью
         is-referenced-by: есть ссылка в
@@ -253,7 +257,7 @@ ru:
         provenance: Происхождение
         provided-by: Узнать больше
         provided-by-detail: Europeana отображает этот объект по ссылке %{institution_name_and_link}. Для более подробной информации посетите данный веб-сайт.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana отображает этот объект через
         provider: Организация
         providing-country: Страна
         publication-date: Дата публикации
@@ -263,7 +267,7 @@ ru:
         relations: Связи
         rights: Права
         rights-human: Могу ли я это использовать?
-        rights-statement: 
+        rights-statement: Заявление о правах
         runtime: В режиме реального времени
         runtime-unit-seconds: секунд(ы)
         source: Источник
@@ -310,7 +314,7 @@ ru:
         north: Север
         south: Юг
         west: Запад
-      preview_unavailable: 
+      preview_unavailable: Предварительный просмотр объекта недоступен, для доступа к полному изображению и дополнительной информации об элементе перейдите на %{institution_name_and_link}
       show-more-similar-items: показать больше
       similar-items: Похожие записи
     pages:
@@ -342,9 +346,9 @@ ru:
         product-save: Сохранить
         saveto: Сохранить в
         show-all-collections: Показать все коллекции
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Нажмите здесь, чтобы просмотреть результаты от источников кроме Europeana
+      federated-clicked: Объекты из источников кроме Europeana
+      federated_more: Показать все %{results_count} результаты от %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -352,7 +356,7 @@ ru:
           text: Текст
           video: Видео
         count-and-terms: "%{results_count}  результат(ов)"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} результатов из %{results_count}"
         empty: Нет результатов
         empty-with-terms: Ваш запрос для поиска %{query_terms} не нашел результатов
         header: Результаты для
@@ -362,7 +366,7 @@ ru:
         less_adv: Менее детально
         more: Больше
         more_adv: Расширенные фильтры
-        per-page: 
+        per-page: На страницу
         product-3D: 3D
         product-image: Изображение
         product-sound: Звук
@@ -370,20 +374,20 @@ ru:
         product-video: Видео
         results-relevance: Релевантность
         results-view:
-          grid: 
-          list: 
+          grid: Сетка
+          list: Список
         single-result: 1 результат для %{query_terms}
         view:
           grid: Сетка
           list: Список
         view-at-provider: 'Просмотреть на '
-      results: 
+      results: Результаты
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: Просмотр
+      or-browse: или просмотреть
+      page-title: Результаты поиска
       placeholder:
-        filter-text: 
+        filter-text: Искать
         text: Добавить поисковый термин
       similar:
         prefix: Имеет сходство с %{mlt_item}
@@ -392,7 +396,7 @@ ru:
         clear-selection: Очистить выделенние
         save-settings: Сохранить настройки
       language:
-        auto-translate-limit: 
+        auto-translate-limit: Можно выбрать максимум %{max_languages}
         auto-translate-page: Автоматически переводить страницы на
         auto-translate-page-short: Авто-перевод элементов на
         auto-translate-query: Автоматически переводить ключевые слова на...

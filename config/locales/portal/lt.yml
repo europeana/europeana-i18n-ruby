@@ -12,7 +12,7 @@ lt:
       agents: žmonės
       all_blog_posts: Visi įrašai
       all_exhibitions: Visos parodos
-      all_galleries: 
+      all_galleries: Visos galerijos...
       blog: Tinklaraštis
       browse: Ieškoti
       browse_colours: Spalvos
@@ -22,17 +22,17 @@ lt:
       collections: Kolekcijos
       concepts: tematika
       exhibitions: Parodos
-      galleries: 
+      galleries: Galerijos
       home: Pagrindinis
       more:
-        agents: 
+        agents: Žmonės
         people: Daugiau žmonių
         periods: 
         topics: Daugiau temų
       periods: laikotarpiai
       places: Lankytinos
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Peržiūrėti visą kolekciją
+      view-detailed-description: Peržiūrėti išsamesnį aprašymą
     pro-link: Nuoroda į Pro
     pro-text: Tekstas Europeana Pro
     settings: Nustatymai
@@ -44,17 +44,17 @@ lt:
         title: Tai mūsų naujųjų "Kolekcijų" ir "Muzikos kolekcijos" Beta versija
     blog-link: Nuoroda į tinklaraštį
     blogs:
-      description: 
+      description: Tinklaraštis
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} tinklaraščio pranešimai iš %{results_count}"
+        page-title: Tinklaraštis
+      min-to-read: minutės skaitymo
     browse:
       colours:
         description: Ieškoti vaizdų pagal jų spalvą. Tiesiog spustelėkite žemiau spalvotą dėžutę atrasti vaizdai, kurių sudėtyje yra šios spalvos!
         title: Spalvos
       newcontent:
-        description: 
+        description: 'Čia galite peržiūrėti visus naujausius „Europeana" kolekcijų papildymus. Pamatykite, kuri kultūros institucija pridėjo naujų objektų, kiek objektų ji pridėjo ir kada tai padarė. Paspauskite tolesnes nuorodas, kad sužinotumėte daugiau. '
         tableh1: Visos institucijos
         tableh2: Įrašai
         tableh3: Data
@@ -84,7 +84,7 @@ lt:
         sound: Garso įrašai
         texts: Tekstai
       e7a1418:
-        contribute: 
+        contribute: Pridėti savo 1914–1918 m. istoriją
         my-account: Mano sąskaita
       labels:
         credits: Kuruojama
@@ -92,38 +92,40 @@ lt:
         editors-picks: "  "
         recent: Naujausi papildymai
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Peržiūrėti <i>%{preview_title}</i>, esantį %{collection}
         spotlight-on: Dėmesio centre
-        whats-happening: 
+        whats-happening: Kas vyksta
       music:
         description: <strong>Europeana muzikos kolekcija</strong> sujungia geriausių muzikos įrašų, natų ir kitų, su muzika susijusių, įrašų kolekcijas iš daugelio Europos vaizdo ir garso archyvų, bibliotekų, muziejų bei archyvų. <a href="/portal/channels/music/about">Sužinokite daugiau apie muzikos kolekcija.</a>
         title: Europeana muzika
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Gimimas
+        death: Mirtis
+        occupation: Profesija
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biografija
+        born: Gimė
+        died: Mirė
+        related: Susiję
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Objektai apie %{name}
+        items_by: Objektai pagal %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Asmuo
+        concept: Koncepcija
+        place: 'Vieta
+
+'
+      wiki_link_text: Išteklius paimtas iš „Wikimedia Commons“
     events:
-      all_day: 
-      description: 
+      all_day: Visą dieną
+      description: Įvykiai
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} renginiai iš %{results_count}"
+        future: Būsimi renginiai
+        page-title: Įvykiai
+        past: Pasibaigę renginiai
     facet:
       language:
         show:
@@ -133,45 +135,45 @@ lt:
         about: Apie
         become-a-provider: Tapkite partneriu
         contact: Susisiekite
-        contact-us: 
+        contact-us: Susisiekite su mumis
         copyright: Autorinės teisės
         data-providers: Visos institucijos
         help: Pagalba
         new-collections: Naujos kolekcijos
         rights: Naudojimosi sąlygos ir privatumo politika
-        roadmap: 
+        roadmap: Kūrėjo atnaujinimai
         search-tips: Patarimai apie efektyvią paiešką
         using-myeuropeana: Naudojimasis mano Europeana
     galleries:
-      description: 
-      description-default: 
+      description: Jums parūpinta kultūra! Atraskite „Europeana“ galerijas!
+      description-default: Sužinokite daugiau apie „Europeana“
       share: 
     more: Daugiau...
     my-europeana: Mano Europeana
     my-europeana-link: Nuoroda į Mano Europeana
-    name: 
+    name: "„Europeana“ kolekcijos"
     navigation:
       breadcrumb:
         account: sąskaita
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Tinklaraštis
+        contribution: Pagalba
+        contribution-attachment: Priedas
+        contribution-attachments: Priedai
+        contribution-done: atlikta
+        contributor: Pagalbininkas
+        events_list_breadcrumb: Įvykiai
         exhibitions:
-          return_home: 
+          return_home: Parodos
         item_detail: Įrašo aprašymas
-        register: 
-        reset-password: 
+        register: Registruotis
+        reset-password: Atstatyti slaptažodį
         results_list: Rezultatų sąrašas
-        results_list_mlt: 
+        results_list_mlt: Panašūs objektai
         return_home: Grįžti į pagrindinį puslapį
-        sign-in: 
+        sign-in: Prisijungti
       search:
         placeholder:
-          text: 
+          text: Ieškoti pagal raktinį žodį čia
     news: Naujienos
     object:
       actions:
@@ -180,12 +182,12 @@ lt:
         attribute-plaintext: Paprastas tekstas
         download: Parsisiųsti
         download-additional: Taip pat prieinama kaip
-        download-retry: 
-        download-started: 
+        download-retry: Bandyti dar kartą
+        download-started: Pradėta parsisiųsti
         downloaddata: Parsisiųsti duomenis
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Padidinti
+        explore-by-colour: Peržiūrėti pagal spalvą
+        media-metadata: Medijos metaduomenys
         open-media: Atidaryti šią mediją
         show-less-data: Rodyti mažiau duomenų
         show-more-data: Rodyti daugiau duomenų
@@ -198,8 +200,8 @@ lt:
         view-items-above: Peržiūrėti įrašus esančius viršuje
         view-items-below: Peržiūrėti įrašus esančius apačioje
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Papildoma informacija apie teises
+        annotations: Naudotojo pastabos
         codec: Kodekai
         collection-name: Duomenų rinkinys
         concept: Koncepcija
@@ -231,7 +233,7 @@ lt:
         fps: Kadrai per sekundę
         has-type: Tipas
         identifier: Identifikatorius
-        intermediate-provider: 
+        intermediate-provider: Tarpinis teikėjas
         is-format-of: Yra formatas
         is-part-of: Yra dalis
         is-referenced-by: Nurodoma
@@ -253,7 +255,7 @@ lt:
         provenance: Kilmė
         provided-by: Sužinokite daugiau
         provided-by-detail: Europeana atvaizduoja šį įrašą iš %{institution_name_and_link}. Daugiau informacijos rasite jų internetinėje svetainėje.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: "„Europeana“ rodo šį objektą pagal"
         provider: Tiekėjas
         providing-country: Šalis
         publication-date: Publikacijos data
@@ -263,7 +265,7 @@ lt:
         relations: Sąsajos
         rights: Teisės
         rights-human: Ar galiu tai naudoti?
-        rights-statement: 
+        rights-statement: Pranešimas apie teises
         runtime: Trukmė
         runtime-unit-seconds: sekundės
         source: Šaltinis
@@ -310,7 +312,7 @@ lt:
         north: Šiaurė
         south: Pietūs
         west: Vakarai
-      preview_unavailable: 
+      preview_unavailable: Objekto peržiūrėti negalima. Norėdami peržiūrėti visą nuotrauką arba gauti daugiau informacijos apie objektą, eikite į %{institution_name_and_link}
       show-more-similar-items: rodyti daugiau
       similar-items: Panašūs įrašai
     pages:
@@ -342,9 +344,9 @@ lt:
         product-save: Išsaugoti
         saveto: Išsaugoti į
         show-all-collections: Rodyti visas kolekcijas
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Paspauskite čia, kad peržiūrėtumėte rezultatus iš ne „Europeana“ šaltinių
+      federated-clicked: Objektai ne iš „Europeana“ šaltinių
+      federated_more: Peržiūrėti visus %{results_count} rezultatus %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -352,7 +354,7 @@ lt:
           text: Tekstai
           video: Video įrašai
         count-and-terms: "%{results_count} rezultatai"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} rezultatai iš %{results_count}"
         empty: Rezultatų nėra
         empty-with-terms: Rezultatų pagal jūsų paieškos užklausą %{query_terms} nerasta
         header: Rezultatai pagal užklausą
@@ -362,7 +364,7 @@ lt:
         less_adv: Mažiau detalių
         more: Daugiau
         more_adv: Papildomi filtrai
-        per-page: 
+        per-page: Pagal puslapį
         product-3D: 3D
         product-image: Vaizdas
         product-sound: Garsas
@@ -370,20 +372,20 @@ lt:
         product-video: Video įrašas
         results-relevance: Svarba
         results-view:
-          grid: 
-          list: 
+          grid: Tinklelis
+          list: Sąrašas
         single-result: 1 rezultatas pagal užklausą %{query_terms}
         view:
           grid: Tinklelis
           list: Sąsžrašas
         view-at-provider: Žiūrėti kaip
-      results: 
+      results: Rezultatai
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: Naršyti
+      or-browse: arba naršykite
+      page-title: Ieškoti rezultatų
       placeholder:
-        filter-text: 
+        filter-text: Ieškoti
         text: Pridėti paieškos sąlygų
       similar:
         prefix: 'Panašus į: %{mlt_item}'

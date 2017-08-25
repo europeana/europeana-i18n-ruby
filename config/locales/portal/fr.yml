@@ -12,7 +12,7 @@ fr:
       agents: Gens
       all_blog_posts: Tous les posts...
       all_exhibitions: Toutes les expositions...
-      all_galleries: 
+      all_galleries: Toutes les galeries...
       blog: Blog
       browse: Parcourir
       browse_colours: Par couleurs
@@ -22,7 +22,7 @@ fr:
       collections: Collections
       concepts: Les sujets
       exhibitions: Expositions
-      galleries: 
+      galleries: Galeries
       home: Accueil
       more:
         agents: 
@@ -31,8 +31,8 @@ fr:
         topics: Plus de sujets
       periods: Périodes de temps
       places: Places
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Voir toute la collection
+      view-detailed-description: Voir la description plus détaillée
     pro-link: ''
     pro-text: ''
     settings: Paramètres
@@ -44,17 +44,17 @@ fr:
         title: Ceci est une version beta des nouveaux Europeana Collections, Histoire de l'Art Collections et Europeana Collections Musique
     blog-link: lien vers le blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} articles de blog"
+        page-title: Blog
+      min-to-read: minutes de lecture
     browse:
       colours:
         description: Recherche d&#39;images en fonction de leur couleur. Cliquez simplement sur une zone de couleur ci-dessous pour découvrir des images contenant cette couleur!
         title: Couleurs
       newcontent:
-        description: 
+        description: 'Ici, vous pouvez explorer tous les ajouts récents des collections Europeana. Visualisez quelle institution culturelle a ajouté de nouveaux objets, le nombre d''objets ajoutés et quand. Cliquez simplement sur les liens en dessous pour en savoir plus. '
         tableh1: Toutes les institutions
         tableh2: Articles
         tableh3: Date
@@ -92,38 +92,38 @@ fr:
         editors-picks: "  "
         recent: Ajouts récents
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Explorez <i>%{preview_title}</i> sur %{collection}
         spotlight-on: Lumière sur
-        whats-happening: 
+        whats-happening: Ce qui se passe
       music:
         description: '<strong>Europeana Collections: Musique</strong> rassemble les meilleurs enregistrements musicaux, partitions de musique, et autres collections musicales des archives audiovisuelles, bibliothèques, musées européens. <a href="/portal/channels/music/about">En savoir plus sur Europeana Collections: Musique</a>'
         title: Europeana Musique
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Naissance
+        death: Mort
+        occupation: Profession
       labels:
-        bio: 
+        bio: Biographie
         born: 
         died: 
-        related: 
+        related: Associé
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Objets à propos de %{name}
+        items_by: Objets de %{name}
       types:
-        agent: 
-        concept: 
+        agent: Personne
+        concept: Concept
         place: 
-      wiki_link_text: 
+      wiki_link_text: Ressource issue de Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Toute la journée
+      description: 'Événements '
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} événements"
+        future: Événements à venir
+        page-title: 'Événements '
+        past: Événements passés
     facet:
       language:
         show:
@@ -143,35 +143,35 @@ fr:
         search-tips: Conseils pour la recherche
         using-myeuropeana: Utiliser My Europeana
     galleries:
-      description: 
-      description-default: 
+      description: La culture pour vous ! Découvrez les galeries Europeana !
+      description-default: Apprenez-en plus sur Europeana
       share: 
     more: Plus...
     my-europeana: 
     my-europeana-link: lien vers my Europeana
-    name: 
+    name: Collections Europeana
     navigation:
       breadcrumb:
         account: compte
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Contribution
+        contribution-attachment: Pièce jointe
+        contribution-attachments: Pièces jointes
+        contribution-done: terminé
+        contributor: Contributeur
+        events_list_breadcrumb: 'Événements '
         exhibitions:
-          return_home: 
+          return_home: Expositions
         item_detail: Informations sur l'objet
-        register: 
-        reset-password: 
+        register: Inscription
+        reset-password: Réinitialiser votre mot de passe
         results_list: Liste de résultats
-        results_list_mlt: 
+        results_list_mlt: Objets similaires
         return_home: Retour à la page d'accueil
-        sign-in: 
+        sign-in: Connexion
       search:
         placeholder:
-          text: 
+          text: Rechercher par mot-clé ici
     news: Nouvelles
     object:
       actions:
@@ -180,12 +180,12 @@ fr:
         attribute-plaintext: Texte brut
         download: Télécharger
         download-additional: Aussi disponible comme suit
-        download-retry: 
-        download-started: 
+        download-retry: Réessayer
+        download-started: Le téléchargement a débuté
         downloaddata: Télécharger les données
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Agrandir
+        explore-by-colour: Explorer par couleur
+        media-metadata: Métadonnées média
         open-media: Ouvrir ce contenu
         show-less-data: Voir moins de données
         show-more-data: Voir plus de données
@@ -198,8 +198,8 @@ fr:
         view-items-above: voir les objets au-dessus
         view-items-below: voir les objets en dessous
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Informations supplémentaires concernant les droits
+        annotations: Annotations utilisateur
         codec: Codec
         collection-name: Dataset
         concept: Concept
@@ -231,7 +231,7 @@ fr:
         fps: Images par seconde
         has-type: A pour type
         identifier: Identifiant
-        intermediate-provider: 
+        intermediate-provider: Fournisseur
         is-format-of: Est un format de
         is-part-of: Est une partie de
         is-referenced-by: Est référencé par
@@ -253,7 +253,7 @@ fr:
         provenance: Provenance
         provided-by: En savoir plus
         provided-by-detail: 'Cet objet est accessible sur Europeana à partir de %{institution_name_and_link}. Rendez-vous sur leur site pour plus d''information. '
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana affiche cet objet via
         provider: Aggrégateur
         providing-country: Pays contributeur
         publication-date: Date de publication
@@ -263,8 +263,8 @@ fr:
         relations: Relations
         rights: Droits
         rights-human: Puis-je l'utiliser?
-        rights-statement: 
-        runtime: 
+        rights-statement: Déclaration concernant les droits
+        runtime: Durée d'exécution
         runtime-unit-seconds: secondes
         source: Source
         subject: Sujet
@@ -310,7 +310,7 @@ fr:
         north: Nord
         south: Sud
         west: Ouest
-      preview_unavailable: 
+      preview_unavailable: Aperçu de l'objet indisponible, pour accéder à l'image complète et obtenir plus d'informations sur l'objet, rendez-vous sur %{institution_name_and_link}
       show-more-similar-items: voir plus
       similar-items: Objets similaires
     pages:
@@ -342,9 +342,9 @@ fr:
         product-save: Enregistrer
         saveto: Enregistrer sous
         show-all-collections: Voir toutes les collections
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Cliquez ici pour voir les résultats de sources externes
+      federated-clicked: Objets de sources externes
+      federated_more: Voir tous les %{results_count} résultats sur %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -352,7 +352,7 @@ fr:
           text: Texte
           video: Vidéo
         count-and-terms: "%{results_count} résultats"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} résultats"
         empty: Pas de résultat
         empty-with-terms: 'Votre requête %{query_terms} n''a pas renvoyé de résultats '
         header: Résultats pour
@@ -362,7 +362,7 @@ fr:
         less_adv: Moins de filtres
         more: Plus
         more_adv: Filtres avancés
-        per-page: 
+        per-page: Par page
         product-3D: 3D
         product-image: Image
         product-sound: Son
@@ -370,20 +370,20 @@ fr:
         product-video: Vidéo
         results-relevance: Pertinence
         results-view:
-          grid: 
-          list: 
+          grid: Grille
+          list: Liste
         single-result: 1 résultat pour %{query_terms}
         view:
           grid: Grille
           list: Liste
         view-at-provider: Voir sur le site de
-      results: 
+      results: Résultats
     search:
       browse: Naviguez
       or-browse: ou naviguez
-      page-title: 
+      page-title: Résultats de recherche
       placeholder:
-        filter-text: 
+        filter-text: Rechercher
         text: Ajouter un terme à votre recherche
       similar:
         prefix: 'Similaire à: %{mlt_item}'
@@ -392,7 +392,7 @@ fr:
         clear-selection: Vider la sélection
         save-settings: Enregistrer les paramètres
       language:
-        auto-translate-limit: 
+        auto-translate-limit: Un maximum de %{max_languages} peut être sélectionné
         auto-translate-page: Traduire automatiquement les résultats de recherche en...
         auto-translate-page-short: Traduire automatiquement en..
         auto-translate-query: Traduire automatiquement les termes de recherche de recherche en..
