@@ -149,27 +149,27 @@ nl:
   global:
     about-us: Over ons
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Instorten
+      delete: Verwijderen
+      edit: Bewerken
+      expand: Uitbreiden
       filter-all: Allen filteren
       filter-by: Filter op
       fullscreen-enter: Volledig scherm
       fullscreen-exit: verlaat volledig scherm
-      new: 
+      new: Nieuw
       next: volgende
       previous: vorige
       register: Registreren
-      share: 
+      share: Delen
       sign-in: Inloggen
       sign-out: Uitloggen
       skip-to-main: Direct naar pagina-inhoud
       skip-to-section: Overslaan
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Bekijken
+      view-at: Bekijk op
+      view-more-at: 'Bekijk meer op '
+      withdraw: terugtrekken
     channel:
       all: Alles
       archaeology: Archeology
@@ -177,7 +177,7 @@ nl:
       art: Kunst
       art-history: Kunst
       fashion: Mode
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Home
       maps: kaarten
       music: Muziek
@@ -196,11 +196,11 @@ nl:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: e-mail adres
     error:
-      unavailable: 
+      unavailable: Niet beschikbaar
     facet:
       advanced:
         options: Opties
@@ -262,7 +262,7 @@ nl:
         country: Land
         data_provider: Instituut
         date-created: Datum gecreeërd
-        edm_ugc: 
+        edm_ugc: Toon inhoud die door gebruikers wordt bijgedragen.
         fashion:
           colour: Kleur
           designer: Designer
@@ -285,7 +285,7 @@ nl:
         sound_duration: Lengte
         sound_hq: Hoge Kwaliteit
         text_fulltext: Volledige tekst
-        thumbnail: 
+        thumbnail: Alleen items met miniatuurafbeeldingen
         type: Media
         ugc: Toon bijdragen door gebruikers
         video_duration: Video duur
@@ -364,17 +364,17 @@ nl:
         advanced-rrpa: 
         advanced-rrra: 
         advanced-rs-cne: Copyright Niet beoordeeld
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: In Auteursrecht
+        advanced-rs-inc-edu: In Auteursrecht - Onderwijsgebruik Toegestaan
+        advanced-rs-inc-ow-eu: In Auteursrecht - EU Verweesd Werk
+        advanced-rs-noc-nc: Geen Auteursrecht - Alleen voor Commercieel Gebruik
+        advanced-rs-noc-oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
         advanced-ucs: 
-        expiry: 
-        open: 
-        permission: 
+        expiry: tot %{date}
+        open: Gratis Hergebruiken
+        permission: Niet Hergebruiken
         restricted: 
-        rs_noc_oklr: 
+        rs_noc_oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
         simple: 
       sound_duration:
         long: Lang (6+ min)
@@ -388,8 +388,8 @@ nl:
         'false': Nee
         'true': Ja
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nee
+        'true': Ja
       type:
         3d: 3D
         image: Afbeelding
@@ -426,8 +426,8 @@ nl:
           medium: Medium (%{data})
           short: Kort (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nee
+        'true': Ja
       video_duration:
         long: Lang (20+ min)
         medium: Medium (4-20 min)
@@ -453,9 +453,9 @@ nl:
         correction: correctie
     find-us-elsewhere: Volg ons
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Volg %{channel}
     forgot-password: 'Wachtwoord kwijt? '
-    galleries: 
+    galleries: Galerijen
     genres: thema's
     genres-chamber-music: Kamer muziek
     genres-classical-music: Klassieke muziek
@@ -473,8 +473,8 @@ nl:
     home: Home
     javascript-required: 'Als u dit wilt zien, moet u Javascript toestaan en upgraden naar een web browser die HTML5 ondersteund. '
     labels:
-      by: 
-      images: 
+      by: door
+      images: afbeeldingen
     labs: Labs
     labs-text: Gebruik onze APIs en datasets
     language-basque: Baskisch
@@ -521,7 +521,7 @@ nl:
       fi: Fins
       fr: Frans
       ga: Iers
-      he: 
+      he: עברית
       hr: Kroatisch
       hu: Hongaars
       is: Ijslands
@@ -529,7 +529,7 @@ nl:
       lt: Litouws
       lv: Lets
       mt: Maltees
-      mul: 
+      mul: Meertalig
       nl: Nederlands
       'no': Noors
       pl: Pools
@@ -538,11 +538,11 @@ nl:
       ru: Russisch
       sk: Slovaaks
       sl: Sloveens
-      sr: 
+      sr: Српски
       sv: Zweeds
-      tr: 
+      tr: Türkçe
       uk: Ukraans
-      yi: 
+      yi: ייִדיש
     login: Aanmelden
     mission: 'Wij geloven dat cultuur de wereld een stukje beter maakt! Daarom verzamelen wij al het cultureel erfgoed en maken het online beschikbaar zodat u het kan gebruiken voor professionele, entertainment en leerdoeleinden. '
     mission-title: Onze missie
@@ -567,33 +567,33 @@ nl:
     professional: Professional
     professional-text: Doe mee; deel uw collectie met ons!
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Thematische collectie
+      collections: Thematische collecties
+      dataset: Gegevensverzameling
+      datasets: Gegevensverzamelingen
+      event: Evenement
+      events: Evenementen
+      exhibition: Tentoonstelling
+      exhibitions: Tentoonstellingen
+      featured_site: Aanbevolen site
+      featured_sites: Aanbevolen sites
+      galleries: Galerijen
+      gallery: Galerie
+      image: Afbeelding
+      images: Afbeeldingen
+      new: Wat is er nieuw
+      partner: Onze Partner
+      partners: Onze Partners
+      playlist: Afspeellijst
+      playlists: Afspeellijsten
+      stories: Verhalen
+      story: Verhaal
+      timeline: Tijdlijn
+      timelines: Tijdlijnen
     refine-your-search: Verfijn uw zoekresultaten
     refine-your-search-short: 
     register: Registreer
@@ -611,7 +611,7 @@ nl:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Heb je onze nieuwe galerijen al verkend?
         search:
           new-filter: U kunt nu filteren op specifieke info
           new-grid: Heb je de nieuwe grid gezien?

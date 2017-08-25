@@ -149,27 +149,27 @@ da:
   global:
     about-us: Om os
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Kollaps
+      delete: Slet
+      edit: Redigér
+      expand: Forstør
       filter-all: Alt
       filter-by: Filter med
       fullscreen-enter: Fuld skærm
       fullscreen-exit: exit fuld skærm
-      new: 
+      new: Ny
       next: Næste
       previous: tidligere
       register: Registrer
-      share: 
+      share: Del
       sign-in: Log ind
       sign-out: Log ud
       skip-to-main: Spring til sideindhold
       skip-to-section: Hop til afsnit
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Se
+      view-at: Se på
+      view-more-at: 'Se mere på '
+      withdraw: træk tilbage
     channel:
       all: Alle elementer
       archaeology: arkæologi
@@ -177,7 +177,7 @@ da:
       art: kunst
       art-history: Kunsthistorie
       fashion: mode
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Hjem (alt)
       maps: mapper
       music: Musik
@@ -196,11 +196,11 @@ da:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} før f.v.t"
+          current: "%{date} e.v.t"
     email-address: e-mail adresse
     error:
-      unavailable: 
+      unavailable: Utilgængelig
     facet:
       advanced:
         options: Muligheder
@@ -262,11 +262,11 @@ da:
         country: Land
         data_provider: Organisation
         date-created: Dato oprettet
-        edm_ugc: 
+        edm_ugc: Vis indhold, som brugere har bidraget med
         fashion:
           colour: farve
           designer: Designer
-          material: 
+          material: Materiale
           technique: Teknik
           type: Item typen
         image_aspectratio: Orientering
@@ -285,7 +285,7 @@ da:
         sound_duration: Varighed
         sound_hq: Høj kvalitet
         text_fulltext: Fuld tekst
-        thumbnail: 
+        thumbnail: Kun artikler med miniaturebilleder
         type: Medier
         ugc: Vis indhold genereret af brugerer
         video_duration: Varighed
@@ -364,17 +364,17 @@ da:
         advanced-rrpa: Rettigheder reserveret - Mod betaling
         advanced-rrra: Rettigheder reserveret - Begranset adgang
         advanced-rs-cne: Copyright ikke vurderet
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Beskyttet af ophavsret
+        advanced-rs-inc-edu: Beskyttet af ophavsret – Må anvendes til undervisningsbrug
+        advanced-rs-inc-ow-eu: Beskyttet af ophavsret – EU forældreløst værk
+        advanced-rs-noc-nc: Uden ophavsret – Kun ikke-kommerciel brug
+        advanced-rs-noc-oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
         advanced-ucs: Ubekendt ophavsrettigheder
-        expiry: 
-        open: 
+        expiry: indtil d. %{date}
+        open: Må bruges igen gratis
         permission: Kun med tilladdelse
         restricted: Ja med restriktioner
-        rs_noc_oklr: 
+        rs_noc_oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
         simple: Simpel
       sound_duration:
         long: Lang (6+ minutter)
@@ -388,8 +388,8 @@ da:
         'false': Nej
         'true': Ja
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nej
+        'true': Ja
       type:
         3d: 3D
         image: Billede
@@ -426,8 +426,8 @@ da:
           medium: Medium  (%{data})
           short: Kort  (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nej
+        'true': Ja
       video_duration:
         long: Lang  (20+ minutter)
         medium: Medium 4-(20 minutter)
@@ -440,7 +440,7 @@ da:
     feedback:
       close: Tæt
       error: 
-      open: 
+      open: Feedback
       placeholder: Lad os vide hvad du synes, og hvad vi kan forbedre. Hvis du ønsker at blive kontaktet, bedes du forlade din e-mailadresse her også!
       submit: Indsend
       thanks:
@@ -448,16 +448,16 @@ da:
         short: Tak!
       title: 
       type:
-        bug: 
+        bug: teknisk fejl
         comment: kommentar
         correction: rettelse
     find-us-elsewhere: Find os
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Følg %{channel}
     forgot-password: 'Glemt dit brugernavn?
 
 '
-    galleries: 
+    galleries: Gallerier
     genres: genre
     genres-chamber-music: Kamer musik
     genres-classical-music: Klassisk musik
@@ -475,8 +475,8 @@ da:
     home: Hjem
     javascript-required: 'For at kunne se dette indhold, venligst tillad brugen af Javascript og overvej at opgradere til en web browser, der støtter indhold fra HTML 5 '
     labels:
-      by: 
-      images: 
+      by: af
+      images: billeder
     labs: Labs
     labs-text: Mix kultur indhold med vore APIs og datasæt
     language-basque: Basque
@@ -523,7 +523,7 @@ da:
       fi: Finsk
       fr: Fransk
       ga: Gælisk
-      he: 
+      he: עברית
       hr: Kroatisk
       hu: Ungarsk
       is: Islandsk
@@ -540,11 +540,11 @@ da:
       ru: Russisk
       sk: Slovakisk
       sl: Slovensk
-      sr: 
+      sr: Српски
       sv: Svensk
       tr: Tyrkisk
       uk: Ukrainsk
-      yi: 
+      yi: ייִדיש
     login: Login
     mission: Vi ændre verden med kultur. Vi ønsker at bygge videre på den rige arv fra Europa og gøre det nemmere for folk at bruge uanset om det er til arbejde, uddannelse eller underholdning.
     mission-title: Vores mission
@@ -569,33 +569,33 @@ da:
     professional: Pro
     professional-text: Bliv involveret, del din data eller brug vores
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Tematisk samling
+      collections: Tematiske samlinger
+      dataset: Datasæt
+      datasets: Datasæt
+      event: Arrangement
+      events: Arrangementer
+      exhibition: Udstilling
+      exhibitions: Udstillinger
+      featured_site: Fremhævet side
+      featured_sites: Fremhævede sider
+      galleries: Gallerier
+      gallery: Galleri
+      image: Billede
+      images: Billeder
+      new: Nyheder
+      partner: Vores samarbejdspartner
+      partners: Vores samarbejdspartnere
+      playlist: Playliste
+      playlists: Playlister
+      stories: Fortællinger
+      story: Fortælling
+      timeline: Tidslinje
+      timelines: Tidslinjer
     refine-your-search: Forfin din søgning
     refine-your-search-short: 
     register: 'Registrér '
@@ -613,7 +613,7 @@ da:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Har du udforsket vores nye gallerier?
         search:
           new-filter: Du kan nu filtrere din søgning på specifik licens
           new-grid: Har du set den nye gitter layout?

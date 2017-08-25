@@ -149,27 +149,27 @@ bg:
   global:
     about-us: За нас
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Свиване
+      delete: Изтриване
+      edit: Редактиране
+      expand: Разширяване
       filter-all: Филтрира всички
       filter-by: Филтър по
       fullscreen-enter: Цял екран
       fullscreen-exit: Изход от цял ​​екран
-      new: 
+      new: Ново
       next: следващия
       previous: предишен
       register: Регистрирайте се
-      share: 
+      share: Споделяне
       sign-in: Влезте
       sign-out: Изход
       skip-to-main: Напред към съдържанието на страницата
       skip-to-section: Напред към раздел
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Преглед
+      view-at: Вижте в
+      view-more-at: 'Вижте още в '
+      withdraw: изтегляне
     channel:
       all: Всички предмети
       archaeology: Археология
@@ -177,7 +177,7 @@ bg:
       art: Изкуство
       art-history: История на изкуството
       fashion: Мода
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Начало
       maps: Карти
       music: Музика
@@ -196,11 +196,11 @@ bg:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: Имейл адрес
     error:
-      unavailable: 
+      unavailable: Не е налично
     facet:
       advanced:
         options: Опции
@@ -262,11 +262,11 @@ bg:
         country: Държава
         data_provider: Институция
         date-created: Дата на създаване
-        edm_ugc: 
+        edm_ugc: Покажи съдържание от потребителите
         fashion:
           colour: цвят
           designer: дизайнер
-          material: 
+          material: Материал
           technique: Техника
           type: тип на съоражението
         image_aspectratio: Ориентация
@@ -285,7 +285,7 @@ bg:
         sound_duration: Продължителност
         sound_hq: Високо качество
         text_fulltext: Пълен текст
-        thumbnail: 
+        thumbnail: Само елементи с миниатюри
         type: Медия
         ugc: Покажи генерирано от потребителите съдържание
         video_duration: Продължителност на видеото
@@ -364,17 +364,17 @@ bg:
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
         advanced-rs-cne: Copyright не са оценени
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Защитено от авторско право
+        advanced-rs-inc-edu: Защитено от авторско право – разрешено използване за образователни цели
+        advanced-rs-inc-ow-eu: Защитено от авторско право – осиротяло произведение в ЕС
+        advanced-rs-noc-nc: Без авторски права – само за некомерсиална употреба
+        advanced-rs-noc-oklr: Без авторски права – други известни правни ограничения
         advanced-ucs: Unknown copyright status
-        expiry: 
+        expiry: до %{date}
         open: Да, с посочване на авторските права
         permission: Само с разрешение
         restricted: Да, с ограничения
-        rs_noc_oklr: 
+        rs_noc_oklr: Без авторски права – други известни правни ограничения
         simple: Просто
       sound_duration:
         long: Дълъг (6+ мин)
@@ -388,8 +388,8 @@ bg:
         'false': Не
         'true': Да
       thumbnail:
-        'false': 
-        'true': 
+        'false': Не
+        'true': Да
       type:
         3d: 3D
         image: Изображение
@@ -426,8 +426,8 @@ bg:
           medium: Среден (%{data})
           short: Кратък (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Не
+        'true': Да
       video_duration:
         long: Дълъг (20+ мин)
         medium: Среден (4-20 мин)
@@ -440,7 +440,7 @@ bg:
     feedback:
       close: Близо
       error: 
-      open: 
+      open: Обратна връзка
       placeholder: Кажете ни какво мислите и какво можем да подобрим. Ако искате да се свържете с тях, моля, оставете вашия имейл адрес тук също!
       submit: Подайте
       thanks:
@@ -448,14 +448,14 @@ bg:
         short: Благодаря!
       title: 
       type:
-        bug: 
+        bug: бъг
         comment: коментар
         correction: корекция
     find-us-elsewhere: Други наши страници
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Следвайте %{channel}
     forgot-password: Забравена парола?
-    galleries: 
+    galleries: Галерии
     genres: жанрове
     genres-chamber-music: Камерна музика
     genres-classical-music: Класическа музика
@@ -473,8 +473,8 @@ bg:
     home: Начало
     javascript-required: За да видите това съдържание, моля разрешете ползването на JavaScript и обмислете инсталирането на браузер, който поддържа HTML5 съдържание.
     labels:
-      by: 
-      images: 
+      by: от
+      images: изображения
     labs: Лаборатории
     labs-text: Експериментирайте с културно съдържание чрез нашите APIs & бази данни
     language-basque: Баскски
@@ -521,7 +521,7 @@ bg:
       fi: Финландски
       fr: Френски
       ga: Келтски
-      he: 
+      he: עברית
       hr: Хърватски
       hu: Унгарски
       is: Исландски
@@ -529,7 +529,7 @@ bg:
       lt: Литовски
       lv: Латвийски
       mt: Малтийски
-      mul: 
+      mul: Многоезичен
       nl: Холандски
       'no': Норвежки
       pl: Полски
@@ -538,11 +538,11 @@ bg:
       ru: Руски
       sk: Словашки
       sl: Словенски
-      sr: 
+      sr: Српски
       sv: Шведски
-      tr: 
+      tr: Türkçe
       uk: Украински
-      yi: 
+      yi: ייִדיש
     login: Вход
     mission: Ние променяме света чрез културата! Нашата цел е да осигурим по-лесен достъп и използване на европейското културно наследство за работа, обучение или удоволствие.
     mission-title: Нашата мисия
@@ -567,33 +567,33 @@ bg:
     professional: Pro
     professional-text: Включете се, споделете своите данни или използвайте нашите
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Приложение
+      apps: Приложения
+      blog: Блог
+      blogs: Блогове
+      collection: Тематична колекция
+      collections: Тематични колекции
+      dataset: Масив от данни
+      datasets: Масиви от данни
+      event: Събитие
+      events: Събития
+      exhibition: Изложение
+      exhibitions: Изложения
+      featured_site: Избран сайт
+      featured_sites: Избрани сайтове
+      galleries: Галерии
+      gallery: Галерия
+      image: Изображение
+      images: Изображения
+      new: Какво ново
+      partner: Наш партньор
+      partners: Наши партньори
+      playlist: Плейлист
+      playlists: Плейлисти
+      stories: Истории
+      story: История
+      timeline: Времева линия
+      timelines: Времеви линии
     refine-your-search: Стеснете търсенето
     refine-your-search-short: 
     register: Регистрация
@@ -611,7 +611,7 @@ bg:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Разгледахте ли нашите нови галерии?
         search:
           new-filter: Сега можете да филтрирате търсенето си със специален лиценз
           new-grid: Виждали ли сте новото оформление мрежа?

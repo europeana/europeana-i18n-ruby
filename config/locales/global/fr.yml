@@ -149,27 +149,27 @@ fr:
   global:
     about-us: À propos
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Réduire
+      delete: Supprimer
+      edit: Éditer
+      expand: Agrandir
       filter-all: Filtrer tout
       filter-by: Filtrer par
       fullscreen-enter: Plein écran
       fullscreen-exit: Quitter le mode plein écran
-      new: 
+      new: Nouveau
       next: prochain
       previous: précédent
       register: Enregistrez-vous
-      share: 
+      share: Partager
       sign-in: Identifiez-vous
       sign-out: Déconnexion
       skip-to-main: Passer au contenu de la page
       skip-to-section: Passer à la section
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Visualiser
+      view-at: Visualiser à
+      view-more-at: 'Pour en savoir plus '
+      withdraw: retirer
     channel:
       all: Tous les articles
       archaeology: archéologie
@@ -177,7 +177,7 @@ fr:
       art: art
       art-history: Histoire de l'Art
       fashion: mode
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Accueil
       maps: cartes
       music: Musique
@@ -196,11 +196,11 @@ fr:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} Avant J.-C."
+          current: "%{date} De notre ère"
     email-address: adresse email
     error:
-      unavailable: 
+      unavailable: Indisponible
     facet:
       advanced:
         options: Options
@@ -262,17 +262,17 @@ fr:
         country: Pays
         data_provider: Institution
         date-created: Date créée
-        edm_ugc: 
+        edm_ugc: Montrer le contenu ajouté par les utilisateurs
         fashion:
           colour: couleur
           designer: Designer
-          material: 
+          material: Documentation
           technique: Technique
           type: type d'objet
         image_aspectratio: Orientation
         image_colour: Palette
         image_size: Taille
-        intermediateprovider: 
+        intermediateprovider: Prestataire Intermédiaire
         language: Langue
         language_of_description: Langue de la description
         media: Seulement les objets avec un lien direct vers le contenu
@@ -285,7 +285,7 @@ fr:
         sound_duration: Durée
         sound_hq: Haute qualité
         text_fulltext: Texte intégral
-        thumbnail: 
+        thumbnail: Uniquement les sections avec les vignettes
         type: Media
         ugc: Voir le contenu généré par les utilisateurs
         video_duration: Durée de la vidéo
@@ -364,17 +364,17 @@ fr:
         advanced-rrpa: 
         advanced-rrra: 
         advanced-rs-cne: Droit d&#39;auteur non évalué
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: En Copyright
+        advanced-rs-inc-edu: En Copyright - Usage Pédagogique Autorisé
+        advanced-rs-inc-ow-eu: 'En Copyright - Œuvres Orphelines Européennes '
+        advanced-rs-noc-nc: Pas de Copyright - Usage Non Commercial Uniquement
+        advanced-rs-noc-oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
         advanced-ucs: 
-        expiry: 
+        expiry: jusqu'à %{date}
         open: Oui avec attribution
         permission: Seulement avec permission
         restricted: Oui avec des restrictions
-        rs_noc_oklr: 
+        rs_noc_oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
         simple: Simple
       sound_duration:
         long: Longue (6+ min)
@@ -388,8 +388,8 @@ fr:
         'false': Non
         'true': Oui
       thumbnail:
-        'false': 
-        'true': 
+        'false': Non
+        'true': Oui
       type:
         3d: 3D
         image: Image
@@ -426,8 +426,8 @@ fr:
           medium: Moyenne (%{data})
           short: Courte (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Non
+        'true': Oui
       video_duration:
         long: Longue (20+ min)
         medium: Moyenne (4-20 min)
@@ -453,9 +453,9 @@ fr:
         correction: correction
     find-us-elsewhere: Retrouvez-nous ailleurs
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Suivre %{channel}
     forgot-password: Vous avez oublié votre mot de passe ?
-    galleries: 
+    galleries: Galeries
     genres: genres
     genres-chamber-music: Musique de chambre
     genres-classical-music: Musique classique
@@ -473,8 +473,8 @@ fr:
     home: Accueil
     javascript-required: Pour voir ce contenu, activez l'option JavaScript si elle est désactivée; nous vous recommandons de mettre à niveau votre navigateur avec une version compatible avec HTML5.
     labels:
-      by: 
-      images: 
+      by: par
+      images: images
     labs: 
     labs-text: Réutilisez notre contenu par nos APIs et datasets
     language-basque: Basque
@@ -521,7 +521,7 @@ fr:
       fi: Finnois
       fr: Français
       ga: Gaélique
-      he: 
+      he: עברית
       hr: Croate
       hu: Hongrois
       is: Islandais
@@ -529,7 +529,7 @@ fr:
       lt: Lituanien
       lv: Letton
       mt: Maltais
-      mul: 
+      mul: Multilingue
       nl: Néerlandais
       'no': Norvégien
       pl: Polonais
@@ -538,9 +538,9 @@ fr:
       ru: Russe
       sk: Slovaque
       sl: Slovène
-      sr: 
+      sr: Српски
       sv: Suédois
-      tr: 
+      tr: Türkçe
       uk: Ukrainien
       yi: 
     login: S'identifier
@@ -567,33 +567,33 @@ fr:
     professional: 
     professional-text: Participez, partagez vos données ou utilisez les nôtres
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Appli
+      apps: Applis
+      blog: Blogue
+      blogs: Blogues
+      collection: Collection thématique
+      collections: Collections thématiques
+      dataset: Ensemble de données
+      datasets: Ensembles de données
+      event: Évènement
+      events: Évènements
+      exhibition: Exposition
+      exhibitions: Expositions
+      featured_site: Site mis à disposition
+      featured_sites: Sites mis à disposition
+      galleries: Galeries
+      gallery: Galerie
+      image: Image
+      images: Images
+      new: Quoi de neuf
+      partner: Notre Partenaire
+      partners: Nos Partenaires
+      playlist: Playlist
+      playlists: Playlists
+      stories: Histoires
+      story: Histoire
+      timeline: Chronologie
+      timelines: Chronologie
     refine-your-search: Préciser la recherche
     refine-your-search-short: 
     register: S'enregistrer
@@ -611,7 +611,7 @@ fr:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Avez-vous parcouru nos nouvelles galeries ?
         search:
           new-filter: Vous pouvez désormais filtrer votre recherche sur une licence spécifique
           new-grid: Avez-vous vu la nouvelle disposition de grille?

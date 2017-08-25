@@ -149,27 +149,27 @@ sv:
   global:
     about-us: Om oss
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Mindre
+      delete: Radera
+      edit: Redigera
+      expand: Mer
       filter-all: filtrera alla
       filter-by: Filtrera efter
       fullscreen-enter: Fullskärm
       fullscreen-exit: Avsluta helskärmsläge
-      new: 
+      new: Nytt
       next: Nästa
       previous: tidigare
       register: Skapa användarkonto
-      share: 
+      share: Dela
       sign-in: Logga in
       sign-out: Logga ut
       skip-to-main: Hoppa till sidans innehåll
       skip-to-section: Hoppa till sektionen
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Visa
+      view-at: Visa på
+      view-more-at: 'Visa mer på '
+      withdraw: dra tillbaka
     channel:
       all: Alla objekt
       archaeology: arkeologi
@@ -177,7 +177,7 @@ sv:
       art: konst
       art-history: Konstens Historia
       fashion: mode
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Start
       maps: kartor
       music: Musik
@@ -196,11 +196,11 @@ sv:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} f.v.t. "
+          current: "%{date} e.v.t."
     email-address: e-postadress
     error:
-      unavailable: 
+      unavailable: Inte tillgänglig
     facet:
       advanced:
         options: Valmöjligheter
@@ -262,11 +262,11 @@ sv:
         country: Land
         data_provider: Institution
         date-created: Skapat datum
-        edm_ugc: 
+        edm_ugc: Visa innehåll som lagts upp av användare
         fashion:
           colour: Färg
           designer: Designer
-          material: 
+          material: Material
           technique: Teknik
           type: Objekttyp
         image_aspectratio: Orientering
@@ -285,7 +285,7 @@ sv:
         sound_duration: Längd
         sound_hq: Hög kvalitet
         text_fulltext: Fulltext
-        thumbnail: 
+        thumbnail: Endast objekt med miniatyrbilder
         type: Mediaformat
         ugc: Visa användarskapat innehåll
         video_duration: Längd
@@ -303,40 +303,40 @@ sv:
         medium: Medelstor (0.5-1MP)
         small: Liten (<0.5MP)
       language:
-        bg: 
+        bg: Bulgariska
         ca: Katalonien
-        cs: 
-        da: 
-        de: 
-        el: 
-        en: 
-        es: 
-        et: 
-        fi: 
-        fr: 
-        ga: 
-        he: 
-        hr: 
-        hu: 
-        is: 
+        cs: Tjeckiska
+        da: Danska
+        de: Tyska
+        el: Grekiska
+        en: Engelska
+        es: Spanska
+        et: Estniska
+        fi: Finska
+        fr: Franska
+        ga: Gaeliska
+        he: Hebreiska
+        hr: Kroatiska
+        hu: Ungerska
+        is: Isländska
         it: 
-        lt: 
+        lt: Litauiska
         lv: 
-        mt: 
+        mt: 'Maltesiska '
         mul: Flera språk
         nl: Nederlands
-        'no': 
-        pl: 
-        pt: 
-        ro: 
-        ru: 
-        sk: 
-        sl: 
-        sr: 
-        sv: 
-        tr: 
-        uk: 
-        yi: 
+        'no': Norska
+        pl: Polska
+        pt: Portugisiska
+        ro: Rumänska
+        ru: Ryska
+        sk: Slovakiska
+        sl: Slovenska
+        sr: Serbiska
+        sv: Svenska
+        tr: " Turkiska"
+        uk: Ukrainska
+        yi: Jiddisch
       less: Färre
       license:
         hide-specific: Dölja specifika uttalanden rättigheter
@@ -364,17 +364,17 @@ sv:
         advanced-rrpa: 
         advanced-rrra: 
         advanced-rs-cne: Copyright Inte utvärderat
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: I upphovsrätten
+        advanced-rs-inc-edu: I upphovsrätt - Tillåten i utbildningssyfte
+        advanced-rs-inc-ow-eu: I upphovsrätt - EU Orphan Work
+        advanced-rs-noc-nc: Ingen upphovsrätt - Endast för icke-kommersiell användning
+        advanced-rs-noc-oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
         advanced-ucs: 
-        expiry: 
+        expiry: till %{date}
         open: Ja, med attribuering
         permission: Enbart med tillstånd
         restricted: Ja, med vissa begränsingar
-        rs_noc_oklr: 
+        rs_noc_oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
         simple: Enkel
       sound_duration:
         long: Lång (6+ minuter)
@@ -383,13 +383,13 @@ sv:
         very_short: Mycket kort (<30s)
       sound_hq:
         'true': Ja
-      source: 
+      source: Källa
       text_fulltext:
         'false': Nej
         'true': Ja
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nej
+        'true': Ja
       type:
         3d: 3D
         image: Bild
@@ -426,8 +426,8 @@ sv:
           medium: Medellång (%{data})
           short: Kort (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nej
+        'true': Ja
       video_duration:
         long: Lång (20+ minuter)
         medium: Medellång (4-20 minuter)
@@ -440,7 +440,7 @@ sv:
     feedback:
       close: Stänga
       error: 
-      open: 
+      open: Feedback
       placeholder: Låt oss veta vad du tycker och vad vi kan förbättra. Om du vill bli kontaktad, lämna din e-postadress här också!
       submit: Lämna
       thanks:
@@ -453,7 +453,7 @@ sv:
         correction: korrektion
     find-us-elsewhere: Hitta oss också här
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Följ %{channel}
     forgot-password: Glömt ditt lösenord?
     galleries: Bildspel
     genres: genrer
@@ -473,7 +473,7 @@ sv:
     home: Hem
     javascript-required: För att se detta innehåll aktivera JavaScript och uppgradera till senare versioner av webbläsare som stödjer HTML5
     labels:
-      by: 
+      by: av
       images: bilder
     labs: Labs
     labs-text: Remixa kulturarvet med våra data och APIer
@@ -486,7 +486,7 @@ sv:
     language-dutch: Holländska
     language-english: Engelska
     language-estonian: Estniska
-    language-finnish: 
+    language-finnish: Finska
     language-french: Franska
     language-gaelic: Gaeliska
     language-german: Tyska
@@ -506,7 +506,7 @@ sv:
     language-slovenian: Slovenska
     language-spanish: Spanska
     language-swedish: Svenska
-    language-ukranian: 
+    language-ukranian: Ukrainska
     languages:
       bg: Bulgariska
       ca: Katalanska
@@ -518,10 +518,10 @@ sv:
       es: Spanska
       et: Estniska
       eu: Baskiska
-      fi: 
+      fi: Finska
       fr: Franska
       ga: Gaeliska
-      he: 
+      he: Hebreiska
       hr: Kroatiska
       hu: Ungerska
       is: Isländska
@@ -538,11 +538,11 @@ sv:
       ru: Ryska
       sk: Slovakiska
       sl: Slovenska
-      sr: 
+      sr: Serbiska
       sv: Svenska
-      tr: 
-      uk: 
-      yi: 
+      tr: Turkiska
+      uk: Ukrainska
+      yi: Jiddisch
     login: Logga in
     mission: Vi förändrar världen med kultur! Vi vill bygga vidare på Europeas rika kulturarv och göra det enklare att använda i såväl arbete, utbildning och för nöjes skull.
     mission-title: Vårt uppdrag
@@ -567,33 +567,33 @@ sv:
     professional: Pro
     professional-text: Engagera dig, dela dina data eller använda våra
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Appar
+      blog: Blogg
+      blogs: Bloggar
+      collection: Tematisk samling
+      collections: Tematiska samlingar
+      dataset: Dataset
+      datasets: Datasets
+      event: Event
+      events: Evenemang
+      exhibition: Utställning
+      exhibitions: Utställningar
+      featured_site: Utvald webbplats
+      featured_sites: Utvalda webbplatser
+      galleries: Gallerier
+      gallery: Galleri
+      image: Bild
+      images: Bilder
+      new: Nyheter
+      partner: Vår partner
+      partners: Våra partners
+      playlist: Spellista
+      playlists: Spellistor
+      stories: Berättelser
+      story: Berättelse
+      timeline: Tidslinje
+      timelines: Tidslinjer
     refine-your-search: Förfina din sökning
     refine-your-search-short: Filter
     register: Registrera dig
@@ -611,9 +611,9 @@ sv:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Har du kollat in våra nya gallerier?
         search:
-          new-filter: 
+          new-filter: Du kan nu filtrera din sökning efter en specifik licens
           new-grid: Har du sett den nya rutnätslayout?
     type: typ
   'no': Norge

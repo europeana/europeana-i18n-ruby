@@ -149,27 +149,27 @@ ru:
   global:
     about-us: О нас
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Свернуть
+      delete: Удалить
+      edit: Редактировать
+      expand: Расширить
       filter-all: Фильтр все
       filter-by: Сортировать по
       fullscreen-enter: Полноэкранный
       fullscreen-exit: Выход из полноэкранного режима
-      new: 
+      new: Новое
       next: следующий
       previous: предыдущий
       register: Зарегистрироваться
-      share: 
+      share: Поделиться
       sign-in: Войти в аккаунт
       sign-out: Выйти
       skip-to-main: Перейти к содержанию страницы
       skip-to-section: Перейти в раздел
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Посмотреть
+      view-at: Посмотреть на
+      view-more-at: 'Посмотреть еще на '
+      withdraw: Изъять
     channel:
       all: Все детали
       archaeology: Археология
@@ -177,7 +177,7 @@ ru:
       art: Искусство
       art-history: История Искусств
       fashion: Мода
-      first-world-war: 
+      first-world-war: Европейская цифровая библиотека Europeana 1914-1918
       home: Домой
       maps: Карты
       music: Музыка
@@ -196,11 +196,11 @@ ru:
     date:
       eras:
         gregorian:
-          before: 
+          before: "%{date} До Н.Э."
           current: 
     email-address: Адрес электронной почты
     error:
-      unavailable: 
+      unavailable: Недоступен
     facet:
       advanced:
         options: Опции
@@ -262,11 +262,11 @@ ru:
         country: Страна
         data_provider: Организация
         date-created: Дата создания
-        edm_ugc: 
+        edm_ugc: Показать материалы, предоставленные пользователями
         fashion:
           colour: цвет
           designer: Дизайнер
-          material: 
+          material: Материал
           technique: Техника
           type: Тип вещи
         image_aspectratio: Ориентация
@@ -285,7 +285,7 @@ ru:
         sound_duration: Продолжительность
         sound_hq: Высокое качество
         text_fulltext: Полный текст
-        thumbnail: 
+        thumbnail: Только объекты с миниатюрами
         type: Носитель
         ugc: Показать контент, добавленный пользователями
         video_duration: Длительность видео
@@ -364,17 +364,17 @@ ru:
         advanced-rrpa: ''
         advanced-rrra: ''
         advanced-rs-cne: Все права защищены Не определен
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Объект авторского права
+        advanced-rs-inc-edu: Объект авторского права - Разрешено использование в образовательных целях
+        advanced-rs-inc-ow-eu: Объект авторского права - Авторство в ЕС не установлено
+        advanced-rs-noc-nc: Не является объектом авторского права - Разрешено только некоммерческое использование
+        advanced-rs-noc-oklr: Не является объектом авторского права - Другие известные юридические ограничения
         advanced-ucs: ''
-        expiry: 
+        expiry: До %{date}
         open: Да с указанием правообладателя
         permission: Только с разрешения правообладателя
         restricted: Да с ограничениями
-        rs_noc_oklr: 
+        rs_noc_oklr: Не является объектом авторского права - Другие известные юридические ограничения
         simple: ''
       sound_duration:
         long: Длинный (6+ минут)
@@ -388,8 +388,8 @@ ru:
         'false': Нет
         'true': Да
       thumbnail:
-        'false': 
-        'true': 
+        'false': Нет
+        'true': Да
       type:
         3d: 3D
         image: Изображение
@@ -426,8 +426,8 @@ ru:
           medium: Средний (%{data})
           short: Короткий (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Нет
+        'true': Да
       video_duration:
         long: Длинный (20+ минут)
         medium: Средний (4 - 20 минут)
@@ -440,7 +440,7 @@ ru:
     feedback:
       close: Закрыть
       error: 
-      open: 
+      open: Обратная связь
       placeholder: Дайте нам знать, что вы думаете и что мы можем улучшить. Если вы хотите связаться, пожалуйста, оставьте свой адрес электронной почты здесь тоже!
       submit: Отправить
       thanks:
@@ -448,14 +448,14 @@ ru:
         short: Спасибо!
       title: 
       type:
-        bug: 
+        bug: Баг
         comment: комментарий
         correction: коррекция
     find-us-elsewhere: Вы также можете найти нас
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Следите за %{channel}
     forgot-password: Забыли пароль?
-    galleries: 
+    galleries: Галереи
     genres: Жанры
     genres-chamber-music: Камерная музыка
     genres-classical-music: Классическая музыка
@@ -473,8 +473,8 @@ ru:
     home: Домой
     javascript-required: Чтобы увидеть содержимое, пожалуйста, включите JavaScript в Вашем браузере и попробуйте обновить веб-браузер до версии, которая поддерживает HTML5.
     labels:
-      by: 
-      images: 
+      by: 'Автор:'
+      images: Изображения
     labs: Labs
     labs-text: Воспользуйтесь нашими API сервисами и коллекциями
     language-basque: Баскский
@@ -567,33 +567,35 @@ ru:
     professional: Pro
     professional-text: Принимайте участие, делитесь своими данными или используйте наши
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Приложение
+      apps: 'Приложения
+
+'
+      blog: Блог
+      blogs: Блоги
+      collection: Тематическая подборка
+      collections: Тематические подборки
+      dataset: Набор данных
+      datasets: Наборы данных
+      event: Событие
+      events: События
+      exhibition: Выставка
+      exhibitions: Выставки
+      featured_site: Представленный сайт
+      featured_sites: Представленные сайты
+      galleries: Галереи
+      gallery: Галерея
+      image: Изображение
+      images: Изображения
+      new: Что нового
+      partner: Наш партнер
+      partners: Наши партнеры
+      playlist: Список воспроизведения
+      playlists: Списки воспроизведения
+      stories: Рассказы
+      story: Рассказ
+      timeline: Хронологическая последовательность
+      timelines: Хронологические последовательности
     refine-your-search: Инструменты поиска
     refine-your-search-short: 
     register: Зарегистрируйтесь
@@ -611,7 +613,7 @@ ru:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Вы видели наши новые галереи?
         search:
           new-filter: Теперь вы можете фильтровать поиск по конкретной лицензии
           new-grid: Вы видели новый макет сетки?

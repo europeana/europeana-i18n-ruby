@@ -149,27 +149,27 @@ de:
   global:
     about-us: Über uns
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Einklappen
+      delete: Löschen
+      edit: Bearbeiten
+      expand: Ausklappen
       filter-all: Alle filtern
       filter-by: Filtern nach
       fullscreen-enter: Vollbild
       fullscreen-exit: Beenden Sie den Vollbildmodus
-      new: 
+      new: Neu
       next: Nächster
       previous: bisherige
       register: Registrieren
-      share: 
+      share: Teilen
       sign-in: Anmelden
       sign-out: Abmelden
       skip-to-main: Direkt zum Seiteninhalt
       skip-to-section: Weiter zum Abschnitt
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Ansehen
+      view-at: Ansehen bei
+      view-more-at: 'Mehr ansehen bei '
+      withdraw: zurücknehmen
     channel:
       all: Alle Elemente
       archaeology: 'Archäologie '
@@ -177,7 +177,7 @@ de:
       art: Kunst
       art-history: Kunstgeschichte
       fashion: Mode
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Startseite
       maps: Landkarten
       music: Musik
@@ -196,11 +196,11 @@ de:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} v. u. Z."
+          current: "%{date} u. Z."
     email-address: E-Mail-Adresse
     error:
-      unavailable: 
+      unavailable: Nicht verfügbar
     facet:
       advanced:
         options: Einstellungen
@@ -262,11 +262,11 @@ de:
         country: Land
         data_provider: Datengeber
         date-created: Datum erstellt
-        edm_ugc: 
+        edm_ugc: Inhalt der Nutzer anzeigen
         fashion:
           colour: Farbe
           designer: Mode-designer
-          material: 
+          material: Material
           technique: Technik
           type: Artikel typ
         image_aspectratio: Ausrichtung
@@ -285,7 +285,7 @@ de:
         sound_duration: Laufzeit
         sound_hq: Hohe Qualität
         text_fulltext: Volltext
-        thumbnail: 
+        thumbnail: Nur Objekte mit Thumbnails
         type: Medien
         ugc: Von Nutzern beigetragene Inhalte einbeziehen
         video_duration: Video Laufzeit
@@ -364,17 +364,17 @@ de:
         advanced-rrpa: ''
         advanced-rrra: ''
         advanced-rs-cne: Copyright nicht ausgewertet
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Unterliegt Urheberrecht
+        advanced-rs-inc-edu: Unterliegt Urheberrecht - Für Bildungszwecke erlaubt
+        advanced-rs-inc-ow-eu: Unterliegt Urheberrecht - EU Verwaiste Werke
+        advanced-rs-noc-nc: Kein Urheberrecht - Ausschließlich nichtkommerzielle Verwendung
+        advanced-rs-noc-oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
         advanced-ucs: ''
-        expiry: 
+        expiry: until %{date}
         open: Ja, mit Namensnennung
         permission: Nur mit Genehmigung
         restricted: Ja, mit Einschränkungen
-        rs_noc_oklr: 
+        rs_noc_oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
         simple: Einfach
       sound_duration:
         long: Lang (6+ min)
@@ -388,8 +388,8 @@ de:
         'false': Nein
         'true': Ja
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nein
+        'true': Ja
       type:
         3d: 3D
         image: Bild
@@ -426,8 +426,8 @@ de:
           medium: Mittel (%{data})
           short: Kurz (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nein
+        'true': Ja
       video_duration:
         long: Lang (20+ min)
         medium: Mittel (4-20 min)
@@ -455,9 +455,9 @@ de:
         correction: Korrektur
     find-us-elsewhere: Finden Sie uns an anderer Stelle
     find-us-social-media: "%{channel} finden auf Social Media-Websites"
-    follow-channel: 
+    follow-channel: "%{channel} folgen"
     forgot-password: Haben Sie Ihr Passwort vergessen?
-    galleries: 
+    galleries: Galerien
     genres: Gattungen
     genres-chamber-music: Kammermusik
     genres-classical-music: Klassische Musik
@@ -475,8 +475,8 @@ de:
     home: Startseite
     javascript-required: Um diese Inhalte zu sehen aktivieren Sie bitte JavaScript. Erwägen Sie zudem auf einen Web-Browser zurückzugreifen der HTML5-Inhalte unterstützt.
     labels:
-      by: 
-      images: 
+      by: von
+      images: Bilder
     labs: Labs
     labs-text: Remixen Sie kulturelle Inhalte mit unseren API & Datensätzen
     language-basque: Baskisch
@@ -523,7 +523,7 @@ de:
       fi: Finnisch
       fr: Französisch
       ga: Gälisch
-      he: 
+      he: עברית
       hr: Kroatisch
       hu: Ungarisch
       is: Isländisch
@@ -531,7 +531,7 @@ de:
       lt: Litauisch
       lv: Lettisch
       mt: Maltesisch
-      mul: 
+      mul: Multilingual
       nl: Niederländisch
       'no': Norwegisch
       pl: Polnisch
@@ -540,9 +540,9 @@ de:
       ru: Russisch
       sk: Slowakisch
       sl: Slowenisch
-      sr: 
+      sr: Српски
       sv: Schwedisch
-      tr: 
+      tr: Türkçe
       uk: Ukrainisch
       yi: 
     login: Einloggen
@@ -569,33 +569,33 @@ de:
     professional: Pro
     professional-text: Machen Sie mit, teilen Sie Ihre Daten oder benutzen Sie unsere
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Thematische Sammlung
+      collections: Thematische Sammlungen
+      dataset: Datensatz
+      datasets: Datensätze
+      event: Veranstaltung
+      events: Veranstaltungen
+      exhibition: Ausstellung
+      exhibitions: Ausstellungen
+      featured_site: 'Empfohlene Website '
+      featured_sites: 'Empfohlene Websites '
+      galleries: Galerien
+      gallery: Galerie
+      image: Bild
+      images: Bilder
+      new: Neuigkeiten
+      partner: Unser Partner
+      partners: Unsere Partner
+      playlist: Playlist
+      playlists: Playlists
+      stories: 'Geschichten '
+      story: Geschichte
+      timeline: Chronik
+      timelines: Chroniken
     refine-your-search: Suche verfeinern
     refine-your-search-short: 
     register: Anmelden
@@ -613,7 +613,7 @@ de:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Haben Sie schon unsere neuen Galerien erkundet?
         search:
           new-filter: Sie können nun Ihre Suche nach einer bestimmten Lizenz filtern
           new-grid: Haben Sie das neue Raster-Layout gesehen?

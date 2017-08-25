@@ -149,27 +149,27 @@ es:
   global:
     about-us: Sobre nosotros
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Reducir
+      delete: Borrar
+      edit: Editar
+      expand: Expandir
       filter-all: Todos
       filter-by: Filtrar por
       fullscreen-enter: pantalla completa
       fullscreen-exit: salir de pantalla completa
-      new: 
+      new: Nuevo
       next: siguiente
       previous: anterior
       register: Registrate
-      share: 
+      share: Compartir
       sign-in: 'Inicia sesión '
       sign-out: 'Cerrar sesión '
       skip-to-main: Saltar al contenido de la página
       skip-to-section: Saltar a la sección
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Ver
+      view-at: Ver en
+      view-more-at: 'Ver más en '
+      withdraw: retirar
     channel:
       all: Todas
       archaeology: arqueología
@@ -177,7 +177,7 @@ es:
       art: Historia del Arte
       art-history: Historia del Arte
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Inicio
       maps: mapas
       music: Música
@@ -196,11 +196,11 @@ es:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: dirección de correo electrónico
     error:
-      unavailable: 
+      unavailable: No disponible
     facet:
       advanced:
         options: Opciones
@@ -262,11 +262,11 @@ es:
         country: País
         data_provider: Institución
         date-created: Fecha de creacion
-        edm_ugc: 
+        edm_ugc: Mostrar contenido aportado por los usuarios
         fashion:
           colour: color
           designer: Diseñador
-          material: 
+          material: Material
           technique: técnica
           type: tipo de objeto
         image_aspectratio: Orientación
@@ -285,7 +285,7 @@ es:
         sound_duration: Duración
         sound_hq: Alta Calidad
         text_fulltext: Texto Completo
-        thumbnail: 
+        thumbnail: Solo artículos con miniaturas
         type: Multimedia
         ugc: Mostrar contenido generado por los usuarios
         video_duration: Duración de Video
@@ -364,17 +364,17 @@ es:
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
         advanced-rs-cne: Copyright No Evaluado
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Con derechos de autor (Copyright)
+        advanced-rs-inc-edu: 'Con derechos de autor (Copyright) - Permitido el uso educativo '
+        advanced-rs-inc-ow-eu: " Con derechos de autor (Copyright) - Obra huérfana UE"
+        advanced-rs-noc-nc: Sin derechos de autor (Copyright) - Solamente uso no comercial
+        advanced-rs-noc-oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
         advanced-ucs: Unknown copyright status
         expiry: hasta %{date}
         open: Sí con atribución
         permission: Solo con permiso
         restricted: Sí con restricciones
-        rs_noc_oklr: 
+        rs_noc_oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
         simple: Simple
       sound_duration:
         long: Largo (6+ min)
@@ -388,8 +388,8 @@ es:
         'false': 'No'
         'true': Sí
       thumbnail:
-        'false': 
-        'true': 
+        'false': 'No'
+        'true': Sí
       type:
         3d: 3D
         image: Imagen
@@ -426,8 +426,8 @@ es:
           medium: Medio (%{data})
           short: Corto (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': 'No'
+        'true': Sí
       video_duration:
         long: Largo (20+ min)
         medium: Medio (4-20 min)
@@ -455,9 +455,9 @@ es:
 
 '
     find-us-social-media: Encontrar %{channel} en las redes sociales
-    follow-channel: 
+    follow-channel: Seguir %{channel}
     forgot-password: Olvidaste tu contraseña?
-    galleries: 
+    galleries: Galerías
     genres: generos
     genres-chamber-music: 'Música de Cámara '
     genres-classical-music: Música Clásica
@@ -475,8 +475,8 @@ es:
     home: Casa
     javascript-required: Para ver este contenido, active por favor JavaScript  y considere actualizar su navegador para que soporte contenido HTML5
     labels:
-      by: 
-      images: 
+      by: por
+      images: imágenes
     labs: Labs
     labs-text: 'Remezcla contenido cultural con nuestros datos y API '
     language-basque: Vasco
@@ -569,33 +569,33 @@ es:
     professional: Profesional
     professional-text: Participa, comparte tus datos o usa los nuestros
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Aplicación (App)
+      apps: Aplicaciones (Apps)
+      blog: Blog
+      blogs: Blogs
+      collection: Colección temática
+      collections: Colecciones temáticas
+      dataset: Conjunto de datos
+      datasets: Conjuntos de datos
+      event: Evento
+      events: Eventos
+      exhibition: Exposición
+      exhibitions: Exposiciones
+      featured_site: Sitio destacado
+      featured_sites: Sitios destacados
+      galleries: Galerías
+      gallery: Galería
+      image: Imagen
+      images: Imágenes
+      new: Qué hay de nuevo
+      partner: Nuestro socio
+      partners: Nuestros socios
+      playlist: Lista de reproducción
+      playlists: Listas de reproducción
+      stories: Relatos
+      story: Relato
+      timeline: Cronograma
+      timelines: Cronogramas
     refine-your-search: Refina tu busqueda
     refine-your-search-short: Filtro
     register: Registrate
@@ -613,7 +613,7 @@ es:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: "¿Ha explorado nuestras nuevas galerías?"
         search:
           new-filter: Ahora puede filtrar su búsqueda sobre licencias específicas
           new-grid: "¿Has visto la nueva presentación en formato tabla?"
