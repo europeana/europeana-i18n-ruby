@@ -12,7 +12,7 @@ lv:
       agents: Cilvēki
       all_blog_posts: Visi bloga ieraksti...
       all_exhibitions: Visas izstādes...
-      all_galleries: 
+      all_galleries: Visas galerijas
       blog: Blogs
       browse: Pārlūkot
       browse_colours: Krāsas
@@ -22,12 +22,12 @@ lv:
       collections: Kolekcijas
       concepts: Tēmas
       exhibitions: Izstādes
-      galleries: 
+      galleries: Galerijas
       home: Sākums
       more:
-        agents: 
+        agents: Cilvēki
         people: Vairāk cilvēku
-        periods: 
+        periods: Laika periods
         topics: Vairāk tēmu
       periods: Laika periodi
       places: Vietas
@@ -44,7 +44,7 @@ lv:
         title: Šī ir  mūsu jauno "Kolekciju" un "Mūzikas kolekcijas" "Beta" versija
     blog-link: saite uz blogu
     blogs:
-      description: 
+      description: Blogi
       list:
         count-and-terms-with-range: "%{results_range} no %{results_count} bloga ierakstiem"
         page-title: Europeana blogs
@@ -92,7 +92,7 @@ lv:
         editors-picks: " "
         recent: Jaunākie papildinājumi
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Aplūkot <i>%{preview_title}</i> %{collection}
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
       music:
@@ -100,30 +100,32 @@ lv:
         title: Europeana mūzika
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Dzimšanas dati
+        death: Miršanas dati
+        occupation: Nodarbošanās
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biogrāfija
+        born: Dzimis
+        died: Miris
+        related: Saistīts
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Vienumi par %{name}
+        items_by: Vienumi pēc %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Persona
+        concept: Koncepts
+        place: 'Vieta
+
+'
+      wiki_link_text: Resursi iegūti no Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Visu dienu
+      description: Notikumi
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} no %{results_count} notikumi"
+        future: Gaidāmie notikumi
+        page-title: Notikumi
+        past: Pagājušie notikumi
     facet:
       language:
         show:
@@ -152,29 +154,29 @@ lv:
     more: Vairāk...
     my-europeana: Mana Europeana
     my-europeana-link: saite uz "Mana Europeana"
-    name: 
+    name: Europeana kolekcijas
     navigation:
       breadcrumb:
         account: konts
         blogs_list_breadcrumb: Blogs
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        contribution: Ieguldījums
+        contribution-attachment: Pielikums
+        contribution-attachments: Pielikumi
+        contribution-done: paveikts
+        contributor: Ieguldītājs
+        events_list_breadcrumb: Notikumi
         exhibitions:
           return_home: Izstādes
         item_detail: Ieraksts
-        register: 
-        reset-password: 
+        register: Reģistrēties
+        reset-password: Atiestatīt paroli
         results_list: Rezultāti
         results_list_mlt: Līdzīgi ieraksti
         return_home: Atgriezties uz sākumu
-        sign-in: 
+        sign-in: Pierakstīties
       search:
         placeholder:
-          text: 
+          text: Meklēt pēc atslēgvārda šeit
     news: Ziņas
     object:
       actions:
@@ -349,9 +351,9 @@ lv:
         product-save: Saglabāt
         saveto: Saglabāt
         show-all-collections: Rādīt visas kolekcijas
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: 'Klikšķināt šeit, lai skatītu rezultātus no avotiem ārpus Europeana  '
+      federated-clicked: Vienumi no avotiem ārpus Europeana
+      federated_more: Skatīt visus %{results_count} rezultātus %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -384,13 +386,13 @@ lv:
           grid: Tabula
           list: Saraksts
         view-at-provider: Skatīt
-      results: 
+      results: Rezultāti
     search:
       browse: Pārlūko
       or-browse: vai pārlūko
-      page-title: 
+      page-title: Meklēšanas rezultāti
       placeholder:
-        filter-text: 
+        filter-text: Meklēt
         text: Pievienot meklējamo vārdu
       similar:
         prefix: 'Līdzīgs: %{mlt_item}'

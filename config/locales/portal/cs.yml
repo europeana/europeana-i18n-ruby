@@ -25,7 +25,7 @@ cs:
       galleries: Galerie
       home: Domů
       more:
-        agents: 
+        agents: Lidé
         people: Více lidí
         periods: 
         topics: Více témat
@@ -105,17 +105,19 @@ cs:
         occupation: Povolání
       labels:
         bio: Životopis
-        born: 
-        died: 
+        born: Narozen/a
+        died: Zemřel/a
         related: Související
       tab_items:
         items_about: Položky o autorovi %{name}
         items_by: Položky od autora %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Osoba
+        concept: Pojmy
+        place: 'Místo
+
+'
+      wiki_link_text: Zdroj byl získán z Wikimedia Commons
     events:
       all_day: Celodenní
       description: Události
@@ -151,7 +153,7 @@ cs:
     more: Více...
     my-europeana: Moje Europeana
     my-europeana-link: Odkaz na web Moje Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: účet
@@ -387,7 +389,7 @@ cs:
     search:
       browse: Procházet
       or-browse: nebo procházet
-      page-title: 
+      page-title: Výsledky vyhledávání
       placeholder:
         filter-text: Hledat
         text: Přidat vyhledávací výraz

@@ -25,7 +25,7 @@ sk:
       galleries: Galérie
       home: Domov
       more:
-        agents: 
+        agents: Ľudia
         people: Viac ľudí
         periods: 
         topics: Viac tém
@@ -41,7 +41,7 @@ sk:
       feedback_banner:
         description: Beta verzia znamená, že táto webová stránka je v aktívnom vývoji a bude pravidelné aktualizovaná. Niekedy môže byť neprístupná (offline). Spätná väzba od vás nám pomôže zlepšovať našu stránku.
         link-text: Poskytujte nám svoje pripomienky!
-        title: 
+        title: Toto je beta verzia našich nových "Collections" a "Music Collections"
     blog-link: link na blog
     blogs:
       description: Blogy
@@ -105,17 +105,19 @@ sk:
         occupation: Povolanie
       labels:
         bio: Bio
-        born: 
-        died: 
+        born: Narodenie
+        died: Úmrtie
         related: Súvisiaci
       tab_items:
         items_about: Položky o %{name}
         items_by: Položky podľa %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Osoba
+        concept: Koncepcia
+        place: 'Miesto
+
+'
+      wiki_link_text: Zdroj získaný z Wikimedia Commons
     events:
       all_day: Celý deň
       description: Udalosti
@@ -151,7 +153,7 @@ sk:
     more: Viac...
     my-europeana: Moja Europeana
     my-europeana-link: link na Moja Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: účet
@@ -387,7 +389,7 @@ sk:
     search:
       browse: Prehľadávať
       or-browse: alebo prehľadávajte
-      page-title: 
+      page-title: Výsledky vyhľadávania
       placeholder:
         filter-text: Hľadať
         text: Vložte hľadaný výraz

@@ -25,9 +25,9 @@ sl:
       galleries: Galerije
       home: Domov
       more:
-        agents: 
+        agents: Osebe
         people: Več oseb
-        periods: 
+        periods: Časovna obdobja
         topics: Več tem
       periods: Časovna obdobja
       places: Mesta
@@ -105,17 +105,19 @@ sl:
         occupation: Poklic
       labels:
         bio: Bio
-        born: 
-        died: 
+        born: Rojstvo
+        died: Smrt
         related: Povezano
       tab_items:
         items_about: Predmeti o %{name}
         items_by: Predmeti po %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Oseba
+        concept: Koncept
+        place: 'Kraj
+
+'
+      wiki_link_text: Sredstva pridobljena pri Wikimedia Commons
     events:
       all_day: Ves dan
       description: Dogodki
@@ -151,7 +153,7 @@ sl:
     more: Več ...
     my-europeana: Moja Europeana
     my-europeana-link: povezava do Moja Europeana
-    name: 
+    name: Zbirke Europeana
     navigation:
       breadcrumb:
         account: račun
@@ -387,7 +389,7 @@ sl:
     search:
       browse: Brskajte
       or-browse: ali brskajte
-      page-title: 
+      page-title: Rezultati iskanja
       placeholder:
         filter-text: Išči
         text: Dodaj iskalni izraz

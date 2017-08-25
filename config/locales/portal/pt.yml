@@ -12,7 +12,7 @@ pt:
       agents: Pessoas
       all_blog_posts: Todos os Artigos...
       all_exhibitions: Todas as Exposições...
-      all_galleries: 
+      all_galleries: Todas as galerias...
       blog: Blogue
       browse: Explorar
       browse_colours: por Cores
@@ -22,17 +22,17 @@ pt:
       collections: Coleções
       concepts: Tópicos
       exhibitions: Exposições
-      galleries: 
+      galleries: Galerias
       home: Início
       more:
-        agents: 
+        agents: 'Pessoas '
         people: Mais pessoas
-        periods: 
+        periods: Períodos de tempo
         topics: Mais tópicos
       periods: Períodos de tempo
       places: Locais
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Visualizar toda a coleção
+      view-detailed-description: Visualizar descrição mais detalhada
     pro-link: ''
     pro-text: texto para Europeana Pro
     settings: Definições
@@ -44,17 +44,17 @@ pt:
         title: Esta é a versão Beta das novas Europeana Coleções, História da Arte Colecções e Europeana Coleções Música
     blog-link: ligação ao blogue
     blogs:
-      description: 
+      description: Blogues
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} de posts do blogue"
+        page-title: Blogue
+      min-to-read: 'minutos para ler '
     browse:
       colours:
         description: Pesquise imagens com base na sua cor. Basta clicar em uma caixa colorida abaixo para descobrir imagens que contenham essa cor!
         title: Cores
       newcontent:
-        description: 
+        description: 'Aqui, pode encontrar as mais recentes aquisições da Europeana Collections. Veja qual a instituição cultural que contribuiu com novos itens, o número de itens adicionados e quando.  Clique nos links em baixo para saber mais.  '
         tableh1: Todas as instituições
         tableh2: Itens
         tableh3: Data
@@ -92,38 +92,40 @@ pt:
         editors-picks: "  "
         recent: Adições recentes
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Encontrar <i>%{preview_title}</i> em %{collection}
         spotlight-on: Destacadas
-        whats-happening: 
+        whats-happening: O que está a acontecer
       music:
         description: '<strong>Europeana Coleções: Música</strong> reúne as melhores graveções, partituras e outras coleções musicais dos arquivos audiovisuais, bibliotecas e museus europeus. <a href="/portal/channels/music/about"> Saiba mais sobre Europeana Coleções: Música.</a>'
         title: Europeana Música
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Nascimento
+        death: Morte
+        occupation: Profissão
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biografia
+        born: Nascimento
+        died: Morte
+        related: Relacionado
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Itens sobre %{name}
+        items_by: Itens de %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: 'Pessoa '
+        concept: Conceito
+        place: 'Local
+
+'
+      wiki_link_text: Recurso obtido na Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Dia todo
+      description: Eventos
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} eventos"
+        future: 'Eventos futuros '
+        page-title: Eventos
+        past: 'Eventos passados '
     facet:
       language:
         show:
@@ -133,7 +135,7 @@ pt:
         about: Sobre nós
         become-a-provider: Torne-se numa instituição contribuinte
         contact: Contacto
-        contact-us: 
+        contact-us: 'Contacte-nos '
         copyright: Direitos de Autor
         data-providers: Todas as instituições
         help: Ajuda
@@ -143,35 +145,37 @@ pt:
         search-tips: Dicas para pesquisa
         using-myeuropeana: Utilizar My Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Cultura com curadoria para si! Descubra as Galerias Europeana!
+      description-default: Saiba mais sobre a Europeana
+      share:
+        one: 'Partilhar esta galeria '
+        other: 'Partilhar as galerias '
     more: Mais...
     my-europeana: My Europeana
     my-europeana-link: ligação a My Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: conta
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blogue
+        contribution: Contribuição
+        contribution-attachment: Anexo
+        contribution-attachments: Anexos
+        contribution-done: feito
+        contributor: 'Contribuidor '
+        events_list_breadcrumb: Eventos
         exhibitions:
-          return_home: 
+          return_home: Exposições
         item_detail: 'Detalhe do item '
-        register: 
-        reset-password: 
+        register: Registar
+        reset-password: 'Redefinir a palavra-passe '
         results_list: Lista de Resultados
-        results_list_mlt: 
+        results_list_mlt: Itens similares
         return_home: Regressar ao Início
-        sign-in: 
+        sign-in: Iniciar sessão
       search:
         placeholder:
-          text: 
+          text: Procurar por palavra-chave aqui
     news: Notícias
     object:
       actions:
@@ -180,12 +184,12 @@ pt:
         attribute-plaintext: Texto simples
         download: Descarregar
         download-additional: Também disponível como
-        download-retry: 
-        download-started: 
+        download-retry: 'Repetir '
+        download-started: 'O download foi iniciado '
         downloaddata: Descarregar dados
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: 'Aumentar '
+        explore-by-colour: 'Pesquisar por cor '
+        media-metadata: 'Metadados dos Meios de Comunicação Social '
         open-media: Abrir este item de media
         show-less-data: Mostrar menos informação
         show-more-data: Mostrar mais dados
@@ -198,8 +202,8 @@ pt:
         view-items-above: ver itens acima
         view-items-below: ver itens abaixo
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: 'Informação adicional sobre os direitos '
+        annotations: 'Anotações do utilizador '
         codec: Codec
         collection-name: Conjunto de Dados
         concept: Conceito
@@ -231,7 +235,7 @@ pt:
         fps: Imagens por segundo
         has-type: Tem tipo
         identifier: Identificador
-        intermediate-provider: 
+        intermediate-provider: 'Provedor intermediário '
         is-format-of: É formato de
         is-part-of: É parte de
         is-referenced-by: É referido por
@@ -253,7 +257,7 @@ pt:
         provenance: Proveniência
         provided-by: Saiba mais
         provided-by-detail: Este item é acessível na Europeana via %{institution_name_and_link}. Visite o seu website para mais informação.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: 'A Europeana apresenta este item via '
         provider: Agregador
         providing-country: País Agregador
         publication-date: Data de publicação
@@ -263,7 +267,7 @@ pt:
         relations: Relações
         rights: Direitos
         rights-human: Posso usar isto?
-        rights-statement: 
+        rights-statement: Declaração de direitos
         runtime: Duração
         runtime-unit-seconds: segundos
         source: Fonte
@@ -310,7 +314,7 @@ pt:
         north: Norte
         south: Sul
         west: Oeste
-      preview_unavailable: 
+      preview_unavailable: A visualização do item não está disponível. Para aceder à imagem inteira e a mais informações sobre o item, vá para %{institution_name_and_link}
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
     pages:
@@ -342,9 +346,9 @@ pt:
         product-save: Guardar
         saveto: Guardar para
         show-all-collections: Mostrar todas as colecções
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Clique aqui para ver resultados de fontes externas à Europeana.
+      federated-clicked: 'Itens de fontes externas à Europeana '
+      federated_more: Visualizar todos os %{results_count} resultados em %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -352,7 +356,7 @@ pt:
           text: Texto
           video: Vídeo
         count-and-terms: "%{results_count} resultados"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} resultados"
         empty: Sem Resultados
         empty-with-terms: A sua pesquisa por %{query_terms} obteve nenhum resultado
         header: Resultados para
@@ -362,7 +366,7 @@ pt:
         less_adv: Menos ajustes
         more: Mais
         more_adv: Filtros Avançados
-        per-page: 
+        per-page: Por página
         product-3D: 3D
         product-image: Imagem
         product-sound: Som
@@ -370,20 +374,20 @@ pt:
         product-video: Video
         results-relevance: Relevância
         results-view:
-          grid: 
-          list: 
+          grid: Grelha
+          list: Lista
         single-result: 1 resultado por %{query_terms}
         view:
           grid: Grelha
           list: Lista
         view-at-provider: Ver em
-      results: 
+      results: Resultados
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: 'Navegar '
+      or-browse: 'ou navegue '
+      page-title: Procurar resultados
       placeholder:
-        filter-text: 
+        filter-text: Procurar
         text: Adicionar termo de pesquisa
       similar:
         prefix: 'Similar a: %{mlt_item}'

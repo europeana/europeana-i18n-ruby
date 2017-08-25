@@ -12,7 +12,7 @@ de:
       agents: Menschen
       all_blog_posts: Alle Beiträge...
       all_exhibitions: Alle Ausstellungen...
-      all_galleries: 
+      all_galleries: Alle Galerien ...
       blog: 
       browse: Durchsuchen
       browse_colours: Farben
@@ -22,17 +22,17 @@ de:
       collections: Sammlungen
       concepts: Themenbereiche
       exhibitions: Ausstellungen
-      galleries: 
+      galleries: Galerien
       home: Startseite
       more:
-        agents: 
+        agents: Menschen
         people: Mehr Leute
-        periods: 
+        periods: Zeiträume
         topics: Weitere Themen
       periods: Zeit Abschnitte
       places: Setzt
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Ganze Sammlung ansehen
+      view-detailed-description: Ausführliche Beschreibung ansehen
     pro-link: Link zu Pro
     pro-text: Text für Pro
     settings: Einstellungen
@@ -44,17 +44,17 @@ de:
         title: Dies ist eine Beta Version unserer neuen Sammlungen, Musik Sammlung und Kunstgeschichte Sammlungen
     blog-link: Link zum Blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} von %{results_count} Blogbeiträgen"
+        page-title: Blog
+      min-to-read: Minuten zum Lesen
     browse:
       colours:
         description: Suche nach Bildern basierend auf ihrer Farbe. Klicken Sie einfach auf ein farbiges Feld unten, um Bilder zu entdecken, die diese Farbe enthalten!
         title: Farben
       newcontent:
-        description: 
+        description: 'Hier können Sie alle Neuzugänge bei Europeana Collections erkunden. Sehen Sie, welche Kulturinstitution neue Beiträge hinzugefügt hat, die Anzahl und das Datum der Beiträge. Klicken Sie einfach auf die unten stehenden Links, um mehr zu erfahren. '
         tableh1: Alle Institutionen
         tableh2: Artikel
         tableh3: Datum
@@ -92,38 +92,40 @@ de:
         editors-picks: "  "
         recent: Neu hinzugefügt
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Suche <i>%{preview_title}</i> in %{collection}
         spotlight-on: Spotlight auf
-        whats-happening: 
+        whats-happening: Aktuelles
       music:
         description: Die <strong> Europeana Musik Sammlung </ strong> vereint die besten Musikaufnahmen, Noten und andere musikbezogene Sammlungen von Europas audiovisuellen Archiven und Bibliotheken. <a href="/portal/channels/music/about">Erfahren Sie mehr über die Musik Sammlung.</a>
         title: Europeana Musik
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Geburt
+        death: Tod
+        occupation: Tätigkeit
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biografie
+        born: Geboren
+        died: Gestorben
+        related: In Verbindung
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Beitrag über %{name}
+        items_by: Beitrag von %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Person
+        concept: Konzept
+        place: 'Ort
+
+'
+      wiki_link_text: Ressource aus Wikimedia Commons übernommen
     events:
-      all_day: 
-      description: 
+      all_day: Alle Tage
+      description: Veranstaltungen
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} von %{results_count} Veranstaltungen"
+        future: Kommende Veranstaltungen
+        page-title: Veranstaltungen
+        past: Vergangene Veranstaltungen
     facet:
       language:
         show:
@@ -143,35 +145,35 @@ de:
         search-tips: Suchtipps
         using-myeuropeana: My Europeana
     galleries:
-      description: 
-      description-default: 
+      description: Kultur für Sie! Entdecken Sie die Europeana Galerien!
+      description-default: Erfahren Sie mehr über Europeana
       share: 
     more: Mehr...
     my-europeana: Mein Europeana
     my-europeana-link: Link zu Mein Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Beitrag
+        contribution-attachment: Anhang
+        contribution-attachments: Anhänge
+        contribution-done: fertig
+        contributor: Mitarbeiter
+        events_list_breadcrumb: Veranstaltungen
         exhibitions:
           return_home: Ausstellungen
         item_detail: Objektdetail
-        register: 
-        reset-password: 
+        register: Registrieren
+        reset-password: Passwort zurücksetzen
         results_list: Ergebnisliste
-        results_list_mlt: 
+        results_list_mlt: Gleiche Beiträge
         return_home: Zurück zur Startseite
-        sign-in: 
+        sign-in: Anmelden
       search:
         placeholder:
-          text: 
+          text: Hier nach Stichwort suchen
     news: Neuigkeiten
     object:
       actions:
@@ -180,12 +182,12 @@ de:
         attribute-plaintext: Nur Text
         download: Herunterladen
         download-additional: Auch erhältlich als
-        download-retry: 
-        download-started: 
+        download-retry: Erneut versuchen
+        download-started: Der Download hat begonnen
         downloaddata: Daten herunterladen
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Vergrößern
+        explore-by-colour: Nach Farbe erkunden
+        media-metadata: Medien-Metadaten
         open-media: Öffnen Sie dieses Objekt
         show-less-data: Weniger Daten anzeigen
         show-more-data: Weitere Daten anzeigen
@@ -198,8 +200,8 @@ de:
         view-items-above: Objekte oben anzeigen
         view-items-below: Objekte unten anzeigen
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Zusätzliche Rechte-Informationen
+        annotations: Nutzeranmerkungen
         codec: 
         collection-name: Datensatz
         concept: Konzept
@@ -231,7 +233,7 @@ de:
         fps: Bilder pro Sekunde
         has-type: Hat Art
         identifier: Kennung
-        intermediate-provider: 
+        intermediate-provider: Zwischenanbieter
         is-format-of: Ist Format
         is-part-of: Ist ein Teil von
         is-referenced-by: mit Verweis versehen
@@ -253,7 +255,7 @@ de:
         provenance: Herkunft
         provided-by: Mehr herausfinden
         provided-by-detail: Europeana zeigt dieses Objekt über %{institution_name_and_link} an. Besuchen Sie deren Webseite für weitere Informationen.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana zeigt diesen Beitrag mit
         provider: 'Beiträger '
         providing-country: Bereitstellendes Land
         publication-date: Erscheinungsdatum
@@ -263,7 +265,7 @@ de:
         relations: Beziehungen
         rights: Rechte
         rights-human: Verwendbarkeit
-        rights-statement: 
+        rights-statement: Rechte-Erklärung
         runtime: Laufzeit
         runtime-unit-seconds: Sekunden
         source: Quelle
@@ -310,7 +312,7 @@ de:
         north: Nördlich
         south: Südlich
         west: Westlich
-      preview_unavailable: 
+      preview_unavailable: Vorschau des Beitrags nicht verfügbar, um auf das Vollbild zuzugreifen und mehr Informationen zu erhalten, gehen Sie bitte zu %{institution_name_and_link}
       show-more-similar-items: Mehr anzeigen
       similar-items: Ähnliche Objekte
     pages:
@@ -353,9 +355,9 @@ de:
         product-save: Speichern
         saveto: Speichern als
         show-all-collections: Alle Sammlungen anzeigen
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Klicken Sie hier, um Ergebnisse von Quellen außerhalb Europeana zu sehen
+      federated-clicked: Beiträge von Quellen außerhalb Europeana
+      federated_more: Alle %{results_count} Ergebnisse von %{results_provider} ansehen
       list:
         all-results:
           3D: 3D
@@ -363,7 +365,7 @@ de:
           text: 
           video: 
         count-and-terms: "%{results_count} Ergebnisse"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} von %{results_count} Ergebnissen"
         empty: Keine Ergebnisse
         empty-with-terms: Ihre Suche nach %{query_terms} ergab keine Treffer
         header: Ergebnisse für
@@ -373,7 +375,7 @@ de:
         less_adv: Weniger Verfeinerungen
         more: Mehr
         more_adv: Erweiterte Filter
-        per-page: 
+        per-page: Pro Seite
         product-3D: 3D
         product-image: Bild
         product-sound: Audio
@@ -381,20 +383,20 @@ de:
         product-video: 
         results-relevance: Relevanz
         results-view:
-          grid: 
-          list: 
+          grid: Raster
+          list: Liste
         single-result: 1 Ergebnis für %{query_terms}
         view:
           grid: Raster
           list: Liste
         view-at-provider: Ansehen bei
-      results: 
+      results: Ergebnisse
     search:
       browse: Erkunden
       or-browse: oder Entdecken
-      page-title: 
+      page-title: Suchergebnisse
       placeholder:
-        filter-text: 
+        filter-text: Suchen
         text: Fügen Sie einen Suchbegriff ein
       similar:
         prefix: 'Ähnlich wie: %{mlt_item}'
@@ -403,7 +405,7 @@ de:
         clear-selection: Auswahl löschen
         save-settings: Einstellungen speichern
       language:
-        auto-translate-limit: 
+        auto-translate-limit: Es können maximal %{max_languages} ausgewählt werden
         auto-translate-page: Trefferliste automatisch übersetzen in ...
         auto-translate-page-short: Objekte automatisch übersetzen in
         auto-translate-query: Suchbegriffe automatisch übersetzen in ...

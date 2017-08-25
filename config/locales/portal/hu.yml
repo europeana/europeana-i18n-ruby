@@ -12,7 +12,7 @@ hu:
       agents: Emberek
       all_blog_posts: Minden bejegyzés...
       all_exhibitions: Minden kiállítás
-      all_galleries: 
+      all_galleries: Összes galéria...
       blog: Blog
       browse: Böngészés
       browse_colours: Színek
@@ -22,17 +22,17 @@ hu:
       collections: Gyűjtemények
       concepts: témakörök
       exhibitions: Kiállítások
-      galleries: 
+      galleries: Galériák
       home: Főoldal
       more:
-        agents: 
+        agents: Emberek
         people: Több ember
-        periods: 
+        periods: Időszakok
         topics: További témák
       periods: időszakok
       places: Helyek
-      view-collection: 
-      view-detailed-description: 
+      view-collection: A teljes gyűjtemény megtekintése
+      view-detailed-description: Részletesebb leírás megtekintése
     pro-link: link a pro-ra
     pro-text: pro-nak való szöveg
     settings: Beállítások
@@ -44,17 +44,17 @@ hu:
         title: Ez egy Beta verzió új Gyűjtemények, Művészettörténet gyűjtemények és Zenei Gyűjtemények számára
     blog-link: link a blogra
     blogs:
-      description: 
+      description: Blogok
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} / %{results_count} blogbejegyzés"
+        page-title: Blog
+      min-to-read: perc az olvasáshoz
     browse:
       colours:
         description: Keresés képek alapján a színük. Egyszerűen kattintson a színes alábbi mezőbe, hogy felfedezzék tartalmazó képeket szín!
         title: Színek
       newcontent:
-        description: 
+        description: 'Itt fedezheti fel az Europeana Gyűjtemény legújabb tételeit. Megtekintheti, hogy mely kulturális intézet járult hozzá új tételekkel és, hogy mikor hány tárgyat adtak a gyűjteményhez. Hogy többet megtudhasson erről, csak kattintson az alábbi hivatkozásra. '
         tableh1: Adatszolgáltatók
         tableh2: Elemek
         tableh3: Dátum
@@ -84,7 +84,7 @@ hu:
         sound: Hangfelvételek
         texts: Szövegek
       e7a1418:
-        contribute: 
+        contribute: Adja hozzá az Ön 1914–1918 történetét
         my-account: A fiókom
       labels:
         credits: Kurátor
@@ -92,38 +92,40 @@ hu:
         editors-picks: "  "
         recent: Legutóbbi hozzáadások
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Fedezze fel a(z) <i>%{preview_title}</i>-t a(z) %{collection} gyűjteményben
         spotlight-on: Reflektorfényben
-        whats-happening: 
+        whats-happening: Mi történik
       music:
         description: Az <strong> Europeana Zenei Gyűjtemény </ strong> egyesíti a legjobb zenei felvételeket, kottákat és más zenével kapcsolatos gyűjteményeket Európa audiovizuális archívumaiból, könyvtáraiból, levéltáraiból és múzeumaiból. <a href="/portal/channels/music/about"> Tudjon meg többet a Zenei Csatornáról. </a>
         title: Europeana Zene
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Születés
+        death: Halál
+        occupation: Megszállás
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biográfia
+        born: Született
+        died: Meghalt
+        related: Kapcsolódó
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Tételek %{name}-ról/-ről
+        items_by: Tételek %{name} szerint
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Személy
+        concept: Fogalom
+        place: 'Hely
+
+'
+      wiki_link_text: A források a Wikimedia Commonstól származnak
     events:
-      all_day: 
-      description: 
+      all_day: Minden nap
+      description: Események
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} / %{results_count} esemény"
+        future: Közelgő események
+        page-title: Események
+        past: Múltbeli események
     facet:
       language:
         show:
@@ -133,45 +135,47 @@ hu:
         about: Rólunk
         become-a-provider: Legyél a partnerünk
         contact: Elérhetőség
-        contact-us: 
+        contact-us: Vegye fel velünk a kapcsolatot
         copyright: Copyright
         data-providers: Összes intézmény
         help: Segítség
         new-collections: Új gyűjtemények
         rights: Felhasználási feltételek
-        roadmap: 
+        roadmap: Fejlesztői hírek
         search-tips: Keresési segítség
         using-myeuropeana: Saját Europeana használata
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultúra az Önnek ajánlva! Fedezze fel az Europeana Galériákat!
+      description-default: Tudjon meg többet az Europeanaról
+      share:
+        one: Galéria megosztása
+        other: Galériák megosztása
     more: Tovább...
     my-europeana: Saját Europeana
     my-europeana-link: link a Saját Europeana-ra
-    name: 
+    name: Europeana Gyűjtemények
     navigation:
       breadcrumb:
         account: fiók
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Hozzájárulás
+        contribution-attachment: Melléklet
+        contribution-attachments: Mellékletek
+        contribution-done: kész
+        contributor: Hozzájáruló
+        events_list_breadcrumb: Események
         exhibitions:
-          return_home: 
+          return_home: Kiállítások
         item_detail: Elem részletei
-        register: 
-        reset-password: 
+        register: Regisztráció
+        reset-password: Jelszó visszaállítása
         results_list: Találati lista
-        results_list_mlt: 
+        results_list_mlt: Hasonló tételek
         return_home: Vissza a Főoldalra
-        sign-in: 
+        sign-in: Bejelentkezés
       search:
         placeholder:
-          text: 
+          text: Kulcsszó szerinti keresés itt
     news: Hírek
     object:
       actions:
@@ -180,12 +184,12 @@ hu:
         attribute-plaintext: Egyszerű szöveg
         download: Letöltés
         download-additional: Elérhető úgy is mint
-        download-retry: 
-        download-started: 
+        download-retry: Újrapróbálkozás
+        download-started: A letöltés megkezdődött
         downloaddata: Adatletöltés
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Nagyítás
+        explore-by-colour: Felfedezés szín szerint
+        media-metadata: Média meta-adatok
         open-media: Média elem megnyítása
         show-less-data: Mutass kevesebb adatot
         show-more-data: Mutass több adatot
@@ -198,8 +202,8 @@ hu:
         view-items-above: mutasd a fenti elemeket
         view-items-below: mutasd a lenti elemeket
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: További jogi információk
+        annotations: Felhasználói megjegyzések
         codec: Kodek
         collection-name: Adathalmaz
         concept: Fogalom
@@ -231,7 +235,7 @@ hu:
         fps: Képkocka másodpercenként
         has-type: Típusa
         identifier: Azonosító
-        intermediate-provider: 
+        intermediate-provider: Közvetítő szolgáltató
         is-format-of: Formátuma
         is-part-of: 'Következő része:'
         is-referenced-by: Hivatkozik rá
@@ -253,7 +257,7 @@ hu:
         provenance: Eredet
         provided-by: Tudj meg többet
         provided-by-detail: Az Europeana a %{institution_name_and_link} oldalán keresztül mutatja be az elemeket. Látogassa meg az oldalukat több információért.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana kiállítja ezt a tárgyat
         provider: Szolgáltató
         providing-country: Szolgáltató ország
         publication-date: Kiadás dátuma
@@ -263,7 +267,7 @@ hu:
         relations: Kapcsolatok
         rights: Jogok
         rights-human: Használhatom?
-        rights-statement: 
+        rights-statement: Jogi nyilatkozat
         runtime: Lejátszási idő
         runtime-unit-seconds: másodperc
         source: Forrás
@@ -310,7 +314,7 @@ hu:
         north: Észak
         south: Dél
         west: Nyugat
-      preview_unavailable: 
+      preview_unavailable: 'A tétel előnézete nem érhető el, a teljes kép megtekintéséhez és további információkért a tételről látogasson el ide: %{institution_name_and_link}'
       show-more-similar-items: mutass többet
       similar-items: Hasonló elemek
     pages:
@@ -342,9 +346,9 @@ hu:
         product-save: Mentés
         saveto: Mentés ide
         show-all-collections: Mutasd az összes gyűjteményt
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Kattintson ide a nem-Europeana források megtekintéséhez
+      federated-clicked: Tételek nem-Europeana forrásokból
+      federated_more: Az összes %{results_count} eredmény megtekintése %{results_provider} szolgáltatónál
       list:
         all-results:
           3D: 3D
@@ -352,7 +356,7 @@ hu:
           text: Szöveg
           video: Videó
         count-and-terms: "%{results_count} találat"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} / %{results_count} találat"
         empty: Nincs találat
         empty-with-terms: A %{query_terms}  kifejezésre való keresés nem eredményezett találatot
         header: 'Találatok a '
@@ -362,7 +366,7 @@ hu:
         less_adv: Kevesebb finomítás
         more: Több
         more_adv: Összetett szűrők
-        per-page: 
+        per-page: Oldalanként
         product-3D: 3D
         product-image: Kép
         product-sound: Hang
@@ -370,20 +374,20 @@ hu:
         product-video: Videó
         results-relevance: Relevancia
         results-view:
-          grid: 
-          list: 
+          grid: Háló
+          list: Lista
         single-result: '1 találat a következő keresőszóra: %{query_terms}'
         view:
           grid: Rács
           list: Lista
         view-at-provider: 'Tekintsd meg az eredeti helyén:'
-      results: 
+      results: Eredmények
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: Böngészés
+      or-browse: vagy böngésszen
+      page-title: Keresési eredmények
       placeholder:
-        filter-text: 
+        filter-text: Keresés
         text: Keresési kulcsszó megadása
       similar:
         prefix: 'Hasonló a következőhöz: %{mlt_item}'
