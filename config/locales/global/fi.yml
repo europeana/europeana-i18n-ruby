@@ -149,27 +149,27 @@ fi:
   global:
     about-us: Tietoa meistä
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Tiivistä
+      delete: Poista
+      edit: Muokkaa
+      expand: Laajenna
       filter-all: suodatetaan
       filter-by: Suodata
       fullscreen-enter: Koko näyttö
       fullscreen-exit: exit koko näytön
-      new: 
+      new: Uusi
       next: Seuraava
       previous: Edellinen
       register: Rekisteröidy
-      share: 
+      share: Jaa
       sign-in: Kirjaudu sisään
       sign-out: Kirjaudu ulos
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Katso
+      view-at: 'Katso täällä:'
+      view-more-at: 'Katso lisää täältä: '
+      withdraw: peruuta
     channel:
       all: Kaikki tavarat
       archaeology: arkeologia
@@ -177,7 +177,7 @@ fi:
       art: taide
       art-history: Taiteen Historia
       fashion: muoti
-      first-world-war: 
+      first-world-war: Europeana 1914–1918
       home: Koti (kaikki)
       maps: kartat
       music: Musiikki
@@ -200,7 +200,7 @@ fi:
           current: 
     email-address: sähköpostiosoite
     error:
-      unavailable: 
+      unavailable: Ei saatavilla
     facet:
       advanced:
         options: Valinnat
@@ -262,11 +262,11 @@ fi:
         country: Maa
         data_provider: Instituutio
         date-created: Päivämäärä luotu
-        edm_ugc: 
+        edm_ugc: Näytä käyttäjien julkaisemaa sisältöä
         fashion:
           colour: väri
           designer: Suunnittelija
-          material: 
+          material: Materiaali
           technique: Tekniikka
           type: Tehtävämuoto
         image_aspectratio: Suunta
@@ -285,7 +285,7 @@ fi:
         sound_duration: Kesto
         sound_hq: Korkealaatuinen
         text_fulltext: Kokoteksti
-        thumbnail: 
+        thumbnail: Vain pikkukuvalliset kohteet
         type: Media
         ugc: Näytä käyttäjien lisäämä sisältö
         video_duration: Kesto
@@ -364,17 +364,17 @@ fi:
         advanced-rrpa: Oikeudet pidätetään - Katselu maksullinen
         advanced-rrra: Oikeudet pidätetään - Rajattu katseluoikeus
         advanced-rs-cne: Copyright Ei arvioitu
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Tekijänoikeuslain alainen
+        advanced-rs-inc-edu: Tekijänoikeuslain alainen – opetuskäyttö
+        advanced-rs-inc-ow-eu: Tekijänoikeuslain alainen – EU:n orpoteosdirektiivi
+        advanced-rs-noc-nc: Ei tekijänoikeutta – vain ei-kaupallinen käyttö sallittu
+        advanced-rs-noc-oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
         advanced-ucs: Tuntematon tekijänoikeudellinen status
-        expiry: 
+        expiry: "%{date} saakka"
         open: Sallittu, kun lähde mainitaan
         permission: Vain luvanvaraisesti
         restricted: Kyllä, rajoituksin
-        rs_noc_oklr: 
+        rs_noc_oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
         simple: Yksinkertainen
       sound_duration:
         long: Pitä (6+ minuuttia)
@@ -388,8 +388,8 @@ fi:
         'false': Ei
         'true': Kyllä
       thumbnail:
-        'false': 
-        'true': 
+        'false': Ei
+        'true': Kyllä
       type:
         3d: 3D
         image: Kuva
@@ -440,7 +440,7 @@ fi:
     feedback:
       close: kiinni
       error: 
-      open: 
+      open: Palaute
       placeholder: Kerro meille mitä mieltä olet ja mitä voimme parantaa. Jos haluat yhteydenottoa, jätä sähköpostiosoitteesi täälläkin!
       submit: Lähetä
       thanks:
@@ -448,14 +448,14 @@ fi:
         short: Kiitos!
       title: 
       type:
-        bug: 
+        bug: virhe
         comment: kommentti
         correction: korjaus
     find-us-elsewhere: Muualla palvelussa
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: 'Seuraa: %{channel}'
     forgot-password: Unohditko salasanasi?
-    galleries: 
+    galleries: Galleriat
     genres: genret
     genres-chamber-music: Kamarimusiikko
     genres-classical-music: Klassinen musiikki
@@ -473,8 +473,8 @@ fi:
     home: Koti
     javascript-required: Ota JavaScript käyttöön, jotta näet tämän sisällön. Harkitse myös päivittämistä selaimeen, joka tukee HTML5-sisältöjä.
     labels:
-      by: 
-      images: 
+      by: tekijältä
+      images: kuvat
     labs: Labs
     labs-text: Remiksaa kulttuurisisältöjä APIemme ja datasettiemme avulla
     language-basque: Baski
@@ -567,33 +567,33 @@ fi:
     professional: Pro
     professional-text: Osallistu, jaa tai hyödynnä aineistoja
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Sovellus
+      apps: Sovellukset
+      blog: Blogi
+      blogs: Blogit
+      collection: Temaattinen kokoelma
+      collections: Temaattiset kokoelmat
+      dataset: Datajoukko
+      datasets: Datajoukot
+      event: Tapahtuma
+      events: Tapahtumat
+      exhibition: Näyttely
+      exhibitions: Näyttelyt
+      featured_site: Suositeltu sivusto
+      featured_sites: Suositellut sivustot
+      galleries: Galleriat
+      gallery: Galleria
+      image: Kuva
+      images: Kuvat
+      new: Uutta
+      partner: Kumppanimme
+      partners: Kumppanimme
+      playlist: Soittolista
+      playlists: Soittolistat
+      stories: Tarinat
+      story: Tarina
+      timeline: Aikajana
+      timelines: Aikajanat
     refine-your-search: Tarkenna hakuasi
     refine-your-search-short: 
     register: Rekisteröidy
@@ -611,7 +611,7 @@ fi:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Oletko jo tutustunut uusiin gallerioihimme?
         search:
           new-filter: Nyt voit suodattaa hakua tiettyihin lisenssi
           new-grid: Oletko nähnyt uuden kantaverkkoon?
