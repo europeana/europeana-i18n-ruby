@@ -12,7 +12,7 @@ hr:
       agents: narod
       all_blog_posts: Sve objave na blogu...
       all_exhibitions: Sve izložbe...
-      all_galleries: 
+      all_galleries: Sve galerije...
       blog: Blog
       browse: Pregledavanje
       browse_colours: Boje
@@ -22,17 +22,17 @@ hr:
       collections: Zbirke
       concepts: Teme
       exhibitions: Izložbe
-      galleries: 
+      galleries: Galerije
       home: Naslovnica
       more:
-        agents: 
+        agents: Ljudi
         people: Više ljudi
-        periods: 
+        periods: Vremenska razdoblja
         topics: Više tema
       periods: Vremenska razdoblja
       places: Mjesta
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Pogledajte cijelu kolekciju
+      view-detailed-description: Pogledajte detaljniji opis
     pro-link: http://pro.europeana.eu/
     pro-text: tekst za pro
     settings: Postavke
@@ -44,11 +44,11 @@ hr:
         title: 'Ovo je beta objava naših novih stranica: "Zbirke" i "Glazbene zbirke"'
     blog-link: http://blog.europeana.eu
     blogs:
-      description: 
+      description: Blogovi
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} od %{results_count} objava u blogovima"
+        page-title: Blog
+      min-to-read: minuta za čitanje
     browse:
       colours:
         description: U ovom dijelu možete pretraživati slike po boji. Potrebno je samo kliknuti na onu koja vam se sviđa kako biste vidjeli zbirku!
@@ -92,38 +92,40 @@ hr:
         editors-picks: "  "
         recent: Nedavno dodano
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Istražite <i>%{preview_title}</i> na %{collection}
         spotlight-on: U fokusu
-        whats-happening: 
+        whats-happening: Što se događa
       music:
         description: <strong>Europeana glazbena zbirka</strong> povezuje najbolje glazbene snimke, notne zapise i ostale zbirke glazbene tematike iz audio-vizualnih arhiva, knjižnica, arhiva i muzeja Europe. <a href="/portal/channels/music/about">Saznajte više o Glazbenoj zbirci.</a>
         title: Europeana glazba
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Rođenje
+        death: Smrt
+        occupation: Zanimanje
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biografija
+        born: Rođena
+        died: Umrla
+        related: Povezano
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Stavke o %{name}
+        items_by: Stavke po %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Osoba
+        concept: Koncept
+        place: 'Mjesto
+
+'
+      wiki_link_text: Resurs pribavljen iz Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Cijelog dana
+      description: Dešavanja
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} od %{results_count} dešavanja"
+        future: Predstojeća dešavanja
+        page-title: Dešavanja
+        past: Prethodna dešavanja
     facet:
       language:
         show:
@@ -133,45 +135,45 @@ hr:
         about: O nama
         become-a-provider: Postani naš partner
         contact: Kontakt
-        contact-us: 
+        contact-us: Kontaktirajte nas
         copyright: Autorsko pravo
         data-providers: Sve ustanove
         help: Pomoć
         new-collections: Nove zbirke
         rights: Opći uvjeti i pravila
-        roadmap: 
+        roadmap: Razvojna ažuriranja
         search-tips: Savjeti za pretragu
         using-myeuropeana: Korištenje My Europeana
     galleries:
-      description: 
-      description-default: 
+      description: Kurator kulture za vas! Otkrijte galerije Europeana!
+      description-default: Otkrijte još toga o Europeana
       share: 
     more: Više...
     my-europeana: My Europeana
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login
-    name: 
+    name: Kolekcije Europeane
     navigation:
       breadcrumb:
         account: račun
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Prilog
+        contribution-attachment: Privitak
+        contribution-attachments: Privici
+        contribution-done: gotovo
+        contributor: Davatelj priloga
+        events_list_breadcrumb: Dešavanja
         exhibitions:
-          return_home: 
+          return_home: Izložbe
         item_detail: Objekt
-        register: 
-        reset-password: 
+        register: Registrirajte se
+        reset-password: Ponovno postavite zaporku
         results_list: Rezultati
-        results_list_mlt: 
+        results_list_mlt: Slične stavke
         return_home: Povratak na naslovnicu
-        sign-in: 
+        sign-in: Prijavite se
       search:
         placeholder:
-          text: 
+          text: Pretražite po ključnim riječima ovdje
     news: Novosti
     object:
       actions:
@@ -180,12 +182,12 @@ hr:
         attribute-plaintext: Samo tekst
         download: Preuzmi
         download-additional: Dostupno i kao
-        download-retry: 
-        download-started: 
+        download-retry: Pokušajte ponovno
+        download-started: Preuzimanje je otpočelo
         downloaddata: Preuzmi podatke
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Povećajte
+        explore-by-colour: Istražite po boji
+        media-metadata: Medijski metapodaci
         open-media: Otvori ovaj medijski objekt
         show-less-data: Prikaži manje podataka
         show-more-data: Prikaži više podataka
@@ -198,8 +200,8 @@ hr:
         view-items-above: pogledaj gornje objekte
         view-items-below: pogledaj donje objekte
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Dodatne informacije o pravima
+        annotations: Korisničke zabilješke
         codec: Kodek
         collection-name: Skup podataka
         concept: Koncept
@@ -231,7 +233,7 @@ hr:
         fps: Kadrova po sekundi
         has-type: Ima vrstu
         identifier: Identifikator
-        intermediate-provider: 
+        intermediate-provider: Međuprovajder
         is-format-of: Format od
         is-part-of: Dio od
         is-referenced-by: Citira ga
@@ -253,7 +255,7 @@ hr:
         provenance: Porijeklo
         provided-by: Saznaj više
         provided-by-detail: Europeana prikazuje ovaj objekt preko %{institution_name_and_link}. Posjetite njihovu stranicu za više informacija.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana prikazuje ovu stavku putem
         provider: Agregator
         providing-country: Država
         publication-date: Datum objave
@@ -263,7 +265,7 @@ hr:
         relations: Odnosi
         rights: Prava
         rights-human: Mogu li koristiti?
-        rights-statement: 
+        rights-statement: Izjava o pravima
         runtime: Trajanje
         runtime-unit-seconds: sekundi
         source: Izvor
@@ -310,7 +312,7 @@ hr:
         north: Sjever
         south: Jug
         west: Zapad
-      preview_unavailable: 
+      preview_unavailable: Pretpregled stavke nije dostupan, kako biste pristupili punoj slici i širim informacijama o stavci idite na %{institution_name_and_link}
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
     pages:
@@ -346,9 +348,9 @@ hr:
         product-save: Pohrani
         saveto: Pohrani u
         show-all-collections: Prikaži sve zbirke
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Kliknite ovdje kako biste vidjeli izvore van Europeane
+      federated-clicked: Stavke iz izvora mimo Europeane
+      federated_more: Pogledajte svih %{results_count} rezultata na %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -356,7 +358,7 @@ hr:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} rezultata"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} od %{results_count} rezultata"
         empty: Nema rezultata
         empty-with-terms: Vaša pretraga za %{query_terms} nije dala rezultata
         header: Rezultati za
@@ -366,7 +368,7 @@ hr:
         less_adv: Manje preciziranja
         more: Više
         more_adv: Napredni filteri
-        per-page: 
+        per-page: Po stranici
         product-3D: 3D
         product-image: Slika
         product-sound: Zvuk
@@ -374,20 +376,20 @@ hr:
         product-video: Video
         results-relevance: Relevantnost
         results-view:
-          grid: 
-          list: 
+          grid: Mreža
+          list: Popis
         single-result: 1 rezultat za %{query_terms}
         view:
           grid: Mreža
           list: Popis
         view-at-provider: Pogledaj na stranici
-      results: 
+      results: Rezultati
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: Pretražite
+      or-browse: ili pretražite
+      page-title: Rezultati pretrage
       placeholder:
-        filter-text: 
+        filter-text: Pretražite
         text: Upišite pojam za pretraživanje
       similar:
         prefix: 'Slično kao: %{mlt_item} '
