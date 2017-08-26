@@ -12,7 +12,7 @@
       agents: Mennesker
       all_blog_posts: Alle bloggposter ...
       all_exhibitions: Alle utstillinger ...
-      all_galleries: 
+      all_galleries: Alle gallerier ...
       blog: Blogg
       browse: Bla igjennom
       browse_colours: Farger
@@ -22,17 +22,17 @@
       collections: Samlinger
       concepts: temaer
       exhibitions: Utstillinger
-      galleries: 
+      galleries: Gallerier
       home: Hjem
       more:
-        agents: 
+        agents: Mennesker
         people: Flere mennesker
-        periods: 
+        periods: Mennesker
         topics: Flere emner
       periods: tidsperioder
       places: steder
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Se hele samlingen
+      view-detailed-description: Se mer detaljert beskrivelse
     pro-link: Lenke til pro
     pro-text: tekst for pro
     settings: Innstillinger
@@ -44,11 +44,11 @@
         title: Dette er en beta-versjon av våre nye "Samlinger" og "Musikksamlinger"
     blog-link: lenke til blogg
     blogs:
-      description: 
+      description: Blogger
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} blogginnlegg"
+        page-title: Blogg
+      min-to-read: minutter å lese
     browse:
       colours:
         description: I denne seksjonen kan du søke etter bilder ut fra farge. Bare klikk på det du vil se på i samlingen!
@@ -92,38 +92,40 @@
         editors-picks: "  "
         recent: Nylige tilføringer
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Utforsk <i>%{preview_title}</i> på %{collection}
         spotlight-on: Søkelys på
-        whats-happening: 
+        whats-happening: Hva skjer
       music:
         description: ' <strong>Europeana musikksamling</strong> samler de beste musikkopptakene, noteark og annet materiale som er relatert til musikksamlinger fra Europas audio-visuelle arkiver, bibliotek, arkiv og museum. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>'
         title: Europeana Musikk
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Fødsel
+        death: Død
+        occupation: Yrke
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biografi
+        born: Født
+        died: Død
+        related: I slekt
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Elementer om %{name}
+        items_by: Elementer etter %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Person
+        concept: Konsept
+        place: 'Plass
+
+'
+      wiki_link_text: Ressurs hentet fra Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Hele dagen
+      description: Begivenheter
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} arrangementer"
+        future: Kommende arrangementer
+        page-title: Begivenheter
+        past: Tidligere arrangementer
     facet:
       language:
         show:
@@ -139,39 +141,39 @@
         help: Hjelp
         new-collections: Nye samlinger
         rights: Vilkår for bruk og retningslinjer
-        roadmap: 
+        roadmap: Utviklingsoppdateringer
         search-tips: Søketips
         using-myeuropeana: Bruke min Europeana
     galleries:
-      description: 
-      description-default: 
+      description: Kultur kurert for deg! Oppdag Europeana Gallerier!
+      description-default: Finn ut mer på Europeana
       share: 
     more: Mer ...
     my-europeana: Mitt Europeana
     my-europeana-link: lenke til Mitt Europeana
-    name: 
+    name: Europeana samlinger
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blogg
+        contribution: Bidrag
+        contribution-attachment: Vedlegg
+        contribution-attachments: Vedlegg
+        contribution-done: ferdig
+        contributor: Bidragsyter
+        events_list_breadcrumb: Begivenheter
         exhibitions:
-          return_home: 
+          return_home: Utstillinger
         item_detail: Objekt
-        register: 
-        reset-password: 
+        register: Registrer
+        reset-password: Tilbakestill passord
         results_list: Resultater
-        results_list_mlt: 
+        results_list_mlt: Lignende gjenstander
         return_home: Tilbake
-        sign-in: 
+        sign-in: Logg inn
       search:
         placeholder:
-          text: 
+          text: Søk etter nøkkelord her
     news: Nyheter
     object:
       actions:
@@ -180,12 +182,12 @@
         attribute-plaintext: Enkel tekst
         download: laste ned
         download-additional: Også tilgjengelig som
-        download-retry: 
-        download-started: 
+        download-retry: Prøv på nytt
+        download-started: Nedlastingen har startet
         downloaddata: 'Last ned '
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Forstørr
+        explore-by-colour: Utforsk etter farge
+        media-metadata: Media Metadata
         open-media: Åpne dette mediaobjektet
         show-less-data: Vis mindre data
         show-more-data: Vis mer data
@@ -198,8 +200,8 @@
         view-items-above: se på objekter over
         view-items-below: se på objekter under
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Ytterligere rettighetsinformasjon
+        annotations: Brukeranbefalinger
         codec: Codec
         collection-name: Datasett
         concept: Konsept
@@ -231,7 +233,7 @@
         fps: Rammer per sekund
         has-type: Har type
         identifier: 'Identifiserer '
-        intermediate-provider: 
+        intermediate-provider: Mellomliggende leverandør
         is-format-of: Har format som
         is-part-of: Er del av
         is-referenced-by: 'Referert til av '
@@ -253,7 +255,7 @@
         provenance: Opphavssted
         provided-by: Finn ut mer
         provided-by-detail: Europeana viser dette objektet  via %{institution_name_and_link}. Besøk nettsiden deres for mer informasjon.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana viser denne gjenstanden via
         provider: Leverandør
         providing-country: Giverland
         publication-date: Dato for publisering
@@ -263,7 +265,7 @@
         relations: Relasjoner
         rights: Rettigheter
         rights-human: Kan jeg bruke dette?
-        rights-statement: 
+        rights-statement: Rettighetserklæring
         runtime: Kjøretid
         runtime-unit-seconds: sekunder
         source: Kilde
@@ -310,7 +312,7 @@
         north: Nord
         south: Sør
         west: Vest
-      preview_unavailable: 
+      preview_unavailable: Forhåndsvisning av objekt er ikke tilgjengelig, for å få tilgang til hele bildet og mer informasjon om gjenstanden, gå til %{institution_name_and_link}
       show-more-similar-items: Vis mer
       similar-items: Like objekter
     pages:
@@ -347,9 +349,9 @@
         product-save: Lagre
         saveto: Lagre til
         show-all-collections: Vis alle samlinger
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Klikk her for å se resultater fra ikke-europeiske kilder
+      federated-clicked: Gjenstander fra ikke-europeiske kilder
+      federated_more: Se alle %{results_count} results on %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -357,7 +359,7 @@
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} resultater"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} resultater"
         empty: Ingen resultater
         empty-with-terms: Ditt søk etter %{query_terms} ga ingen resultater
         header: Resultater for
@@ -367,7 +369,7 @@
         less_adv: Færre nyanser
         more: Mer
         more_adv: Avanserte filter
-        per-page: 
+        per-page: Per side
         product-3D: 3D
         product-image: Bilde
         product-sound: Lyd
@@ -375,20 +377,20 @@
         product-video: Video
         results-relevance: Relevanse
         results-view:
-          grid: 
-          list: 
+          grid: Nett
+          list: Liste
         single-result: 1 resultat for %{query_terms}
         view:
           grid: Grid
           list: Liste
         view-at-provider: 'Se på '
-      results: 
+      results: Resultater
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: Søk
+      or-browse: eller bla gjennom
+      page-title: Søkeresultater
       placeholder:
-        filter-text: 
+        filter-text: Søk
         text: Legg til en søketerm
       similar:
         prefix: 'Lik som: %{mlt_item}'
