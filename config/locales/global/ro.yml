@@ -149,27 +149,27 @@ ro:
   global:
     about-us: Despre noi
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Reducere
+      delete: Ștergere
+      edit: Editare
+      expand: Mărire
       filter-all: Se filtrează toate
       filter-by: Filtreaza dupa
       fullscreen-enter: " Ecran complet"
       fullscreen-exit: ieșire ecran complet
-      new: 
+      new: 'Nou '
       next: Următor →
       previous: anterior
       register: Ȋnregistrare
-      share: 
+      share: Transmitere
       sign-in: Autentificare
       sign-out: Deconectare
       skip-to-main: Treci la conținutul paginii
       skip-to-section: Treci la secțiunea
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Vizualizare
+      view-at: Vizualizare la
+      view-more-at: 'Vizualizare mai mult la '
+      withdraw: retragere
     channel:
       all: Toate obiectele
       archaeology: arheologie
@@ -177,7 +177,7 @@ ro:
       art: artă
       art-history: Istoria Artei
       fashion: modă
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Acasă
       maps: hărți
       music: Muzică
@@ -196,11 +196,11 @@ ro:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} î.e.n."
+          current: "%{date} e.n."
     email-address: adresă de email
     error:
-      unavailable: 
+      unavailable: Nu este disponibil(ă)
     facet:
       advanced:
         options: Opțiuni
@@ -262,11 +262,11 @@ ro:
         country: Țară
         data_provider: Instituție
         date-created: Data creării
-        edm_ugc: 
+        edm_ugc: Prezentarea conținutului contribuției utilizatorilor
         fashion:
           colour: culoare
           designer: Proiectant
-          material: 
+          material: Material
           technique: Tehnică
           type: Categorie de obiect
         image_aspectratio: Orientare
@@ -285,7 +285,7 @@ ro:
         sound_duration: Durata
         sound_hq: Calitate superioară
         text_fulltext: Text complet
-        thumbnail: 
+        thumbnail: Numai obiecte cu miniaturi
         type: Fișier media
         ugc: Arată conținut furnizat de către utilizatori
         video_duration: Durata videoclip
@@ -364,17 +364,17 @@ ro:
         advanced-rrpa: ''
         advanced-rrra: ''
         advanced-rs-cne: Copyright-ul Evaluate
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Cu drepturi de autor
+        advanced-rs-inc-edu: Cu drepturi de autor - utilizare permisă în scopuri educative
+        advanced-rs-inc-ow-eu: Cu drepturi de autor - opere „orfane” UE
+        advanced-rs-noc-nc: Fără drepturi de autor - utilizare numai în scopuri necomerciale
+        advanced-rs-noc-oklr: Fără drepturi de autor - alte restricții legale cunoscute
         advanced-ucs: ''
-        expiry: 
+        expiry: până la %{date}
         open: Da, cu atribuire
         permission: Doar cu permisiune
         restricted: Da, cu restricții
-        rs_noc_oklr: 
+        rs_noc_oklr: Fără drepturi de autor - alte restricții legale cunoscute
         simple: Simplu
       sound_duration:
         long: Lungă (6+ min)
@@ -388,8 +388,8 @@ ro:
         'false': Nu
         'true': Da
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nu
+        'true': Da
       type:
         3d: 3D
         image: Imagine
@@ -426,8 +426,8 @@ ro:
           medium: Medie (%{data})
           short: Scurtă (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nu
+        'true': Da
       video_duration:
         long: Lungă (20+ min)
         medium: Medie (4-20 min)
@@ -440,7 +440,7 @@ ro:
     feedback:
       close: Închide
       error: 
-      open: 
+      open: Reacție
       placeholder: Anuntati-ne ce crezi și ce putem îmbunătăți. Dacă doriți ca să fiți contactat, vă rugăm să lăsați adresa dvs. de e-mail aici!
       submit: A depune
       thanks:
@@ -448,14 +448,14 @@ ro:
         short: Mulțumesc!
       title: 
       type:
-        bug: 
+        bug: eroare
         comment: cometariu
         correction: corecţie
     find-us-elsewhere: Ne găsiți și aici
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Urmărire %{channel}
     forgot-password: Parola uitată?
-    galleries: 
+    galleries: Galerii
     genres: genuri
     genres-chamber-music: Muzică de cameră
     genres-classical-music: Muzică clasică
@@ -473,8 +473,8 @@ ro:
     home: Acasă
     javascript-required: Pentru a accesa acest conținut activați opțiunea JavaScript, și luați în considerare actualizarea navigatorului dvs. web către o versiune care suportă vizualizarea de conținut HTML5.
     labels:
-      by: 
-      images: 
+      by: de către
+      images: imagini
     labs: ''
     labs-text: Combină conținutul digital cultural cu ajutorul interfeței API & a seturilor de date
     language-basque: 
@@ -508,41 +508,41 @@ ro:
     language-swedish: 
     language-ukranian: 
     languages:
-      bg: 
-      ca: 
-      cs: 
-      da: 
-      de: 
-      el: 
-      en: 
-      es: 
-      et: 
-      eu: 
-      fi: 
-      fr: 
-      ga: 
-      he: 
-      hr: 
-      hu: 
-      is: 
-      it: 
-      lt: 
-      lv: 
-      mt: 
-      mul: 
-      nl: 
-      'no': 
-      pl: 
-      pt: 
+      bg: Bulgară
+      ca: Catalană
+      cs: Cehă
+      da: Daneză
+      de: Germană
+      el: Greacă
+      en: Engleză
+      es: Spaniolă
+      et: Estoniană
+      eu: Bască
+      fi: Finlandeză
+      fr: Franceză
+      ga: Galeză
+      he: עברית
+      hr: Croată
+      hu: Ungară
+      is: Islandeză
+      it: Italiană
+      lt: Lituaniană
+      lv: Letonă
+      mt: Malteză
+      mul: Multilingv
+      nl: Olandeză
+      'no': Norvegiană
+      pl: Poloneză
+      pt: Portugheză
       ro: Română
-      ru: 
-      sk: 
-      sl: 
-      sr: 
-      sv: 
-      tr: 
-      uk: 
-      yi: 
+      ru: Rusă
+      sk: Slovacă
+      sl: Slovenă
+      sr: Српски
+      sv: Suedeză
+      tr: Türkçe
+      uk: Ucrainiană
+      yi: ייִדיש
     login: Autentificare
     mission: Prin cultură noi transformăm lumea! Ne dorim să contribuim la dezvoltarea patrimoniului cultural european, și să-l facem ușor accesibil, fie pentru scopuri profesionale sau doar de amuzament.
     mission-title: Misiunea noastră
@@ -567,33 +567,33 @@ ro:
     professional: ''
     professional-text: Implică-te, partajează datele pe care le deții sau exploatează-le pe cele existente la noi
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Aplicație
+      apps: Aplicații
+      blog: Blog
+      blogs: Bloguri
+      collection: Colecție tematică
+      collections: Colecții tematice
+      dataset: Set de date
+      datasets: Seturi de date
+      event: Eveniment
+      events: Evenimente
+      exhibition: Expoziție
+      exhibitions: Expoziții
+      featured_site: Site promovat
+      featured_sites: Site-uri promovate
+      galleries: Galerii
+      gallery: Galerie
+      image: Imagine
+      images: Imagini
+      new: Ce e nou
+      partner: Partenerul nostru
+      partners: Partenerii noștri
+      playlist: Listă de derulare
+      playlists: Liste de derulare
+      stories: Povești
+      story: Poveste
+      timeline: Calendar
+      timelines: Calendare
     refine-your-search: Rafinează căutare
     refine-your-search-short: 
     register: Înregistrează-te
@@ -611,7 +611,7 @@ ro:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Ați explorat noile noastre galerii?
         search:
           new-filter: Acum, puteți filtra căutarea pe licență specifică
           new-grid: Ai văzut noul aspect grila?
