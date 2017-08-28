@@ -196,8 +196,8 @@ lt:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} pr. m. e."
+          current: "%{date} m. e."
     email-address: el. pašto adresas
     error:
       unavailable: Negalima
@@ -426,7 +426,7 @@ lt:
           medium: Vidutinis (%{data})
           short: Trumpas (%{data})
       ugc:
-        'false': 
+        'false': Ne
         'true': Taip
       video_duration:
         long: Ilgas (20+ min)
