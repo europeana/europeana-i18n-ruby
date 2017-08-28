@@ -196,8 +196,8 @@ et:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: e-posti aadress
     error:
       unavailable: Ei ole saadaval
@@ -426,8 +426,8 @@ et:
           medium: Keskmine (%{data})
           short: Lühike (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Ei
+        'true': Jah
       video_duration:
         long: Pikk (üle 20 minuti)
         medium: Keskmine (4-20 minutit)
@@ -523,7 +523,7 @@ et:
       fi: soome
       fr: prantsuse
       ga: gaeli
-      he: 
+      he: עברית
       hr: horvaatia
       hu: ungari
       is: islandi
@@ -540,11 +540,11 @@ et:
       ru: vene
       sk: slovakkia
       sl: sloveenia
-      sr: 
+      sr: Српски
       sv: rootsi
-      tr: 
+      tr: Türkçe
       uk: ukraina
-      yi: 
+      yi: ייִדיש
     login: Logi sisse
     mission: Me muudame kultuuri abil maailma! Tahame võtta aluseks euroopa rikka pärandi ja teha selle inimestele kergemi kasutatavaks - olgu eesmärgiks töö, õppimine või lihtsalt lõbu.
     mission-title: Meie missioon

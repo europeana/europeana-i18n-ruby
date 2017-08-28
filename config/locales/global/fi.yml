@@ -196,8 +196,8 @@ fi:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} eaa."
+          current: "%{date} jaa."
     email-address: sähköpostiosoite
     error:
       unavailable: Ei saatavilla
@@ -426,8 +426,8 @@ fi:
           medium: Keskipitkä (%{data})
           short: Lyhyt (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Ei
+        'true': Kyllä
       video_duration:
         long: Pitkä (20+ minuuttia)
         medium: Keskipitkä (4–20 minuuttia)
@@ -538,11 +538,11 @@ fi:
       ru: Venäjä
       sk: Slovakki
       sl: Sloveeni
-      sr: 
+      sr: Српски
       sv: Ruotsi
-      tr: 
+      tr: Türkçe
       uk: Ukraina
-      yi: 
+      yi: ייִדיש
     login: Kirjaudu
     mission: Muutamme maailmaa kulttuurilla! Haluamme rakentaa Euroopan rikasta kulttuuriperintöä ja tuoda sitä ihmisille käytettäväksi - työhön, oppimiseen tai vain huvin vuoksi.
     mission-title: Missiomme

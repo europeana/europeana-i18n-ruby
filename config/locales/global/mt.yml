@@ -149,27 +149,27 @@ mt:
   global:
     about-us: Dwarna
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Niżżel il-menu
+      delete: Iddilitja
+      edit: Editja
+      expand: Espandi
       filter-all: Kollha
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
-      new: 
+      new: Ġdid
       next: li jmiss
       previous: qabel
-      register: 
-      share: 
-      sign-in: 
-      sign-out: 
+      register: Irreġistra
+      share: Ixxerja
+      sign-in: Idħol
+      sign-out: Oħroġ
       skip-to-main: Aqbeż għall-kontenut paġna
       skip-to-section: Aqbeż għall-taqsima
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Ara
+      view-at: Ara hawn
+      view-more-at: 'Ara aktar hawn '
+      withdraw: Neħħi
     channel:
       all: 'L-oġġetti kollha
 
@@ -179,7 +179,7 @@ mt:
       art: arti
       art-history: Istorja tal-arti
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Dar
       maps: mapep
       music: Mużika
@@ -198,11 +198,11 @@ mt:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: Indirizz tal-email
     error:
-      unavailable: 
+      unavailable: 'Mhux disponibbli '
     facet:
       advanced:
         options: Għażliet
@@ -264,11 +264,11 @@ mt:
         country: Pajjiż
         data_provider: Istituzzjoni
         date-created: data maħluqa
-        edm_ugc: 
+        edm_ugc: Uri l-kontenut li kkontribwew l-utenti
         fashion:
           colour: Kulur
           designer: Disinjatur
-          material: 
+          material: Materjal
           technique: Teknika
           type: It-tip tal-oġġett
         image_aspectratio: Orientazzjoni
@@ -287,7 +287,7 @@ mt:
         sound_duration: 'Dewmien '
         sound_hq: Kwalita' Għolja
         text_fulltext: Il-kitba sħiħa
-        thumbnail: 
+        thumbnail: Oġġetti bil-minjaturi biss
         type: Il-Medja
         ugc: Uri l-kontenut kontribut mill-utenti
         video_duration: Tul
@@ -366,17 +366,17 @@ mt:
         advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
         advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
         advanced-rs-cne: Copyright Mhux evalwat
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Fid-Drittijiet tal-Awtur
+        advanced-rs-inc-edu: Fid-Drittijiet tal-Awtur - L-Użu Għall-Edukazzjoni Huwa Permess
+        advanced-rs-inc-ow-eu: Fid-Drittijiet tal-Awtur - Xogħol Orfni tal-UE
+        advanced-rs-noc-nc: Mingħajr id-Drittijiet tal-Awtur - Għall-Użu Mhux Kummerċjali Biss
+        advanced-rs-noc-oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
         advanced-ucs: L-istatus tal-copyright mhux magħruf
         expiry: sa %{date}
         open: Iva bl-attribuzzjoni
         permission: Bil-permess biss
         restricted: Iva bir-restrizzjonijiet
-        rs_noc_oklr: 
+        rs_noc_oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
         simple: Sempliċi
       sound_duration:
         long: Twil (6+ minuti)
@@ -390,8 +390,8 @@ mt:
         'false': Le
         'true': Iva
       thumbnail:
-        'false': 
-        'true': 
+        'false': Le
+        'true': Iva
       type:
         3d: 3D
         image: Immaġni
@@ -428,8 +428,8 @@ mt:
           medium: Medju (%{data})
           short: Qasir (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Le
+        'true': Iva
       video_duration:
         long: Twil (20+ minuti)
         medium: Medju (4-20 minuta)
@@ -455,9 +455,9 @@ mt:
         correction: korrezzjoni
     find-us-elsewhere: Sibna x'imkien ieħor
     find-us-social-media: Fittex %{channel} fuq midja soċjali
-    follow-channel: 
+    follow-channel: Segwi %{channel}
     forgot-password: Insejt il-password?
-    galleries: 
+    galleries: Galleries
     genres: tip
     genres-chamber-music: Mużika 'chamber'
     genres-classical-music: Mużika klassika
@@ -475,8 +475,8 @@ mt:
     home: Paġna Primarja
     javascript-required: Biex taċċessa l-kontenut, jekk joġgħbok ħaddem il-JavaScript, u kkonsidra li tuża web browswer li jiflaħ kontenut ta' HTML5.
     labels:
-      by: 
-      images: 
+      by: minn
+      images: immaġni
     labs: Laboratorji
     labs-text: Remix tal-kontenut kulturali ma' l-APIs & datasets tagħna
     language-basque: Bask
@@ -569,33 +569,33 @@ mt:
     professional: Professjonali
     professional-text: Involvi ruħek, aqsam l-ideat tiegħek jew uża tagħna
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Kollezzjoni tematika
+      collections: Kollezzjonijiet tematiċi
+      dataset: Dataset
+      datasets: Datasets
+      event: Avveniment
+      events: Avvenimenti
+      exhibition: Wirja
+      exhibitions: Wirjiet
+      featured_site: Sit prominenti
+      featured_sites: Siti prominenti
+      galleries: Galleries
+      gallery: Gallery
+      image: Immaġni
+      images: Immaġni
+      new: Kontenut ġdid
+      partner: L-Imsieħeb Tagħna
+      partners: 'L-Imseħbin Tagħna '
+      playlist: Playlist
+      playlists: Playlists
+      stories: Stejjer
+      story: Storja
+      timeline: Kronoloġija
+      timelines: Kronoloġiji
     refine-your-search: Irfina t-tfixxija tiegħek
     refine-your-search-short: Iffiltra
     register: Irreġistra
@@ -613,7 +613,7 @@ mt:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Ibbrawżjajthom il-galleries il-ġodda tagħna?
         search:
           new-filter: Tista tiffiltra it-tfittxija tiegħek skont il-liċenzja speċifika
           new-grid: Kont taf li tista tirranga r-risultati b'forma ta' gradilja?
