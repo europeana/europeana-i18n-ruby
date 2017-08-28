@@ -7,6 +7,8 @@ lv:
         sources:
           description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu!
   global:
+    exhibitions:
+      contacts: 
     labs-link: saite uz Laboratoriju
     navigation:
       agents: Cilvēki

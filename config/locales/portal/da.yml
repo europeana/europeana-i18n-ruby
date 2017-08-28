@@ -7,6 +7,8 @@ da:
         sources:
           description: Nedenfor ser du en liste over institutioner, der har bidraget deres indhold til Europeana samlinger. Disse institutioner samle og bidrage med deres data til Europeana, skal du klikke på linket, der interesserer dig nedenfor for at se en bestemt partner samling!
   global:
+    exhibitions:
+      contacts: 
     labs-link: link til labs
     navigation:
       agents: Mennesker
@@ -27,7 +29,7 @@ da:
       more:
         agents: Mennesker
         people: Flere folk
-        periods: 
+        periods: Tidsperioder
         topics: Flere emner
       periods: tidsperioder
       places: Steder
@@ -147,7 +149,9 @@ da:
     galleries:
       description: Kultur udvalgt til dig! Gå på opdagelse i Europeana Galleries!
       description-default: Lær mere om  Europeana
-      share: 
+      share:
+        one: Del dette galleri
+        other: Del gallerierne
     more: Mere...
     my-europeana: Mit Europeana
     my-europeana-link: link til mit Europeana

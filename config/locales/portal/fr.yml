@@ -7,6 +7,8 @@ fr:
         sources:
           description: Vous trouverez ci-dessous une liste des institutions qui ont contribué leur contenu à Europeana Collections. Ces institutions regroupent et contribuent leurs données à Europeana, cliquez sur le lien qui vous intéresse ci-dessous pour afficher une collection de partenaires particuliers!
   global:
+    exhibitions:
+      contacts: 
     labs-link: ''
     navigation:
       agents: Gens
@@ -25,9 +27,9 @@ fr:
       galleries: Galeries
       home: Accueil
       more:
-        agents: 
+        agents: Personnes
         people: Plus de gens
-        periods: 
+        periods: Périodes
         topics: Plus de sujets
       periods: Périodes de temps
       places: Places
@@ -105,8 +107,8 @@ fr:
         occupation: Profession
       labels:
         bio: Biographie
-        born: 
-        died: 
+        born: Né(e)
+        died: Mort(e)
         related: Associé
       tab_items:
         items_about: Objets à propos de %{name}
@@ -114,7 +116,9 @@ fr:
       types:
         agent: Personne
         concept: Concept
-        place: 
+        place: 'Lieu
+
+'
       wiki_link_text: Ressource issue de Wikimedia Commons
     events:
       all_day: Toute la journée
@@ -145,7 +149,9 @@ fr:
     galleries:
       description: La culture pour vous ! Découvrez les galeries Europeana !
       description-default: Apprenez-en plus sur Europeana
-      share: 
+      share:
+        one: Partager cette galerie
+        other: Partager les galeries
     more: Plus...
     my-europeana: 
     my-europeana-link: lien vers my Europeana

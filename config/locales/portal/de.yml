@@ -7,6 +7,8 @@ de:
         sources:
           description: Unten sehen Sie eine Liste der Institutionen, die ihren Inhalt zu Europeana Collections beigetragen haben. Diese Institutionen aggregieren und tragen ihre Daten zu Europeana, klicken Sie auf den Link, der Sie unten interessiert, um eine bestimmte Partner-Kollektion zu sehen!
   global:
+    exhibitions:
+      contacts: 
     labs-link: Link zu Labs
     navigation:
       agents: Menschen
@@ -147,7 +149,9 @@ de:
     galleries:
       description: Kultur für Sie! Entdecken Sie die Europeana Galerien!
       description-default: Erfahren Sie mehr über Europeana
-      share: 
+      share:
+        one: Diese Galerie teilen
+        other: Die Galerien teilen
     more: Mehr...
     my-europeana: Mein Europeana
     my-europeana-link: Link zu Mein Europeana

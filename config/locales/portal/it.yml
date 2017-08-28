@@ -7,6 +7,8 @@ it:
         sources:
           description: Qui sotto puoi vedere un elenco di istituzioni che hanno contribuito i loro contenuti per Europeana collezioni. Queste istituzioni aggregare e contribuire con i loro dati di Europeana, fare clic sul link che ti interessa per visualizzare una particolare collezione partner!
   global:
+    exhibitions:
+      contacts: 
     labs-link: Link ai laboratori
     navigation:
       agents: Persone

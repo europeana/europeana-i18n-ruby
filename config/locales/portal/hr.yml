@@ -7,6 +7,8 @@ hr:
         sources:
           description: U nastavku slijedi popis izvora za naše zbirke. Oni skupljaju i doprinose svojim zbirkama Europeani. Slijedite poveznicu koja vas zanima i pristupit ćete svim njihovim zbirkama!
   global:
+    exhibitions:
+      contacts: 
     labs-link: http://labs.europeana.eu/
     navigation:
       agents: narod
@@ -147,7 +149,9 @@ hr:
     galleries:
       description: Kurator kulture za vas! Otkrijte galerije Europeana!
       description-default: Otkrijte još toga o Europeana
-      share: 
+      share:
+        one: Podijelite ovu galeriju
+        other: Podijelite galerije
     more: Više...
     my-europeana: My Europeana
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login

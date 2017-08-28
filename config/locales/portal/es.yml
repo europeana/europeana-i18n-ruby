@@ -7,6 +7,8 @@ es:
         sources:
           description: A continuación puede ver una lista de las instituciones que han aportado su contenido a Europeana Collections. Estas instituciones agregan y aportar sus datos a Europeana, Haga clic en el enlace que le interese para ver una colección de un proveedor en particular.
   global:
+    exhibitions:
+      contacts: 
     labs-link: 'link a labs '
     navigation:
       agents: Personas

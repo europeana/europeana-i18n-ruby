@@ -7,6 +7,8 @@ sk:
         sources:
           description: Nižšie je uvedený zoznam inštitúcií, ktoré prispeli svojim obsahom do Europeana zbierok (Collections) Tieto inštitúcie zhromažďujú a posielajú svoje údaje do Europeana, kliknite na link nižšie, ktorý vás zaujíma, a uvidíte zbierku konkrétneho partnera!
   global:
+    exhibitions:
+      contacts: 
     labs-link: 'link na labs '
     navigation:
       agents: Ľudia
@@ -27,7 +29,7 @@ sk:
       more:
         agents: Ľudia
         people: Viac ľudí
-        periods: 
+        periods: Doby
         topics: Viac tém
       periods: Časové obdobia
       places: Miesta

@@ -7,6 +7,8 @@ pl:
         sources:
           description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
   global:
+    exhibitions:
+      contacts: 
     labs-link: link do labs
     navigation:
       agents: Osoby

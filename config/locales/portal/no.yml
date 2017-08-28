@@ -7,6 +7,8 @@
         sources:
           description: Under ser du en liste over kilder for våre samlinger. Disse kildene utvider og bidrar til samlinger på Europeana, klikk på lenkene under som interesserer deg for å se på alle samlingene deres!
   global:
+    exhibitions:
+      contacts: 
     labs-link: lenker til labs
     navigation:
       agents: Mennesker
@@ -147,7 +149,9 @@
     galleries:
       description: Kultur kurert for deg! Oppdag Europeana Gallerier!
       description-default: Finn ut mer på Europeana
-      share: 
+      share:
+        one: Del dette galleriet
+        other: Del galleriene
     more: Mer ...
     my-europeana: Mitt Europeana
     my-europeana-link: lenke til Mitt Europeana

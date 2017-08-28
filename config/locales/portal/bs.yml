@@ -7,6 +7,8 @@ bs:
         sources:
           description: 
   global:
+    exhibitions:
+      contacts: 
     labs-link: 
     navigation:
       agents: 

@@ -7,6 +7,8 @@ et:
         sources:
           description: Allpool näed loetelu meie kogude allikaist. Need allikad koondavad ja panustavad kogusid Europeanasse. Klõpsa sind huvitavale lingile, et sind viidaks kõikide nende kogudeni!
   global:
+    exhibitions:
+      contacts: 
     labs-link: link Labs'i
     navigation:
       agents: Inimesed

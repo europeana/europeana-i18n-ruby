@@ -7,6 +7,8 @@ ru:
         sources:
           description: Ниже вы видите список учреждений, которые внесли свой контент в Europeana Collections. Эти учреждения собирают и вносят свои данные в Europeana. Кликните по заинтересовавшей вас ссылке ниже, чтобы просмотреть коллекцию конкретного партнёра!
   global:
+    exhibitions:
+      contacts: 
     labs-link: Cсылка на Labs
     navigation:
       agents: Люди

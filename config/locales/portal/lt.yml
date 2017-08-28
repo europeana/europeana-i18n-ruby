@@ -7,6 +7,8 @@ lt:
         sources:
           description: Žemiau matote institucijų, kurie prisidėjo jų turinį Europeana rinkinių sąrašą. Šios institucijos kaupti ir prisidėti savo duomenis Europeana paspausti nuorodą, kuri jus domina toliau peržiūrėti konkretaus partnerio kolekciją!
   global:
+    exhibitions:
+      contacts: 
     labs-link: Nuoroda į Labs
     navigation:
       agents: žmonės
@@ -27,7 +29,7 @@ lt:
       more:
         agents: Žmonės
         people: Daugiau žmonių
-        periods: 
+        periods: Laikotarpiai
         topics: Daugiau temų
       periods: laikotarpiai
       places: Lankytinos
@@ -147,7 +149,9 @@ lt:
     galleries:
       description: Jums parūpinta kultūra! Atraskite „Europeana“ galerijas!
       description-default: Sužinokite daugiau apie „Europeana“
-      share: 
+      share:
+        one: Dalytis šia galerija
+        other: Dalytis galerijomis
     more: Daugiau...
     my-europeana: Mano Europeana
     my-europeana-link: Nuoroda į Mano Europeana

@@ -7,6 +7,8 @@ sv:
         sources:
           description: Här finner du alla institutioner som har bidragit till Europeanas samlingar.
   global:
+    exhibitions:
+      contacts: 
     labs-link: Länk till Labs
     navigation:
       agents: Personligheter
@@ -147,7 +149,9 @@ sv:
     galleries:
       description: Kultur som är handplockad för dig! Upptäck Europeana Galleries!
       description-default: Läs mer om på Europeana
-      share: 
+      share:
+        one: Dela det här galleriet
+        other: Dela gallerierna
     more: Mera...
     my-europeana: Mitt Europeana
     my-europeana-link: länk till Mitt Europeana
