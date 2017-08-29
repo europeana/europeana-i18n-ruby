@@ -366,9 +366,9 @@ mt:
         advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
         advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
         advanced-rs-cne: Copyright Mhux evalwat
-        advanced-rs-inc: Fid-Drittijiet tal-Awtur
-        advanced-rs-inc-edu: Fid-Drittijiet tal-Awtur - L-Użu Għall-Edukazzjoni Huwa Permess
-        advanced-rs-inc-ow-eu: Fid-Drittijiet tal-Awtur - Xogħol Orfni tal-UE
+        advanced-rs-inc: Bid-Drittijiet tal-Awtur
+        advanced-rs-inc-edu: Bid-Drittijiet tal-Awtur - L-Użu Għall-Edukazzjoni Huwa Permess
+        advanced-rs-inc-ow-eu: Bid-Drittijiet tal-Awtur - Xogħlijiet Orfni tal-UE
         advanced-rs-noc-nc: Mingħajr id-Drittijiet tal-Awtur - Għall-Użu Mhux Kummerċjali Biss
         advanced-rs-noc-oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
         advanced-ucs: L-istatus tal-copyright mhux magħruf
@@ -581,14 +581,14 @@ mt:
       events: Avvenimenti
       exhibition: Wirja
       exhibitions: Wirjiet
-      featured_site: Sit prominenti
-      featured_sites: Siti prominenti
+      featured_site: Sit immarkat
+      featured_sites: Siti mmarkati
       galleries: Galleries
       gallery: Gallery
       image: Immaġni
       images: Immaġni
       new: Kontenut ġdid
-      partner: L-Imsieħeb Tagħna
+      partner: Is-Sieħeb Tagħna
       partners: 'L-Imseħbin Tagħna '
       playlist: Playlist
       playlists: Playlists

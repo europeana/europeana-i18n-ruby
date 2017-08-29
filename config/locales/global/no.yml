@@ -197,7 +197,7 @@
       eras:
         gregorian:
           before: "%{date} fvt"
-          current: 
+          current: "%{date} evt"
     email-address: epostadresse
     error:
       unavailable: Utilgjengelig
@@ -541,7 +541,7 @@
       sr: Serbokroatisk
       sv: Svensk
       tr: Tykrkisk
-      uk: 
+      uk: Ukrainsk
       yi: Jiddisch
     login: Logg Inn
     mission: Vi endrer verden med kultur! Vi ønsker å bygge på Europas rike arv og gjøre den lettere å bruke, enten til arbeid, til læring eller bare for moro skyld.

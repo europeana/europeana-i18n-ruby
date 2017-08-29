@@ -149,27 +149,27 @@ ca:
   global:
     about-us: Sobre nosaltres
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Redueix
+      delete: Elimina
+      edit: Edita
+      expand: Amplia
       filter-all: filtrar tot
       filter-by: Filtrar per
       fullscreen-enter: Pantalla completa
       fullscreen-exit: Surt de la pantalla completa
-      new: 
+      new: Nou
       next: Pròxim
       previous: anterior
       register: Registra-t'hi
-      share: 
+      share: Comparteix
       sign-in: Inicia sessió
       sign-out: Tanca sessió
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Mostra
+      view-at: Mostra-ho a
+      view-more-at: 'Mostra''n més a '
+      withdraw: retira
     channel:
       all: tots els articles
       archaeology: arqueologia
@@ -177,7 +177,7 @@ ca:
       art: Història de l'art
       art-history: Història de l'art
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: 'Inici '
       maps: mapes
       music: Música
@@ -196,11 +196,11 @@ ca:
     date:
       eras:
         gregorian:
-          before: 
-          current: 
+          before: "%{date} a. de la n. e."
+          current: "%{date} de la n. e."
     email-address: correu electrònic
     error:
-      unavailable: 
+      unavailable: No està disponible
     facet:
       advanced:
         options: Opcions
@@ -262,11 +262,11 @@ ca:
         country: Estat
         data_provider: Institució
         date-created: data de creació
-        edm_ugc: 
+        edm_ugc: Mostra contribucions dels usuaris
         fashion:
           colour: color
           designer: Dissenyador
-          material: 
+          material: Material
           technique: tècnica
           type: tipus d'article
         image_aspectratio: Orientació
@@ -285,7 +285,7 @@ ca:
         sound_duration: Durada
         sound_hq: Alta Qualitat
         text_fulltext: Text complet
-        thumbnail: 
+        thumbnail: Només ítems amb miniatures
         type: Audiovisuals
         ugc: Mostrar continguts generats per usuaris
         video_duration: Durada
@@ -364,17 +364,17 @@ ca:
         advanced-rrpa: Drets reservat - Accés de pagament
         advanced-rrra: Drets reservats - Accés restringit
         advanced-rs-cne: Drets d&#39;Autor No avaluat
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rs-inc: Amb copyright
+        advanced-rs-inc-edu: Amb copyright - Ús educacional permès
+        advanced-rs-inc-ow-eu: Amb copyright - Obra òrfena UE
+        advanced-rs-noc-nc: Sense copyright - Només ús no comercial
+        advanced-rs-noc-oklr: Sense copyright - Altres restriccions legals conegudes
         advanced-ucs: Situació de copyright desconeguda
-        expiry: 
+        expiry: fins a %{date}
         open: Sí, amb atribució
         permission: Només amb permís
         restricted: Sí, amb restriccions
-        rs_noc_oklr: 
+        rs_noc_oklr: Sense copyright - Altres restriccions legals conegudes
         simple: Simple
       sound_duration:
         long: Llarg (6+ minuts)
@@ -388,8 +388,8 @@ ca:
         'false': 'No'
         'true': Sí
       thumbnail:
-        'false': 
-        'true': 
+        'false': 'No'
+        'true': Sí
       type:
         3d: 3D
         image: Imatge
@@ -426,8 +426,8 @@ ca:
           medium: Mig (%{data})
           short: Curt (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': 'No'
+        'true': Sí
       video_duration:
         long: Llarg (>20 minuts)
         medium: Mig (4-20 minuts)
@@ -440,7 +440,7 @@ ca:
     feedback:
       close: a prop
       error: 
-      open: 
+      open: Comentaris
       placeholder: Faci&#39;ns saber el que pensa i el que es pot millorar. Si desitja ser contactat, si us plau deixi la seva adreça de correu electrònic aquí també!
       submit: Presentar
       thanks:
@@ -448,14 +448,14 @@ ca:
         short: Gràcies!
       title: 
       type:
-        bug: 
+        bug: error
         comment: comentari
         correction: correcció
     find-us-elsewhere: Troba'ns arreu
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Segueix %{channel}
     forgot-password: No recordes la teva paraula de pas?
-    galleries: 
+    galleries: Galeries
     genres: gèneres
     genres-chamber-music: Música de cambra
     genres-classical-music: Música clàssica
@@ -473,8 +473,8 @@ ca:
     home: Inici
     javascript-required: Per veure aquest contingut necessites habilitar el JavaScript, i considerar actualitzar a un navegador que suporti continguts HTML5.
     labels:
-      by: 
-      images: 
+      by: per
+      images: imatges
     labs: Labs
     labs-text: Remescla contingut cultural amb la nostra API i datasets
     language-basque: Basc
@@ -567,33 +567,33 @@ ca:
     professional: Pro
     professional-text: Involucra't, comparteix les teves dades amb nosaltres
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Col·lecció temàtica
+      collections: Col·leccions temàtiques
+      dataset: Conjunt de dades
+      datasets: Conjunts de dades
+      event: Esdeveniment
+      events: Esdeveniments
+      exhibition: Exposició
+      exhibitions: Exposicions
+      featured_site: Pàgina destacada
+      featured_sites: Pàgines destacades
+      galleries: Galeries
+      gallery: Galeria
+      image: Imatge
+      images: Imatges
+      new: Contingut nou
+      partner: El nostre soci
+      partners: Els nostres socis
+      playlist: Llista de reproducció
+      playlists: Llistes de reproducció
+      stories: Històries
+      story: Història
+      timeline: Línia temporal
+      timelines: Línies temporals
     refine-your-search: Refina la teva cerca
     refine-your-search-short: 
     register: Registre
@@ -611,7 +611,7 @@ ca:
     tooltips:
       channels:
         home:
-          new-galleries: 
+          new-galleries: Has explorat les nostres noves galeries?
         search:
           new-filter: Ara pot filtrar la seva recerca en la llicència específica
           new-grid: Has vist el nou disseny de la xarxa?
