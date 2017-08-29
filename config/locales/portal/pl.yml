@@ -14,7 +14,7 @@ pl:
       agents: Osoby
       all_blog_posts: Wszystkie wpisy...
       all_exhibitions: Wszystkie wystawy...
-      all_galleries: 
+      all_galleries: Wszystkie galerie...
       blog: Blog
       browse: Przeglądaj
       browse_colours: Kolory
@@ -24,17 +24,17 @@ pl:
       collections: Kolekcje
       concepts: Tematy
       exhibitions: Wystawy
-      galleries: 
+      galleries: Galerie
       home: Strona główna
       more:
-        agents: 
+        agents: Ludzie
         people: Więcej osób
-        periods: 
+        periods: Okresy czasu
         topics: Więcej tematów
       periods: Okresy czasu
       places: Miejsca
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Zobacz całą kolekcję
+      view-detailed-description: Zobacz szczegółowy opis
     pro-link: link do Europeana Pro
     pro-text: tekst dla Europeana Pro
     settings: Ustawienia
@@ -46,11 +46,11 @@ pl:
         title: 'To jest wersja alfa nowych "Kolekcji" oraz "Kolekcji: Muzyka" oraz "Kolekcji: Historia sztuki".'
     blog-link: http://blog.europeana.eu
     blogs:
-      description: 
+      description: Blogi
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} z %{results_count} postów na blogu"
+        page-title: Blog
+      min-to-read: minut czytania
     browse:
       colours:
         description: Wyszukuj obrazy ze względu na kolor. Kliknij na wybrany kolor poniżej, aby zobaczyć obrazy, które go zawierają!
@@ -94,35 +94,37 @@ pl:
         editors-picks: "  "
         recent: Ostatnio dodane
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Przeglądaj <i>%{preview_title}</i> w %{collection}
         spotlight-on: Zbliżenie
-        whats-happening: 
+        whats-happening: Co się dzieje
       music:
         description: '<strong>Europeana Kolekcje: Muzyka</strong> zawiera najlepsze nagrania i inne związane z muzyką zbiory z europejskich archiwów audiowizualnych, bibliotek, archiwów i muzeów. <a href="/portal/channels/music/about"> Dowiedz się więcej o Kolekcji Muzyka. </a>'
         title: Europeana Muzyka
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Narodziny
+        death: Śmierć
+        occupation: Zawód
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Biografia
+        born: Urodzony
+        died: Zmarł
+        related: Powiązane
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Obiekty o %{name}
+        items_by: Obiekty według %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Osoba
+        concept: Koncept
+        place: 'Miejsce
+
+'
+      wiki_link_text: Materiały otrzymane od Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Cały Dzień
+      description: Wydarzenia
       list:
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} z %{results_count} wydarzeń"
         future: Nadchodzące wydarzenia
         page-title: Wydarzenia
         past: Minione wydarzenia
@@ -145,35 +147,37 @@ pl:
         search-tips: Porady
         using-myeuropeana: Moja Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultura dobrana do Ciebie! Odkryj Galerie Europeana!
+      description-default: Dowiedz się więcej o Europeana
+      share:
+        one: Udostępnij tą galerię
+        other: Udostępnij galerie
     more: Więcej...
     my-europeana: Moja Europeana
     my-europeana-link: link do My Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: konto
         blogs_list_breadcrumb: Blog
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
+        contribution: Wkład
+        contribution-attachment: Załącznik
+        contribution-attachments: Załączniki
+        contribution-done: zrobione
+        contributor: Wkładca
         events_list_breadcrumb: Wydarzenia
         exhibitions:
           return_home: Wystawy
         item_detail: Obiekt
         register: Zarejestruj
-        reset-password: 
+        reset-password: Zresetuj Hasło
         results_list: Lista Wyników
         results_list_mlt: Podobne obiekty
         return_home: Powrót do strony głównej
-        sign-in: 
+        sign-in: Zaloguj Się
       search:
         placeholder:
-          text: 
+          text: Wyszukaj za pomocą słowa klucz
     news: Wiadomości
     object:
       actions:
@@ -185,7 +189,7 @@ pl:
         download-retry: Spróbuj ponownie
         download-started: Ściąganie rozpoczęte
         downloaddata: Ściągnij dane
-        enlarge: 
+        enlarge: Powiększ
         explore-by-colour: Odkrywaj według kolorów
         media-metadata: Metadane Obiektu
         open-media: Otwórz
@@ -200,7 +204,7 @@ pl:
         view-items-above: zobacz obiekty powyżej
         view-items-below: zobacz obiekty poniżej
       meta-label:
-        additional-rights: 
+        additional-rights: Informacje o dodatkowych prawach
         annotations: Adnotacje użytkowników
         codec: Kodek
         collection-name: Zbiór
@@ -312,7 +316,7 @@ pl:
         north: Północ
         south: Południe
         west: Zachód
-      preview_unavailable: 
+      preview_unavailable: Podgląd niedostępny. By wyświetlić pełen obraz oraz szczegółowe informacje przejdź do %{institution_name_and_link}
       show-more-similar-items: pokaż więcej
       similar-items: Podobne obiekty
     pages:
@@ -388,7 +392,7 @@ pl:
     search:
       browse: Przeglądaj
       or-browse: lub przeglądaj
-      page-title: 
+      page-title: Wyniki Wyszukiwania
       placeholder:
         filter-text: Szukaj
         text: Dodaj termin wyszukiwawczy
