@@ -14,7 +14,7 @@ mt:
       agents: Nies
       all_blog_posts: Il-blog posts kollha...
       all_exhibitions: Il-wirjiet kollha...
-      all_galleries: 
+      all_galleries: Il-galleries kollha...
       blog: Blog
       browse: Ibbrawżja
       browse_colours: Kuluri
@@ -24,17 +24,17 @@ mt:
       collections: Kollezzjonijiet
       concepts: Suġġetti
       exhibitions: Wirjiet
-      galleries: 
+      galleries: Galleries
       home: Paġna Primarja
       more:
-        agents: 
+        agents: Nies
         people: Izjed nies
-        periods: 
+        periods: Perjodi ta' Żmien
         topics: Izjed suġġetti
       periods: perjodi ta zmień
       places: postijiet
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Ara l-kollezzjoni sħiħa
+      view-detailed-description: Ara deskrizzjoni aktar dettaljata
     pro-link: Link għal pro
     pro-text: Kitba għal pro
     settings: Settings
@@ -46,17 +46,17 @@ mt:
         title: Dan huwa Beta release tal-kollezzjoni ġdida tagħna "Kollezzjonijiet" u "Kollezzjonijiet tal-Mużika"
     blog-link: Link għall-blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} ta' %{results_count} blog posts"
+        page-title: Blog
+      min-to-read: minuti biex taqra
     browse:
       colours:
         description: F'din is-sezzjoni tista' tfittex ritratti bbażati fuq il-kulur tagħhom. Kemm tikklikkja fuq ir-ritratt li jogħġbok biex tara l-kollezzjoni!
         title: Kuluri
       newcontent:
-        description: F'din is-sezzjoni tista' ssib il-kontenut kollhu li ġie miżjud reċentament fuq il-Kollezzjonijiet ta' Europeana. Hawnhekk tista' tara liema istituzzjoni ppubblikat materjal ġdid, kemm hemm materjal u meta. Ikklikkja fuq il-links hawn taħt biex tara l-kollezzjonijiet kollha!
+        description: 'Hawn, tista'' tibbrawżja ż-żidiet riċenti kollha tal-Europeana Collections. Ara liema istituzzjoni kulturali kkontribwiet oġġetti ġodda, in-numru ta'' oġġetti li żiedu u meta. Għal aktar tagħrif kemm tikklikkja fuq il-links hawn taħt.  '
         tableh1: L-istituzzjonijiet kollha
         tableh2: Oġġetti
         tableh3: Data
@@ -86,7 +86,7 @@ mt:
         sound: Ħsejjes
         texts: Kitba
       e7a1418:
-        contribute: 
+        contribute: Żid l-istorja tiegħek tal-1914-1918
         my-account: kont tiegħi
       labels:
         credits: Curated minn
@@ -94,38 +94,40 @@ mt:
         editors-picks: "  "
         recent: Żidiet riċenti
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Ibbrawżja <i>%{preview_title}</i> dwar %{collection}
         spotlight-on: Il-Lenti mixgħul
-        whats-happening: 
+        whats-happening: X'qed jiġri
       music:
         description: Il-<strong>Kollezzjoni tal-Mużika tal-Europeana</strong> tiġbor l-isbaħ rikordji ta' mużika, mużika miktuba, u aktar affarijiet relatati lejn il-kollezzjonijiet minn arkivji Ewropej tal-awdjo viswali, libreriji, arkivji u mużewijiet. <a href="/portal/channels/music/about">Skopri aktar informazzjoni dwar il-Kollezzjoni tal-Mużika.
         title: Mużika tal-Europeana
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Twelid
+        death: Mewt
+        occupation: Okkupazzjoni
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Bijografija
+        born: Twieled
+        died: Miet
+        related: Relatat
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Oġġetti dwar %{name}
+        items_by: Oġġetti bl- %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Persuna
+        concept: Kunċett
+        place: 'Post
+
+'
+      wiki_link_text: Riżorsi miksuba minn Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Ġurnata sħiħa
+      description: Avvenimenti
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} ta' %{results_count} avvenimenti"
+        future: Avvenimenti li ġejjin
+        page-title: Avvenimenti
+        past: Avvenimenti li għaddew
     facet:
       language:
         show:
@@ -145,35 +147,37 @@ mt:
         search-tips: Tips għat-tiftix
         using-myeuropeana: L-użu ta' Europeana Tiegħi
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultura magħżula għalik! Skopri l-Europeana Galleries!
+      description-default: Għal aktar tagħrif dwar l-Europeana
+      share:
+        one: Ixxerja din il-gallery
+        other: Ixxerja l-galleries
     more: Aktar...
     my-europeana: L-Europeana tiegħi
     my-europeana-link: Link lejn l-Europeana tiegħi
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: kont
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Kontribuzzjoni
+        contribution-attachment: Dokument mehmuż
+        contribution-attachments: Dokumenti mehmuża
+        contribution-done: lest
+        contributor: Kontributur
+        events_list_breadcrumb: Avvenimenti
         exhibitions:
           return_home: Wirjiet
         item_detail: Oġġett
-        register: 
-        reset-password: 
+        register: Irreġistra
+        reset-password: Irrisettja l-Password
         results_list: Riżultati
-        results_list_mlt: 
+        results_list_mlt: Oġġetti simili
         return_home: Mur lura fuq il-paġna primarja
-        sign-in: 
+        sign-in: Idħol
       search:
         placeholder:
-          text: 
+          text: Fittex bil-keyword hawn
     news: Aħbarijiet
     object:
       actions:
@@ -185,7 +189,7 @@ mt:
         download-retry: Erġa' pprova
         download-started: Id-'download' bdiet
         downloaddata: Niżżel informazzjoni
-        enlarge: 
+        enlarge: Kabbar
         explore-by-colour: Esplora skond il-kulur
         media-metadata: Medja Metadejta
         open-media: Iftaħ din l-iskjetta
@@ -200,8 +204,8 @@ mt:
         view-items-above: Ara l-oġġetti hawn fuq
         view-items-below: Ara l-oġġetti hawn isfel
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Tagħrif addizzjonali dwar id-drittijiet
+        annotations: Annotazzjonijiet tal-utent
         codec: Codec
         collection-name: Dataset
         concept: Suġġetti
@@ -265,7 +269,7 @@ mt:
         relations: Relazzjonijiet
         rights: Drittijiet
         rights-human: Nista' nuża dan?
-        rights-statement: 
+        rights-statement: Dikjarazzjoni tad-drittijiet
         runtime: Dewmien
         runtime-unit-seconds: sekondi
         source: Sors
@@ -312,7 +316,7 @@ mt:
         north: Tramuntana
         south: Nofsinhar
         west: Punent
-      preview_unavailable: 
+      preview_unavailable: Il-previżjoni tal-oġġett mhix disponibbli, biex taċċessa l-immaġni sħiħa u aktar tagħrif żur %{institution_name_and_link}
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
     pages:
@@ -357,9 +361,9 @@ mt:
         product-save: Salva
         saveto: Salva f'
         show-all-collections: Uri l-kollezzjonijiet kollha
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Ikklikkja hawn għal riżultati minn sorsi li mhumiex Europeana
+      federated-clicked: Oġġetti minn sorsi li mhumiex Europeana
+      federated_more: Ara r-riżultati %{results_count} kollha dwar %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -392,13 +396,13 @@ mt:
           grid: Grid
           list: Lista
         view-at-provider: Ara f'
-      results: 
+      results: Riżultati
     search:
       browse: Fittex
       or-browse: jew fittex
-      page-title: 
+      page-title: Riżultati tat-tiftix
       placeholder:
-        filter-text: 
+        filter-text: Fittex
         text: Żid terminu ġdid għat-tfittxija
       similar:
         prefix: 'Simili għal: %{mlt_item}'
