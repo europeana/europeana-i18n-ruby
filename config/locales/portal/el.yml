@@ -14,7 +14,7 @@ el:
       agents: Ανθρωποι
       all_blog_posts: Όλες οι αναρτήσεις...
       all_exhibitions: "'Ολες οι εκθέσεις"
-      all_galleries: 
+      all_galleries: Όλες οι γκαλερί...
       blog: Ιστολόγιο
       browse: Περιήγηση
       browse_colours: Χρώματα
@@ -24,17 +24,17 @@ el:
       collections: Συλλογές
       concepts: Θέματα
       exhibitions: Εκθέσεις
-      galleries: 
+      galleries: Γκαλερί
       home: Αρχική
       more:
-        agents: 
+        agents: Άνθρωποι
         people: Περισσότεροι άνθρωποι
-        periods: 
+        periods: Χρονικές περίοδοι
         topics: περισσότερα θέματα
       periods: χρονικές περιόδους
       places: Μέρη
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Προβολή ολόκληρης συλλογής
+      view-detailed-description: Δείτε πιο λεπτομερή περιγραφή
     pro-link: ''
     pro-text: ''
     settings: προτιμήσεις
@@ -46,17 +46,17 @@ el:
         title: Αυτή είναι μία Beta έκδοση της νέας μας αναζήτησης σε Συλλογές και της Συλλογής Μουσική
     blog-link: ''
     blogs:
-      description: 
+      description: Ιστολόγια
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} από %{results_count} δημοσιεύσεις ιστολογίου"
+        page-title: Ιστολόγιο
+      min-to-read: λεπτά για ανάγνωση
     browse:
       colours:
         description: Αναζήτηση εικόνων με βάση το χρώμα τους. Απλά κάντε κλικ σε ένα έγχρωμο πλαίσιο παρακάτω για να ανακαλύψετε τις εικόνες που περιέχουν αυτό το χρώμα!
         title: Χρώματα
       newcontent:
-        description: 
+        description: 'Εδώ μπορείτε να εξερευνείτε όλες τις πρόσφατες προσθήκες στο Europeana Collections. Δείτε ποιο πολιτιστικό ίδρυμα προσέφερε νέα στοιχεία, τον αριθμό των στοιχείων που προσέθεσε και πότε συνέβη αυτό. Απλώς πατήστε στους παρακάτω συνδέσμους για να μάθετε περισσότερα. '
         tableh1: Όλα τα ιδρύματα
         tableh2: Αντικείμενα
         tableh3: Ημερομηνία
@@ -94,38 +94,40 @@ el:
         editors-picks: "  "
         recent: Πρόσφατες προσθήκες
         sneak-peek: Explore Europeana Fashion
-        sneak-peek-collection: 
+        sneak-peek-collection: Εξερευνήστε <i>%{preview_title}</i> στη συλλογή %{collection}
         spotlight-on: Ενεργοποίηση Spotlight
-        whats-happening: 
+        whats-happening: Τι συμβαίνει
       music:
         description: Η <strong>Europeana Μουσική Συλλογή</strong> φέρνει κοντά τις καλύτερες μουσικές ηχογραφήσεις, παρτιτούρες, και αλλό μουσικό περιεχόμενο από τα οπτικο-ακουστικά αρχεία, βιβιοθήκεςσ και μουσεία της Ευρώπης. <a href="/portal/channels/music/about">Ανακαλύψτε περισσότερα για την Μουσική Συλλογή</a>
         title: Europeana Μουσική
     entities:
       anagraphic:
-        birth: 
-        death: 
-        occupation: 
+        birth: Γέννηση
+        death: Θάνατος
+        occupation: Επάγγελμα
       labels:
-        bio: 
-        born: 
-        died: 
-        related: 
+        bio: Βιογραφία
+        born: Γεννήθηκε
+        died: Πέθανε
+        related: Σχετικά
       tab_items:
-        items_about: 
-        items_by: 
+        items_about: Στοιχεία σχετικά με %{name}
+        items_by: Στοιχεία από %{name}
       types:
-        agent: 
-        concept: 
-        place: 
-      wiki_link_text: 
+        agent: Πρόσωπο
+        concept: Έννοια
+        place: 'Τόπος
+
+'
+      wiki_link_text: Ο πόρος λήφθηκε από το Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Ολοήμερο
+      description: Συμβάντα
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} από %{results_count} συμβάντα"
+        future: Προσεχή συμβάντα
+        page-title: Συμβάντα
+        past: Περασμένα συμβάντα
     facet:
       language:
         show:
@@ -135,45 +137,47 @@ el:
         about: Σχετικά με
         become-a-provider: Γίνετε συλλέκτης δεδομένων
         contact: Επικοινωνία
-        contact-us: 
+        contact-us: Επικοινωνήστε μαζί μας
         copyright: Πνευματικά δικαιώματα
         data-providers: Όλα τα ιδρύματα
         help: Βοήθεια
         new-collections: Νέες Συλλογές
         rights: Δικαιώματα χρήσης
-        roadmap: 
+        roadmap: Ενημερώσεις ανάπτυξης
         search-tips: Συμβουλές αναζήτησης
         using-myeuropeana: Χρησιμοποιώντας το My Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Παράθυρο στον πολιτισμό! Ανακαλύψτε το Europeana Galleries!
+      description-default: Μάθετε περισσότερα στο Europeana
+      share:
+        one: Μοιραστείτε αυτήν την γκαλερί
+        other: Μοιραστείτε τις γκαλερί
     more: Περισσότερα...
     my-europeana: 
     my-europeana-link: συνδεσμος για το my Europeana
-    name: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: Λογαριασμός
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Ιστολόγιο
+        contribution: Συνεισφορά
+        contribution-attachment: Συνημμένο
+        contribution-attachments: Συνημμένα
+        contribution-done: ολοκληρώθηκε
+        contributor: Συντελεστής
+        events_list_breadcrumb: Συμβάντα
         exhibitions:
-          return_home: 
+          return_home: Εκθέσεις
         item_detail: Λεπτομέρεια εγγραφής
-        register: 
-        reset-password: 
+        register: Εγγραφή
+        reset-password: Επαναφορά Κωδικού
         results_list: Λίστα Αποτελεσμάτων
-        results_list_mlt: 
+        results_list_mlt: Παρόμοια στοιχεία
         return_home: Επιστροφή στην Αρχική
-        sign-in: 
+        sign-in: Σύνδεση
       search:
         placeholder:
-          text: 
+          text: Αναζήτηση με λέξη-κλειδί εδώ
     news: Νέα
     object:
       actions:
@@ -182,12 +186,12 @@ el:
         attribute-plaintext: Κείμενο
         download: Μεταφόρτωση
         download-additional: Επίσης διαθέσιμο ως
-        download-retry: 
-        download-started: 
+        download-retry: Επανάληψη
+        download-started: Η λήψη έχει ξεκινήσει
         downloaddata: Μεταφόρτωση δεδομένων
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Μεγέθυνση
+        explore-by-colour: Εξερεύνηση ανά χρώμα
+        media-metadata: Μεταδεδομένα Μέσων
         open-media: Ανοίξτε το αντικείμενο
         show-less-data: Εμφάνιση λιγότερων δεδομένων
         show-more-data: Εμφάνιση περισσότερων δεδομένων
@@ -200,8 +204,8 @@ el:
         view-items-above: εμφάνιση προηγούμενων
         view-items-below: εμφάνιση επόμενων
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Πληροφορίες πρόσθετων δικαιωμάτων
+        annotations: Σημειώσεις χρήστη
         codec: Κωδικοποιητής
         collection-name: Συλλογή δεδομένων
         concept: Έννοια
@@ -233,7 +237,7 @@ el:
         fps: Εικόνες το δευτερόλεπτο
         has-type: Έχει τύπο
         identifier: Προσδιοριστής
-        intermediate-provider: 
+        intermediate-provider: Ενδιάμεσος πάροχος
         is-format-of: Είναι τύπου αρχείου
         is-part-of: Είναι μέρος του
         is-referenced-by: Αναφέρεται από
@@ -255,7 +259,7 @@ el:
         provenance: Προέλευση
         provided-by: Ανακαλύψτε περισσότερα
         provided-by-detail: Η Europeana εμφανίζει αυτό το αντικείμενο μέσω του %{institution_name_and_link}. Επισκεφτείτε τον ιστότοπό τους για περισσότερες πληροφορίες.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Το Europeana παρουσιάζει αυτό το στοιχείο μέσω
         provider: Ίδρυμα
         providing-country: Χώρα ιδρύματος
         publication-date: Ημερομηνία έκδοσης
@@ -265,7 +269,7 @@ el:
         relations: Συσχετίσεις
         rights: Δικαιώματα χρήσης
         rights-human: Μπορώ να το χρησιμοποιήσω;
-        rights-statement: 
+        rights-statement: Δήλωση δικαιωμάτων
         runtime: Διάρκεια αναπαραγωγής
         runtime-unit-seconds: δευτερόλεπτα
         source: Πηγή
@@ -312,7 +316,7 @@ el:
         north: Βορράς
         south: Νότος
         west: Δύση
-      preview_unavailable: 
+      preview_unavailable: Δεν είναι διαθέσιμη η προεπισκόπηση στοιχείου. Για να αποκτήσετε πρόσβαση στην πλήρη εικόνα και σε περισσότερες πληροφορίες για το στοιχείο μεταβείτε στο %{institution_name_and_link}
       show-more-similar-items: εμφάνιση περισσοτέρων
       similar-items: Παρόμοια αντικείμενα
     pages:
@@ -344,9 +348,9 @@ el:
         product-save: Αποθήκευση
         saveto: Αποθήκευση σε
         show-all-collections: Εμφάνιση όλων των συλλογών
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Κάντε κλικ εδώ για να δείτε αποτελέσματα από πηγές εκτός Europeana
+      federated-clicked: Στοιχεία από πηγές εκτός Europeana
+      federated_more: Προβολή και των %{results_count} αποτελεσμάτων στο %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -354,7 +358,7 @@ el:
           text: Κείμενο
           video: Βίντεο
         count-and-terms: "%{results_count} αποτελέσματα"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} από %{results_count} αποτελέσματα"
         empty: Δεν βρέθηκαν αποτελέσματα
         empty-with-terms: Η αναζήτηση σας για %{query_terms} δεν επέστρεψε αποτελέσματα
         header: Αποτελέσματα για
@@ -364,7 +368,7 @@ el:
         less_adv: Λιγότεροι όροι εξειδικεύσης
         more: Περισσότερα
         more_adv: Φίλτρα για Προχωρημένους
-        per-page: 
+        per-page: Ανά σελίδα
         product-3D: 3D
         product-image: Εικόνα
         product-sound: Ήχος
@@ -372,20 +376,20 @@ el:
         product-video: Βίντεο
         results-relevance: Συσχέτιση
         results-view:
-          grid: 
-          list: 
+          grid: Πλέγμα
+          list: Λίστα
         single-result: 1 αποτέλεσμα για %{query_terms}
         view:
           grid: Πλέγμα
           list: Λίστα
         view-at-provider: Δείτε το αντικείμενο στο
-      results: 
+      results: Αποτελέσματα
     search:
-      browse: 
-      or-browse: 
-      page-title: 
+      browse: Περιήγηση
+      or-browse: ή περιηγηθείτε
+      page-title: Αποτελέσματα αναζήτησης
       placeholder:
-        filter-text: 
+        filter-text: Αναζήτηση
         text: Προσθήκη όρου αναζήτησης
       similar:
         prefix: 'Παρόμοιο με: %{mlt_item}'
@@ -394,7 +398,7 @@ el:
         clear-selection: Καθαρισμός επιλογής
         save-settings: Αποθήκευση ρυθμίσεων
       language:
-        auto-translate-limit: 
+        auto-translate-limit: Μπορείτε να επιλέξετε μέγιστο αριθμό %{max_languages}
         auto-translate-page: Αυτόματε μετάφραση σελίδων σε ...
         auto-translate-page-short: Αυτόματη μετάφραση αντικειμένων σε
         auto-translate-query: Αυτόματη μετάφραση όρων αναζήτησης σε...
