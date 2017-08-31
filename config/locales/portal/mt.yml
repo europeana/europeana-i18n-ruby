@@ -108,6 +108,7 @@ mt:
       labels:
         bio: Bijografija
         born: Twieled
+        description: 
         died: Miet
         related: Relatat
       tab_items:
@@ -181,6 +182,7 @@ mt:
     news: Aħbarijiet
     object:
       actions:
+        annotate: 
         attribute-author: Semmi l-awtur
         attribute-html: HTML
         attribute-plaintext: Kitba sempliċi

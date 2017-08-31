@@ -108,6 +108,7 @@ ru:
       labels:
         bio: Биография
         born: Родился
+        description: 
         died: Умер
         related: Связан
       tab_items:
@@ -181,6 +182,7 @@ ru:
     news: Новости
     object:
       actions:
+        annotate: 
         attribute-author: Укажите автора
         attribute-html: 
         attribute-plaintext: Простой текст

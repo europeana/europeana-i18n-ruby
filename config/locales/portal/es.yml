@@ -108,6 +108,7 @@ es:
       labels:
         bio: Biografía
         born: Nacido
+        description: 
         died: Muerto
         related: Relacionado
       tab_items:
@@ -181,6 +182,7 @@ es:
     news: Noticias
     object:
       actions:
+        annotate: 
         attribute-author: Atribuye el autor
         attribute-html: HTML
         attribute-plaintext: Texto sin formato

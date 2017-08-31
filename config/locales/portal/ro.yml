@@ -108,6 +108,7 @@ ro:
       labels:
         bio: Biografie
         born: Născut
+        description: 
         died: Mort
         related: Asociat
       tab_items:
@@ -181,6 +182,7 @@ ro:
     news: Știri
     object:
       actions:
+        annotate: 
         attribute-author: Atribuie autorul
         attribute-html: HTML
         attribute-plaintext: Text simplu

@@ -108,6 +108,7 @@ en:
       labels:
         bio: Biography
         born: Born
+        description: Description
         died: Died
         related: Related
       tab_items:
@@ -181,6 +182,7 @@ en:
     news: News
     object:
       actions:
+        annotate: Annotate
         attribute-author: Attribute the author
         attribute-html: HTML
         attribute-plaintext: Plain text

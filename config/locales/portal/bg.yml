@@ -108,6 +108,7 @@ bg:
       labels:
         bio: Биография
         born: Роден(а)
+        description: 
         died: Починал(а)
         related: Свързани
       tab_items:
@@ -181,6 +182,7 @@ bg:
     news: Новини
     object:
       actions:
+        annotate: 
         attribute-author: Посочи автор
         attribute-html: HTML
         attribute-plaintext: Обикновен текст без форматиране

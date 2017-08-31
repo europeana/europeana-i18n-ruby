@@ -108,6 +108,7 @@ pt:
       labels:
         bio: Biografia
         born: Nascimento
+        description: 
         died: Morte
         related: Relacionado
       tab_items:
@@ -181,6 +182,7 @@ pt:
     news: Notícias
     object:
       actions:
+        annotate: 
         attribute-author: Atribuir o autor
         attribute-html: HTML
         attribute-plaintext: Texto simples

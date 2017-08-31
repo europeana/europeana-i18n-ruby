@@ -108,6 +108,7 @@ fr:
       labels:
         bio: Biographie
         born: Né(e)
+        description: 
         died: Mort(e)
         related: Associé
       tab_items:
@@ -181,6 +182,7 @@ fr:
     news: Nouvelles
     object:
       actions:
+        annotate: 
         attribute-author: Mentionnez le nom de l'auteur
         attribute-html: HTML
         attribute-plaintext: Texte brut

@@ -108,6 +108,7 @@ nl:
       labels:
         bio: Biografie
         born: Geboren
+        description: 
         died: is gestorven
         related: Verwant
       tab_items:
@@ -181,6 +182,7 @@ nl:
     news: Nieuws
     object:
       actions:
+        annotate: 
         attribute-author: Naam van de maker
         attribute-html: HTML
         attribute-plaintext: tekst

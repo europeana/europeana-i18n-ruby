@@ -108,6 +108,7 @@ sv:
       labels:
         bio: Biografi
         born: Född
+        description: 
         died: Dog
         related: Relaterad
       tab_items:
@@ -181,6 +182,7 @@ sv:
     news: Nyheter
     object:
       actions:
+        annotate: 
         attribute-author: Attribuera upphovsmannen
         attribute-html: HTML
         attribute-plaintext: Oformaterad text

@@ -116,6 +116,7 @@ ga:
       labels:
         bio: 
         born: 
+        description: 
         died: 
         related: Gaolmhar
       tab_items:
@@ -191,6 +192,7 @@ ga:
     news: Nuacht
     object:
       actions:
+        annotate: 
         attribute-author: Airí an údar
         attribute-html: 
         attribute-plaintext: 

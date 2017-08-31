@@ -108,6 +108,7 @@ ca:
       labels:
         bio: Biografia
         born: Naixement
+        description: 
         died: Defunció
         related: Relacionat
       tab_items:
@@ -181,6 +182,7 @@ ca:
     news: Novetats
     object:
       actions:
+        annotate: 
         attribute-author: Atribueix a l'autor
         attribute-html: HTML
         attribute-plaintext: Text pla

@@ -108,6 +108,7 @@ cs:
       labels:
         bio: Životopis
         born: Narozen/a
+        description: 
         died: Zemřel/a
         related: Související
       tab_items:
@@ -181,6 +182,7 @@ cs:
     news: Novinky
     object:
       actions:
+        annotate: 
         attribute-author: Připsat autorovi
         attribute-html: HTML
         attribute-plaintext: Prostý text

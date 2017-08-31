@@ -108,6 +108,7 @@ lv:
       labels:
         bio: Biogrāfija
         born: Dzimis
+        description: 
         died: Miris
         related: Saistīts
       tab_items:
@@ -182,6 +183,7 @@ lv:
     news: Ziņas
     object:
       actions:
+        annotate: 
         attribute-author: Autora atribūti
         attribute-html: HTML
         attribute-plaintext: Vienkāršs teksts

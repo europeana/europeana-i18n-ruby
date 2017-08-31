@@ -108,6 +108,7 @@ da:
       labels:
         bio: Biografi
         born: Født
+        description: 
         died: Døde
         related: Relateret
       tab_items:
@@ -181,6 +182,7 @@ da:
     news: Nyheder
     object:
       actions:
+        annotate: 
         attribute-author: Krediter kilden
         attribute-html: HTML
         attribute-plaintext: Almindelig tekst

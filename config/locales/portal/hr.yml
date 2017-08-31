@@ -108,6 +108,7 @@ hr:
       labels:
         bio: Biografija
         born: Rođena
+        description: 
         died: Umrla
         related: Povezano
       tab_items:
@@ -181,6 +182,7 @@ hr:
     news: Novosti
     object:
       actions:
+        annotate: 
         attribute-author: Navedite autora
         attribute-html: HTML
         attribute-plaintext: Samo tekst

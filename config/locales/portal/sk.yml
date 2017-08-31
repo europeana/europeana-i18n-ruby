@@ -108,6 +108,7 @@ sk:
       labels:
         bio: Bio
         born: Narodenie
+        description: 
         died: Úmrtie
         related: Súvisiaci
       tab_items:
@@ -181,6 +182,7 @@ sk:
     news: Správa
     object:
       actions:
+        annotate: 
         attribute-author: Atribút autora
         attribute-html: HTML
         attribute-plaintext: Prostý text

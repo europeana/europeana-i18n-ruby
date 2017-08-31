@@ -108,6 +108,7 @@ pl:
       labels:
         bio: Biografia
         born: Urodzony
+        description: 
         died: Zmarł
         related: Powiązane
       tab_items:
@@ -181,6 +182,7 @@ pl:
     news: Wiadomości
     object:
       actions:
+        annotate: 
         attribute-author: Oznacz autora
         attribute-html: 
         attribute-plaintext: Zwykły tekst

@@ -108,6 +108,7 @@ bs:
       labels:
         bio: 
         born: 
+        description: 
         died: 
         related: 
       tab_items:
@@ -177,6 +178,7 @@ bs:
     news: 
     object:
       actions:
+        annotate: 
         attribute-author: 
         attribute-html: 
         attribute-plaintext: 

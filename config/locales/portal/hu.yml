@@ -108,6 +108,7 @@ hu:
       labels:
         bio: Biográfia
         born: Született
+        description: 
         died: Meghalt
         related: Kapcsolódó
       tab_items:
@@ -181,6 +182,7 @@ hu:
     news: Hírek
     object:
       actions:
+        annotate: 
         attribute-author: Szerző hozzárendelése
         attribute-html: HTML
         attribute-plaintext: Egyszerű szöveg

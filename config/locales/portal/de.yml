@@ -108,6 +108,7 @@ de:
       labels:
         bio: Biografie
         born: Geboren
+        description: 
         died: Gestorben
         related: In Verbindung
       tab_items:
@@ -181,6 +182,7 @@ de:
     news: Neuigkeiten
     object:
       actions:
+        annotate: 
         attribute-author: Autor erwähnen
         attribute-html: 
         attribute-plaintext: Nur Text

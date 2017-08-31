@@ -108,6 +108,7 @@
       labels:
         bio: Biografi
         born: Født
+        description: 
         died: Død
         related: I slekt
       tab_items:
@@ -181,6 +182,7 @@
     news: Nyheter
     object:
       actions:
+        annotate: 
         attribute-author: Tilskrive forfatteren
         attribute-html: HTML
         attribute-plaintext: Enkel tekst

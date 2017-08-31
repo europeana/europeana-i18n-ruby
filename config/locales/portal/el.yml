@@ -108,6 +108,7 @@ el:
       labels:
         bio: Βιογραφία
         born: Γεννήθηκε
+        description: 
         died: Πέθανε
         related: Σχετικά
       tab_items:
@@ -181,6 +182,7 @@ el:
     news: Νέα
     object:
       actions:
+        annotate: 
         attribute-author: Απόδοση προς τον δημιουργό
         attribute-html: 
         attribute-plaintext: Κείμενο

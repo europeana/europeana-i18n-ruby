@@ -108,6 +108,7 @@ it:
       labels:
         bio: Biografia
         born: Nato/a
+        description: 
         died: Morto/a
         related: 'Corrispondente '
       tab_items:
@@ -181,6 +182,7 @@ it:
     news: Notizie
     object:
       actions:
+        annotate: 
         attribute-author: Riferisci all'autore
         attribute-html: HTML
         attribute-plaintext: Testo senza formattazione

@@ -108,6 +108,7 @@ lt:
       labels:
         bio: Biografija
         born: Gimė
+        description: 
         died: Mirė
         related: Susiję
       tab_items:
@@ -181,6 +182,7 @@ lt:
     news: Naujienos
     object:
       actions:
+        annotate: 
         attribute-author: Priskirti autorių
         attribute-html: HMTL
         attribute-plaintext: Paprastas tekstas

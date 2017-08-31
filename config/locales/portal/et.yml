@@ -108,6 +108,7 @@ et:
       labels:
         bio: Elulugu
         born: Sündis
+        description: 
         died: Suri
         related: Seotud
       tab_items:
@@ -181,6 +182,7 @@ et:
     news: Uudised
     object:
       actions:
+        annotate: 
         attribute-author: Omista autorile
         attribute-html: HTML
         attribute-plaintext: Vabatekst

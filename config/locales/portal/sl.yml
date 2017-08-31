@@ -108,6 +108,7 @@ sl:
       labels:
         bio: Bio
         born: Rojstvo
+        description: 
         died: Smrt
         related: Povezano
       tab_items:
@@ -181,6 +182,7 @@ sl:
     news: Novice
     object:
       actions:
+        annotate: 
         attribute-author: Dodeli avtorju
         attribute-html: HTML
         attribute-plaintext: Navadno besedilo

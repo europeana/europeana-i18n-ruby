@@ -108,6 +108,7 @@ fi:
       labels:
         bio: Biografia
         born: Syntyi
+        description: 
         died: Kuoli
         related: Sukulaiset
       tab_items:
@@ -181,6 +182,7 @@ fi:
     news: Uutiset
     object:
       actions:
+        annotate: 
         attribute-author: Viittaa tekijään
         attribute-html: HTML
         attribute-plaintext: Tekstimuotoinen
