@@ -12,7 +12,7 @@ en:
       agents: People
       all_blog_posts: All blog posts…
       all_exhibitions: All exhibitions…
-      all_galleries: All galleries...
+      all_galleries: All Galleries...
       blog: Blog
       browse: Explore
       browse_colours: Colours
@@ -48,7 +48,7 @@ en:
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
         page-title: Europeana Blog
-      min-to-read: minutes to read
+      min-to-read: min to read
     browse:
       colours:
         description: Search for images based on their colour. Simply click a coloured box below to discover images containing that colour!
@@ -60,7 +60,7 @@ en:
         tableh3: Date
         title: What's new?
       people:
-        description: Here you can find highlights from Europeana Collections relating to the lives and works of famous artists, composers and other important figures from history.
+        description: Here you can find highlights from our Collections relating to the lives and works of famous artists, composers and other important figures from history.
         title: People
       periods:
         description: Browse by time period.
@@ -69,7 +69,7 @@ en:
         description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
         title: Sources
       topics:
-        description: Explore Europeana Collections by topic, theme or genre.
+        description: 'Explore our Collections by topic, theme or genre. '
         title: Topics
     collections:
       art-history:
@@ -84,7 +84,7 @@ en:
         sound: Sound recordings
         texts: Texts
       e7a1418:
-        contribute: Add your 1914-1918 story
+        contribute: Add your story
         my-account: My Account
       labels:
         credits: 'Curated by '
@@ -104,7 +104,7 @@ en:
         death: Death
         occupation: Occupation
       labels:
-        bio: Biography
+        bio: Bio
         born: Born
         died: Died
         related: Related
@@ -151,7 +151,7 @@ en:
         one: Share this gallery
         other: Share the galleries
     more: More...
-    my-europeana: MyEuropeana
+    my-europeana: My Europeana
     my-europeana-link: link to My Europeana
     name: Europeana Collections
     navigation:
@@ -252,11 +252,11 @@ en:
         people: People
         period: Period
         place: Place
-        place-time: Place / Time
+        place-time: Place/Time
         properties: Properties
         provenance: Provenance
         provided-by: Find out more
-        provided-by-detail: View at %{institution_name_and_link}
+        provided-by-detail: 'View at %{institution_name_and_link}. '
         provided-by-detail-no-link: Europeana is displaying this item via
         provider: Provider
         providing-country: Providing country
