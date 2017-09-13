@@ -8,17 +8,17 @@ hr:
           description: U nastavku slijedi popis izvora za naše zbirke. Oni skupljaju i doprinose svojim zbirkama Europeani. Slijedite poveznicu koja vas zanima i pristupit ćete svim njihovim zbirkama!
   global:
     exhibitions:
-      contacts: 
+      contacts: Kontakti
     labs-link: http://labs.europeana.eu/
     navigation:
-      agents: narod
+      agents: Ljudi
       all_blog_posts: Sve objave na blogu...
       all_exhibitions: Sve izložbe...
       all_galleries: Sve galerije...
       blog: Blog
       browse: Pregledavanje
       browse_colours: Boje
-      browse_newcontent: Novi sadržaj
+      browse_newcontent: Najnovije
       browse_sources: Izvori
       channels: Zbirke
       collections: Zbirke
@@ -108,7 +108,7 @@ hr:
       labels:
         bio: Biografija
         born: Rođena
-        description: 
+        description: Opis
         died: Umrla
         related: Povezano
       tab_items:
@@ -182,7 +182,7 @@ hr:
     news: Novosti
     object:
       actions:
-        annotate: 
+        annotate: Anotacija
         attribute-author: Navedite autora
         attribute-html: HTML
         attribute-plaintext: Samo tekst
