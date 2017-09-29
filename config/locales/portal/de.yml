@@ -113,7 +113,7 @@ de:
         related: In Verbindung
       tab_items:
         items_about: Beitrag über %{name}
-        items_by: Beitrag von %{name}
+        items_by: Objekte von %{name}
       types:
         agent: Person
         concept: Konzept
