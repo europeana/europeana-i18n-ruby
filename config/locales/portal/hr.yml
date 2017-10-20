@@ -198,6 +198,7 @@ hr:
         show-less-data: Prikaži manje podataka
         show-more-data: Prikaži više podataka
         technicalmetadata: Tehnički metapodaci
+      description_unavailable: 
       enrichment:
         who:
           title: Naslov
@@ -321,6 +322,7 @@ hr:
       preview_unavailable: Pretpregled stavke nije dostupan, kako biste pristupili punoj slici i širim informacijama o stavci idite na %{institution_name_and_link}
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
+      title_unavailable: 
     pages:
       '404':
         intro: Nažalost , ne možemo pronaći tu stranicu

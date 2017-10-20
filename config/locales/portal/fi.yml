@@ -198,6 +198,7 @@ fi:
         show-less-data: Näytä vähemmän tietoa
         show-more-data: Näytä enemmän tietoa
         technicalmetadata: Tekniset metatiedot
+      description_unavailable: 
       enrichment:
         who:
           title: Otsikko
@@ -321,6 +322,7 @@ fi:
       preview_unavailable: 'Nimikkeen esikatselu ei ole saatavilla. Täysimittaisen kuvan ja lisätiedon saamiseksi siirry tänne: %{institution_name_and_link}'
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
+      title_unavailable: 
     pages:
       '404':
         intro: Valitettavasti emme löydä tätä sivua

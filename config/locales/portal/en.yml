@@ -198,6 +198,7 @@ en:
         show-less-data: Show less data
         show-more-data: Show more data
         technicalmetadata: Technical metadata
+      description_unavailable: Sorry.  No description is available.
       enrichment:
         who:
           title: Title
@@ -321,6 +322,7 @@ en:
       preview_unavailable: Item preview not available, to access the full image and more information about the item go to %{institution_name_and_link}
       show-more-similar-items: show more
       similar-items: Similar items
+      title_unavailable: Sorry.  No title is available.
     pages:
       '404':
         intro: Sorry, we can't find that page

@@ -198,6 +198,7 @@ sk:
         show-less-data: Zobraziť menej údajov
         show-more-data: Zobraziť viac údajov
         technicalmetadata: Technické metadáta
+      description_unavailable: 
       enrichment:
         who:
           title: Nadpis
@@ -321,6 +322,7 @@ sk:
       preview_unavailable: Ukážka položky nie je k dispozícii, ak sa chcete dostať k úplnému obrazu a viac informáciám o položke, choďte na %{institution_name_and_link}
       show-more-similar-items: ukázať viac
       similar-items: Podobné položky
+      title_unavailable: 
     pages:
       '404':
         intro: Prepáčte, nemôžeme nájsť túto stránku

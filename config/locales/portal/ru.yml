@@ -198,6 +198,7 @@ ru:
         show-less-data: Меньше
         show-more-data: Больше
         technicalmetadata: Технические метаданные
+      description_unavailable: 
       enrichment:
         who:
           title: Название
@@ -321,6 +322,7 @@ ru:
       preview_unavailable: Предварительный просмотр объекта недоступен, для доступа к полному изображению и дополнительной информации об элементе перейдите на %{institution_name_and_link}
       show-more-similar-items: показать больше
       similar-items: Похожие записи
+      title_unavailable: 
     pages:
       '404':
         intro: Извините, мы не можем найти данную страницу

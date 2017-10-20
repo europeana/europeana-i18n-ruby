@@ -198,6 +198,7 @@ el:
         show-less-data: Εμφάνιση λιγότερων δεδομένων
         show-more-data: Εμφάνιση περισσότερων δεδομένων
         technicalmetadata: Τεχνικά μεταδεδομένα
+      description_unavailable: 
       enrichment:
         who:
           title: Τίτλος
@@ -321,6 +322,7 @@ el:
       preview_unavailable: Δεν είναι διαθέσιμη η προεπισκόπηση στοιχείου. Για να αποκτήσετε πρόσβαση στην πλήρη εικόνα και σε περισσότερες πληροφορίες για το στοιχείο μεταβείτε στο %{institution_name_and_link}
       show-more-similar-items: εμφάνιση περισσοτέρων
       similar-items: Παρόμοια αντικείμενα
+      title_unavailable: 
     pages:
       '404':
         intro: Συγνώμη, δεν μπορούμε να εμφανισούμε την σελίδα

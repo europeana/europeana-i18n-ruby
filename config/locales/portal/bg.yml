@@ -198,6 +198,7 @@ bg:
         show-less-data: Покажи по-малко данни
         show-more-data: Покажи повече данни
         technicalmetadata: Технически метаданни
+      description_unavailable: 
       enrichment:
         who:
           title: Заглавие
@@ -323,6 +324,7 @@ bg:
       preview_unavailable: Преглед на артикула не е наличен, за достъп до пълното изображение и за повече информация за артикула отидете на %{institution_name_and_link}
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
+      title_unavailable: 
     pages:
       '404':
         intro: За съжаление не можем да намерим тази страница

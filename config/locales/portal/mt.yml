@@ -198,6 +198,7 @@ mt:
         show-less-data: Uri inqas informazzjoni
         show-more-data: Uri aktar informazzjoni
         technicalmetadata: Metadata tekniku
+      description_unavailable: 
       enrichment:
         who:
           title: Titlu
@@ -321,6 +322,7 @@ mt:
       preview_unavailable: Il-previżjoni tal-oġġett mhix disponibbli, biex taċċessa l-immaġni sħiħa u aktar tagħrif żur %{institution_name_and_link}
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
+      title_unavailable: 
     pages:
       '404':
         intro: Jiddispjaċina, ma nistgħux insibu din il-paġna

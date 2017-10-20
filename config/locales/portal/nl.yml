@@ -198,6 +198,7 @@ nl:
         show-less-data: Toon minder informatie
         show-more-data: Toon meer informatie
         technicalmetadata: Technische metadata
+      description_unavailable: 
       enrichment:
         who:
           title: Titel
@@ -321,6 +322,7 @@ nl:
       preview_unavailable: Item is voor de voorvertoning niet beschikbaar. Om toegang te krijgen tot de volledige afbeelding en voor meer informatie over het item, ga naar %{institution_name_and_link}
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
+      title_unavailable: 
     pages:
       '404':
         intro: Sorry, deze pagina is onvindbaar

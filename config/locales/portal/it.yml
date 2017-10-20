@@ -198,6 +198,7 @@ it:
         show-less-data: Mostra meno
         show-more-data: Mostra di più
         technicalmetadata: Metadata tecnici
+      description_unavailable: 
       enrichment:
         who:
           title: Titolo
@@ -321,6 +322,7 @@ it:
       preview_unavailable: Anteprima dell'elemento non disponibile, per accedere all'immagine intera e a maggiori informazioni sull'elemento vai a %{institution_name_and_link}
       show-more-similar-items: mostra di più
       similar-items: Oggetti simili
+      title_unavailable: 
     pages:
       '404':
         intro: Ci scusiamo, non è possibile trovare la pagina

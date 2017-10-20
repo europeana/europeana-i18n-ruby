@@ -198,6 +198,7 @@ de:
         show-less-data: Weniger Daten anzeigen
         show-more-data: Weitere Daten anzeigen
         technicalmetadata: Technische Metadaten
+      description_unavailable: 
       enrichment:
         who:
           title: Titel
@@ -321,6 +322,7 @@ de:
       preview_unavailable: Vorschau des Beitrags nicht verfügbar, um auf das Vollbild zuzugreifen und mehr Informationen zu erhalten, gehen Sie bitte zu %{institution_name_and_link}
       show-more-similar-items: Mehr anzeigen
       similar-items: Ähnliche Objekte
+      title_unavailable: 
     pages:
       '404':
         intro: Leider konnten wir die Seite nicht finden

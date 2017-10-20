@@ -198,6 +198,7 @@ pt:
         show-less-data: Mostrar menos informação
         show-more-data: Mostrar mais dados
         technicalmetadata: Metadados Técnicos
+      description_unavailable: 
       enrichment:
         who:
           title: Título
@@ -321,6 +322,7 @@ pt:
       preview_unavailable: A visualização do item não está disponível. Para aceder à imagem inteira e a mais informações sobre o item, vá para %{institution_name_and_link}
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
+      title_unavailable: 
     pages:
       '404':
         intro: Desculpe, não conseguimos encontrar essa página

@@ -198,6 +198,7 @@ ro:
         show-less-data: Arată mai puține date
         show-more-data: Arată mai multe date
         technicalmetadata: Metadate technice
+      description_unavailable: 
       enrichment:
         who:
           title: Titlu
@@ -323,6 +324,7 @@ ro:
       preview_unavailable: Previzualizarea obiectului nu este disponibilă. Pentru a accesa imaginea integrală și mai multe informații privind obiectul, mergeți la%{institution_name_and_link}
       show-more-similar-items: arată mai multe
       similar-items: Înregistrări asemănătoare
+      title_unavailable: 
     pages:
       '404':
         intro: Ne pare rău, pagina nu a fost găsită

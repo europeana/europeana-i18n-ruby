@@ -208,6 +208,7 @@ ga:
         show-less-data: Taispeáin níos lú sonraíochtaí
         show-more-data: Taispeáin níos mó sonraíochtaí
         technicalmetadata: Metasonraíochtaí teicniúla
+      description_unavailable: 
       enrichment:
         who:
           title: Teideal
@@ -337,6 +338,7 @@ ga:
 '
       show-more-similar-items: taispeáin níos mó
       similar-items: Míreanna dá shamhail
+      title_unavailable: 
     pages:
       '404':
         intro: Ár leithscéal, ní féidir linn an leathanach sin a aimsiú

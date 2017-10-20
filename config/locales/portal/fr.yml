@@ -198,6 +198,7 @@ fr:
         show-less-data: Voir moins de données
         show-more-data: Voir plus de données
         technicalmetadata: Métadonnées techniques
+      description_unavailable: 
       enrichment:
         who:
           title: Titre
@@ -321,6 +322,7 @@ fr:
       preview_unavailable: Aperçu de l'objet indisponible, pour accéder à l'image complète et obtenir plus d'informations sur l'objet, rendez-vous sur %{institution_name_and_link}
       show-more-similar-items: voir plus
       similar-items: Objets similaires
+      title_unavailable: 
     pages:
       '404':
         intro: Désolé, nous ne pouvons pas trouver cette page

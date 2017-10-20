@@ -198,6 +198,7 @@ lt:
         show-less-data: Rodyti mažiau duomenų
         show-more-data: Rodyti daugiau duomenų
         technicalmetadata: Techniniai metaduomenys
+      description_unavailable: 
       enrichment:
         who:
           title: Pavadinimas
@@ -321,6 +322,7 @@ lt:
       preview_unavailable: Objekto peržiūrėti negalima. Norėdami peržiūrėti visą nuotrauką arba gauti daugiau informacijos apie objektą, eikite į %{institution_name_and_link}
       show-more-similar-items: rodyti daugiau
       similar-items: Panašūs įrašai
+      title_unavailable: 
     pages:
       '404':
         intro: Atsiprašome, puslapio rasti nepavyko

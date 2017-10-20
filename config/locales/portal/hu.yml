@@ -198,6 +198,7 @@ hu:
         show-less-data: Mutass kevesebb adatot
         show-more-data: Mutass több adatot
         technicalmetadata: Technikai metaadat
+      description_unavailable: 
       enrichment:
         who:
           title: Cím
@@ -321,6 +322,7 @@ hu:
       preview_unavailable: 'A tétel előnézete nem érhető el, a teljes kép megtekintéséhez és további információkért a tételről látogasson el ide: %{institution_name_and_link}'
       show-more-similar-items: mutass többet
       similar-items: Hasonló elemek
+      title_unavailable: 
     pages:
       '404':
         intro: Sajnáljuk, a kért oldal nem található

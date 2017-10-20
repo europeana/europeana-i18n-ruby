@@ -198,6 +198,7 @@ ca:
         show-less-data: Mostrar menys dades
         show-more-data: Mostrar més dades
         technicalmetadata: Metadades tècniques
+      description_unavailable: 
       enrichment:
         who:
           title: Títol
@@ -321,6 +322,7 @@ ca:
       preview_unavailable: La visualització prèvia d'aquest element no està disponible, ves a %{institution_name_and_link} per a accedir a la imatge sencera i veure'n més informació.
       show-more-similar-items: mostra més
       similar-items: ítems similars
+      title_unavailable: 
     pages:
       '404':
         intro: Ho sentim, no hem pogut trobar la pàgina

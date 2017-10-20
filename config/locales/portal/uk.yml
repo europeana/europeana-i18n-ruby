@@ -194,6 +194,7 @@ uk:
         show-less-data: 
         show-more-data: 
         technicalmetadata: 
+      description_unavailable: 
       enrichment:
         who:
           title: 
@@ -317,6 +318,7 @@ uk:
       preview_unavailable: 
       show-more-similar-items: 
       similar-items: 
+      title_unavailable: 
     pages:
       '404':
         intro: 

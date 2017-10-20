@@ -198,6 +198,7 @@ et:
         show-less-data: Näita vähem andmeid
         show-more-data: Näita rohkem andmeid
         technicalmetadata: Tehnilised metaandmed
+      description_unavailable: 
       enrichment:
         who:
           title: Pealkiri
@@ -321,6 +322,7 @@ et:
       preview_unavailable: Eelvaade pole saadaval, juurdepääs täisekraanile ja täiendavale informatsioonile läbi aadressi %{institution_name_and_link}
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
+      title_unavailable: 
     pages:
       '404':
         intro: Vabandust! Me ei suuda seda lehekülge leida

@@ -198,6 +198,7 @@ sl:
         show-less-data: Prikaži manj podatkov
         show-more-data: Prikaži več podatkov
         technicalmetadata: Tehnični metapodatki
+      description_unavailable: 
       enrichment:
         who:
           title: Naziv
@@ -321,6 +322,7 @@ sl:
       preview_unavailable: Predogled predmeta ni na voljo, za dostop do celotne slike in dodatnih informacij o predmetu obiščite %{institution_name_and_link}
       show-more-similar-items: prikaži več
       similar-items: Podobni predmeti
+      title_unavailable: 
     pages:
       '404':
         intro: Žal, te strani nismo uspeli najti.

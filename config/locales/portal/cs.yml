@@ -198,6 +198,7 @@ cs:
         show-less-data: Zobrazit méně dat
         show-more-data: Zobrazit další data
         technicalmetadata: Technická metadata
+      description_unavailable: 
       enrichment:
         who:
           title: Název
@@ -321,6 +322,7 @@ cs:
       preview_unavailable: Náhled položky není k dispozici. Plnou grafiku a další informace k položce najdete na webu %{institution_name_and_link}
       show-more-similar-items: zobrazit více
       similar-items: Podobné položky
+      title_unavailable: 
     pages:
       '404':
         intro: Je nám líto, stránku nelze najít

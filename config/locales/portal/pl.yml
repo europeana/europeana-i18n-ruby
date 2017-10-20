@@ -198,6 +198,7 @@ pl:
         show-less-data: Pokaż mniej
         show-more-data: Pokaż więcej
         technicalmetadata: Metadane administracyjne
+      description_unavailable: 
       enrichment:
         who:
           title: Tytuł
@@ -321,6 +322,7 @@ pl:
       preview_unavailable: Podgląd niedostępny. By wyświetlić pełen obraz oraz szczegółowe informacje przejdź do %{institution_name_and_link}
       show-more-similar-items: pokaż więcej
       similar-items: Podobne obiekty
+      title_unavailable: 
     pages:
       '404':
         intro: Przykro nam - ta strona gdzieś się zapodziała

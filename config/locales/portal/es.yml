@@ -198,6 +198,7 @@ es:
         show-less-data: Mostrar menos datos
         show-more-data: Mostrar más datos
         technicalmetadata: Meta-datos tecnicos
+      description_unavailable: 
       enrichment:
         who:
           title: Título
@@ -321,6 +322,7 @@ es:
       preview_unavailable: 
       show-more-similar-items: Mostrar más
       similar-items: Objetos similares
+      title_unavailable: 
     pages:
       '404':
         intro: Disculpe, no podemos encontrar esta página
