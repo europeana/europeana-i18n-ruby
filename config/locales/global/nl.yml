@@ -277,7 +277,7 @@ nl:
         language_of_description: Omschrijving in
         media: Alleen objecten die naar media verwijzen
         mime_type: Bestandsformaat
-        provider: Aggergator
+        provider: Aggregator
         providing_country: Land
         proxy_dcterms_created: Datum gecreeërd
         reusability: Kan ik het gebruiken?
