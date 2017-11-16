@@ -321,6 +321,9 @@ nl:
         south: Zuid
         west: West
       preview_unavailable: Item is voor de voorvertoning niet beschikbaar. Om toegang te krijgen tot de volledige afbeelding en voor meer informatie over het item, ga naar %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
       title_unavailable: 

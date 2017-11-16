@@ -321,6 +321,9 @@ sv:
         south: Syd
         west: Väst
       preview_unavailable: Objektförhandsgranskning är inte tillgänglig, för att få tillgång till hela bilden och mer information om objektet gå till%{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: visa fler
       similar-items: Liknande poster
       title_unavailable: 

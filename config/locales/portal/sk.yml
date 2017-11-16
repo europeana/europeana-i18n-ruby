@@ -321,6 +321,9 @@ sk:
         south: Juh
         west: Západ
       preview_unavailable: Ukážka položky nie je k dispozícii, ak sa chcete dostať k úplnému obrazu a viac informáciám o položke, choďte na %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: ukázať viac
       similar-items: Podobné položky
       title_unavailable: 

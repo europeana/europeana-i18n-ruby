@@ -321,6 +321,9 @@ lt:
         south: Pietūs
         west: Vakarai
       preview_unavailable: Objekto peržiūrėti negalima. Norėdami peržiūrėti visą nuotrauką arba gauti daugiau informacijos apie objektą, eikite į %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: rodyti daugiau
       similar-items: Panašūs įrašai
       title_unavailable: 

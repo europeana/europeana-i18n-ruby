@@ -321,6 +321,9 @@ et:
         south: Lõuna
         west: Lääs
       preview_unavailable: Eelvaade pole saadaval, juurdepääs täisekraanile ja täiendavale informatsioonile läbi aadressi %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
       title_unavailable: 

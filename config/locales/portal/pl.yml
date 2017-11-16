@@ -321,6 +321,9 @@ pl:
         south: Południe
         west: Zachód
       preview_unavailable: Podgląd niedostępny. By wyświetlić pełen obraz oraz szczegółowe informacje przejdź do %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: pokaż więcej
       similar-items: Podobne obiekty
       title_unavailable: 

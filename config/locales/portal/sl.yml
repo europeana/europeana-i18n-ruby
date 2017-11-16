@@ -321,6 +321,9 @@ sl:
         south: Jug
         west: Zahod
       preview_unavailable: Predogled predmeta ni na voljo, za dostop do celotne slike in dodatnih informacij o predmetu obiščite %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: prikaži več
       similar-items: Podobni predmeti
       title_unavailable: 

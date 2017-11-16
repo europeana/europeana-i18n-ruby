@@ -321,6 +321,9 @@ el:
         south: Νότος
         west: Δύση
       preview_unavailable: Δεν είναι διαθέσιμη η προεπισκόπηση στοιχείου. Για να αποκτήσετε πρόσβαση στην πλήρη εικόνα και σε περισσότερες πληροφορίες για το στοιχείο μεταβείτε στο %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: εμφάνιση περισσοτέρων
       similar-items: Παρόμοια αντικείμενα
       title_unavailable: 

@@ -322,6 +322,9 @@ lv:
         south: Dienvidi
         west: Rietumi
       preview_unavailable: Ieraksta priekšskatījums nav pieejams, lai piekļūtu attēlam un informācijai par ierakstu, atveriet %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
       title_unavailable: 

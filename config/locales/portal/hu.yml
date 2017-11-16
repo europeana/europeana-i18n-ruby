@@ -321,6 +321,9 @@ hu:
         south: Dél
         west: Nyugat
       preview_unavailable: 'A tétel előnézete nem érhető el, a teljes kép megtekintéséhez és további információkért a tételről látogasson el ide: %{institution_name_and_link}'
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: mutass többet
       similar-items: Hasonló elemek
       title_unavailable: 

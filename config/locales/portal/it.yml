@@ -321,6 +321,9 @@ it:
         south: Sud
         west: Ovest
       preview_unavailable: Anteprima dell'elemento non disponibile, per accedere all'immagine intera e a maggiori informazioni sull'elemento vai a %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: mostra di più
       similar-items: Oggetti simili
       title_unavailable: 

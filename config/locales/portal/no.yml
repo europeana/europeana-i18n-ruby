@@ -321,6 +321,9 @@
         south: Sør
         west: Vest
       preview_unavailable: Forhåndsvisning av objekt er ikke tilgjengelig, for å få tilgang til hele bildet og mer informasjon om gjenstanden, gå til %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: Vis mer
       similar-items: Like objekter
       title_unavailable: 

@@ -321,6 +321,9 @@ pt:
         south: Sul
         west: Oeste
       preview_unavailable: A visualização do item não está disponível. Para aceder à imagem inteira e a mais informações sobre o item, vá para %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
       title_unavailable: 

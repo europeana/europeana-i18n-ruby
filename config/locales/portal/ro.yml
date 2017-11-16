@@ -323,6 +323,9 @@ ro:
         south: Sud
         west: Vest
       preview_unavailable: Previzualizarea obiectului nu este disponibilă. Pentru a accesa imaginea integrală și mai multe informații privind obiectul, mergeți la%{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: arată mai multe
       similar-items: Înregistrări asemănătoare
       title_unavailable: 

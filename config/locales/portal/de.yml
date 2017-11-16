@@ -321,6 +321,9 @@ de:
         south: Südlich
         west: Westlich
       preview_unavailable: Vorschau des Beitrags nicht verfügbar, um auf das Vollbild zuzugreifen und mehr Informationen zu erhalten, gehen Sie bitte zu %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: Mehr anzeigen
       similar-items: Ähnliche Objekte
       title_unavailable: 

@@ -321,6 +321,9 @@ fr:
         south: Sud
         west: Ouest
       preview_unavailable: Aperçu de l'objet indisponible, pour accéder à l'image complète et obtenir plus d'informations sur l'objet, rendez-vous sur %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: voir plus
       similar-items: Objets similaires
       title_unavailable: 

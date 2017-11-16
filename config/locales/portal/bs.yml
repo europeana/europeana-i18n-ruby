@@ -317,6 +317,9 @@ bs:
         south: 
         west: 
       preview_unavailable: 
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: 
       similar-items: 
       title_unavailable: 

@@ -337,6 +337,9 @@ ga:
       preview_unavailable: 'Níl réamhamharc an mhír seo ar fáil; chun an t-íomhá iomlán a rochtainiú maraon le tuilleadh eolais faoin mhír, téir chuig  %{institution_name_and_link}
 
 '
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: taispeáin níos mó
       similar-items: Míreanna dá shamhail
       title_unavailable: 

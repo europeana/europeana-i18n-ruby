@@ -323,6 +323,9 @@ bg:
         south: Юг
         west: Запад
       preview_unavailable: Преглед на артикула не е наличен, за достъп до пълното изображение и за повече информация за артикула отидете на %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
       title_unavailable: 

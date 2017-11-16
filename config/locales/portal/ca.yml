@@ -321,6 +321,9 @@ ca:
         south: Sud
         west: Oest
       preview_unavailable: La visualització prèvia d'aquest element no està disponible, ves a %{institution_name_and_link} per a accedir a la imatge sencera i veure'n més informació.
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: mostra més
       similar-items: ítems similars
       title_unavailable: 

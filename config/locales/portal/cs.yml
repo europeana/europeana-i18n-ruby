@@ -321,6 +321,9 @@ cs:
         south: Jih
         west: Západ
       preview_unavailable: Náhled položky není k dispozici. Plnou grafiku a další informace k položce najdete na webu %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: zobrazit více
       similar-items: Podobné položky
       title_unavailable: 

@@ -321,6 +321,9 @@ mt:
         south: Nofsinhar
         west: Punent
       preview_unavailable: Il-previżjoni tal-oġġett mhix disponibbli, biex taċċessa l-immaġni sħiħa u aktar tagħrif żur %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
       title_unavailable: 

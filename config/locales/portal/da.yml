@@ -321,6 +321,9 @@ da:
         south: Syd
         west: Vest
       preview_unavailable: Forhåndsvisning af artiklen er ikke tilgængelig, gå til %{institution_name_and_link} for at se det fulde billede og mere information om artiklen
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: vis mere
       similar-items: Lignende genstande
       title_unavailable: 

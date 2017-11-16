@@ -321,6 +321,9 @@ hr:
         south: Jug
         west: Zapad
       preview_unavailable: Pretpregled stavke nije dostupan, kako biste pristupili punoj slici i širim informacijama o stavci idite na %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
       title_unavailable: 

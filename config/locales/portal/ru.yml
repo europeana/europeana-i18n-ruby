@@ -321,6 +321,9 @@ ru:
         south: Юг
         west: Запад
       preview_unavailable: Предварительный просмотр объекта недоступен, для доступа к полному изображению и дополнительной информации об элементе перейдите на %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: показать больше
       similar-items: Похожие записи
       title_unavailable: 

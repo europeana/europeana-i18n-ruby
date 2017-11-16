@@ -321,6 +321,9 @@ fi:
         south: Etelä
         west: Länsi
       preview_unavailable: 'Nimikkeen esikatselu ei ole saatavilla. Täysimittaisen kuvan ja lisätiedon saamiseksi siirry tänne: %{institution_name_and_link}'
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
       title_unavailable: 
