@@ -187,18 +187,21 @@ en:
         attribute-author: Attribute the author
         attribute-html: HTML
         attribute-plaintext: Plain text
+        collapse-extended: collapse extended information
         download: Download
         download-additional: Also available as
         download-retry: Retry
         download-started: The download has started
         downloaddata: Download data
         enlarge: Enlarge
+        expand-extended: expand extended information
         explore-by-colour: Explore by colour
         media-metadata: Media Metadata
         open-media: Open this media item
         show-less-data: Show less data
         show-more-data: Show more data
         technicalmetadata: Technical metadata
+        view-more-at: View more at
       description_unavailable: Sorry.  No description is available.
       enrichment:
         who:
@@ -315,6 +318,7 @@ en:
       nav:
         next: Next
         prev: Previous
+      next-item: Next item
       points:
         east: East
         north: North
@@ -324,6 +328,7 @@ en:
       preview_unavailable_explanation: This link will take you to
       preview_unavailable_intro: No preview was provided by our partners, more information may be available at the source.
       preview_unavailable_source: Go to source
+      previous-item: Previous item
       show-more-similar-items: show more
       similar-items: Similar items
       title_unavailable: Sorry.  No title is available.

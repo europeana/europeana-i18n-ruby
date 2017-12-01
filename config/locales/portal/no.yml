@@ -187,18 +187,21 @@
         attribute-author: Tilskrive forfatteren
         attribute-html: HTML
         attribute-plaintext: Enkel tekst
+        collapse-extended: 
         download: laste ned
         download-additional: Også tilgjengelig som
         download-retry: Prøv på nytt
         download-started: Nedlastingen har startet
         downloaddata: 'Last ned '
         enlarge: Forstørr
+        expand-extended: 
         explore-by-colour: Utforsk etter farge
         media-metadata: Media Metadata
         open-media: Åpne dette mediaobjektet
         show-less-data: Vis mindre data
         show-more-data: Vis mer data
         technicalmetadata: Tekniske metadata
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@
       nav:
         next: Neste
         prev: Forrige
+      next-item: 
       points:
         east: Øst
         north: Nord
@@ -324,6 +328,7 @@
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: Vis mer
       similar-items: Like objekter
       title_unavailable: 

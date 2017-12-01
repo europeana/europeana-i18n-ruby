@@ -187,18 +187,21 @@ hu:
         attribute-author: Szerző hozzárendelése
         attribute-html: HTML
         attribute-plaintext: Egyszerű szöveg
+        collapse-extended: 
         download: Letöltés
         download-additional: Elérhető úgy is mint
         download-retry: Újrapróbálkozás
         download-started: A letöltés megkezdődött
         downloaddata: Adatletöltés
         enlarge: Nagyítás
+        expand-extended: 
         explore-by-colour: Felfedezés szín szerint
         media-metadata: Média meta-adatok
         open-media: Média elem megnyítása
         show-less-data: Mutass kevesebb adatot
         show-more-data: Mutass több adatot
         technicalmetadata: Technikai metaadat
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ hu:
       nav:
         next: Következő
         prev: Előző
+      next-item: 
       points:
         east: Kelet
         north: Észak
@@ -324,6 +328,7 @@ hu:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: mutass többet
       similar-items: Hasonló elemek
       title_unavailable: 

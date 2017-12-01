@@ -187,18 +187,21 @@ de:
         attribute-author: Autor erwähnen
         attribute-html: 
         attribute-plaintext: Nur Text
+        collapse-extended: 
         download: Herunterladen
         download-additional: Auch erhältlich als
         download-retry: Erneut versuchen
         download-started: Der Download hat begonnen
         downloaddata: Daten herunterladen
         enlarge: Vergrößern
+        expand-extended: 
         explore-by-colour: Nach Farbe erkunden
         media-metadata: Medien-Metadaten
         open-media: Öffnen Sie dieses Objekt
         show-less-data: Weniger Daten anzeigen
         show-more-data: Weitere Daten anzeigen
         technicalmetadata: Technische Metadaten
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ de:
       nav:
         next: Weiter
         prev: Zurück
+      next-item: 
       points:
         east: Östlich
         north: Nördlich
@@ -324,6 +328,7 @@ de:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: Mehr anzeigen
       similar-items: Ähnliche Objekte
       title_unavailable: 

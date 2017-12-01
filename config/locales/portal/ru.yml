@@ -187,18 +187,21 @@ ru:
         attribute-author: Укажите автора
         attribute-html: 
         attribute-plaintext: Простой текст
+        collapse-extended: 
         download: Скачать
         download-additional: Также доступно в формате
         download-retry: Повторить попытку
         download-started: Загрузка началась
         downloaddata: Скачать данные
         enlarge: Увеличить
+        expand-extended: 
         explore-by-colour: Исследовать по цвету
         media-metadata: Метаданные материала
         open-media: Открыть этот файл
         show-less-data: Меньше
         show-more-data: Больше
         technicalmetadata: Технические метаданные
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ ru:
       nav:
         next: Следующее
         prev: Предыдущее
+      next-item: 
       points:
         east: Восток
         north: Север
@@ -324,6 +328,7 @@ ru:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: показать больше
       similar-items: Похожие записи
       title_unavailable: 

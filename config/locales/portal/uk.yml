@@ -183,18 +183,21 @@ uk:
         attribute-author: 
         attribute-html: 
         attribute-plaintext: 
+        collapse-extended: 
         download: 
         download-additional: 
         download-retry: 
         download-started: 
         downloaddata: 
         enlarge: 
+        expand-extended: 
         explore-by-colour: 
         media-metadata: 
         open-media: 
         show-less-data: 
         show-more-data: 
         technicalmetadata: 
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -311,6 +314,7 @@ uk:
       nav:
         next: 
         prev: 
+      next-item: 
       points:
         east: 
         north: 
@@ -320,6 +324,7 @@ uk:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: 
       similar-items: 
       title_unavailable: 

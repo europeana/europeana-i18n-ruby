@@ -187,18 +187,21 @@ pt:
         attribute-author: Atribuir o autor
         attribute-html: HTML
         attribute-plaintext: Texto simples
+        collapse-extended: 
         download: Descarregar
         download-additional: Também disponível como
         download-retry: 'Repetir '
         download-started: 'O download foi iniciado '
         downloaddata: Descarregar dados
         enlarge: 'Aumentar '
+        expand-extended: 
         explore-by-colour: 'Pesquisar por cor '
         media-metadata: 'Metadados dos Meios de Comunicação Social '
         open-media: Abrir este item de media
         show-less-data: Mostrar menos informação
         show-more-data: Mostrar mais dados
         technicalmetadata: Metadados Técnicos
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ pt:
       nav:
         next: Seguinte
         prev: Anterior
+      next-item: 
       points:
         east: Este
         north: Norte
@@ -324,6 +328,7 @@ pt:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
       title_unavailable: 

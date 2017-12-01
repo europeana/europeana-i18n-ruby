@@ -187,18 +187,21 @@ ca:
         attribute-author: Atribueix a l'autor
         attribute-html: HTML
         attribute-plaintext: Text pla
+        collapse-extended: 
         download: Baixa
         download-additional: També disponible com
         download-retry: Torna-ho a intentar
         download-started: Ha començat la descàrrega
         downloaddata: Baixar la informació
         enlarge: Amplia
+        expand-extended: 
         explore-by-colour: Explora per color
         media-metadata: Metadades del mitjà
         open-media: Obrir aquest ítem
         show-less-data: Mostrar menys dades
         show-more-data: Mostrar més dades
         technicalmetadata: Metadades tècniques
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ ca:
       nav:
         next: Següent
         prev: Previ
+      next-item: 
       points:
         east: Est
         north: Nord
@@ -324,6 +328,7 @@ ca:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: mostra més
       similar-items: ítems similars
       title_unavailable: 

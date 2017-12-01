@@ -187,18 +187,21 @@ sk:
         attribute-author: Atribút autora
         attribute-html: HTML
         attribute-plaintext: Prostý text
+        collapse-extended: 
         download: Stiahnuť
         download-additional: K dispozícii taktiež ako
         download-retry: Skúste znova
         download-started: Sťahovanie sa začalo
         downloaddata: Stiahnuť údaje
         enlarge: Zväčšiť
+        expand-extended: 
         explore-by-colour: Preskúmajte podľa farby
         media-metadata: Metadáta média
         open-media: Otvoriť túto mediálnu položku
         show-less-data: Zobraziť menej údajov
         show-more-data: Zobraziť viac údajov
         technicalmetadata: Technické metadáta
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ sk:
       nav:
         next: Nasledujúce
         prev: Predchádzajúce
+      next-item: 
       points:
         east: Východ
         north: Sever
@@ -324,6 +328,7 @@ sk:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: ukázať viac
       similar-items: Podobné položky
       title_unavailable: 

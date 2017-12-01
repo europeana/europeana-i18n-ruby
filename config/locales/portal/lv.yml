@@ -188,18 +188,21 @@ lv:
         attribute-author: Autora atribūti
         attribute-html: HTML
         attribute-plaintext: Vienkāršs teksts
+        collapse-extended: 
         download: Lejupielādēt
         download-additional: Pieejams arī kā
         download-retry: Atkārtot
         download-started: Lejupielāde uzsākta
         downloaddata: Lejupielādēt datus
         enlarge: Palielināt
+        expand-extended: 
         explore-by-colour: Izpētīt pēc krāsas
         media-metadata: Resursa metadati
         open-media: Atvērt šo ierakstu
         show-less-data: Rādīt mazāk datu
         show-more-data: Rādīt vairāk datu
         technicalmetadata: Tehniskie metadati
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -316,6 +319,7 @@ lv:
       nav:
         next: Nākamais
         prev: Iepriekšējais
+      next-item: 
       points:
         east: Austrumi
         north: Ziemeļi
@@ -325,6 +329,7 @@ lv:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
       title_unavailable: 

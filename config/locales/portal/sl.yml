@@ -187,18 +187,21 @@ sl:
         attribute-author: Dodeli avtorju
         attribute-html: HTML
         attribute-plaintext: Navadno besedilo
+        collapse-extended: 
         download: Prenos
         download-additional: Na voljo tudi kot
         download-retry: Poskusi znova
         download-started: Prenos se je začel
         downloaddata: Prenos podatkov
         enlarge: Povečaj
+        expand-extended: 
         explore-by-colour: Razišči po barvi
         media-metadata: Predstavnostni metapodatki
         open-media: Odpri ta predstavnostni element
         show-less-data: Prikaži manj podatkov
         show-more-data: Prikaži več podatkov
         technicalmetadata: Tehnični metapodatki
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ sl:
       nav:
         next: Naslednji
         prev: Prejšnji
+      next-item: 
       points:
         east: Vzhod
         north: Sever
@@ -324,6 +328,7 @@ sl:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: prikaži več
       similar-items: Podobni predmeti
       title_unavailable: 

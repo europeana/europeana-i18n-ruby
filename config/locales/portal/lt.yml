@@ -187,18 +187,21 @@ lt:
         attribute-author: Priskirti autorių
         attribute-html: HMTL
         attribute-plaintext: Paprastas tekstas
+        collapse-extended: 
         download: Parsisiųsti
         download-additional: Taip pat prieinama kaip
         download-retry: Bandyti dar kartą
         download-started: Pradėta parsisiųsti
         downloaddata: Parsisiųsti duomenis
         enlarge: Padidinti
+        expand-extended: 
         explore-by-colour: Peržiūrėti pagal spalvą
         media-metadata: Medijos metaduomenys
         open-media: Atidaryti šią mediją
         show-less-data: Rodyti mažiau duomenų
         show-more-data: Rodyti daugiau duomenų
         technicalmetadata: Techniniai metaduomenys
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ lt:
       nav:
         next: Kitas
         prev: Ankstesnis
+      next-item: 
       points:
         east: Rytai
         north: Šiaurė
@@ -324,6 +328,7 @@ lt:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: rodyti daugiau
       similar-items: Panašūs įrašai
       title_unavailable: 

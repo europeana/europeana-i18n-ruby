@@ -187,18 +187,21 @@ pl:
         attribute-author: Oznacz autora
         attribute-html: 
         attribute-plaintext: Zwykły tekst
+        collapse-extended: 
         download: Ściągnij
         download-additional: Dostępne także jako
         download-retry: Spróbuj ponownie
         download-started: Ściąganie rozpoczęte
         downloaddata: Ściągnij dane
         enlarge: Powiększ
+        expand-extended: 
         explore-by-colour: Odkrywaj według kolorów
         media-metadata: Metadane Obiektu
         open-media: Otwórz
         show-less-data: Pokaż mniej
         show-more-data: Pokaż więcej
         technicalmetadata: Metadane administracyjne
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ pl:
       nav:
         next: Następny
         prev: Poprzedni
+      next-item: 
       points:
         east: Wschód
         north: Północ
@@ -324,6 +328,7 @@ pl:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: pokaż więcej
       similar-items: Podobne obiekty
       title_unavailable: 

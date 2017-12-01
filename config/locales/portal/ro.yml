@@ -187,18 +187,21 @@ ro:
         attribute-author: Atribuie autorul
         attribute-html: HTML
         attribute-plaintext: Text simplu
+        collapse-extended: 
         download: Descarcă
         download-additional: Disponibil și ca
         download-retry: Nouă încercare
         download-started: Descărcarea a început
         downloaddata: Descarcă date
         enlarge: Mărire
+        expand-extended: 
         explore-by-colour: Explorare după culoare
         media-metadata: Metadate Media
         open-media: Deschide această înregistrare
         show-less-data: Arată mai puține date
         show-more-data: Arată mai multe date
         technicalmetadata: Metadate technice
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -317,6 +320,7 @@ ro:
       nav:
         next: Următor
         prev: Precedent
+      next-item: 
       points:
         east: Est
         north: Nord
@@ -326,6 +330,7 @@ ro:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: arată mai multe
       similar-items: Înregistrări asemănătoare
       title_unavailable: 

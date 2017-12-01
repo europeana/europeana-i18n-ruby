@@ -187,18 +187,21 @@ el:
         attribute-author: Απόδοση προς τον δημιουργό
         attribute-html: 
         attribute-plaintext: Κείμενο
+        collapse-extended: 
         download: Μεταφόρτωση
         download-additional: Επίσης διαθέσιμο ως
         download-retry: Επανάληψη
         download-started: Η λήψη έχει ξεκινήσει
         downloaddata: Μεταφόρτωση δεδομένων
         enlarge: Μεγέθυνση
+        expand-extended: 
         explore-by-colour: Εξερεύνηση ανά χρώμα
         media-metadata: Μεταδεδομένα Μέσων
         open-media: Ανοίξτε το αντικείμενο
         show-less-data: Εμφάνιση λιγότερων δεδομένων
         show-more-data: Εμφάνιση περισσότερων δεδομένων
         technicalmetadata: Τεχνικά μεταδεδομένα
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ el:
       nav:
         next: Επόμενη
         prev: Προηγούμενη
+      next-item: 
       points:
         east: Ανατολή
         north: Βορράς
@@ -324,6 +328,7 @@ el:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: εμφάνιση περισσοτέρων
       similar-items: Παρόμοια αντικείμενα
       title_unavailable: 

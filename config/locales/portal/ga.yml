@@ -197,18 +197,21 @@ ga:
         attribute-author: Airí an údar
         attribute-html: 
         attribute-plaintext: 
+        collapse-extended: 
         download: Íoslódáil
         download-additional: Ar fáil freisin mar
         download-retry: Atriail
         download-started: Íoslódáil curtha chun siúil
         downloaddata: 
         enlarge: Méadaigh
+        expand-extended: 
         explore-by-colour: Taiscéal de réir dath
         media-metadata: Metasonraíochtaí Meáin
         open-media: Oscail an mír meáin seo
         show-less-data: Taispeáin níos lú sonraíochtaí
         show-more-data: Taispeáin níos mó sonraíochtaí
         technicalmetadata: Metasonraíochtaí teicniúla
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -329,6 +332,7 @@ ga:
       nav:
         next: Ar aghaidh
         prev: Roimhe
+      next-item: 
       points:
         east: Oirthear
         north: Tuaisceart
@@ -340,6 +344,7 @@ ga:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: taispeáin níos mó
       similar-items: Míreanna dá shamhail
       title_unavailable: 

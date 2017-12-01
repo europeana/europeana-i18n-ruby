@@ -187,18 +187,21 @@ nl:
         attribute-author: Naam van de maker
         attribute-html: HTML
         attribute-plaintext: tekst
+        collapse-extended: 
         download: Download
         download-additional: Ook beschikbaar als
         download-retry: Opnieuw proberen
         download-started: De download is gestart.
         downloaddata: Download informatie
         enlarge: Vergroten
+        expand-extended: 
         explore-by-colour: 'Per kleur verkennen '
         media-metadata: Media Metadata
         open-media: Open dit type media
         show-less-data: Toon minder informatie
         show-more-data: Toon meer informatie
         technicalmetadata: Technische metadata
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ nl:
       nav:
         next: Volgende
         prev: Vorige
+      next-item: 
       points:
         east: Oost
         north: Noord
@@ -324,6 +328,7 @@ nl:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
       title_unavailable: 

@@ -187,18 +187,21 @@ hr:
         attribute-author: Navedite autora
         attribute-html: HTML
         attribute-plaintext: Samo tekst
+        collapse-extended: 
         download: Preuzmi
         download-additional: Dostupno i kao
         download-retry: Pokušajte ponovno
         download-started: Preuzimanje je otpočelo
         downloaddata: Preuzmi podatke
         enlarge: Povećajte
+        expand-extended: 
         explore-by-colour: Istražite po boji
         media-metadata: Medijski metapodaci
         open-media: Otvori ovaj medijski objekt
         show-less-data: Prikaži manje podataka
         show-more-data: Prikaži više podataka
         technicalmetadata: Tehnički metapodaci
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ hr:
       nav:
         next: Sljedeće
         prev: Prethodni
+      next-item: 
       points:
         east: Istok
         north: Sjever
@@ -324,6 +328,7 @@ hr:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
       title_unavailable: 

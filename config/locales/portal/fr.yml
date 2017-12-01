@@ -187,18 +187,21 @@ fr:
         attribute-author: Mentionnez le nom de l'auteur
         attribute-html: HTML
         attribute-plaintext: Texte brut
+        collapse-extended: 
         download: Télécharger
         download-additional: Aussi disponible comme suit
         download-retry: Réessayer
         download-started: Le téléchargement a débuté
         downloaddata: Télécharger les données
         enlarge: Agrandir
+        expand-extended: 
         explore-by-colour: Explorer par couleur
         media-metadata: Métadonnées média
         open-media: Ouvrir ce contenu
         show-less-data: Voir moins de données
         show-more-data: Voir plus de données
         technicalmetadata: Métadonnées techniques
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ fr:
       nav:
         next: Suivant
         prev: Précédent
+      next-item: 
       points:
         east: Est
         north: Nord
@@ -324,6 +328,7 @@ fr:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: voir plus
       similar-items: Objets similaires
       title_unavailable: 

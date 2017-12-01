@@ -187,18 +187,21 @@ et:
         attribute-author: Omista autorile
         attribute-html: HTML
         attribute-plaintext: Vabatekst
+        collapse-extended: 
         download: Lae alla
         download-additional: Veel saadaval
         download-retry: Proovi palun uuesti
         download-started: Allalaadimine alustatud
         downloaddata: Lae andmed alla
         enlarge: Suurenda
+        expand-extended: 
         explore-by-colour: Uuri värvi järgi
         media-metadata: Meedia metaandmed
         open-media: Ava see kirje
         show-less-data: Näita vähem andmeid
         show-more-data: Näita rohkem andmeid
         technicalmetadata: Tehnilised metaandmed
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ et:
       nav:
         next: Järgmine
         prev: Eelmine
+      next-item: 
       points:
         east: Ida
         north: Põhi
@@ -324,6 +328,7 @@ et:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
       title_unavailable: 

@@ -187,18 +187,21 @@ bg:
         attribute-author: Посочи автор
         attribute-html: HTML
         attribute-plaintext: Обикновен текст без форматиране
+        collapse-extended: 
         download: Изтегли
         download-additional: Наличен също като
         download-retry: Опитайте отново
         download-started: Изтеглянето започна
         downloaddata: Изтегли данни
         enlarge: Уголемяване
+        expand-extended: 
         explore-by-colour: Разгледайте по цвят
         media-metadata: Метаданни на медия
         open-media: Отвори този медиен обект
         show-less-data: Покажи по-малко данни
         show-more-data: Покажи повече данни
         technicalmetadata: Технически метаданни
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -317,6 +320,7 @@ bg:
       nav:
         next: Следващ
         prev: Предишен
+      next-item: 
       points:
         east: Изток
         north: Север
@@ -326,6 +330,7 @@ bg:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
       title_unavailable: 

@@ -187,18 +187,21 @@ es:
         attribute-author: Atribuye el autor
         attribute-html: HTML
         attribute-plaintext: Texto sin formato
+        collapse-extended: 
         download: Descargar
         download-additional: También disponible como
         download-retry: Reintentar
         download-started: La descarga ha comenzado
         downloaddata: Descargar datos
         enlarge: Aumentar
+        expand-extended: 
         explore-by-colour: Explore por color
         media-metadata: Media Metadata
         open-media: Abrir este objeto
         show-less-data: Mostrar menos datos
         show-more-data: Mostrar más datos
         technicalmetadata: Meta-datos tecnicos
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ es:
       nav:
         next: Siguiente
         prev: Anterior
+      next-item: 
       points:
         east: Este
         north: Norte
@@ -324,6 +328,7 @@ es:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: Mostrar más
       similar-items: Objetos similares
       title_unavailable: 

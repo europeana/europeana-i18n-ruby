@@ -187,18 +187,21 @@ sv:
         attribute-author: Attribuera upphovsmannen
         attribute-html: HTML
         attribute-plaintext: Oformaterad text
+        collapse-extended: 
         download: Ladda ner
         download-additional: Flera versioner
         download-retry: Försök igen
         download-started: Nedladdningen har börjat
         downloaddata: Ladda ner metadata
         enlarge: Förstora
+        expand-extended: 
         explore-by-colour: Utforska efter färg
         media-metadata: Media Metadata
         open-media: Visa
         show-less-data: Visa mindre information
         show-more-data: Visa mer information
         technicalmetadata: Teknisk metadata
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ sv:
       nav:
         next: Nästa
         prev: Föregående
+      next-item: 
       points:
         east: Öst
         north: Nord
@@ -324,6 +328,7 @@ sv:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: visa fler
       similar-items: Liknande poster
       title_unavailable: 

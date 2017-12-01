@@ -187,18 +187,21 @@ fi:
         attribute-author: Viittaa tekijään
         attribute-html: HTML
         attribute-plaintext: Tekstimuotoinen
+        collapse-extended: 
         download: Lataa
         download-additional: Saatavilla myös
         download-retry: Yritä uudelleen
         download-started: Lataus on alkanut
         downloaddata: Lataa data
         enlarge: Suurenna
+        expand-extended: 
         explore-by-colour: Tutki väreittäin
         media-metadata: Median metatiedot
         open-media: Avaa mediakohde
         show-less-data: Näytä vähemmän tietoa
         show-more-data: Näytä enemmän tietoa
         technicalmetadata: Tekniset metatiedot
+        view-more-at: 
       description_unavailable: 
       enrichment:
         who:
@@ -315,6 +318,7 @@ fi:
       nav:
         next: Seuraava
         prev: Edellinen
+      next-item: 
       points:
         east: Itä
         north: Pohjoinen
@@ -324,6 +328,7 @@ fi:
       preview_unavailable_explanation: 
       preview_unavailable_intro: 
       preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
       title_unavailable: 
