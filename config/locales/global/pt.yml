@@ -595,6 +595,8 @@ pt:
       story: História
       timeline: Cronologia
       timelines: Cronologias
+    punctuation:
+      list: 
     refine-your-search: Refinar pesquisa
     refine-your-search-short: 
     register: Registe-se

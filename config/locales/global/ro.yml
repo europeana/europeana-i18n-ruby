@@ -595,6 +595,8 @@ ro:
       story: Poveste
       timeline: Calendar
       timelines: Calendare
+    punctuation:
+      list: 
     refine-your-search: Rafinează căutare
     refine-your-search-short: 
     register: Înregistrează-te

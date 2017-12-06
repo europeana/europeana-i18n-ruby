@@ -597,6 +597,8 @@ sk:
       story: Príbeh
       timeline: Harmonogram
       timelines: Časové osy
+    punctuation:
+      list: 
     refine-your-search: Upresnite svoje vyhľadávanie
     refine-your-search-short: 
     register: Zaregistrovanie sa

@@ -595,6 +595,8 @@ pl:
       story: Opowieść
       timeline: Linia czasu
       timelines: Linie czasu
+    punctuation:
+      list: 
     refine-your-search: Zawęź wyniki wyszukiwania
     refine-your-search-short: Filtry
     register: Zarejestruj się

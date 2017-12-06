@@ -597,6 +597,8 @@ es:
       story: Relato
       timeline: Cronograma
       timelines: Cronogramas
+    punctuation:
+      list: 
     refine-your-search: Refina tu busqueda
     refine-your-search-short: Filtro
     register: Registrate

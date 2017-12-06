@@ -595,6 +595,8 @@ hr:
       story: Priča
       timeline: Vremenski slijed
       timelines: Vremenski slijedovi
+    punctuation:
+      list: 
     refine-your-search: Suzi rezultate pretraživanja
     refine-your-search-short: 
     register: Registriraj se

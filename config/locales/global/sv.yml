@@ -595,6 +595,8 @@ sv:
       story: Berättelse
       timeline: Tidslinje
       timelines: Tidslinjer
+    punctuation:
+      list: 
     refine-your-search: Förfina din sökning
     refine-your-search-short: Filter
     register: Registrera dig

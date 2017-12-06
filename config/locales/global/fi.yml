@@ -595,6 +595,8 @@ fi:
       story: Tarina
       timeline: Aikajana
       timelines: Aikajanat
+    punctuation:
+      list: 
     refine-your-search: Tarkenna hakuasi
     refine-your-search-short: 
     register: Rekisteröidy

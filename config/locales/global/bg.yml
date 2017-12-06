@@ -595,6 +595,8 @@ bg:
       story: История
       timeline: Времева линия
       timelines: Времеви линии
+    punctuation:
+      list: 
     refine-your-search: Стеснете търсенето
     refine-your-search-short: 
     register: Регистрация

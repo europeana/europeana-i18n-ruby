@@ -597,6 +597,8 @@ cs:
       story: Příběh
       timeline: Časová osa
       timelines: Časové osy
+    punctuation:
+      list: 
     refine-your-search: Upřesnit vyhledávání
     refine-your-search-short: 
     register: Registrace

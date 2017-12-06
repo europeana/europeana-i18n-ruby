@@ -597,6 +597,8 @@ de:
       story: Geschichte
       timeline: Chronik
       timelines: Chroniken
+    punctuation:
+      list: 
     refine-your-search: Suche verfeinern
     refine-your-search-short: 
     register: Anmelden

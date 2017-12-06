@@ -595,6 +595,8 @@ ca:
       story: Història
       timeline: Línia temporal
       timelines: Línies temporals
+    punctuation:
+      list: 
     refine-your-search: Refina la teva cerca
     refine-your-search-short: 
     register: Registre

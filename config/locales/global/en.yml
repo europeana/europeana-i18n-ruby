@@ -597,6 +597,8 @@ en:
       story: Story
       timeline: Timeline
       timelines: Timelines
+    punctuation:
+      list: 
     refine-your-search: Refine your search
     refine-your-search-short: Filter
     register: Register

@@ -597,6 +597,8 @@ et:
       story: Lugu
       timeline: Ajajoon
       timelines: Ajajooned
+    punctuation:
+      list: 
     refine-your-search: Täpsusta oma otsingut
     refine-your-search-short: 
     register: Registreeri

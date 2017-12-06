@@ -597,6 +597,8 @@ mt:
       story: Storja
       timeline: Kronoloġija
       timelines: Kronoloġiji
+    punctuation:
+      list: 
     refine-your-search: Irfina t-tfixxija tiegħek
     refine-your-search-short: Iffiltra
     register: Irreġistra

@@ -597,6 +597,8 @@ ru:
       story: Рассказ
       timeline: Хронологическая последовательность
       timelines: Хронологические последовательности
+    punctuation:
+      list: 
     refine-your-search: Инструменты поиска
     refine-your-search-short: 
     register: Зарегистрируйтесь

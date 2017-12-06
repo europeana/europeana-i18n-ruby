@@ -595,6 +595,8 @@ lt:
       story: Istorija
       timeline: Laiko juosta
       timelines: Laiko juostos
+    punctuation:
+      list: 
     refine-your-search: Patikslinkite paiešką
     refine-your-search-short: 
     register: Registruotis

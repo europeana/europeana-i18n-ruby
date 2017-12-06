@@ -595,6 +595,8 @@ el:
       story: Ιστορία
       timeline: Χρονολόγιο
       timelines: Χρονολόγια
+    punctuation:
+      list: 
     refine-your-search: Επαναπροσδιορίστε τα αποτελέσματά σας
     refine-your-search-short: 
     register: Εγγραφή

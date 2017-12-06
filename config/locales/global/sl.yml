@@ -597,6 +597,8 @@ sl:
       story: Zgodba
       timeline: Časovnica
       timelines: Časovnice
+    punctuation:
+      list: 
     refine-your-search: Izboljšajte iskanje
     refine-your-search-short: 
     register: Registrirajte se

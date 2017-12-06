@@ -595,6 +595,8 @@ hu:
       story: Történet
       timeline: Idővonal
       timelines: Idővonalak
+    punctuation:
+      list: 
     refine-your-search: Finomítsd a keresésed
     refine-your-search-short: 
     register: Regisztráció

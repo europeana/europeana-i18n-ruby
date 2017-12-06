@@ -601,6 +601,8 @@ ga:
       story: Scéal
       timeline: Amlíne
       timelines: Amlínte
+    punctuation:
+      list: 
     refine-your-search: Beachtaigh do chuardach
     refine-your-search-short: Scagaire
     register: Cláraigh

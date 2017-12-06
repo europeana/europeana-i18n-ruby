@@ -595,6 +595,8 @@ tr:
       story: 
       timeline: 
       timelines: 
+    punctuation:
+      list: 
     refine-your-search: 
     refine-your-search-short: 
     register: 

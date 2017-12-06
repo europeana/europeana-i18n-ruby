@@ -595,6 +595,8 @@ lv:
       story: Stāsts
       timeline: Laika josla
       timelines: Laika joslas
+    punctuation:
+      list: 
     refine-your-search: Precizēt meklēšanas pieprasījumu
     refine-your-search-short: Filtrs
     register: Reģistrēties

@@ -595,6 +595,8 @@ nl:
       story: Verhaal
       timeline: Tijdlijn
       timelines: Tijdlijnen
+    punctuation:
+      list: 
     refine-your-search: Verfijn uw zoekresultaten
     refine-your-search-short: 
     register: Registreer
