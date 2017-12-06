@@ -596,7 +596,8 @@ bg:
       timeline: Времева линия
       timelines: Времеви линии
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Стеснете търсенето
     refine-your-search-short: 
     register: Регистрация

@@ -596,7 +596,8 @@ lv:
       timeline: Laika josla
       timelines: Laika joslas
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Precizēt meklēšanas pieprasījumu
     refine-your-search-short: Filtrs
     register: Reģistrēties

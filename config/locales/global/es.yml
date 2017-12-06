@@ -598,7 +598,8 @@ es:
       timeline: Cronograma
       timelines: Cronogramas
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Refina tu busqueda
     refine-your-search-short: Filtro
     register: Registrate

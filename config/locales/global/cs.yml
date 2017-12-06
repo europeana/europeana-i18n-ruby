@@ -598,7 +598,8 @@ cs:
       timeline: Časová osa
       timelines: Časové osy
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Upřesnit vyhledávání
     refine-your-search-short: 
     register: Registrace

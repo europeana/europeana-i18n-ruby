@@ -596,7 +596,8 @@ lt:
       timeline: Laiko juosta
       timelines: Laiko juostos
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Patikslinkite paiešką
     refine-your-search-short: 
     register: Registruotis

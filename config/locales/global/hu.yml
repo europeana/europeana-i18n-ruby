@@ -596,7 +596,8 @@ hu:
       timeline: Idővonal
       timelines: Idővonalak
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Finomítsd a keresésed
     refine-your-search-short: 
     register: Regisztráció

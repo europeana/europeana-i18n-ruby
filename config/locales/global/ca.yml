@@ -596,7 +596,8 @@ ca:
       timeline: Línia temporal
       timelines: Línies temporals
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Refina la teva cerca
     refine-your-search-short: 
     register: Registre

@@ -596,7 +596,8 @@ tr:
       timeline: 
       timelines: 
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: 
     refine-your-search-short: 
     register: 

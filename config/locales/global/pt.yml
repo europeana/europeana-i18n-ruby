@@ -596,7 +596,8 @@ pt:
       timeline: Cronologia
       timelines: Cronologias
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Refinar pesquisa
     refine-your-search-short: 
     register: Registe-se

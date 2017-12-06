@@ -598,7 +598,8 @@ sk:
       timeline: Harmonogram
       timelines: Časové osy
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Upresnite svoje vyhľadávanie
     refine-your-search-short: 
     register: Zaregistrovanie sa

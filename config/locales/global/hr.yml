@@ -596,7 +596,8 @@ hr:
       timeline: Vremenski slijed
       timelines: Vremenski slijedovi
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Suzi rezultate pretraživanja
     refine-your-search-short: 
     register: Registriraj se

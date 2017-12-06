@@ -598,7 +598,8 @@ en:
       timeline: Timeline
       timelines: Timelines
     punctuation:
-      list: 
+      list-item-separator: "; "
+      term-list: "%{term}: %{items}"
     refine-your-search: Refine your search
     refine-your-search-short: Filter
     register: Register

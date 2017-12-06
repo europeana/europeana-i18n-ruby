@@ -596,7 +596,8 @@ fi:
       timeline: Aikajana
       timelines: Aikajanat
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Tarkenna hakuasi
     refine-your-search-short: 
     register: Rekisteröidy

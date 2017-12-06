@@ -596,7 +596,8 @@ ro:
       timeline: Calendar
       timelines: Calendare
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Rafinează căutare
     refine-your-search-short: 
     register: Înregistrează-te

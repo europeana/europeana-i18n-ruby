@@ -598,7 +598,8 @@ et:
       timeline: Ajajoon
       timelines: Ajajooned
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Täpsusta oma otsingut
     refine-your-search-short: 
     register: Registreeri

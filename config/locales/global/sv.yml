@@ -596,7 +596,8 @@ sv:
       timeline: Tidslinje
       timelines: Tidslinjer
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Förfina din sökning
     refine-your-search-short: Filter
     register: Registrera dig

@@ -598,7 +598,8 @@ de:
       timeline: Chronik
       timelines: Chroniken
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Suche verfeinern
     refine-your-search-short: 
     register: Anmelden

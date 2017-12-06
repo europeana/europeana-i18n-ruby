@@ -598,7 +598,8 @@ it:
       timeline: Calendario
       timelines: Calendari
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Affina la tua ricerca
     refine-your-search-short: 
     register: Registrati

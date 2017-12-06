@@ -598,7 +598,8 @@ sl:
       timeline: Časovnica
       timelines: Časovnice
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Izboljšajte iskanje
     refine-your-search-short: 
     register: Registrirajte se

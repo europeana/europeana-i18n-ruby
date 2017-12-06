@@ -598,7 +598,8 @@ da:
       timeline: Tidslinje
       timelines: Tidslinjer
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Forfin din søgning
     refine-your-search-short: 
     register: 'Registrér '

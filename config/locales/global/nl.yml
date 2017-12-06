@@ -596,7 +596,8 @@ nl:
       timeline: Tijdlijn
       timelines: Tijdlijnen
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Verfijn uw zoekresultaten
     refine-your-search-short: 
     register: Registreer

@@ -598,7 +598,8 @@ ru:
       timeline: Хронологическая последовательность
       timelines: Хронологические последовательности
     punctuation:
-      list: 
+      list-item-separator: 
+      term-list: 
     refine-your-search: Инструменты поиска
     refine-your-search-short: 
     register: Зарегистрируйтесь
