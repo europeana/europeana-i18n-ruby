@@ -161,6 +161,7 @@ et:
       next: järgmine
       previous: eelmine
       register: Registreeru
+      remove: 
       share: Jaga
       sign-in: Logi sisse
       sign-out: Logi välja

@@ -161,6 +161,7 @@ el:
       next: επόμενος
       previous: προηγούμενος
       register: Εγγραφείτε
+      remove: 
       share: Κοινοποίηση
       sign-in: Συνδεθείτε
       sign-out: Αποσύνδεση

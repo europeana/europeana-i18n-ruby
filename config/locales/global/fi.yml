@@ -161,6 +161,7 @@ fi:
       next: Seuraava
       previous: Edellinen
       register: Rekisteröidy
+      remove: 
       share: Jaa
       sign-in: Kirjaudu sisään
       sign-out: Kirjaudu ulos

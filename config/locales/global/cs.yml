@@ -161,6 +161,7 @@ cs:
       next: další
       previous: předchozí
       register: Zaregistrovat
+      remove: 
       share: Sdílet
       sign-in: Přihlásit se
       sign-out: Odhlásit se

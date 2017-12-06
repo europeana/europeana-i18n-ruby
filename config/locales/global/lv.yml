@@ -161,6 +161,7 @@ lv:
       next: nākamā
       previous: iepriekšējā
       register: Reģistrēties
+      remove: 
       share: Dalīties
       sign-in: Ienākt
       sign-out: Iziet

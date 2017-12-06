@@ -161,6 +161,7 @@ sr:
       next: 
       previous: 
       register: Региструјте се
+      remove: 
       share: 
       sign-in: Пријава
       sign-out: Одјавити се

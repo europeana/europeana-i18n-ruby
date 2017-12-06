@@ -161,6 +161,7 @@ nl:
       next: volgende
       previous: vorige
       register: Registreren
+      remove: 
       share: Delen
       sign-in: Inloggen
       sign-out: Uitloggen

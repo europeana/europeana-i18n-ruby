@@ -161,6 +161,7 @@ hr:
       next: Sljedeći
       previous: prijašnji
       register: Registracija
+      remove: 
       share: Podijelite
       sign-in: Prijava
       sign-out: Odjavi se

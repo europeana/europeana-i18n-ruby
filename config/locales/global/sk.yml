@@ -161,6 +161,7 @@ sk:
       next: nasledujúca
       previous: predchádzajúca
       register: Zaregistrovať sa
+      remove: 
       share: Zdieľať
       sign-in: Prihlásiť sa
       sign-out: Odhlásiť sa

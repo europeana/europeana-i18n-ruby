@@ -161,6 +161,7 @@ sl:
       next: naslednja
       previous: prejšnja
       register: Registrirajte se
+      remove: 
       share: Dajte v skupno rabo
       sign-in: Prijava
       sign-out: Odjava

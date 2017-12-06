@@ -161,6 +161,7 @@ ca:
       next: Pròxim
       previous: anterior
       register: Registra-t'hi
+      remove: 
       share: Comparteix
       sign-in: Inicia sessió
       sign-out: Tanca sessió

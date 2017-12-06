@@ -161,6 +161,7 @@ pl:
       next: Następny
       previous: poprzedni
       register: Zarejestruj się
+      remove: 
       share: Udział
       sign-in: Zaloguj się
       sign-out: Wyloguj się

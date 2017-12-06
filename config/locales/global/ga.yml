@@ -161,6 +161,7 @@ ga:
       next: ar aghaidh
       previous: roimhe
       register: Cláraigh
+      remove: 
       share: Comhroinn
       sign-in: 'Sínigh isteach '
       sign-out: Sínigh amach

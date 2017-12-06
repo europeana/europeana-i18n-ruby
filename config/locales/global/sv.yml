@@ -161,6 +161,7 @@ sv:
       next: Nästa
       previous: tidigare
       register: Skapa användarkonto
+      remove: 
       share: Dela
       sign-in: Logga in
       sign-out: Logga ut

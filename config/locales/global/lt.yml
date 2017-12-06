@@ -161,6 +161,7 @@ lt:
       next: Kitas
       previous: iepriekšējā
       register: Užsiregistruoti
+      remove: 
       share: Dalytis
       sign-in: Prisijungti
       sign-out: Atsijungti

@@ -161,6 +161,7 @@ it:
       next: Il prossimo
       previous: precedente
       register: Registrati
+      remove: 
       share: Condividi
       sign-in: Accedi
       sign-out: Esci

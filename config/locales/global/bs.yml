@@ -161,6 +161,7 @@ bs:
       next: 
       previous: 
       register: Registracija
+      remove: 
       share: 
       sign-in: Prijava
       sign-out: Odjava

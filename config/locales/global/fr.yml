@@ -161,6 +161,7 @@ fr:
       next: prochain
       previous: précédent
       register: Enregistrez-vous
+      remove: 
       share: Partager
       sign-in: Identifiez-vous
       sign-out: Déconnexion

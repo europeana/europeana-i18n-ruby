@@ -161,6 +161,7 @@ da:
       next: Næste
       previous: tidligere
       register: Registrer
+      remove: 
       share: Del
       sign-in: Log ind
       sign-out: Log ud

@@ -161,6 +161,7 @@ bg:
       next: следващия
       previous: предишен
       register: Регистрирайте се
+      remove: 
       share: Споделяне
       sign-in: Влезте
       sign-out: Изход

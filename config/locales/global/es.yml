@@ -161,6 +161,7 @@ es:
       next: siguiente
       previous: anterior
       register: Registrate
+      remove: 
       share: Compartir
       sign-in: 'Inicia sesión '
       sign-out: 'Cerrar sesión '

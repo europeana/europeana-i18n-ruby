@@ -161,6 +161,7 @@ mt:
       next: li jmiss
       previous: qabel
       register: Irreġistra
+      remove: 
       share: Ixxerja
       sign-in: Idħol
       sign-out: Oħroġ

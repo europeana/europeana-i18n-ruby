@@ -161,6 +161,7 @@ pt:
       next: Próximo
       previous: anterior
       register: Registar
+      remove: 
       share: Partilhar
       sign-in: Entrar
       sign-out: Sair
