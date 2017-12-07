@@ -596,7 +596,7 @@ el:
       timeline: Χρονολόγιο
       timelines: Χρονολόγια
     punctuation:
-      list-item-separator: 
+      list-item-separator: " | "
       term-list: 
     refine-your-search: Επαναπροσδιορίστε τα αποτελέσματά σας
     refine-your-search-short: 
