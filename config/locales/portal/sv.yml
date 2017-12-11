@@ -427,3 +427,6 @@ sv:
         label: Språk
         settings-label: Språkinställningar
       title: Inställningar
+    ugc:
+      actions:
+        submit: 

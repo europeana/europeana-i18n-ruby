@@ -436,3 +436,6 @@ mt:
         label: Lingwa
         settings-label: settings tal-lingwa
       title: Settings
+    ugc:
+      actions:
+        submit: 

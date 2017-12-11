@@ -410,3 +410,6 @@ uk:
         label: 
         settings-label: 
       title: 
+    ugc:
+      actions:
+        submit: 

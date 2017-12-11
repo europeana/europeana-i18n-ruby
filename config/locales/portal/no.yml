@@ -428,3 +428,6 @@
         label: Språk
         settings-label: språkinnstillinger
       title: Innstillinger
+    ugc:
+      actions:
+        submit: 

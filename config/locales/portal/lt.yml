@@ -423,3 +423,6 @@ lt:
         label: Kalba
         settings-label: kalbos nustatymai
       title: Nustatymai
+    ugc:
+      actions:
+        submit: 

@@ -423,3 +423,6 @@ fr:
         label: Langue
         settings-label: paramètres de langue
       title: Paramètres
+    ugc:
+      actions:
+        submit: 

@@ -436,3 +436,6 @@ ca:
         label: Idioma
         settings-label: Configuració d'idioma
       title: Configuració
+    ugc:
+      actions:
+        submit: 

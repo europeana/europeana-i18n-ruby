@@ -427,3 +427,6 @@ en:
         label: Language
         settings-label: language settings
       title: Settings
+    ugc:
+      actions:
+        submit: Submit

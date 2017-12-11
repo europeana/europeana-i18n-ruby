@@ -427,3 +427,6 @@ sk:
         label: Jazyk
         settings-label: nastavenia jazyka
       title: Nastavenia
+    ugc:
+      actions:
+        submit: 

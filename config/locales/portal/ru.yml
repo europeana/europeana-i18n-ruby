@@ -423,3 +423,6 @@ ru:
         label: Язык
         settings-label: Языковые настройки
       title: Настройки
+    ugc:
+      actions:
+        submit: 

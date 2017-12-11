@@ -423,3 +423,6 @@ pt:
         label: Língua
         settings-label: definições de língua
       title: Definições
+    ugc:
+      actions:
+        submit: 

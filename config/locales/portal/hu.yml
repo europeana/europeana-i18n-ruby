@@ -423,3 +423,6 @@ hu:
         label: Nyelv
         settings-label: nyelvi beállítások
       title: Beállítások
+    ugc:
+      actions:
+        submit: 

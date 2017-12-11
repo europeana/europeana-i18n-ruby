@@ -423,3 +423,6 @@ el:
         label: Γλώσσα
         settings-label: επιλογές γλώσσας
       title: προτιμήσεις
+    ugc:
+      actions:
+        submit: 

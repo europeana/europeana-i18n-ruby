@@ -428,3 +428,6 @@ pl:
         label: Język
         settings-label: ustawienia języków
       title: Ustawienia
+    ugc:
+      actions:
+        submit: 

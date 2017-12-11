@@ -427,3 +427,6 @@ hr:
         label: Jezik
         settings-label: postavke jezika
       title: Postavke
+    ugc:
+      actions:
+        submit: 

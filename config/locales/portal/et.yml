@@ -436,3 +436,6 @@ et:
         label: Keel
         settings-label: keeleseadistused
       title: Seadistused
+    ugc:
+      actions:
+        submit: 

@@ -428,3 +428,6 @@ lv:
         label: Valoda
         settings-label: valodas iestatījumi
       title: Iestatījumi
+    ugc:
+      actions:
+        submit: 

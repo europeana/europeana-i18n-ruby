@@ -434,3 +434,6 @@ de:
         label: Sprache
         settings-label: Spracheinstellungen
       title: Einstellungen
+    ugc:
+      actions:
+        submit: 

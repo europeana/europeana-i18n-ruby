@@ -421,3 +421,6 @@ es:
         label: Idioma
         settings-label: Ajustes de idioma
       title: Ajustes
+    ugc:
+      actions:
+        submit: 

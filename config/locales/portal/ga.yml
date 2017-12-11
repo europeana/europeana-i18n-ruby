@@ -444,3 +444,6 @@ ga:
         label: Teanga
         settings-label: socruithe teanga
       title: Socruithe
+    ugc:
+      actions:
+        submit: 

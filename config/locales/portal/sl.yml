@@ -427,3 +427,6 @@ sl:
         label: Jezik
         settings-label: jezikovne nastavitve
       title: Nastavitve
+    ugc:
+      actions:
+        submit: 

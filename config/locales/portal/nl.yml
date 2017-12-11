@@ -414,3 +414,6 @@ nl:
         label: Taal
         settings-label: Instellingen voor taal
       title: Settings
+    ugc:
+      actions:
+        submit: 

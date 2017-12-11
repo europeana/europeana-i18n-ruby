@@ -425,3 +425,6 @@ bg:
         label: Език
         settings-label: езикови настройки
       title: Настройки
+    ugc:
+      actions:
+        submit: 

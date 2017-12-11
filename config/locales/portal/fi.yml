@@ -441,3 +441,6 @@ fi:
         label: Kieli
         settings-label: kieliasetukset
       title: Asetukset
+    ugc:
+      actions:
+        submit: 
