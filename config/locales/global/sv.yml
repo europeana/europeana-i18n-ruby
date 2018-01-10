@@ -373,8 +373,11 @@ sv:
         advanced-ucs: 
         expiry: till %{date}
         open: Ja, med attribuering
+        open-brief: 
         permission: Enbart med tillstånd
+        permission-brief: 
         restricted: Ja, med vissa begränsingar
+        restricted-brief: 
         rs_noc_oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
         simple: Enkel
       sound_duration:

@@ -373,8 +373,11 @@ de:
         advanced-ucs: ''
         expiry: until %{date}
         open: Freie Nachnutzun
+        open-brief: 
         permission: Nur mit Genehmigung
+        permission-brief: 
         restricted: Ja, mit Einschränkungen
+        restricted-brief: 
         rs_noc_oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
         simple: Einfach
       sound_duration:

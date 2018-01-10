@@ -375,8 +375,11 @@ ga:
 
 '
         open: Athúsáíd Saor in aisce
+        open-brief: 
         permission: Cosc ar Athúsáíd
+        permission-brief: 
         restricted: Athúsáíd teoranta
+        restricted-brief: 
         rs_noc_oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
         simple: Simplí
       sound_duration:

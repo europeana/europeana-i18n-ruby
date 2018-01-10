@@ -375,8 +375,11 @@ mt:
         advanced-ucs: L-istatus tal-copyright mhux magħruf
         expiry: sa %{date}
         open: Iva bl-attribuzzjoni
+        open-brief: 
         permission: Bil-permess biss
+        permission-brief: 
         restricted: Iva bir-restrizzjonijiet
+        restricted-brief: 
         rs_noc_oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
         simple: Sempliċi
       sound_duration:

@@ -373,8 +373,11 @@ fr:
         advanced-ucs: 
         expiry: jusqu'à %{date}
         open: Oui avec attribution
+        open-brief: 
         permission: Seulement avec permission
+        permission-brief: 
         restricted: Oui avec des restrictions
+        restricted-brief: 
         rs_noc_oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
         simple: Simple
       sound_duration:

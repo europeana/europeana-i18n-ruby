@@ -373,8 +373,11 @@ en:
         advanced-ucs: Unknown copyright status
         expiry: until %{date}
         open: Free Re-use
+        open-brief: 'Yes'
         permission: No Re-use
+        permission-brief: 'No'
         restricted: Limited Re-use
+        restricted-brief: Restricted
         rs_noc_oklr: No Copyright - Other Known Legal Restrictions
         simple: Simple
       sound_duration:

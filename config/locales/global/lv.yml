@@ -373,8 +373,11 @@ lv:
         advanced-ucs: 
         expiry: līdz %{date}
         open: Jā, ar atsauci
+        open-brief: 
         permission: Tikai ar atļauju
+        permission-brief: 
         restricted: Jā, ar ierobežojumiem
+        restricted-brief: 
         rs_noc_oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
         simple: Vienkāršā
       sound_duration:

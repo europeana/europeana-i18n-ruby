@@ -373,8 +373,11 @@ bg:
         advanced-ucs: Unknown copyright status
         expiry: до %{date}
         open: Да, с посочване на авторските права
+        open-brief: 
         permission: Само с разрешение
+        permission-brief: 
         restricted: Да, с ограничения
+        restricted-brief: 
         rs_noc_oklr: Без авторски права – други известни правни ограничения
         simple: Просто
       sound_duration:

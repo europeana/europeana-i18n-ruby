@@ -373,8 +373,11 @@
         advanced-ucs: Ukjent opphavsrettslig status
         expiry: Til %{date}
         open: Ja ved navngivelse
+        open-brief: 
         permission: Bare med tillatelse
+        permission-brief: 
         restricted: Ja med restriksjoner
+        restricted-brief: 
         rs_noc_oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
         simple: Enkel
       sound_duration:

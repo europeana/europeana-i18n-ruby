@@ -373,8 +373,11 @@ sk:
         advanced-ucs: Neznámy status autorskoprávnej ochrany diela
         expiry: do %{date}
         open: Neobmedzené opakované používanie
+        open-brief: 
         permission: Žiadne opakované používanie
+        permission-brief: 
         restricted: Obmedzené opakované používanie
+        restricted-brief: 
         rs_noc_oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
         simple: Jednoduchý
       sound_duration:

@@ -373,8 +373,11 @@ uk:
         advanced-ucs: 
         expiry: 
         open: 
+        open-brief: 
         permission: 
+        permission-brief: 
         restricted: 
+        restricted-brief: 
         rs_noc_oklr: 
         simple: 
       sound_duration:

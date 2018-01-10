@@ -373,8 +373,11 @@ hr:
         advanced-ucs: 
         expiry: do %{date}
         open: 
+        open-brief: 
         permission: 
+        permission-brief: 
         restricted: 
+        restricted-brief: 
         rs_noc_oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
         simple: Jednostavno
       sound_duration:

@@ -373,8 +373,11 @@ et:
         advanced-ucs: Autorikaitse staatus teadmata
         expiry: Kuni %{date}
         open: Jah, omistamisega
+        open-brief: 
         permission: Ainult loaga
+        permission-brief: 
         restricted: Jah, piirangutega
+        restricted-brief: 
         rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
         simple: Lihtne
       sound_duration:

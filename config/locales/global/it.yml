@@ -373,8 +373,11 @@ it:
         advanced-ucs: 
         expiry: fino a %{date}
         open: Ri-utilizzo gratuito
+        open-brief: 
         permission: Nessun ri-utilizzo
+        permission-brief: 
         restricted: Ri-utilizzo limitato
+        restricted-brief: 
         rs_noc_oklr: No Copyright - Altre restrizioni legali note
         simple: Semplice
       sound_duration:

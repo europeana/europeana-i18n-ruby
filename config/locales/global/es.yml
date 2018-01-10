@@ -373,8 +373,11 @@ es:
         advanced-ucs: Unknown copyright status
         expiry: hasta %{date}
         open: Sí con atribución
+        open-brief: 
         permission: Solo con permiso
+        permission-brief: 
         restricted: Sí con restricciones
+        restricted-brief: 
         rs_noc_oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
         simple: Simple
       sound_duration:

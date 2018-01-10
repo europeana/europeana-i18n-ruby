@@ -373,8 +373,11 @@ ca:
         advanced-ucs: Situació de copyright desconeguda
         expiry: fins a %{date}
         open: Sí, amb atribució
+        open-brief: 
         permission: Només amb permís
+        permission-brief: 
         restricted: Sí, amb restriccions
+        restricted-brief: 
         rs_noc_oklr: Sense copyright - Altres restriccions legals conegudes
         simple: Simple
       sound_duration:

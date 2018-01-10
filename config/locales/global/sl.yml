@@ -373,8 +373,11 @@ sl:
         advanced-ucs: Neznan status avtorskih pravic
         expiry: do %{date}
         open: Brezplačna ponovna uporaba
+        open-brief: 
         permission: Ponovna uporaba ni mogoča
+        permission-brief: 
         restricted: Omejena ponovna uporaba
+        restricted-brief: 
         rs_noc_oklr: Brez avtorskih pravic - Druge znane pravne omejitve
         simple: Enostavno
       sound_duration:

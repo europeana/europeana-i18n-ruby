@@ -373,8 +373,11 @@ ru:
         advanced-ucs: ''
         expiry: До %{date}
         open: Да с указанием правообладателя
+        open-brief: 
         permission: Только с разрешения правообладателя
+        permission-brief: 
         restricted: Да с ограничениями
+        restricted-brief: 
         rs_noc_oklr: Не является объектом авторского права - Другие известные юридические ограничения
         simple: ''
       sound_duration:

@@ -373,8 +373,11 @@ da:
         advanced-ucs: Ubekendt ophavsrettigheder
         expiry: indtil d. %{date}
         open: Må bruges igen gratis
+        open-brief: 
         permission: Kun med tilladdelse
+        permission-brief: 
         restricted: Ja med restriktioner
+        restricted-brief: 
         rs_noc_oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
         simple: Simpel
       sound_duration:

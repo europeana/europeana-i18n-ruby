@@ -373,8 +373,11 @@ hu:
         advanced-ucs: ''
         expiry: "%{date}-ig"
         open: Igen, tulajdonos feltüntetésével
+        open-brief: 
         permission: Csak engedéllyel
+        permission-brief: 
         restricted: Igen, korlátozásokkal
+        restricted-brief: 
         rs_noc_oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
         simple: Egyszerű
       sound_duration:

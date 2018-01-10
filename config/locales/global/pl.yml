@@ -373,8 +373,11 @@ pl:
         advanced-ucs: ''
         expiry: do %{date}
         open: Tak, ale pamiętaj o podaniu źródła.
+        open-brief: 
         permission: Nie - wymagana jest pisemna zgoda.
+        permission-brief: 
         restricted: Tak, ale z pewnymi ograniczeniami.
+        restricted-brief: 
         rs_noc_oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
         simple: Proste
       sound_duration:

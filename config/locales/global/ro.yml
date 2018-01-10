@@ -373,8 +373,11 @@ ro:
         advanced-ucs: ''
         expiry: până la %{date}
         open: Da, cu atribuire
+        open-brief: 
         permission: Doar cu permisiune
+        permission-brief: 
         restricted: Da, cu restricții
+        restricted-brief: 
         rs_noc_oklr: Fără drepturi de autor - alte restricții legale cunoscute
         simple: Simplu
       sound_duration:

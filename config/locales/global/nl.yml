@@ -373,8 +373,11 @@ nl:
         advanced-ucs: 
         expiry: tot %{date}
         open: Gratis Hergebruiken
+        open-brief: 
         permission: Niet Hergebruiken
+        permission-brief: 
         restricted: 
+        restricted-brief: 
         rs_noc_oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
         simple: 
       sound_duration:

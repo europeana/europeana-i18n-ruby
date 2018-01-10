@@ -373,8 +373,11 @@ pt:
         advanced-ucs: ''
         expiry: até %{date}
         open: Sim, com atribuição
+        open-brief: 
         permission: Apenas com permissão
+        permission-brief: 
         restricted: Sim, com restrições
+        restricted-brief: 
         rs_noc_oklr: Sem Direitos de Autor - Outras Restrições Legais Conhecidas
         simple: Simples
       sound_duration:

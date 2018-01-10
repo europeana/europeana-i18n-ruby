@@ -373,8 +373,11 @@ lt:
         advanced-ucs: Autorinių teisių statusas nežinomas
         expiry: iki %{date}
         open: Taip, su atribucija
+        open-brief: 
         permission: Tik su leidimu
+        permission-brief: 
         restricted: Taip, su apribojimais
+        restricted-brief: 
         rs_noc_oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
         simple: Paprastas
       sound_duration:

@@ -373,8 +373,11 @@ el:
         advanced-ucs: ''
         expiry: έως %{date}
         open: Ναι με απόδοση πνευματικών δικαιωμάτων
+        open-brief: 
         permission: Μόνο με άδεια
+        permission-brief: 
         restricted: Ναι με περιορισμούς
+        restricted-brief: 
         rs_noc_oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
         simple: Απλό
       sound_duration:
