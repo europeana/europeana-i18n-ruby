@@ -425,4 +425,5 @@ da:
       title: Indstillinger
     ugc:
       actions:
+        copy-name: 
         submit: 

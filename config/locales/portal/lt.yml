@@ -425,4 +425,5 @@ lt:
       title: Nustatymai
     ugc:
       actions:
+        copy-name: 
         submit: 

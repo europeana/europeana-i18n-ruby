@@ -438,4 +438,5 @@ ca:
       title: Configuració
     ugc:
       actions:
+        copy-name: 
         submit: 

@@ -446,4 +446,5 @@ ga:
       title: Socruithe
     ugc:
       actions:
+        copy-name: 
         submit: 

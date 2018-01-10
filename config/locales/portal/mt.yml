@@ -438,4 +438,5 @@ mt:
       title: Settings
     ugc:
       actions:
+        copy-name: 
         submit: 

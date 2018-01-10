@@ -412,4 +412,5 @@ bs:
       title: 
     ugc:
       actions:
+        copy-name: 
         submit: 

@@ -425,4 +425,5 @@ pt:
       title: Definições
     ugc:
       actions:
+        copy-name: 
         submit: 

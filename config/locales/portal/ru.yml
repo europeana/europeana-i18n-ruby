@@ -425,4 +425,5 @@ ru:
       title: Настройки
     ugc:
       actions:
+        copy-name: 
         submit: 

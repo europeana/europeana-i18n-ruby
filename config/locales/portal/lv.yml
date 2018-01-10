@@ -430,4 +430,5 @@ lv:
       title: Iestatījumi
     ugc:
       actions:
+        copy-name: 
         submit: 

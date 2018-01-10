@@ -429,4 +429,5 @@ hr:
       title: Postavke
     ugc:
       actions:
+        copy-name: 
         submit: 

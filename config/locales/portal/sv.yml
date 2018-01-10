@@ -429,4 +429,5 @@ sv:
       title: Inställningar
     ugc:
       actions:
+        copy-name: 
         submit: 

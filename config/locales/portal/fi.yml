@@ -443,4 +443,5 @@ fi:
       title: Asetukset
     ugc:
       actions:
+        copy-name: 
         submit: 

@@ -429,4 +429,5 @@ en:
       title: Settings
     ugc:
       actions:
+        copy-name: Copy name
         submit: Submit

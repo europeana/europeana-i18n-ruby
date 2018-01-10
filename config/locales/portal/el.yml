@@ -425,4 +425,5 @@ el:
       title: προτιμήσεις
     ugc:
       actions:
+        copy-name: 
         submit: 

@@ -416,4 +416,5 @@ nl:
       title: Settings
     ugc:
       actions:
+        copy-name: 
         submit: 

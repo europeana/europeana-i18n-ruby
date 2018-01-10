@@ -425,4 +425,5 @@ hu:
       title: Beállítások
     ugc:
       actions:
+        copy-name: 
         submit: 
