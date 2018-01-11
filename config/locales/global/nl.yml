@@ -374,13 +374,15 @@ nl:
         expiry: tot %{date}
         open: Gratis Hergebruiken
         open-brief: 
+        open-info: 
         permission: Niet Hergebruiken
         permission-brief: 
+        permission-info: 
         restricted: 
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
         simple: 
-        with-attribution: 
       sound_duration:
         long: Lang (6+ min)
         medium: Medium (3-6 min)

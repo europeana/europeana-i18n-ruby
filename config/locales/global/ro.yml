@@ -374,13 +374,15 @@ ro:
         expiry: până la %{date}
         open: Da, cu atribuire
         open-brief: 
+        open-info: 
         permission: Doar cu permisiune
         permission-brief: 
+        permission-info: 
         restricted: Da, cu restricții
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Fără drepturi de autor - alte restricții legale cunoscute
         simple: Simplu
-        with-attribution: 
       sound_duration:
         long: Lungă (6+ min)
         medium: Medie (3-6 min)

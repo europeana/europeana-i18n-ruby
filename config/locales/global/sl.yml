@@ -374,13 +374,15 @@ sl:
         expiry: do %{date}
         open: Brezplačna ponovna uporaba
         open-brief: 
+        open-info: 
         permission: Ponovna uporaba ni mogoča
         permission-brief: 
+        permission-info: 
         restricted: Omejena ponovna uporaba
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Brez avtorskih pravic - Druge znane pravne omejitve
         simple: Enostavno
-        with-attribution: 
       sound_duration:
         long: Dolgo (6+ minut)
         medium: Srednje (3-6 minut)

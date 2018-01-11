@@ -374,13 +374,15 @@ sk:
         expiry: do %{date}
         open: Neobmedzené opakované používanie
         open-brief: 
+        open-info: 
         permission: Žiadne opakované používanie
         permission-brief: 
+        permission-info: 
         restricted: Obmedzené opakované používanie
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
         simple: Jednoduchý
-        with-attribution: 
       sound_duration:
         long: Dlho (>6 minút)
         medium: Stredne dlho (3 - 6 minút)

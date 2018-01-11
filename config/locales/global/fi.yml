@@ -374,13 +374,15 @@ fi:
         expiry: "%{date} saakka"
         open: Sallittu, kun lähde mainitaan
         open-brief: 
+        open-info: 
         permission: Vain luvanvaraisesti
         permission-brief: 
+        permission-info: 
         restricted: Kyllä, rajoituksin
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
         simple: Yksinkertainen
-        with-attribution: 
       sound_duration:
         long: Pitä (6+ minuuttia)
         medium: Keskipitkä (3-6 minuuttia)

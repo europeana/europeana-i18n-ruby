@@ -374,13 +374,15 @@ el:
         expiry: έως %{date}
         open: Ναι με απόδοση πνευματικών δικαιωμάτων
         open-brief: 
+        open-info: 
         permission: Μόνο με άδεια
         permission-brief: 
+        permission-info: 
         restricted: Ναι με περιορισμούς
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
         simple: Απλό
-        with-attribution: 
       sound_duration:
         long: Μεγάλη διάρκεια (6+ λεπτά)
         medium: Μεσαία διάρκεια (3-6 λεπτά)

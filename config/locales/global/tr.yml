@@ -374,13 +374,15 @@ tr:
         expiry: 
         open: 
         open-brief: 
+        open-info: 
         permission: 
         permission-brief: 
+        permission-info: 
         restricted: 
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: 
         simple: 
-        with-attribution: 
       sound_duration:
         long: 
         medium: 

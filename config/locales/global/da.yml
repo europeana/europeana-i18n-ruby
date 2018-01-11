@@ -374,13 +374,15 @@ da:
         expiry: indtil d. %{date}
         open: Må bruges igen gratis
         open-brief: 
+        open-info: 
         permission: Kun med tilladdelse
         permission-brief: 
+        permission-info: 
         restricted: Ja med restriktioner
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
         simple: Simpel
-        with-attribution: 
       sound_duration:
         long: Lang (6+ minutter)
         medium: Medium (3-6 minutter)

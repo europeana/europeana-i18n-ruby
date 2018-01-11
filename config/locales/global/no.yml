@@ -374,13 +374,15 @@
         expiry: Til %{date}
         open: Ja ved navngivelse
         open-brief: 
+        open-info: 
         permission: Bare med tillatelse
         permission-brief: 
+        permission-info: 
         restricted: Ja med restriksjoner
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
         simple: Enkel
-        with-attribution: 
       sound_duration:
         long: Lang (6+ minutter)
         medium: Medium (3-6 minutter)

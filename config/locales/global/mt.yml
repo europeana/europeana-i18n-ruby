@@ -376,13 +376,15 @@ mt:
         expiry: sa %{date}
         open: Iva bl-attribuzzjoni
         open-brief: 
+        open-info: 
         permission: Bil-permess biss
         permission-brief: 
+        permission-info: 
         restricted: Iva bir-restrizzjonijiet
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
         simple: Sempliċi
-        with-attribution: 
       sound_duration:
         long: Twil (6+ minuti)
         medium: Medju (3-6 minuti)

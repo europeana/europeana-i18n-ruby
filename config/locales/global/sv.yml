@@ -374,13 +374,15 @@ sv:
         expiry: till %{date}
         open: Ja, med attribuering
         open-brief: 
+        open-info: 
         permission: Enbart med tillstånd
         permission-brief: 
+        permission-info: 
         restricted: Ja, med vissa begränsingar
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
         simple: Enkel
-        with-attribution: 
       sound_duration:
         long: Lång (6+ minuter)
         medium: Medium (3-6 minuter)

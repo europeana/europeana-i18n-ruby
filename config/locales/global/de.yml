@@ -374,13 +374,15 @@ de:
         expiry: until %{date}
         open: Freie Nachnutzun
         open-brief: 
+        open-info: 
         permission: Nur mit Genehmigung
         permission-brief: 
+        permission-info: 
         restricted: Ja, mit Einschränkungen
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
         simple: Einfach
-        with-attribution: 
       sound_duration:
         long: Lang (6+ min)
         medium: Mittel (3-6 min)

@@ -374,13 +374,15 @@ pt:
         expiry: até %{date}
         open: Sim, com atribuição
         open-brief: 
+        open-info: 
         permission: Apenas com permissão
         permission-brief: 
+        permission-info: 
         restricted: Sim, com restrições
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Sem Direitos de Autor - Outras Restrições Legais Conhecidas
         simple: Simples
-        with-attribution: 
       sound_duration:
         long: Longa (6+ min)
         medium: Média (3-6 min)

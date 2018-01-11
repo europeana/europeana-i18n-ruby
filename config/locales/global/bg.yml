@@ -374,13 +374,15 @@ bg:
         expiry: до %{date}
         open: Да, с посочване на авторските права
         open-brief: 
+        open-info: 
         permission: Само с разрешение
         permission-brief: 
+        permission-info: 
         restricted: Да, с ограничения
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Без авторски права – други известни правни ограничения
         simple: Просто
-        with-attribution: 
       sound_duration:
         long: Дълъг (6+ мин)
         medium: Среден (3-6 мин)

@@ -374,13 +374,15 @@ ca:
         expiry: fins a %{date}
         open: Sí, amb atribució
         open-brief: 
+        open-info: 
         permission: Només amb permís
         permission-brief: 
+        permission-info: 
         restricted: Sí, amb restriccions
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Sense copyright - Altres restriccions legals conegudes
         simple: Simple
-        with-attribution: 
       sound_duration:
         long: Llarg (6+ minuts)
         medium: Mig (3-6 minuts)

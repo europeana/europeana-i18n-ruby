@@ -374,13 +374,15 @@ hr:
         expiry: do %{date}
         open: 
         open-brief: 
+        open-info: 
         permission: 
         permission-brief: 
+        permission-info: 
         restricted: 
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
         simple: Jednostavno
-        with-attribution: 
       sound_duration:
         long: Dugačko (6+ minuta)
         medium: Srednje (3-6 minuta)

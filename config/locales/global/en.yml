@@ -374,13 +374,15 @@ en:
         expiry: until %{date}
         open: Free Re-use
         open-brief: 'Yes'
+        open-info: with attribution
         permission: No Re-use
         permission-brief: 'No'
+        permission-info: learn why
         restricted: Limited Re-use
         restricted-brief: 'Yes'
+        restricted-info: limitations apply
         rs_noc_oklr: No Copyright - Other Known Legal Restrictions
         simple: Simple
-        with-attribution: with attribution
       sound_duration:
         long: Long (6+ minutes)
         medium: Medium (3-6 minutes)

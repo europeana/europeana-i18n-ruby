@@ -374,13 +374,15 @@ hu:
         expiry: "%{date}-ig"
         open: Igen, tulajdonos feltüntetésével
         open-brief: 
+        open-info: 
         permission: Csak engedéllyel
         permission-brief: 
+        permission-info: 
         restricted: Igen, korlátozásokkal
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
         simple: Egyszerű
-        with-attribution: 
       sound_duration:
         long: Hosszú (6+ perc)
         medium: Közepes (3-6 perc)

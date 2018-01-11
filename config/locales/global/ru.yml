@@ -374,13 +374,15 @@ ru:
         expiry: До %{date}
         open: Да с указанием правообладателя
         open-brief: 
+        open-info: 
         permission: Только с разрешения правообладателя
         permission-brief: 
+        permission-info: 
         restricted: Да с ограничениями
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Не является объектом авторского права - Другие известные юридические ограничения
         simple: ''
-        with-attribution: 
       sound_duration:
         long: Длинный (6+ минут)
         medium: Средний (3-6 минут)

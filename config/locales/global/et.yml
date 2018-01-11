@@ -374,13 +374,15 @@ et:
         expiry: Kuni %{date}
         open: Jah, omistamisega
         open-brief: 
+        open-info: 
         permission: Ainult loaga
         permission-brief: 
+        permission-info: 
         restricted: Jah, piirangutega
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
         simple: Lihtne
-        with-attribution: 
       sound_duration:
         long: Pikk (üle 6 minuti)
         medium: Keskmine (3-6 minutit)

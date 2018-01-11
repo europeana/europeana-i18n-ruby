@@ -376,13 +376,15 @@ ga:
 '
         open: Athúsáíd Saor in aisce
         open-brief: 
+        open-info: 
         permission: Cosc ar Athúsáíd
         permission-brief: 
+        permission-info: 
         restricted: Athúsáíd teoranta
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
         simple: Simplí
-        with-attribution: 
       sound_duration:
         long: Fada (6+ nóiméad)
         medium: Meán (3-6 nóiméad)

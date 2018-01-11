@@ -374,13 +374,15 @@ pl:
         expiry: do %{date}
         open: Tak, ale pamiętaj o podaniu źródła.
         open-brief: 
+        open-info: 
         permission: Nie - wymagana jest pisemna zgoda.
         permission-brief: 
+        permission-info: 
         restricted: Tak, ale z pewnymi ograniczeniami.
         restricted-brief: 
+        restricted-info: 
         rs_noc_oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
         simple: Proste
-        with-attribution: 
       sound_duration:
         long: Długi
         medium: Średnia (3-6 min)
