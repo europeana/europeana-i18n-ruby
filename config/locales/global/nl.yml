@@ -380,6 +380,7 @@ nl:
         restricted-brief: 
         rs_noc_oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
         simple: 
+        with-attribution: 
       sound_duration:
         long: Lang (6+ min)
         medium: Medium (3-6 min)

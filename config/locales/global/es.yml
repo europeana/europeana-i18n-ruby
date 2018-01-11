@@ -380,6 +380,7 @@ es:
         restricted-brief: 
         rs_noc_oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
         simple: Simple
+        with-attribution: 
       sound_duration:
         long: Largo (6+ min)
         medium: Medio (3-6 min)

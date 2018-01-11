@@ -380,6 +380,7 @@ pl:
         restricted-brief: 
         rs_noc_oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
         simple: Proste
+        with-attribution: 
       sound_duration:
         long: Długi
         medium: Średnia (3-6 min)

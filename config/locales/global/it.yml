@@ -380,6 +380,7 @@ it:
         restricted-brief: 
         rs_noc_oklr: No Copyright - Altre restrizioni legali note
         simple: Semplice
+        with-attribution: 
       sound_duration:
         long: Lungo (6+ minuti)
         medium: Medio (3-6 minuti)

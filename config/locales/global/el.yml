@@ -380,6 +380,7 @@ el:
         restricted-brief: 
         rs_noc_oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
         simple: Απλό
+        with-attribution: 
       sound_duration:
         long: Μεγάλη διάρκεια (6+ λεπτά)
         medium: Μεσαία διάρκεια (3-6 λεπτά)

@@ -380,6 +380,7 @@ sl:
         restricted-brief: 
         rs_noc_oklr: Brez avtorskih pravic - Druge znane pravne omejitve
         simple: Enostavno
+        with-attribution: 
       sound_duration:
         long: Dolgo (6+ minut)
         medium: Srednje (3-6 minut)

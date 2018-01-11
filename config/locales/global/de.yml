@@ -380,6 +380,7 @@ de:
         restricted-brief: 
         rs_noc_oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
         simple: Einfach
+        with-attribution: 
       sound_duration:
         long: Lang (6+ min)
         medium: Mittel (3-6 min)

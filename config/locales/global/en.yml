@@ -377,9 +377,10 @@ en:
         permission: No Re-use
         permission-brief: 'No'
         restricted: Limited Re-use
-        restricted-brief: Restricted
+        restricted-brief: 'Yes'
         rs_noc_oklr: No Copyright - Other Known Legal Restrictions
         simple: Simple
+        with-attribution: with attribution
       sound_duration:
         long: Long (6+ minutes)
         medium: Medium (3-6 minutes)

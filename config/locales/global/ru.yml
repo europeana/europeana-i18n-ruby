@@ -380,6 +380,7 @@ ru:
         restricted-brief: 
         rs_noc_oklr: Не является объектом авторского права - Другие известные юридические ограничения
         simple: ''
+        with-attribution: 
       sound_duration:
         long: Длинный (6+ минут)
         medium: Средний (3-6 минут)

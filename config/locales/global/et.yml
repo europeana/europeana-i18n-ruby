@@ -380,6 +380,7 @@ et:
         restricted-brief: 
         rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
         simple: Lihtne
+        with-attribution: 
       sound_duration:
         long: Pikk (üle 6 minuti)
         medium: Keskmine (3-6 minutit)

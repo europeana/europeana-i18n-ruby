@@ -380,6 +380,7 @@ fi:
         restricted-brief: 
         rs_noc_oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
         simple: Yksinkertainen
+        with-attribution: 
       sound_duration:
         long: Pitä (6+ minuuttia)
         medium: Keskipitkä (3-6 minuuttia)

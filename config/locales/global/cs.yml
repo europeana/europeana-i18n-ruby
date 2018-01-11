@@ -380,6 +380,7 @@ cs:
         restricted-brief: 
         rs_noc_oklr: Nechráněno autorskými právy – jiná známá právní omezení
         simple: Jednoduché
+        with-attribution: 
       sound_duration:
         long: Dlouhé (>6 min)
         medium: Středná (3-6 min)

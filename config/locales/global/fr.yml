@@ -380,6 +380,7 @@ fr:
         restricted-brief: 
         rs_noc_oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
         simple: Simple
+        with-attribution: 
       sound_duration:
         long: Longue (6+ min)
         medium: Moyenne (3-6 min)

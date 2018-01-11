@@ -380,6 +380,7 @@ ca:
         restricted-brief: 
         rs_noc_oklr: Sense copyright - Altres restriccions legals conegudes
         simple: Simple
+        with-attribution: 
       sound_duration:
         long: Llarg (6+ minuts)
         medium: Mig (3-6 minuts)

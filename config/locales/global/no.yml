@@ -380,6 +380,7 @@
         restricted-brief: 
         rs_noc_oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
         simple: Enkel
+        with-attribution: 
       sound_duration:
         long: Lang (6+ minutter)
         medium: Medium (3-6 minutter)

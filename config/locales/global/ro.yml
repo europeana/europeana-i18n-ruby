@@ -380,6 +380,7 @@ ro:
         restricted-brief: 
         rs_noc_oklr: Fără drepturi de autor - alte restricții legale cunoscute
         simple: Simplu
+        with-attribution: 
       sound_duration:
         long: Lungă (6+ min)
         medium: Medie (3-6 min)
