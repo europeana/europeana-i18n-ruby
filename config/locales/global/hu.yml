@@ -350,39 +350,43 @@ hu:
       resource:
         type: Típus
       reusability:
-        advanced: Összetett
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: CC0
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Minden jog nem értékelték
-        advanced-rs-inc: Szerzői jogvédelem alatt
-        advanced-rs-inc-edu: Szerzői jogvédelem alatt - Oktatási célú felhasználás megengedett
-        advanced-rs-inc-ow-eu: Szerzői jogvédelem alatt - EU árva művek
-        advanced-rs-noc-nc: Szerzői jogvédelem alatt nem áll - Kizárólag nem kereskedelmi célú felhasználás
-        advanced-rs-noc-oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Összetett
         expiry: "%{date}-ig"
-        open: Igen, tulajdonos feltüntetésével
-        open-brief: 
-        open-info: 
-        permission: Csak engedéllyel
-        permission-brief: 
-        permission-info: 
-        restricted: Igen, korlátozásokkal
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
+        open:
+          brief: 
+          info: 
+          label: Igen, tulajdonos feltüntetésével
+        permission:
+          brief: 
+          info: 
+          label: Csak engedéllyel
+        restricted:
+          brief: 
+          info: 
+          label: Igen, korlátozásokkal
         simple: Egyszerű
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: CC0
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Minden jog nem értékelték
+        rs-inc: Szerzői jogvédelem alatt
+        rs-inc-edu: Szerzői jogvédelem alatt - Oktatási célú felhasználás megengedett
+        rs-inc-ow-eu: Szerzői jogvédelem alatt - EU árva művek
+        rs-noc-nc: Szerzői jogvédelem alatt nem áll - Kizárólag nem kereskedelmi célú felhasználás
+        rs-noc-oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
+        rs_noc_oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
+        ucs: ''
       sound_duration:
         long: Hosszú (6+ perc)
         medium: Közepes (3-6 perc)

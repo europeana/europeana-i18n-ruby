@@ -350,39 +350,43 @@ fi:
       resource:
         type: Tyyppi
       reusability:
-        advanced: Laajennettu
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Orpoteos
-        advanced-out-of-copyright-non-commercial: Ei tekijänoikeuden suojaa - ei saa käyttää kaupallisesti
-        advanced-public: Public Domain
-        advanced-rrfa: Oikeudet pidätetään - Vapaasti katseltavissa
-        advanced-rrpa: Oikeudet pidätetään - Katselu maksullinen
-        advanced-rrra: Oikeudet pidätetään - Rajattu katseluoikeus
-        advanced-rs-cne: Copyright Ei arvioitu
-        advanced-rs-inc: Tekijänoikeuslain alainen
-        advanced-rs-inc-edu: Tekijänoikeuslain alainen – opetuskäyttö
-        advanced-rs-inc-ow-eu: Tekijänoikeuslain alainen – EU:n orpoteosdirektiivi
-        advanced-rs-noc-nc: Ei tekijänoikeutta – vain ei-kaupallinen käyttö sallittu
-        advanced-rs-noc-oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
-        advanced-ucs: Tuntematon tekijänoikeudellinen status
+        advanced-MARKEDFORDELETION: Laajennettu
         expiry: "%{date} saakka"
-        open: Sallittu, kun lähde mainitaan
-        open-brief: 
-        open-info: 
-        permission: Vain luvanvaraisesti
-        permission-brief: 
-        permission-info: 
-        restricted: Kyllä, rajoituksin
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
+        open:
+          brief: 
+          info: 
+          label: Sallittu, kun lähde mainitaan
+        permission:
+          brief: 
+          info: 
+          label: Vain luvanvaraisesti
+        restricted:
+          brief: 
+          info: 
+          label: Kyllä, rajoituksin
         simple: Yksinkertainen
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Orpoteos
+        out-of-copyright-non-commercial: Ei tekijänoikeuden suojaa - ei saa käyttää kaupallisesti
+        public: Public Domain
+        rrfa: Oikeudet pidätetään - Vapaasti katseltavissa
+        rrpa: Oikeudet pidätetään - Katselu maksullinen
+        rrra: Oikeudet pidätetään - Rajattu katseluoikeus
+        rs-cne: Copyright Ei arvioitu
+        rs-inc: Tekijänoikeuslain alainen
+        rs-inc-edu: Tekijänoikeuslain alainen – opetuskäyttö
+        rs-inc-ow-eu: Tekijänoikeuslain alainen – EU:n orpoteosdirektiivi
+        rs-noc-nc: Ei tekijänoikeutta – vain ei-kaupallinen käyttö sallittu
+        rs-noc-oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
+        rs_noc_oklr: Ei tekijänoikeutta – muita oikeudellisia rajoituksia tiedossa
+        ucs: Tuntematon tekijänoikeudellinen status
       sound_duration:
         long: Pitä (6+ minuuttia)
         medium: Keskipitkä (3-6 minuuttia)

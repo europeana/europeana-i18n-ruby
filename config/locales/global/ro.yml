@@ -350,39 +350,43 @@ ro:
       resource:
         type: Tip
       reusability:
-        advanced: Avansat
-        advanced-cc-by: ''
-        advanced-cc-by-nc: ''
-        advanced-cc-by-nc-nd: ''
-        advanced-cc-by-nc-sa: ''
-        advanced-cc-by-nd: ''
-        advanced-cc-by-sa: ''
-        advanced-cc0: ''
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Copyright-ul Evaluate
-        advanced-rs-inc: Cu drepturi de autor
-        advanced-rs-inc-edu: Cu drepturi de autor - utilizare permisă în scopuri educative
-        advanced-rs-inc-ow-eu: Cu drepturi de autor - opere „orfane” UE
-        advanced-rs-noc-nc: Fără drepturi de autor - utilizare numai în scopuri necomerciale
-        advanced-rs-noc-oklr: Fără drepturi de autor - alte restricții legale cunoscute
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Avansat
         expiry: până la %{date}
-        open: Da, cu atribuire
-        open-brief: 
-        open-info: 
-        permission: Doar cu permisiune
-        permission-brief: 
-        permission-info: 
-        restricted: Da, cu restricții
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Fără drepturi de autor - alte restricții legale cunoscute
+        open:
+          brief: 
+          info: 
+          label: Da, cu atribuire
+        permission:
+          brief: 
+          info: 
+          label: Doar cu permisiune
+        restricted:
+          brief: 
+          info: 
+          label: Da, cu restricții
         simple: Simplu
+      rights:
+        cc-by: ''
+        cc-by-nc: ''
+        cc-by-nc-nd: ''
+        cc-by-nc-sa: ''
+        cc-by-nd: ''
+        cc-by-sa: ''
+        cc0: ''
+        orphan-work: ''
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Copyright-ul Evaluate
+        rs-inc: Cu drepturi de autor
+        rs-inc-edu: Cu drepturi de autor - utilizare permisă în scopuri educative
+        rs-inc-ow-eu: Cu drepturi de autor - opere „orfane” UE
+        rs-noc-nc: Fără drepturi de autor - utilizare numai în scopuri necomerciale
+        rs-noc-oklr: Fără drepturi de autor - alte restricții legale cunoscute
+        rs_noc_oklr: Fără drepturi de autor - alte restricții legale cunoscute
+        ucs: ''
       sound_duration:
         long: Lungă (6+ min)
         medium: Medie (3-6 min)

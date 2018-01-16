@@ -350,39 +350,43 @@ sk:
       resource:
         type: Typ
       reusability:
-        advanced: Pokročilý
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Osirelé dielo
-        advanced-out-of-copyright-non-commercial: 'Bez ochrany autorským právom - nekomerčné neobmedzené používanie '
-        advanced-public: Označené ako voľne šíriteľné dielo
-        advanced-rrfa: Práva vyhradené - voľný prístup
-        advanced-rrpa: Práva vyhradené - platený prístup
-        advanced-rrra: Práva vyhradené - obmedzený prístup
-        advanced-rs-cne: Nevyhodnotené autorské práva
-        advanced-rs-inc: Chránené autorskými právami
-        advanced-rs-inc-edu: Chránené autorskými právami - povolené použitie na účely vzdelávania
-        advanced-rs-inc-ow-eu: Chránené autorskými právami - EU osirotené dielo
-        advanced-rs-noc-nc: Nechránené autorskými právami - iba na nekomerčné použitie
-        advanced-rs-noc-oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
-        advanced-ucs: Neznámy status autorskoprávnej ochrany diela
+        advanced-MARKEDFORDELETION: Pokročilý
         expiry: do %{date}
-        open: Neobmedzené opakované používanie
-        open-brief: 
-        open-info: 
-        permission: Žiadne opakované používanie
-        permission-brief: 
-        permission-info: 
-        restricted: Obmedzené opakované používanie
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
+        open:
+          brief: 
+          info: 
+          label: Neobmedzené opakované používanie
+        permission:
+          brief: 
+          info: 
+          label: Žiadne opakované používanie
+        restricted:
+          brief: 
+          info: 
+          label: Obmedzené opakované používanie
         simple: Jednoduchý
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Osirelé dielo
+        out-of-copyright-non-commercial: 'Bez ochrany autorským právom - nekomerčné neobmedzené používanie '
+        public: Označené ako voľne šíriteľné dielo
+        rrfa: Práva vyhradené - voľný prístup
+        rrpa: Práva vyhradené - platený prístup
+        rrra: Práva vyhradené - obmedzený prístup
+        rs-cne: Nevyhodnotené autorské práva
+        rs-inc: Chránené autorskými právami
+        rs-inc-edu: Chránené autorskými právami - povolené použitie na účely vzdelávania
+        rs-inc-ow-eu: Chránené autorskými právami - EU osirotené dielo
+        rs-noc-nc: Nechránené autorskými právami - iba na nekomerčné použitie
+        rs-noc-oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
+        rs_noc_oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
+        ucs: Neznámy status autorskoprávnej ochrany diela
       sound_duration:
         long: Dlho (>6 minút)
         medium: Stredne dlho (3 - 6 minút)

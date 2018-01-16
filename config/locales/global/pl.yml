@@ -350,39 +350,43 @@ pl:
       resource:
         type: Typ
       reusability:
-        advanced: Zaawansowane
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Prawa autorskie nie analizowany
-        advanced-rs-inc: Chronione prawem autorskim
-        advanced-rs-inc-edu: Chronione prawem autorskim - dozwolony użytek edukacyjny
-        advanced-rs-inc-ow-eu: Chronione prawem autorskim - dzieło osierocone
-        advanced-rs-noc-nc: Niechronione prawem autorskim - dozwolony użytek niekomercyjny
-        advanced-rs-noc-oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Zaawansowane
         expiry: do %{date}
-        open: Tak, ale pamiętaj o podaniu źródła.
-        open-brief: 
-        open-info: 
-        permission: Nie - wymagana jest pisemna zgoda.
-        permission-brief: 
-        permission-info: 
-        restricted: Tak, ale z pewnymi ograniczeniami.
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
+        open:
+          brief: 
+          info: 
+          label: Tak, ale pamiętaj o podaniu źródła.
+        permission:
+          brief: 
+          info: 
+          label: Nie - wymagana jest pisemna zgoda.
+        restricted:
+          brief: 
+          info: 
+          label: Tak, ale z pewnymi ograniczeniami.
         simple: Proste
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Prawa autorskie nie analizowany
+        rs-inc: Chronione prawem autorskim
+        rs-inc-edu: Chronione prawem autorskim - dozwolony użytek edukacyjny
+        rs-inc-ow-eu: Chronione prawem autorskim - dzieło osierocone
+        rs-noc-nc: Niechronione prawem autorskim - dozwolony użytek niekomercyjny
+        rs-noc-oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
+        rs_noc_oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
+        ucs: ''
       sound_duration:
         long: Długi
         medium: Średnia (3-6 min)

@@ -350,39 +350,43 @@ de:
       resource:
         type: Art
       reusability:
-        advanced: Erweitert
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: ''
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Copyright nicht ausgewertet
-        advanced-rs-inc: Unterliegt Urheberrecht
-        advanced-rs-inc-edu: Unterliegt Urheberrecht - Für Bildungszwecke erlaubt
-        advanced-rs-inc-ow-eu: Unterliegt Urheberrecht - EU Verwaiste Werke
-        advanced-rs-noc-nc: Kein Urheberrecht - Ausschließlich nichtkommerzielle Verwendung
-        advanced-rs-noc-oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Erweitert
         expiry: until %{date}
-        open: Freie Nachnutzung
-        open-brief: 
-        open-info: 
-        permission: Nur mit Genehmigung
-        permission-brief: 
-        permission-info: 
-        restricted: Ja, mit Einschränkungen
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
+        open:
+          brief: 
+          info: 
+          label: Freie Nachnutzung
+        permission:
+          brief: 
+          info: 
+          label: Nur mit Genehmigung
+        restricted:
+          brief: 
+          info: 
+          label: Ja, mit Einschränkungen
         simple: Einfach
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: ''
+        orphan-work: ''
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Copyright nicht ausgewertet
+        rs-inc: Unterliegt Urheberrecht
+        rs-inc-edu: Unterliegt Urheberrecht - Für Bildungszwecke erlaubt
+        rs-inc-ow-eu: Unterliegt Urheberrecht - EU Verwaiste Werke
+        rs-noc-nc: Kein Urheberrecht - Ausschließlich nichtkommerzielle Verwendung
+        rs-noc-oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
+        rs_noc_oklr: Kein Urheberrecht - Andere bekannte rechtliche Einschränkungen
+        ucs: ''
       sound_duration:
         long: Lang (6+ min)
         medium: Mittel (3-6 min)

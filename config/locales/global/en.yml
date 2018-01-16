@@ -350,39 +350,43 @@ en:
       resource:
         type: Type
       reusability:
-        advanced: Advanced
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Orphan Work
-        advanced-out-of-copyright-non-commercial: 'Out of copyright - non commercial re-use '
-        advanced-public: Public Domain Marked
-        advanced-rrfa: Rights reserved - Free access
-        advanced-rrpa: Rights reserved - Paid access
-        advanced-rrra: Rights Reserved - Restricted Access
-        advanced-rs-cne: Copyright Not Evaluated
-        advanced-rs-inc: In Copyright
-        advanced-rs-inc-edu: In Copyright - Educational Use Permitted
-        advanced-rs-inc-ow-eu: In Copyright - EU Orphan Work
-        advanced-rs-noc-nc: No Copyright - Non-Commercial Use Only
-        advanced-rs-noc-oklr: No Copyright - Other Known Legal Restrictions
-        advanced-ucs: Unknown copyright status
+        advanced-MARKEDFORDELETION: Advanced
         expiry: until %{date}
-        open: Free Re-use
-        open-brief: 'Yes'
-        open-info: with attribution
-        permission: No Re-use
-        permission-brief: 'No'
-        permission-info: learn why
-        restricted: Limited Re-use
-        restricted-brief: 'Yes'
-        restricted-info: limitations apply
-        rs_noc_oklr: No Copyright - Other Known Legal Restrictions
+        open:
+          brief: 'Yes'
+          info: with attribution
+          label: Free Re-use
+        permission:
+          brief: 'No'
+          info: learn why
+          label: No Re-use
+        restricted:
+          brief: 'Yes'
+          info: limitations apply
+          label: Limited Re-use
         simple: Simple
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Orphan Work
+        out-of-copyright-non-commercial: 'Out of copyright - non commercial re-use '
+        public: Public Domain Marked
+        rrfa: Rights reserved - Free access
+        rrpa: Rights reserved - Paid access
+        rrra: Rights Reserved - Restricted Access
+        rs-cne: Copyright Not Evaluated
+        rs-inc: In Copyright
+        rs-inc-edu: In Copyright - Educational Use Permitted
+        rs-inc-ow-eu: In Copyright - EU Orphan Work
+        rs-noc-nc: No Copyright - Non-Commercial Use Only
+        rs-noc-oklr: No Copyright - Other Known Legal Restrictions
+        rs_noc_oklr: No Copyright - Other Known Legal Restrictions
+        ucs: Unknown copyright status
       sound_duration:
         long: Long (6+ minutes)
         medium: Medium (3-6 minutes)

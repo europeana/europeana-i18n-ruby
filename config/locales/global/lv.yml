@@ -350,39 +350,43 @@ lv:
       resource:
         type: Tips
       reusability:
-        advanced: Paplašinātā
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright Nav vērtēts
-        advanced-rs-inc: Ar autortiesībām
-        advanced-rs-inc-edu: Ar autortiesībām - atļauts izmantot izglītojošos nolūkos
-        advanced-rs-inc-ow-eu: Ar autortiesībām - ES nenosakāmu autortiesību darbs
-        advanced-rs-noc-nc: Bez autortiesībām - izmantošanai tikai nekomerciālos nolūkos
-        advanced-rs-noc-oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Paplašinātā
         expiry: līdz %{date}
-        open: Jā, ar atsauci
-        open-brief: 
-        open-info: 
-        permission: Tikai ar atļauju
-        permission-brief: 
-        permission-info: 
-        restricted: Jā, ar ierobežojumiem
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
+        open:
+          brief: 
+          info: 
+          label: Jā, ar atsauci
+        permission:
+          brief: 
+          info: 
+          label: Tikai ar atļauju
+        restricted:
+          brief: 
+          info: 
+          label: Jā, ar ierobežojumiem
         simple: Vienkāršā
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright Nav vērtēts
+        rs-inc: Ar autortiesībām
+        rs-inc-edu: Ar autortiesībām - atļauts izmantot izglītojošos nolūkos
+        rs-inc-ow-eu: Ar autortiesībām - ES nenosakāmu autortiesību darbs
+        rs-noc-nc: Bez autortiesībām - izmantošanai tikai nekomerciālos nolūkos
+        rs-noc-oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
+        rs_noc_oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
+        ucs: 
       sound_duration:
         long: Garš (6+ minūtes)
         medium: Vidējs (3-6 minūtes)

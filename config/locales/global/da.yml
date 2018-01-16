@@ -350,39 +350,43 @@ da:
       resource:
         type: Type
       reusability:
-        advanced: Udvidet
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Ukendt ophavsmand
-        advanced-out-of-copyright-non-commercial: Ingen ophavsret - ingen kommerciel brug
-        advanced-public: Public Domain Marked
-        advanced-rrfa: Rettigheder reserveret - Gratis benyttelse
-        advanced-rrpa: Rettigheder reserveret - Mod betaling
-        advanced-rrra: Rettigheder reserveret - Begranset adgang
-        advanced-rs-cne: Copyright ikke vurderet
-        advanced-rs-inc: Beskyttet af ophavsret
-        advanced-rs-inc-edu: Beskyttet af ophavsret – Må anvendes til undervisningsbrug
-        advanced-rs-inc-ow-eu: Beskyttet af ophavsret – EU forældreløst værk
-        advanced-rs-noc-nc: Uden ophavsret – Kun ikke-kommerciel brug
-        advanced-rs-noc-oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
-        advanced-ucs: Ubekendt ophavsrettigheder
+        advanced-MARKEDFORDELETION: Udvidet
         expiry: indtil d. %{date}
-        open: Må bruges igen gratis
-        open-brief: 
-        open-info: 
-        permission: Kun med tilladdelse
-        permission-brief: 
-        permission-info: 
-        restricted: Ja med restriktioner
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
+        open:
+          brief: 
+          info: 
+          label: Må bruges igen gratis
+        permission:
+          brief: 
+          info: 
+          label: Kun med tilladdelse
+        restricted:
+          brief: 
+          info: 
+          label: Ja med restriktioner
         simple: Simpel
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Ukendt ophavsmand
+        out-of-copyright-non-commercial: Ingen ophavsret - ingen kommerciel brug
+        public: Public Domain Marked
+        rrfa: Rettigheder reserveret - Gratis benyttelse
+        rrpa: Rettigheder reserveret - Mod betaling
+        rrra: Rettigheder reserveret - Begranset adgang
+        rs-cne: Copyright ikke vurderet
+        rs-inc: Beskyttet af ophavsret
+        rs-inc-edu: Beskyttet af ophavsret – Må anvendes til undervisningsbrug
+        rs-inc-ow-eu: Beskyttet af ophavsret – EU forældreløst værk
+        rs-noc-nc: Uden ophavsret – Kun ikke-kommerciel brug
+        rs-noc-oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
+        rs_noc_oklr: Uden ophavsret – Andre kendte juridiske begrænsninger
+        ucs: Ubekendt ophavsrettigheder
       sound_duration:
         long: Lang (6+ minutter)
         medium: Medium (3-6 minutter)

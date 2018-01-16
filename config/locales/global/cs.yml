@@ -350,39 +350,43 @@ cs:
       resource:
         type: Typ
       reusability:
-        advanced: Rozšířené
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Autorská práva nevyhodnocena
-        advanced-rs-inc: Chráněno autorskými právy
-        advanced-rs-inc-edu: Chráněno autorskými právy – povolené použití pro vzdělávací účely
-        advanced-rs-inc-ow-eu: Chráněno autorskými právy – osiřelé dílo v EU
-        advanced-rs-noc-nc: Chráněno autorskými právy – pouze nekomerční použití
-        advanced-rs-noc-oklr: Nechráněno autorskými právy – jiná známá právní omezení
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Rozšířené
         expiry: do %{date}
-        open: Volné další použití
-        open-brief: 
-        open-info: 
-        permission: Bez dalšího použití
-        permission-brief: 
-        permission-info: 
-        restricted: Omezené další použití
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Nechráněno autorskými právy – jiná známá právní omezení
+        open:
+          brief: 
+          info: 
+          label: Volné další použití
+        permission:
+          brief: 
+          info: 
+          label: Bez dalšího použití
+        restricted:
+          brief: 
+          info: 
+          label: Omezené další použití
         simple: Jednoduché
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Autorská práva nevyhodnocena
+        rs-inc: Chráněno autorskými právy
+        rs-inc-edu: Chráněno autorskými právy – povolené použití pro vzdělávací účely
+        rs-inc-ow-eu: Chráněno autorskými právy – osiřelé dílo v EU
+        rs-noc-nc: Chráněno autorskými právy – pouze nekomerční použití
+        rs-noc-oklr: Nechráněno autorskými právy – jiná známá právní omezení
+        rs_noc_oklr: Nechráněno autorskými právy – jiná známá právní omezení
+        ucs: 
       sound_duration:
         long: Dlouhé (>6 min)
         medium: Středná (3-6 min)

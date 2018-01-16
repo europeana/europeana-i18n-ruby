@@ -350,41 +350,45 @@ ga:
       resource:
         type: Cineál
       reusability:
-        advanced: Forbartha
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: Dílleachtach
-        advanced-out-of-copyright-non-commercial: As-feidhm - ath-úsáid neamhthráchtála
-        advanced-public: Fearann Poiblí Marcáilte
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Cóipcheart Neamh-mheasúnaithe
-        advanced-rs-inc: Cóipcheart i bhfeidhm
-        advanced-rs-inc-edu: Cóipcheart i bhfeidhm - Ceadaithe don Earnáil Oideachais
-        advanced-rs-inc-ow-eu: Cóipcheart i bhfeidhm - AE Dílleachtach
-        advanced-rs-noc-nc: Gan Cóipcheart - Úsáíd Neamhthráchtála amháin
-        advanced-rs-noc-oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
-        advanced-ucs: Stádas cóipchirt nach bhfuil ar eolas
+        advanced-MARKEDFORDELETION: Forbartha
         expiry: 'go dtí %{date}
 
 '
-        open: Athúsáíd Saor in aisce
-        open-brief: 
-        open-info: 
-        permission: Cosc ar Athúsáíd
-        permission-brief: 
-        permission-info: 
-        restricted: Athúsáíd teoranta
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
+        open:
+          brief: 
+          info: 
+          label: Athúsáíd Saor in aisce
+        permission:
+          brief: 
+          info: 
+          label: Cosc ar Athúsáíd
+        restricted:
+          brief: 
+          info: 
+          label: Athúsáíd teoranta
         simple: Simplí
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: Dílleachtach
+        out-of-copyright-non-commercial: As-feidhm - ath-úsáid neamhthráchtála
+        public: Fearann Poiblí Marcáilte
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Cóipcheart Neamh-mheasúnaithe
+        rs-inc: Cóipcheart i bhfeidhm
+        rs-inc-edu: Cóipcheart i bhfeidhm - Ceadaithe don Earnáil Oideachais
+        rs-inc-ow-eu: Cóipcheart i bhfeidhm - AE Dílleachtach
+        rs-noc-nc: Gan Cóipcheart - Úsáíd Neamhthráchtála amháin
+        rs-noc-oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
+        rs_noc_oklr: Gan Cóipcheart - Srianta Dleathacha eile atá ar eolas
+        ucs: Stádas cóipchirt nach bhfuil ar eolas
       sound_duration:
         long: Fada (6+ nóiméad)
         medium: Meán (3-6 nóiméad)

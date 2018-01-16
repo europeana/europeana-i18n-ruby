@@ -350,39 +350,43 @@ it:
       resource:
         type: Tipo
       reusability:
-        advanced: Avanzato
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright Non Valutata
-        advanced-rs-inc: In Copyright
-        advanced-rs-inc-edu: In Copyright - Uso consentito per fini educativi
-        advanced-rs-inc-ow-eu: In Copyright - Opera orfana EU
-        advanced-rs-noc-nc: No Copyright - Solo per uso non commerciale
-        advanced-rs-noc-oklr: No Copyright - Altre restrizioni legali note
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Avanzato
         expiry: fino a %{date}
-        open: Ri-utilizzo gratuito
-        open-brief: 
-        open-info: 
-        permission: Nessun ri-utilizzo
-        permission-brief: 
-        permission-info: 
-        restricted: Ri-utilizzo limitato
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: No Copyright - Altre restrizioni legali note
+        open:
+          brief: 
+          info: 
+          label: Ri-utilizzo gratuito
+        permission:
+          brief: 
+          info: 
+          label: Nessun ri-utilizzo
+        restricted:
+          brief: 
+          info: 
+          label: Ri-utilizzo limitato
         simple: Semplice
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright Non Valutata
+        rs-inc: In Copyright
+        rs-inc-edu: In Copyright - Uso consentito per fini educativi
+        rs-inc-ow-eu: In Copyright - Opera orfana EU
+        rs-noc-nc: No Copyright - Solo per uso non commerciale
+        rs-noc-oklr: No Copyright - Altre restrizioni legali note
+        rs_noc_oklr: No Copyright - Altre restrizioni legali note
+        ucs: 
       sound_duration:
         long: Lungo (6+ minuti)
         medium: Medio (3-6 minuti)

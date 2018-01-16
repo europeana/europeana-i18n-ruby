@@ -350,39 +350,43 @@ el:
       resource:
         type: Τύπος
       reusability:
-        advanced: Για προχωρημένους
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Copyright Δεν αξιολογηθεί
-        advanced-rs-inc: Με πνευματικά δικαιώματα
-        advanced-rs-inc-edu: 'Με πνευματικά δικαιώματα - Επιτρέπεται η χρήση για εκπαιδευτικούς σκοπούς '
-        advanced-rs-inc-ow-eu: Με ππνευματικά δικαιώματα - Έργο Ε.Ε. που δεν έχει αποδοθεί σε κάποιον δημιουργό
-        advanced-rs-noc-nc: Χωρίς πνευματικά δικαιώματα - Μόνο για μη εμπορική χρήση
-        advanced-rs-noc-oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Για προχωρημένους
         expiry: έως %{date}
-        open: Ναι με απόδοση πνευματικών δικαιωμάτων
-        open-brief: 
-        open-info: 
-        permission: Μόνο με άδεια
-        permission-brief: 
-        permission-info: 
-        restricted: Ναι με περιορισμούς
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
+        open:
+          brief: 
+          info: 
+          label: Ναι με απόδοση πνευματικών δικαιωμάτων
+        permission:
+          brief: 
+          info: 
+          label: Μόνο με άδεια
+        restricted:
+          brief: 
+          info: 
+          label: Ναι με περιορισμούς
         simple: Απλό
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Copyright Δεν αξιολογηθεί
+        rs-inc: Με πνευματικά δικαιώματα
+        rs-inc-edu: 'Με πνευματικά δικαιώματα - Επιτρέπεται η χρήση για εκπαιδευτικούς σκοπούς '
+        rs-inc-ow-eu: Με ππνευματικά δικαιώματα - Έργο Ε.Ε. που δεν έχει αποδοθεί σε κάποιον δημιουργό
+        rs-noc-nc: Χωρίς πνευματικά δικαιώματα - Μόνο για μη εμπορική χρήση
+        rs-noc-oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
+        rs_noc_oklr: Χωρίς πνευματικά δικαιώματα - 'Αλλοι γνωστοί νομικοί περιορισμοί
+        ucs: ''
       sound_duration:
         long: Μεγάλη διάρκεια (6+ λεπτά)
         medium: Μεσαία διάρκεια (3-6 λεπτά)

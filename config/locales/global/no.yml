@@ -350,39 +350,43 @@
       resource:
         type: Type
       reusability:
-        advanced: Avansert
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Hitteverk
-        advanced-out-of-copyright-non-commercial: Utgått opphavsrett - ikke-kommersiell gjenbruk
-        advanced-public: Verk falt i det fri
-        advanced-rrfa: Rettigheter reservert - fri tilgang
-        advanced-rrpa: Rettigheter reservert - betalt tilgang
-        advanced-rrra: Rettigheter reservert - begrenset tilgang
-        advanced-rs-cne: Copyright Ikke Evaluert
-        advanced-rs-inc: Under opphavsrett
-        advanced-rs-inc-edu: Under opphavsrett - Opplæringsbruk tillatt
-        advanced-rs-inc-ow-eu: Under opphavsrett - EU hitteverk
-        advanced-rs-noc-nc: Ingen opphavsrett - Kun ikke-kommersiell bruk
-        advanced-rs-noc-oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
-        advanced-ucs: Ukjent opphavsrettslig status
+        advanced-MARKEDFORDELETION: Avansert
         expiry: Til %{date}
-        open: Ja ved navngivelse
-        open-brief: 
-        open-info: 
-        permission: Bare med tillatelse
-        permission-brief: 
-        permission-info: 
-        restricted: Ja med restriksjoner
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
+        open:
+          brief: 
+          info: 
+          label: Ja ved navngivelse
+        permission:
+          brief: 
+          info: 
+          label: Bare med tillatelse
+        restricted:
+          brief: 
+          info: 
+          label: Ja med restriksjoner
         simple: Enkel
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Hitteverk
+        out-of-copyright-non-commercial: Utgått opphavsrett - ikke-kommersiell gjenbruk
+        public: Verk falt i det fri
+        rrfa: Rettigheter reservert - fri tilgang
+        rrpa: Rettigheter reservert - betalt tilgang
+        rrra: Rettigheter reservert - begrenset tilgang
+        rs-cne: Copyright Ikke Evaluert
+        rs-inc: Under opphavsrett
+        rs-inc-edu: Under opphavsrett - Opplæringsbruk tillatt
+        rs-inc-ow-eu: Under opphavsrett - EU hitteverk
+        rs-noc-nc: Ingen opphavsrett - Kun ikke-kommersiell bruk
+        rs-noc-oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
+        rs_noc_oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
+        ucs: Ukjent opphavsrettslig status
       sound_duration:
         long: Lang (6+ minutter)
         medium: Medium (3-6 minutter)

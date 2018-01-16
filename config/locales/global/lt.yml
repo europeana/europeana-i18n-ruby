@@ -350,39 +350,43 @@ lt:
       resource:
         type: Tipas
       reusability:
-        advanced: Papildomas
-        advanced-cc-by: CC BY licenzija
-        advanced-cc-by-nc: CC BY-NC licenzija
-        advanced-cc-by-nc-nd: CC BY-NC-ND licenzija
-        advanced-cc-by-nc-sa: CC BY-NC-SA licenzija
-        advanced-cc-by-nd: CC BY-ND licenzija
-        advanced-cc-by-sa: CC BY-SA licenzija
-        advanced-cc0: CC0 licenzija
-        advanced-orphan-work: Kūrinio autorius nenustatytas
-        advanced-out-of-copyright-non-commercial: Nekomerciniam pakartotiniam naudojimui autorinės teisės netaikomos
-        advanced-public: Viešo naudojimo
-        advanced-rrfa: Teisės saugomis - laisva prieiga
-        advanced-rrpa: Teisės saugomos - mokama prieiga
-        advanced-rrra: Teisės saugomos - ribota prieiga
-        advanced-rs-cne: Autorinės teisės neįvertino
-        advanced-rs-inc: Saugoma autoriaus teisių
-        advanced-rs-inc-edu: Saugoma autoriaus teisių – leidžiama švietimo tikslams
-        advanced-rs-inc-ow-eu: Saugoma autoriaus teisių – ES nenustatytos autorių teisės kūriniai
-        advanced-rs-noc-nc: Nesaugoma autoriaus teisių – tik nekomerciniam naudojimui
-        advanced-rs-noc-oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
-        advanced-ucs: Autorinių teisių statusas nežinomas
+        advanced-MARKEDFORDELETION: Papildomas
         expiry: iki %{date}
-        open: Taip, su atribucija
-        open-brief: 
-        open-info: 
-        permission: Tik su leidimu
-        permission-brief: 
-        permission-info: 
-        restricted: Taip, su apribojimais
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
+        open:
+          brief: 
+          info: 
+          label: Taip, su atribucija
+        permission:
+          brief: 
+          info: 
+          label: Tik su leidimu
+        restricted:
+          brief: 
+          info: 
+          label: Taip, su apribojimais
         simple: Paprastas
+      rights:
+        cc-by: CC BY licenzija
+        cc-by-nc: CC BY-NC licenzija
+        cc-by-nc-nd: CC BY-NC-ND licenzija
+        cc-by-nc-sa: CC BY-NC-SA licenzija
+        cc-by-nd: CC BY-ND licenzija
+        cc-by-sa: CC BY-SA licenzija
+        cc0: CC0 licenzija
+        orphan-work: Kūrinio autorius nenustatytas
+        out-of-copyright-non-commercial: Nekomerciniam pakartotiniam naudojimui autorinės teisės netaikomos
+        public: Viešo naudojimo
+        rrfa: Teisės saugomis - laisva prieiga
+        rrpa: Teisės saugomos - mokama prieiga
+        rrra: Teisės saugomos - ribota prieiga
+        rs-cne: Autorinės teisės neįvertino
+        rs-inc: Saugoma autoriaus teisių
+        rs-inc-edu: Saugoma autoriaus teisių – leidžiama švietimo tikslams
+        rs-inc-ow-eu: Saugoma autoriaus teisių – ES nenustatytos autorių teisės kūriniai
+        rs-noc-nc: Nesaugoma autoriaus teisių – tik nekomerciniam naudojimui
+        rs-noc-oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
+        rs_noc_oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
+        ucs: Autorinių teisių statusas nežinomas
       sound_duration:
         long: Ilgas (6+ min)
         medium: Vidutinis (3-6 min)

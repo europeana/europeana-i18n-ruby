@@ -350,39 +350,43 @@ es:
       resource:
         type: Tipo
       reusability:
-        advanced: Avanzado
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: ''
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: ''
-        advanced-cc-by-sa: ''
-        advanced-cc0: CC0
-        advanced-orphan-work: Orphan Work
-        advanced-out-of-copyright-non-commercial: Out of copyright - non commercial re-use
-        advanced-public: Public Domain Marked
-        advanced-rrfa: Rights reserved - Free access
-        advanced-rrpa: Rights reserved - Paid access
-        advanced-rrra: Rights Reserved - Restricted Access
-        advanced-rs-cne: Copyright No Evaluado
-        advanced-rs-inc: Con derechos de autor (Copyright)
-        advanced-rs-inc-edu: 'Con derechos de autor (Copyright) - Permitido el uso educativo '
-        advanced-rs-inc-ow-eu: " Con derechos de autor (Copyright) - Obra huérfana UE"
-        advanced-rs-noc-nc: Sin derechos de autor (Copyright) - Solamente uso no comercial
-        advanced-rs-noc-oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
-        advanced-ucs: Unknown copyright status
+        advanced-MARKEDFORDELETION: Avanzado
         expiry: hasta %{date}
-        open: Sí con atribución
-        open-brief: 
-        open-info: 
-        permission: Solo con permiso
-        permission-brief: 
-        permission-info: 
-        restricted: Sí con restricciones
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
+        open:
+          brief: 
+          info: 
+          label: Sí con atribución
+        permission:
+          brief: 
+          info: 
+          label: Solo con permiso
+        restricted:
+          brief: 
+          info: 
+          label: Sí con restricciones
         simple: Simple
+      rights:
+        cc-by: CC BY
+        cc-by-nc: ''
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: ''
+        cc-by-sa: ''
+        cc0: CC0
+        orphan-work: Orphan Work
+        out-of-copyright-non-commercial: Out of copyright - non commercial re-use
+        public: Public Domain Marked
+        rrfa: Rights reserved - Free access
+        rrpa: Rights reserved - Paid access
+        rrra: Rights Reserved - Restricted Access
+        rs-cne: Copyright No Evaluado
+        rs-inc: Con derechos de autor (Copyright)
+        rs-inc-edu: 'Con derechos de autor (Copyright) - Permitido el uso educativo '
+        rs-inc-ow-eu: " Con derechos de autor (Copyright) - Obra huérfana UE"
+        rs-noc-nc: Sin derechos de autor (Copyright) - Solamente uso no comercial
+        rs-noc-oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
+        rs_noc_oklr: Sin derechos de autor (Copyright) - Otras restricciones legales conocidas
+        ucs: Unknown copyright status
       sound_duration:
         long: Largo (6+ min)
         medium: Medio (3-6 min)

@@ -350,39 +350,43 @@ sl:
       resource:
         type: Tip
       reusability:
-        advanced: Napredno
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Delo sirota
-        advanced-out-of-copyright-non-commercial: 'Potekle avtorske pravice - nekomercialna ponovna uporaba '
-        advanced-public: Označena javna domena
-        advanced-rrfa: Pravice pridržane - Brezplačen dostop
-        advanced-rrpa: Pravice pridržane - Plačan dostop
-        advanced-rrra: Pravice pridržane - omejeni dostop
-        advanced-rs-cne: Avtorske pravice niso ocenjene
-        advanced-rs-inc: Z avtorskimi pravicami
-        advanced-rs-inc-edu: Z avtorskimi pravicami - Dovoljena uporaba za izobraževanje
-        advanced-rs-inc-ow-eu: Z avtorskimi pravicami - EU Orphan Work
-        advanced-rs-noc-nc: Brez avtorskih pravic - Samo nekomercialna uporaba
-        advanced-rs-noc-oklr: Brez avtorskih pravic - Druge znane pravne omejitve
-        advanced-ucs: Neznan status avtorskih pravic
+        advanced-MARKEDFORDELETION: Napredno
         expiry: do %{date}
-        open: Brezplačna ponovna uporaba
-        open-brief: 
-        open-info: 
-        permission: Ponovna uporaba ni mogoča
-        permission-brief: 
-        permission-info: 
-        restricted: Omejena ponovna uporaba
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Brez avtorskih pravic - Druge znane pravne omejitve
+        open:
+          brief: 
+          info: 
+          label: Brezplačna ponovna uporaba
+        permission:
+          brief: 
+          info: 
+          label: Ponovna uporaba ni mogoča
+        restricted:
+          brief: 
+          info: 
+          label: Omejena ponovna uporaba
         simple: Enostavno
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Delo sirota
+        out-of-copyright-non-commercial: 'Potekle avtorske pravice - nekomercialna ponovna uporaba '
+        public: Označena javna domena
+        rrfa: Pravice pridržane - Brezplačen dostop
+        rrpa: Pravice pridržane - Plačan dostop
+        rrra: Pravice pridržane - omejeni dostop
+        rs-cne: Avtorske pravice niso ocenjene
+        rs-inc: Z avtorskimi pravicami
+        rs-inc-edu: Z avtorskimi pravicami - Dovoljena uporaba za izobraževanje
+        rs-inc-ow-eu: Z avtorskimi pravicami - EU Orphan Work
+        rs-noc-nc: Brez avtorskih pravic - Samo nekomercialna uporaba
+        rs-noc-oklr: Brez avtorskih pravic - Druge znane pravne omejitve
+        rs_noc_oklr: Brez avtorskih pravic - Druge znane pravne omejitve
+        ucs: Neznan status avtorskih pravic
       sound_duration:
         long: Dolgo (6+ minut)
         medium: Srednje (3-6 minut)

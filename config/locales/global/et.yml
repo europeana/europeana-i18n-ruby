@@ -350,39 +350,43 @@ et:
       resource:
         type: Tüüp
       reusability:
-        advanced: Detailne
-        advanced-cc-by: ''
-        advanced-cc-by-nc: ''
-        advanced-cc-by-nc-nd: ''
-        advanced-cc-by-nc-sa: ''
-        advanced-cc-by-nd: ''
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: ''
-        advanced-orphan-work: Orbteos
-        advanced-out-of-copyright-non-commercial: Autorikaitse alt vaba - mitteäriline taaskasutus
-        advanced-public: Märgistatud avalikuks omandiks
-        advanced-rrfa: Õigused kaitstud - vaba ligipääs
-        advanced-rrpa: Õigused kaitstud - tasuline ligipääs
-        advanced-rrra: Õigused kaitstud - piiratud ligipääs
-        advanced-rs-cne: Copyright hindamata
-        advanced-rs-inc: Autoriõigusega kaitstud
-        advanced-rs-inc-edu: Autoriõigusega kaitstud - Teoste kasutamine näitena õppe-eesmärgil on lubatud
-        advanced-rs-inc-ow-eu: Autoriõigusega kaitstud - EU orbteos
-        advanced-rs-noc-nc: Autoriõigus puudub - Kasutada ainult mittekaubanduslikel eesmärkidel
-        advanced-rs-noc-oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
-        advanced-ucs: Autorikaitse staatus teadmata
+        advanced-MARKEDFORDELETION: Detailne
         expiry: Kuni %{date}
-        open: Jah, omistamisega
-        open-brief: 
-        open-info: 
-        permission: Ainult loaga
-        permission-brief: 
-        permission-info: 
-        restricted: Jah, piirangutega
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
+        open:
+          brief: 
+          info: 
+          label: Jah, omistamisega
+        permission:
+          brief: 
+          info: 
+          label: Ainult loaga
+        restricted:
+          brief: 
+          info: 
+          label: Jah, piirangutega
         simple: Lihtne
+      rights:
+        cc-by: ''
+        cc-by-nc: ''
+        cc-by-nc-nd: ''
+        cc-by-nc-sa: ''
+        cc-by-nd: ''
+        cc-by-sa: CC BY-SA
+        cc0: ''
+        orphan-work: Orbteos
+        out-of-copyright-non-commercial: Autorikaitse alt vaba - mitteäriline taaskasutus
+        public: Märgistatud avalikuks omandiks
+        rrfa: Õigused kaitstud - vaba ligipääs
+        rrpa: Õigused kaitstud - tasuline ligipääs
+        rrra: Õigused kaitstud - piiratud ligipääs
+        rs-cne: Copyright hindamata
+        rs-inc: Autoriõigusega kaitstud
+        rs-inc-edu: Autoriõigusega kaitstud - Teoste kasutamine näitena õppe-eesmärgil on lubatud
+        rs-inc-ow-eu: Autoriõigusega kaitstud - EU orbteos
+        rs-noc-nc: Autoriõigus puudub - Kasutada ainult mittekaubanduslikel eesmärkidel
+        rs-noc-oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
+        rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
+        ucs: Autorikaitse staatus teadmata
       sound_duration:
         long: Pikk (üle 6 minuti)
         medium: Keskmine (3-6 minutit)

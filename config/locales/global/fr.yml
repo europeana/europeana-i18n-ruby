@@ -350,39 +350,43 @@ fr:
       resource:
         type: Type
       reusability:
-        advanced: Avancée
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Droit d&#39;auteur non évalué
-        advanced-rs-inc: En Copyright
-        advanced-rs-inc-edu: En Copyright - Usage Pédagogique Autorisé
-        advanced-rs-inc-ow-eu: 'En Copyright - Œuvres Orphelines Européennes '
-        advanced-rs-noc-nc: Pas de Copyright - Usage Non Commercial Uniquement
-        advanced-rs-noc-oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Avancée
         expiry: jusqu'à %{date}
-        open: Oui avec attribution
-        open-brief: 
-        open-info: 
-        permission: Seulement avec permission
-        permission-brief: 
-        permission-info: 
-        restricted: Oui avec des restrictions
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
+        open:
+          brief: 
+          info: 
+          label: Oui avec attribution
+        permission:
+          brief: 
+          info: 
+          label: Seulement avec permission
+        restricted:
+          brief: 
+          info: 
+          label: Oui avec des restrictions
         simple: Simple
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Droit d&#39;auteur non évalué
+        rs-inc: En Copyright
+        rs-inc-edu: En Copyright - Usage Pédagogique Autorisé
+        rs-inc-ow-eu: 'En Copyright - Œuvres Orphelines Européennes '
+        rs-noc-nc: Pas de Copyright - Usage Non Commercial Uniquement
+        rs-noc-oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
+        rs_noc_oklr: Pas de Copyright - Autres Types de Restrictions Légales Connues
+        ucs: 
       sound_duration:
         long: Longue (6+ min)
         medium: Moyenne (3-6 min)

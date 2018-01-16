@@ -352,39 +352,43 @@ mt:
       resource:
         type: Tip
       reusability:
-        advanced: Avvanzat
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Xogħol Orfni
-        advanced-out-of-copyright-non-commercial: Barra mill-copyright - mhux għal użu kummerċjali
-        advanced-public: "'Public Domain Marked'"
-        advanced-rrfa: Drittijiet riżervati - Aċċess b'xejn
-        advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
-        advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
-        advanced-rs-cne: Copyright Mhux evalwat
-        advanced-rs-inc: Bid-Drittijiet tal-Awtur
-        advanced-rs-inc-edu: Bid-Drittijiet tal-Awtur - L-Użu Għall-Edukazzjoni Huwa Permess
-        advanced-rs-inc-ow-eu: Bid-Drittijiet tal-Awtur - Xogħlijiet Orfni tal-UE
-        advanced-rs-noc-nc: Mingħajr id-Drittijiet tal-Awtur - Għall-Użu Mhux Kummerċjali Biss
-        advanced-rs-noc-oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
-        advanced-ucs: L-istatus tal-copyright mhux magħruf
+        advanced-MARKEDFORDELETION: Avvanzat
         expiry: sa %{date}
-        open: Iva bl-attribuzzjoni
-        open-brief: 
-        open-info: 
-        permission: Bil-permess biss
-        permission-brief: 
-        permission-info: 
-        restricted: Iva bir-restrizzjonijiet
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
+        open:
+          brief: 
+          info: 
+          label: Iva bl-attribuzzjoni
+        permission:
+          brief: 
+          info: 
+          label: Bil-permess biss
+        restricted:
+          brief: 
+          info: 
+          label: Iva bir-restrizzjonijiet
         simple: Sempliċi
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Xogħol Orfni
+        out-of-copyright-non-commercial: Barra mill-copyright - mhux għal użu kummerċjali
+        public: "'Public Domain Marked'"
+        rrfa: Drittijiet riżervati - Aċċess b'xejn
+        rrpa: Drittijiet riżervati - Aċċess mħallas
+        rrra: Drittijiet riżervati - Aċċess mhux permess
+        rs-cne: Copyright Mhux evalwat
+        rs-inc: Bid-Drittijiet tal-Awtur
+        rs-inc-edu: Bid-Drittijiet tal-Awtur - L-Użu Għall-Edukazzjoni Huwa Permess
+        rs-inc-ow-eu: Bid-Drittijiet tal-Awtur - Xogħlijiet Orfni tal-UE
+        rs-noc-nc: Mingħajr id-Drittijiet tal-Awtur - Għall-Użu Mhux Kummerċjali Biss
+        rs-noc-oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
+        rs_noc_oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
+        ucs: L-istatus tal-copyright mhux magħruf
       sound_duration:
         long: Twil (6+ minuti)
         medium: Medju (3-6 minuti)

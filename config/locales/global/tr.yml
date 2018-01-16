@@ -350,39 +350,43 @@ tr:
       resource:
         type: 
       reusability:
-        advanced: 
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: 
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: 
         expiry: 
-        open: 
-        open-brief: 
-        open-info: 
-        permission: 
-        permission-brief: 
-        permission-info: 
-        restricted: 
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: 
+        open:
+          brief: 
+          info: 
+          label: 
+        permission:
+          brief: 
+          info: 
+          label: 
+        restricted:
+          brief: 
+          info: 
+          label: 
         simple: 
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: 
+        rs-inc: 
+        rs-inc-edu: 
+        rs-inc-ow-eu: 
+        rs-noc-nc: 
+        rs-noc-oklr: 
+        rs_noc_oklr: 
+        ucs: 
       sound_duration:
         long: 
         medium: 

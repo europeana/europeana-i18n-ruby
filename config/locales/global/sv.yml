@@ -350,39 +350,43 @@ sv:
       resource:
         type: Typ
       reusability:
-        advanced: Avancerad
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright Inte utvärderat
-        advanced-rs-inc: I upphovsrätten
-        advanced-rs-inc-edu: I upphovsrätt - Tillåten i utbildningssyfte
-        advanced-rs-inc-ow-eu: I upphovsrätt - EU Orphan Work
-        advanced-rs-noc-nc: Ingen upphovsrätt - Endast för icke-kommersiell användning
-        advanced-rs-noc-oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Avancerad
         expiry: till %{date}
-        open: Ja, med attribuering
-        open-brief: 
-        open-info: 
-        permission: Enbart med tillstånd
-        permission-brief: 
-        permission-info: 
-        restricted: Ja, med vissa begränsingar
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
+        open:
+          brief: 
+          info: 
+          label: Ja, med attribuering
+        permission:
+          brief: 
+          info: 
+          label: Enbart med tillstånd
+        restricted:
+          brief: 
+          info: 
+          label: Ja, med vissa begränsingar
         simple: Enkel
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright Inte utvärderat
+        rs-inc: I upphovsrätten
+        rs-inc-edu: I upphovsrätt - Tillåten i utbildningssyfte
+        rs-inc-ow-eu: I upphovsrätt - EU Orphan Work
+        rs-noc-nc: Ingen upphovsrätt - Endast för icke-kommersiell användning
+        rs-noc-oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
+        rs_noc_oklr: Ingen upphovsrätt - Andra kända juridiska restriktioner
+        ucs: 
       sound_duration:
         long: Lång (6+ minuter)
         medium: Medium (3-6 minuter)

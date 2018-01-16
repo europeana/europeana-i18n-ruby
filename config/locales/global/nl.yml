@@ -350,39 +350,43 @@ nl:
       resource:
         type: Type
       reusability:
-        advanced: Geavanceerd
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright Niet beoordeeld
-        advanced-rs-inc: In Auteursrecht
-        advanced-rs-inc-edu: In Auteursrecht - Onderwijsgebruik Toegestaan
-        advanced-rs-inc-ow-eu: In Auteursrecht - EU Verweesd Werk
-        advanced-rs-noc-nc: Geen Auteursrecht - Alleen voor Commercieel Gebruik
-        advanced-rs-noc-oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Geavanceerd
         expiry: tot %{date}
-        open: Gratis Hergebruiken
-        open-brief: 
-        open-info: 
-        permission: Niet Hergebruiken
-        permission-brief: 
-        permission-info: 
-        restricted: 
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
+        open:
+          brief: 
+          info: 
+          label: Gratis Hergebruiken
+        permission:
+          brief: 
+          info: 
+          label: Niet Hergebruiken
+        restricted:
+          brief: 
+          info: 
+          label: 
         simple: 
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright Niet beoordeeld
+        rs-inc: In Auteursrecht
+        rs-inc-edu: In Auteursrecht - Onderwijsgebruik Toegestaan
+        rs-inc-ow-eu: In Auteursrecht - EU Verweesd Werk
+        rs-noc-nc: Geen Auteursrecht - Alleen voor Commercieel Gebruik
+        rs-noc-oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
+        rs_noc_oklr: Geen Auteursrecht - Andere Bekende Wettelijke Beperkingen
+        ucs: 
       sound_duration:
         long: Lang (6+ min)
         medium: Medium (3-6 min)

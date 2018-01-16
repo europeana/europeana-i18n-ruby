@@ -350,39 +350,43 @@ hr:
       resource:
         type: Vrsta
       reusability:
-        advanced: Napredno
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright ne vrednuje
-        advanced-rs-inc: U Autorskim pravima
-        advanced-rs-inc-edu: U autorskim pravima - dozvoljeno za obrazovnu uporabu
-        advanced-rs-inc-ow-eu: U autorskima pravima - rad sa siročadi EU
-        advanced-rs-noc-nc: Bez autorskih prava - samo nekomercijalna uporaba
-        advanced-rs-noc-oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Napredno
         expiry: do %{date}
-        open: 
-        open-brief: 
-        open-info: 
-        permission: 
-        permission-brief: 
-        permission-info: 
-        restricted: 
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
+        open:
+          brief: 
+          info: 
+          label: 
+        permission:
+          brief: 
+          info: 
+          label: 
+        restricted:
+          brief: 
+          info: 
+          label: 
         simple: Jednostavno
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright ne vrednuje
+        rs-inc: U Autorskim pravima
+        rs-inc-edu: U autorskim pravima - dozvoljeno za obrazovnu uporabu
+        rs-inc-ow-eu: U autorskima pravima - rad sa siročadi EU
+        rs-noc-nc: Bez autorskih prava - samo nekomercijalna uporaba
+        rs-noc-oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
+        rs_noc_oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
+        ucs: 
       sound_duration:
         long: Dugačko (6+ minuta)
         medium: Srednje (3-6 minuta)

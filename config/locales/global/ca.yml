@@ -350,39 +350,43 @@ ca:
       resource:
         type: Tipus
       reusability:
-        advanced: Avançat
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Treball orfe
-        advanced-out-of-copyright-non-commercial: Sense drets d'autor - reutilització no comercial
-        advanced-public: Marca de Domini Públic
-        advanced-rrfa: Drets reservats - Accés lliure
-        advanced-rrpa: Drets reservat - Accés de pagament
-        advanced-rrra: Drets reservats - Accés restringit
-        advanced-rs-cne: Drets d&#39;Autor No avaluat
-        advanced-rs-inc: Amb copyright
-        advanced-rs-inc-edu: Amb copyright - Ús educacional permès
-        advanced-rs-inc-ow-eu: Amb copyright - Obra òrfena UE
-        advanced-rs-noc-nc: Sense copyright - Només ús no comercial
-        advanced-rs-noc-oklr: Sense copyright - Altres restriccions legals conegudes
-        advanced-ucs: Situació de copyright desconeguda
+        advanced-MARKEDFORDELETION: Avançat
         expiry: fins a %{date}
-        open: Sí, amb atribució
-        open-brief: 
-        open-info: 
-        permission: Només amb permís
-        permission-brief: 
-        permission-info: 
-        restricted: Sí, amb restriccions
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Sense copyright - Altres restriccions legals conegudes
+        open:
+          brief: 
+          info: 
+          label: Sí, amb atribució
+        permission:
+          brief: 
+          info: 
+          label: Només amb permís
+        restricted:
+          brief: 
+          info: 
+          label: Sí, amb restriccions
         simple: Simple
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Treball orfe
+        out-of-copyright-non-commercial: Sense drets d'autor - reutilització no comercial
+        public: Marca de Domini Públic
+        rrfa: Drets reservats - Accés lliure
+        rrpa: Drets reservat - Accés de pagament
+        rrra: Drets reservats - Accés restringit
+        rs-cne: Drets d&#39;Autor No avaluat
+        rs-inc: Amb copyright
+        rs-inc-edu: Amb copyright - Ús educacional permès
+        rs-inc-ow-eu: Amb copyright - Obra òrfena UE
+        rs-noc-nc: Sense copyright - Només ús no comercial
+        rs-noc-oklr: Sense copyright - Altres restriccions legals conegudes
+        rs_noc_oklr: Sense copyright - Altres restriccions legals conegudes
+        ucs: Situació de copyright desconeguda
       sound_duration:
         long: Llarg (6+ minuts)
         medium: Mig (3-6 minuts)

@@ -350,39 +350,43 @@ pt:
       resource:
         type: Tipo
       reusability:
-        advanced: Avançado
-        advanced-cc-by: ''
-        advanced-cc-by-nc: ''
-        advanced-cc-by-nc-nd: ''
-        advanced-cc-by-nc-sa: ''
-        advanced-cc-by-nd: ''
-        advanced-cc-by-sa: ''
-        advanced-cc0: ''
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Copyright não avaliado
-        advanced-rs-inc: Protegido por Direitos de Autor
-        advanced-rs-inc-edu: Protegido por Direitos de Autor - Uso Educativo Autorizado
-        advanced-rs-inc-ow-eu: Protegido por Direitos de Autor - Obras Orfãs da UE
-        advanced-rs-noc-nc: Sem Direitos de Autor - Apenas Para Uso Não Comercial
-        advanced-rs-noc-oklr: Sem Direitos de Autor - Outras Restrições Legais Conhecidas
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Avançado
         expiry: até %{date}
-        open: Sim, com atribuição
-        open-brief: 
-        open-info: 
-        permission: Apenas com permissão
-        permission-brief: 
-        permission-info: 
-        restricted: Sim, com restrições
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Sem Direitos de Autor - Outras Restrições Legais Conhecidas
+        open:
+          brief: 
+          info: 
+          label: Sim, com atribuição
+        permission:
+          brief: 
+          info: 
+          label: Apenas com permissão
+        restricted:
+          brief: 
+          info: 
+          label: Sim, com restrições
         simple: Simples
+      rights:
+        cc-by: ''
+        cc-by-nc: ''
+        cc-by-nc-nd: ''
+        cc-by-nc-sa: ''
+        cc-by-nd: ''
+        cc-by-sa: ''
+        cc0: ''
+        orphan-work: 
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Copyright não avaliado
+        rs-inc: Protegido por Direitos de Autor
+        rs-inc-edu: Protegido por Direitos de Autor - Uso Educativo Autorizado
+        rs-inc-ow-eu: Protegido por Direitos de Autor - Obras Orfãs da UE
+        rs-noc-nc: Sem Direitos de Autor - Apenas Para Uso Não Comercial
+        rs-noc-oklr: Sem Direitos de Autor - Outras Restrições Legais Conhecidas
+        rs_noc_oklr: Sem Direitos de Autor - Outras Restrições Legais Conhecidas
+        ucs: ''
       sound_duration:
         long: Longa (6+ min)
         medium: Média (3-6 min)

@@ -350,39 +350,43 @@ ru:
       resource:
         type: Тип
       reusability:
-        advanced: ''
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Все права защищены Не определен
-        advanced-rs-inc: Объект авторского права
-        advanced-rs-inc-edu: Объект авторского права - Разрешено использование в образовательных целях
-        advanced-rs-inc-ow-eu: Объект авторского права - Авторство в ЕС не установлено
-        advanced-rs-noc-nc: Не является объектом авторского права - Разрешено только некоммерческое использование
-        advanced-rs-noc-oklr: Не является объектом авторского права - Другие известные юридические ограничения
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: ''
         expiry: До %{date}
-        open: Да с указанием правообладателя
-        open-brief: 
-        open-info: 
-        permission: Только с разрешения правообладателя
-        permission-brief: 
-        permission-info: 
-        restricted: Да с ограничениями
-        restricted-brief: 
-        restricted-info: 
-        rs_noc_oklr: Не является объектом авторского права - Другие известные юридические ограничения
+        open:
+          brief: 
+          info: 
+          label: Да с указанием правообладателя
+        permission:
+          brief: 
+          info: 
+          label: Только с разрешения правообладателя
+        restricted:
+          brief: 
+          info: 
+          label: Да с ограничениями
         simple: ''
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Все права защищены Не определен
+        rs-inc: Объект авторского права
+        rs-inc-edu: Объект авторского права - Разрешено использование в образовательных целях
+        rs-inc-ow-eu: Объект авторского права - Авторство в ЕС не установлено
+        rs-noc-nc: Не является объектом авторского права - Разрешено только некоммерческое использование
+        rs-noc-oklr: Не является объектом авторского права - Другие известные юридические ограничения
+        rs_noc_oklr: Не является объектом авторского права - Другие известные юридические ограничения
+        ucs: ''
       sound_duration:
         long: Длинный (6+ минут)
         medium: Средний (3-6 минут)
