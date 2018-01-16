@@ -161,7 +161,7 @@ lv:
       next: nākamā
       previous: iepriekšējā
       register: Reģistrēties
-      remove: 
+      remove: Noņemt
       share: Dalīties
       sign-in: Ienākt
       sign-out: Iziet
@@ -353,15 +353,15 @@ lv:
         advanced-MARKEDFORDELETION: Paplašinātā
         expiry: līdz %{date}
         open:
-          brief: 
+          brief: Jā
           info: 
           label: Jā, ar atsauci
         permission:
-          brief: 
-          info: 
+          brief: Nē
+          info: uzzini kāpēc
           label: Tikai ar atļauju
         restricted:
-          brief: 
+          brief: Jā
           info: 
           label: Jā, ar ierobežojumiem
         simple: Vienkāršā
