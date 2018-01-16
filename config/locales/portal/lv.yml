@@ -8,7 +8,7 @@ lv:
           description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu!
   global:
     exhibitions:
-      contacts: 
+      contacts: Kontakti
     labs-link: saite uz Laboratoriju
     navigation:
       agents: Cilvēki
@@ -85,7 +85,7 @@ lv:
         moving-images: Video
         sound: Skaņu ieraksti
         texts: Teksti
-      description: 
+      description: Europeana tematiskās kolekcijas parāda saturu par konkrētām tēmām.
       e7a1418:
         contribute: Pievieno savu 1914-1918 stāstu
         my-account: Mans konts
@@ -109,7 +109,7 @@ lv:
       labels:
         bio: Biogrāfija
         born: Dzimis
-        description: 
+        description: Apraksts
         died: Miris
         related: Saistīts
       tab_items:
@@ -184,26 +184,26 @@ lv:
     news: Ziņas
     object:
       actions:
-        annotate: 
+        annotate: Anotēt
         attribute-author: Autora atribūti
         attribute-html: HTML
         attribute-plaintext: Vienkāršs teksts
-        collapse-extended: 
+        collapse-extended: nerādīt papildinformāciju
         download: Lejupielādēt
         download-additional: Pieejams arī kā
         download-retry: Atkārtot
         download-started: Lejupielāde uzsākta
         downloaddata: Lejupielādēt datus
         enlarge: Palielināt
-        expand-extended: 
+        expand-extended: rādīt papildinformāciju
         explore-by-colour: Izpētīt pēc krāsas
         media-metadata: Resursa metadati
         open-media: Atvērt šo ierakstu
         show-less-data: Rādīt mazāk datu
         show-more-data: Rādīt vairāk datu
         technicalmetadata: Tehniskie metadati
-        view-more-at: 
-      description_unavailable: 
+        view-more-at: Skatīt vairāk
+      description_unavailable: Apraksts nav pieejams.
       enrichment:
         who:
           title: Nosaukums
@@ -319,20 +319,20 @@ lv:
       nav:
         next: Nākamais
         prev: Iepriekšējais
-      next-item: 
+      next-item: Nākamais
       points:
         east: Austrumi
         north: Ziemeļi
         south: Dienvidi
         west: Rietumi
       preview_unavailable: Ieraksta priekšskatījums nav pieejams, lai piekļūtu attēlam un informācijai par ierakstu, atveriet %{institution_name_and_link}
-      preview_unavailable_explanation: 
-      preview_unavailable_intro: 
-      preview_unavailable_source: 
-      previous-item: 
+      preview_unavailable_explanation: Šī saite ved uz
+      preview_unavailable_intro: Mūsu partneris nepiedāvā priekšskatījumu, skat. papildinformāciju avotā.
+      preview_unavailable_source: Doties uz avotu
+      previous-item: Iepriekšējais
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
-      title_unavailable: 
+      title_unavailable: Nosaukums nav pieejams.
     pages:
       '404':
         intro: Atvainojiet, šo lapu neizdevās atrast
@@ -430,5 +430,5 @@ lv:
       title: Iestatījumi
     ugc:
       actions:
-        copy-name: 
-        submit: 
+        copy-name: Kopēt vārdu
+        submit: Iesniegt
