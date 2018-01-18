@@ -466,6 +466,11 @@ nl:
     find-us-social-media: 
     follow-channel: Volg %{channel}
     forgot-password: 'Wachtwoord kwijt? '
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galerijen
     genres: thema's
     genres-chamber-music: Kamer muziek

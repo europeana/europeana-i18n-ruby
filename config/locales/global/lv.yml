@@ -466,6 +466,11 @@ lv:
     find-us-social-media: Meklē %{channel} sociālajos tīklos
     follow-channel: Sekot %{channel}
     forgot-password: Aizmirsi savu paroli?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galerijas
     genres: žanri
     genres-chamber-music: Kamermūzika

@@ -468,6 +468,11 @@ it:
     find-us-social-media: Trova %{channel}  sui social media
     follow-channel: Segui %{channel}
     forgot-password: Hai dimenticato la password?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Gallerie
     genres: Genere
     genres-chamber-music: Musica da camera

@@ -466,6 +466,11 @@ hu:
     find-us-social-media: 
     follow-channel: "%{channel} követése"
     forgot-password: Elfelejtetted a jelszavad?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galériák
     genres: műfajok
     genres-chamber-music: Kamarazene

@@ -466,6 +466,11 @@ sv:
     find-us-social-media: 
     follow-channel: Följ %{channel}
     forgot-password: Glömt ditt lösenord?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Bildspel
     genres: genrer
     genres-chamber-music: Kammarmusik

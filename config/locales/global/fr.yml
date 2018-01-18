@@ -466,6 +466,11 @@ fr:
     find-us-social-media: 
     follow-channel: Suivre %{channel}
     forgot-password: Vous avez oublié votre mot de passe ?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galeries
     genres: genres
     genres-chamber-music: Musique de chambre

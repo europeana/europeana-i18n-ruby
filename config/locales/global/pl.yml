@@ -466,6 +466,11 @@ pl:
     find-us-social-media: Znajdź %{channel} w mediach społecznościowych
     follow-channel: Śledź %{channel}
     forgot-password: Nie pamiętam hasła.
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galerie
     genres: gatunki
     genres-chamber-music: Muzyka kameralna

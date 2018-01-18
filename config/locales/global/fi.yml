@@ -466,6 +466,11 @@ fi:
     find-us-social-media: 
     follow-channel: 'Seuraa: %{channel}'
     forgot-password: Unohditko salasanasi?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galleriat
     genres: genret
     genres-chamber-music: Kamarimusiikko

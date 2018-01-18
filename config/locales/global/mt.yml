@@ -468,6 +468,11 @@ mt:
     find-us-social-media: Fittex %{channel} fuq midja soċjali
     follow-channel: Segwi %{channel}
     forgot-password: Insejt il-password?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galleries
     genres: tip
     genres-chamber-music: Mużika 'chamber'

@@ -466,6 +466,11 @@ bs:
     find-us-social-media: 
     follow-channel: 
     forgot-password: 
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: 
     genres: 
     genres-chamber-music: 

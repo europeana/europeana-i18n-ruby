@@ -466,6 +466,11 @@
     find-us-social-media: 
     follow-channel: Følg %{channel}
     forgot-password: glemt-passord
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Gallerier
     genres: sjangre
     genres-chamber-music: sjangre-kammermusikk

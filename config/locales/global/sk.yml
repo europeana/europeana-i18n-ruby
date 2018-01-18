@@ -466,6 +466,11 @@ sk:
     find-us-social-media: 
     follow-channel: Sledovať %{channel}
     forgot-password: Zabudli ste svoje heslo?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galérie
     genres: žánre
     genres-chamber-music: Komorná hudba

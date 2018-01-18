@@ -466,6 +466,11 @@ ca:
     find-us-social-media: 
     follow-channel: Segueix %{channel}
     forgot-password: No recordes la teva paraula de pas?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galeries
     genres: gèneres
     genres-chamber-music: Música de cambra

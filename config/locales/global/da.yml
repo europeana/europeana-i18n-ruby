@@ -468,6 +468,11 @@ da:
     forgot-password: 'Glemt dit brugernavn?
 
 '
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Gallerier
     genres: genre
     genres-chamber-music: Kamer musik

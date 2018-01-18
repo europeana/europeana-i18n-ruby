@@ -466,6 +466,11 @@ bg:
     find-us-social-media: 
     follow-channel: Следвайте %{channel}
     forgot-password: Забравена парола?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Галерии
     genres: жанрове
     genres-chamber-music: Камерна музика

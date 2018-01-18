@@ -466,6 +466,11 @@ en:
     find-us-social-media: Find %{channel} on social media
     follow-channel: Follow %{channel}
     forgot-password: Forgot your password?
+    forms:
+      validation-errors:
+        blank: Please enter a value
+        date-past: Please select a valid date that has already occurred
+        email: Please ensure you have typed a correct email address
     galleries: Galleries
     genres: genres
     genres-chamber-music: Chamber music

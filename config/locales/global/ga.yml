@@ -468,6 +468,11 @@ ga:
     find-us-social-media: Aimsigh %{channel} ar na meáin shóisialta
     follow-channel: Lean %{channel}
     forgot-password: Dearmad ar do phasfhocal?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Gailearaithe
     genres: seánraí
     genres-chamber-music: Ceol aireagail

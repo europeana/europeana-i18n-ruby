@@ -466,6 +466,11 @@ hr:
     find-us-social-media: 
     follow-channel: Slijedite %{channel}
     forgot-password: Zaboravili ste lozinku?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galerije
     genres: žanrovi
     genres-chamber-music: Komorna glazba

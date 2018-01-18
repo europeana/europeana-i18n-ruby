@@ -466,6 +466,11 @@ lt:
     find-us-social-media: 
     follow-channel: Sekti %{channel}
     forgot-password: Pamiršote slaptažodį?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galerijos
     genres: Žanrai
     genres-chamber-music: Kamerinė muzika

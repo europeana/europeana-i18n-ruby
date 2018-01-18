@@ -466,6 +466,11 @@ et:
     find-us-social-media: 
     follow-channel: Jälgi kanalit %{channel}
     forgot-password: Unustasid parooli?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galeriid
     genres: žanrid
     genres-chamber-music: Kammermuusika

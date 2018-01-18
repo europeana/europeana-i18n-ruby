@@ -466,6 +466,11 @@ ru:
     find-us-social-media: 
     follow-channel: Следите за %{channel}
     forgot-password: Забыли пароль?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Галереи
     genres: Жанры
     genres-chamber-music: Камерная музыка

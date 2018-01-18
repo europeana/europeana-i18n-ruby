@@ -468,6 +468,11 @@ es:
     find-us-social-media: Encontrar %{channel} en las redes sociales
     follow-channel: Seguir %{channel}
     forgot-password: Olvidaste tu contraseña?
+    forms:
+      validation-errors:
+        blank: 
+        date-past: 
+        email: 
     galleries: Galerías
     genres: generos
     genres-chamber-music: 'Música de Cámara '
