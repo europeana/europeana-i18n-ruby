@@ -490,6 +490,7 @@ es:
     help: Ayuda
     home: Casa
     javascript-required: Para ver este contenido, active por favor JavaScript  y considere actualizar su navegador para que soporte contenido HTML5
+    javascript-required-ugc: 
     labels:
       by: por
       images: imágenes

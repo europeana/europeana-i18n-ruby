@@ -488,6 +488,7 @@ lv:
     help: Palīdzība
     home: Sākums
     javascript-required: Lai aplūkotu šo saturu, lūdzu, iespējojiet JavaScript un apsveriet iespēju atjaunināt interneta pārlūku, lai tas atbalstītu HTML5 saturu.
+    javascript-required-ugc: 
     labels:
       by: Autors
       images: attēli

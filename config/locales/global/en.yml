@@ -488,6 +488,7 @@ en:
     help: Help
     home: Home
     javascript-required: To view this content please enable JavaScript, and consider upgrading to a web browser that supports HTML5 content.
+    javascript-required-ugc: We do not allow submissions without Javascript enabled, please enable Javascript in your browser in order to submit this form.
     labels:
       by: by
       images: images

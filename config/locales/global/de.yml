@@ -490,6 +490,7 @@ de:
     help: Hilfe
     home: Startseite
     javascript-required: Um diese Inhalte zu sehen aktivieren Sie bitte JavaScript. Erwägen Sie zudem auf einen Web-Browser zurückzugreifen der HTML5-Inhalte unterstützt.
+    javascript-required-ugc: 
     labels:
       by: von
       images: Bilder

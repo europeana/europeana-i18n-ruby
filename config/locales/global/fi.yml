@@ -488,6 +488,7 @@ fi:
     help: Apu
     home: Koti
     javascript-required: Ota JavaScript käyttöön, jotta näet tämän sisällön. Harkitse myös päivittämistä selaimeen, joka tukee HTML5-sisältöjä.
+    javascript-required-ugc: 
     labels:
       by: tekijältä
       images: kuvat

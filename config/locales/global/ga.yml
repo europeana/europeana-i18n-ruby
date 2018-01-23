@@ -490,6 +490,7 @@ ga:
     help: Cabhair
     home: Baile
     javascript-required: Leis an ábhar seo a fheiscint, cumasaigh JavaScript, agus taiscéal uasghrádú go brabhsálaí gréasáin a ghlacann le hinneachar HTML5.
+    javascript-required-ugc: 
     labels:
       by: le
       images: íomhánna

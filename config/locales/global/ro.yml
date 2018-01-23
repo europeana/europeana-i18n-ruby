@@ -488,6 +488,7 @@ ro:
     help: Ajutor
     home: Acasă
     javascript-required: Pentru a accesa acest conținut activați opțiunea JavaScript, și luați în considerare actualizarea navigatorului dvs. web către o versiune care suportă vizualizarea de conținut HTML5.
+    javascript-required-ugc: 
     labels:
       by: de către
       images: imagini

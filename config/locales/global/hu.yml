@@ -488,6 +488,7 @@ hu:
     help: Segítség
     home: Főoldal
     javascript-required: Hogy ezt a tartalmat megtekinthesse, kérjük engedélyezze a JavaScript használatát; javasoljuk olyan böngésző használatát is, mely a HTML5 tartalmat támogatja.
+    javascript-required-ugc: 
     labels:
       by: készítette
       images: képek

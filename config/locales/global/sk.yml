@@ -488,6 +488,7 @@ sk:
     help: Pomoc
     home: Domov
     javascript-required: Ak si chcete pozrieť obsah tejto stránky, povoľte JavaScript a zvážte upgrade na webový prehliadač, podporujúci HTML5.
+    javascript-required-ugc: 
     labels:
       by: od
       images: obrazy

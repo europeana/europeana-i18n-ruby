@@ -488,6 +488,7 @@ ca:
     help: Ajuda
     home: Inici
     javascript-required: Per veure aquest contingut necessites habilitar el JavaScript, i considerar actualitzar a un navegador que suporti continguts HTML5.
+    javascript-required-ugc: 
     labels:
       by: per
       images: imatges

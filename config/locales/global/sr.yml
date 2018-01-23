@@ -488,6 +488,7 @@ sr:
     help: 
     home: 
     javascript-required: 
+    javascript-required-ugc: 
     labels:
       by: 
       images: 

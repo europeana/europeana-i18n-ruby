@@ -488,6 +488,7 @@
     help: hjelp
     home: hjem
     javascript-required: javascript-påkrevd
+    javascript-required-ugc: 
     labels:
       by: av
       images: Bilder

@@ -488,6 +488,7 @@ sl:
     help: Pomoč
     home: Domov
     javascript-required: Če si želite ogledati to vsebino, omogočite JavaScript in razmislite o nadgradnji v spletni brskalnik, ki podpira vsebino HTML5.
+    javascript-required-ugc: 
     labels:
       by: od
       images: slike

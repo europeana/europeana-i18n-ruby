@@ -490,6 +490,7 @@ mt:
     help: Għinuna
     home: Paġna Primarja
     javascript-required: Biex taċċessa l-kontenut, jekk joġgħbok ħaddem il-JavaScript, u kkonsidra li tuża web browswer li jiflaħ kontenut ta' HTML5.
+    javascript-required-ugc: 
     labels:
       by: minn
       images: immaġni

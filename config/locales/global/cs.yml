@@ -488,6 +488,7 @@ cs:
     help: Nápověda
     home: Domů
     javascript-required: Chcete-li zobrazit tento obsah, aktivujte jazyk JavaScript a zvažte přechod na prohlížeč podporující obsah v jazyce HTML5.
+    javascript-required-ugc: 
     labels:
       by: autor
       images: obrázky

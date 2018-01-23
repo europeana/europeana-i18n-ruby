@@ -488,6 +488,7 @@ pt:
     help: Ajuda
     home: Início
     javascript-required: Para ver este conteúdo por favor active o JavaScript, e considere actualizar para um navegador que suporte conteúdo HTML5.
+    javascript-required-ugc: 
     labels:
       by: de
       images: imagens

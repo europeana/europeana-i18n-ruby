@@ -490,6 +490,7 @@ da:
     help: Hjælp
     home: Hjem
     javascript-required: 'For at kunne se dette indhold, venligst tillad brugen af Javascript og overvej at opgradere til en web browser, der støtter indhold fra HTML 5 '
+    javascript-required-ugc: 
     labels:
       by: af
       images: billeder

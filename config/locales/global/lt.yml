@@ -488,6 +488,7 @@ lt:
     help: Pagalba
     home: Pagrindinis
     javascript-required: Norėdami matyti šį turinį, įjunkite JavaScript bei apsvarstykite galimybę atnaujinti naršyklės versiją į tokią, kuri palaiko HTML5 turinį.
+    javascript-required-ugc: 
     labels:
       by: pagal
       images: nuotraukos

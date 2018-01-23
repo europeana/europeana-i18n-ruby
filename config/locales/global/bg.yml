@@ -488,6 +488,7 @@ bg:
     help: Помощ
     home: Начало
     javascript-required: За да видите това съдържание, моля разрешете ползването на JavaScript и обмислете инсталирането на браузер, който поддържа HTML5 съдържание.
+    javascript-required-ugc: 
     labels:
       by: от
       images: изображения

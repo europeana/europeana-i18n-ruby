@@ -488,6 +488,7 @@ ru:
     help: Помощь
     home: Домой
     javascript-required: Чтобы увидеть содержимое, пожалуйста, включите JavaScript в Вашем браузере и попробуйте обновить веб-браузер до версии, которая поддерживает HTML5.
+    javascript-required-ugc: 
     labels:
       by: 'Автор:'
       images: Изображения

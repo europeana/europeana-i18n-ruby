@@ -488,6 +488,7 @@ sv:
     help: Hjälp
     home: Hem
     javascript-required: För att se detta innehåll aktivera JavaScript och uppgradera till senare versioner av webbläsare som stödjer HTML5
+    javascript-required-ugc: 
     labels:
       by: av
       images: bilder

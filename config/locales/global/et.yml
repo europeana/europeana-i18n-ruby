@@ -490,6 +490,7 @@ et:
     help: Abi
     home: Avaleht
     javascript-required: Et näha seda sisu, luba palun JavaScript ja kaalu HTML5 toega veebilehitseja kasutuselevõttu.
+    javascript-required-ugc: 
     labels:
       by: poolt
       images: Pildid
