@@ -471,6 +471,7 @@ fi:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Galleriat
     genres: genret
     genres-chamber-music: Kamarimusiikko

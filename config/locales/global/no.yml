@@ -471,6 +471,7 @@
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Gallerier
     genres: sjangre
     genres-chamber-music: sjangre-kammermusikk

@@ -471,6 +471,7 @@ ro:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Galerii
     genres: genuri
     genres-chamber-music: Muzică de cameră

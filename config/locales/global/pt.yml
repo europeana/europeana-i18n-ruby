@@ -471,6 +471,7 @@ pt:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Galerias
     genres: géneros
     genres-chamber-music: Música de câmara

@@ -473,6 +473,7 @@ da:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Gallerier
     genres: genre
     genres-chamber-music: Kamer musik

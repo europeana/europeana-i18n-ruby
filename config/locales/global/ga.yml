@@ -473,6 +473,7 @@ ga:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Gailearaithe
     genres: seánraí
     genres-chamber-music: Ceol aireagail

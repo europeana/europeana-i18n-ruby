@@ -473,6 +473,7 @@ it:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Gallerie
     genres: Genere
     genres-chamber-music: Musica da camera

@@ -471,6 +471,7 @@ ru:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Галереи
     genres: Жанры
     genres-chamber-music: Камерная музыка

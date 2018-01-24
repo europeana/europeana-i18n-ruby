@@ -473,6 +473,7 @@ mt:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Galleries
     genres: tip
     genres-chamber-music: Mużika 'chamber'

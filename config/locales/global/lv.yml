@@ -471,6 +471,7 @@ lv:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Galerijas
     genres: žanri
     genres-chamber-music: Kamermūzika

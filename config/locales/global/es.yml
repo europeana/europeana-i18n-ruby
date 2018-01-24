@@ -473,6 +473,7 @@ es:
         blank: 
         date-past: 
         email: 
+        file-type: 
     galleries: Galerías
     genres: generos
     genres-chamber-music: 'Música de Cámara '
