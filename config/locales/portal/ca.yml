@@ -439,4 +439,5 @@ ca:
     ugc:
       actions:
         copy-name: 
+        copy-public-display-name: 
         submit: 

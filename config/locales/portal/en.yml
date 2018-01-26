@@ -429,5 +429,6 @@ en:
       title: Settings
     ugc:
       actions:
-        copy-name: Copy name
+        copy-name: Use my name
+        copy-public-display-name: Use my public display name
         submit: Submit

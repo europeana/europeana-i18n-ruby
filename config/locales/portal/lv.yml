@@ -431,4 +431,5 @@ lv:
     ugc:
       actions:
         copy-name: Kopēt vārdu
+        copy-public-display-name: 
         submit: Iesniegt
