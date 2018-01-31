@@ -98,6 +98,8 @@ sr:
         sneak-peek-collection: 
         spotlight-on: 
         whats-happening: 
+      migrations:
+        stories: 
       music:
         description: 
         title: 

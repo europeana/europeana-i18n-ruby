@@ -98,6 +98,8 @@ cs:
         sneak-peek-collection: Prozkoumejte titul <i>%{preview_title}</i> ve sbírce %{collection}
         spotlight-on: 'Zaměření na: '
         whats-happening: Co se děje
+      migrations:
+        stories: 
       music:
         description: <strong>Hudební kolekce Europeana</strong> přináší ty nejlepší hudební nahrávky, partitury a další kolekce hudby z evropských audiovizuálních sbírek, knihoven, archivů a muzeí. <a href="/portal/channels/music/about">Další informace o hudební kolekci</a>
         title: Hudba Europeana

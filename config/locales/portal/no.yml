@@ -98,6 +98,8 @@
         sneak-peek-collection: Utforsk <i>%{preview_title}</i> på %{collection}
         spotlight-on: Søkelys på
         whats-happening: Hva skjer
+      migrations:
+        stories: 
       music:
         description: ' <strong>Europeana musikksamling</strong> samler de beste musikkopptakene, noteark og annet materiale som er relatert til musikksamlinger fra Europas audio-visuelle arkiver, bibliotek, arkiv og museum. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>'
         title: Europeana Musikk

@@ -98,6 +98,8 @@ sl:
         sneak-peek-collection: Raziščite <i>%{preview_title}</i> v %{collection}
         spotlight-on: 'V žarišču '
         whats-happening: Kaj se dogaja
+      migrations:
+        stories: 
       music:
         description: <strong>Glasbena zbirka Europeana</strong> združuje vse najboljše glasbene posnetke, notne zapise in druge zbirke v zvezi z glasbo iz evropskih avdio-vizualnih arhivov, knjižnic, arhivov in muzejev. <a href="/portal/channels/music/about">Več informacij o glasbeni zbirki.</a>
         title: Glasba Europeana

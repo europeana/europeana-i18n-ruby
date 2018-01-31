@@ -98,6 +98,8 @@ it:
         sneak-peek-collection: Esplora <i>%{preview_title}</i> su %{collection}
         spotlight-on: Riflettori su
         whats-happening: Che cos'è in corso
+      migrations:
+        stories: 
       music:
         description: La collezione musicale di Europeana riunisce le migliori registrazioni musicali, spartiti ed altre raccolte musicali provenienti da archivi audiovisivi, biblioteche, archivi e musei europei. Scopri di più sul canale musicale.
         title: Europeana Musica

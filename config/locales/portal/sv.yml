@@ -98,6 +98,8 @@ sv:
         sneak-peek-collection: Upptäck <i>%{preview_title}</i> i %{collection}
         spotlight-on: 'Strålkastare på '
         whats-happening: Vad händer
+      migrations:
+        stories: 
       music:
         description: <strong>Europeana Music Collection</strong>samlar de bästa musikinspelningarna, noterna och andra musikrelaterade samlingar från Europas audiovisuella arkiv, bibliotek, arkiv och museer. <a href="/portal/channels/music/about">Läs mer om Music Collection.</a>
         title: Europeana Music
