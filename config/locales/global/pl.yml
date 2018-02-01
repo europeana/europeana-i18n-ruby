@@ -467,6 +467,8 @@ pl:
     follow-channel: Śledź %{channel}
     forgot-password: Nie pamiętam hasła.
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

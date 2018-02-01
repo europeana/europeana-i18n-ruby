@@ -467,6 +467,8 @@ fr:
     follow-channel: Suivre %{channel}
     forgot-password: Vous avez oublié votre mot de passe ?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

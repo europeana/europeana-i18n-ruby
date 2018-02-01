@@ -467,6 +467,8 @@ bg:
     follow-channel: Следвайте %{channel}
     forgot-password: Забравена парола?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

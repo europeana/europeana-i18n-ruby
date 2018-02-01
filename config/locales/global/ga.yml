@@ -469,6 +469,8 @@ ga:
     follow-channel: Lean %{channel}
     forgot-password: Dearmad ar do phasfhocal?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

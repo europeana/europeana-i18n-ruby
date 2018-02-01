@@ -467,6 +467,8 @@ et:
     follow-channel: Jälgi kanalit %{channel}
     forgot-password: Unustasid parooli?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

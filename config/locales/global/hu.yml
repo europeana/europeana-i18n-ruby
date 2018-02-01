@@ -467,6 +467,8 @@ hu:
     follow-channel: "%{channel} követése"
     forgot-password: Elfelejtetted a jelszavad?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

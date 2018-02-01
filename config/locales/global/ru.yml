@@ -467,6 +467,8 @@ ru:
     follow-channel: Следите за %{channel}
     forgot-password: Забыли пароль?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

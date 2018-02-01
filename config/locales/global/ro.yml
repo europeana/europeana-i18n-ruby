@@ -467,6 +467,8 @@ ro:
     follow-channel: Urmărire %{channel}
     forgot-password: Parola uitată?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

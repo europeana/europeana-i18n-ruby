@@ -467,6 +467,8 @@ lv:
     follow-channel: Sekot %{channel}
     forgot-password: Aizmirsi savu paroli?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

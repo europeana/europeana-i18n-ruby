@@ -467,6 +467,8 @@
     follow-channel: Følg %{channel}
     forgot-password: glemt-passord
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

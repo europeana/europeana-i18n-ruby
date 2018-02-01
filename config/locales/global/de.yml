@@ -469,6 +469,8 @@ de:
     follow-channel: "%{channel} folgen"
     forgot-password: Haben Sie Ihr Passwort vergessen?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

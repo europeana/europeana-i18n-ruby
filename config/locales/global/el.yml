@@ -467,6 +467,8 @@ el:
     follow-channel: Ακολουθήστε %{channel}
     forgot-password: Ξεχάσατε τον κωδικό σας
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

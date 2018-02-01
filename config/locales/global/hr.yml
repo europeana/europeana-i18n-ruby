@@ -467,6 +467,8 @@ hr:
     follow-channel: Slijedite %{channel}
     forgot-password: Zaboravili ste lozinku?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

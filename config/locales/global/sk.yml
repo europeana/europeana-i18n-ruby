@@ -467,6 +467,8 @@ sk:
     follow-channel: Sledovať %{channel}
     forgot-password: Zabudli ste svoje heslo?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

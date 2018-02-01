@@ -467,6 +467,8 @@ bs:
     follow-channel: 
     forgot-password: 
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

@@ -467,6 +467,8 @@ pt:
     follow-channel: Seguir %{channel}
     forgot-password: Esqueceu-se da palavra-passe?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

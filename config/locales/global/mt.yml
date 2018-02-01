@@ -469,6 +469,8 @@ mt:
     follow-channel: Segwi %{channel}
     forgot-password: Insejt il-password?
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 

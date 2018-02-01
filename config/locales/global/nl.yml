@@ -467,6 +467,8 @@ nl:
     follow-channel: Volg %{channel}
     forgot-password: 'Wachtwoord kwijt? '
     forms:
+      hints:
+        required-fields: 
       validation-errors:
         blank: 
         date-past: 
