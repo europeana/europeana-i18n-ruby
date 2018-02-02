@@ -468,7 +468,7 @@ en:
     forgot-password: Forgot your password?
     forms:
       hints:
-        required-fields: "* Required fields"
+        required-fields: Required fields
       validation-errors:
         blank: Please enter a value
         date-past: Please select a valid date that has already occurred
