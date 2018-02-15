@@ -99,8 +99,6 @@ cs:
         spotlight-on: 'Zaměření na: '
         whats-happening: Co se děje
       migrations:
-        age-confirm: 
-        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

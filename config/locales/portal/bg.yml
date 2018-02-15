@@ -99,8 +99,6 @@ bg:
         spotlight-on: Фокус върху
         whats-happening: Какво се случва
       migrations:
-        age-confirm: 
-        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

@@ -99,8 +99,6 @@ en:
         spotlight-on: 'Spotlight on '
         whats-happening: What's happening
       migrations:
-        age-confirm: I am over 16 years old
-        age-consent-confirm: I am under 16 years of age and my parents have expressed doumented consent that I can submit this form
         stories: Stories
         subtitle: Share stories of your family and the people around you.
       music:
