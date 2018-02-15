@@ -99,6 +99,8 @@ sk:
         spotlight-on: 'Upozornenie na '
         whats-happening: Čo sa deje
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

@@ -99,6 +99,8 @@ fi:
         spotlight-on: Valokeilassa
         whats-happening: Mitä tapahtuu
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

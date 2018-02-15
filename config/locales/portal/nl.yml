@@ -99,6 +99,8 @@ nl:
         spotlight-on: In de spotlight
         whats-happening: Wat gebeurt er
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

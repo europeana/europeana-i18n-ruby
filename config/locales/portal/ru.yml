@@ -99,6 +99,8 @@ ru:
         spotlight-on: В центре внимания
         whats-happening: Что происходит
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

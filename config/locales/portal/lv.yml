@@ -99,6 +99,8 @@ lv:
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

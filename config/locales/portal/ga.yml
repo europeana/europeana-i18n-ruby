@@ -107,6 +107,8 @@ ga:
         spotlight-on: Spotsolas ar
         whats-happening: Cad atá ag tarlú
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

@@ -99,6 +99,8 @@ el:
         spotlight-on: Ενεργοποίηση Spotlight
         whats-happening: Τι συμβαίνει
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:

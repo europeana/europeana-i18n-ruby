@@ -99,6 +99,8 @@ es:
         spotlight-on: Destacados
         whats-happening: Qué está pasando
       migrations:
+        age-confirm: 
+        age-consent-confirm: 
         stories: 
         subtitle: 
       music:
