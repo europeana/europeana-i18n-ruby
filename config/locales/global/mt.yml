@@ -473,6 +473,7 @@ mt:
         required-fields: 
       validation-errors:
         blank: 
+        confirmation-required: 
         date-past: 
         email: 
         file-type: 
