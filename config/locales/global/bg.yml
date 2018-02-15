@@ -642,6 +642,11 @@ bg:
   'no': Норвегия
   pl: Португалия
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

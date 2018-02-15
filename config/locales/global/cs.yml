@@ -644,6 +644,11 @@ cs:
   'no': Norsko
   pl: Portugalsko
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

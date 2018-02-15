@@ -642,6 +642,11 @@ sr:
   'no': 
   pl: 
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

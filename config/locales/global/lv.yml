@@ -642,6 +642,11 @@ lv:
   'no': Norvēģija
   pl: Portugāle
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

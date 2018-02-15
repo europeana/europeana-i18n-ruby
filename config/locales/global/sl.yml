@@ -644,6 +644,11 @@ sl:
   'no': Norveška
   pl: Portugalska
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

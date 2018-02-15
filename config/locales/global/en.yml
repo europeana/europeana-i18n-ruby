@@ -644,6 +644,11 @@ en:
   'no': Norway
   pl: Portugal
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: I am over 16 years old
+          age-consent-confirm: I am under 16 years of age and my parents have expressed doumented consent that I can submit this form
     facet:
       language:
         show:

@@ -642,6 +642,11 @@ ca:
   'no': Noruega
   pl: Portugal
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

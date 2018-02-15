@@ -648,6 +648,11 @@ ga:
   'no': An Iorua
   pl: An Phortaingéil
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:

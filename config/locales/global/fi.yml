@@ -642,6 +642,11 @@ fi:
   'no': Norja
   pl: Portugali
   site:
+    campaigns:
+      migration:
+        form:
+          age-confirm: 
+          age-consent-confirm: 
     facet:
       language:
         show:
