@@ -476,6 +476,7 @@ en:
         date-past: Please select a valid date that has already occurred
         email: Please ensure you have typed a correct email address
         file-type: 'This file format is not one of the following: %{allowed_types}'
+        user-age: Sorry, you must be over 16 years of age to participate
     galleries: Galleries
     genres: genres
     genres-chamber-music: Chamber music
