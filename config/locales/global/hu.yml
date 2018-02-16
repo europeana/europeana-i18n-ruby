@@ -472,6 +472,7 @@ hu:
       validation-errors:
         blank: 
         confirmation-required: 
+        date-format: 
         date-past: 
         email: 
         file-type: 
