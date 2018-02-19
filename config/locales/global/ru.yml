@@ -471,11 +471,13 @@ ru:
         required-fields: 
       validation-errors:
         blank: 
+        conditions-understood: 
         confirmation-required: 
         date-format: 
         date-past: 
         email: 
         file-type: 
+        submission-terms: 
         user-age: 
     galleries: Галереи
     genres: Жанры
@@ -652,6 +654,8 @@ ru:
         form:
           age-confirm: 
           age-consent-confirm: 
+          user-can-remove-data: 
+          user-policy: 
     facet:
       language:
         show:
