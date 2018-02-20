@@ -479,6 +479,7 @@ pl:
         file-type: 
         submission-terms: 
         user-age: 
+        user-age-consent: 
     galleries: Galerie
     genres: gatunki
     genres-chamber-music: Muzyka kameralna

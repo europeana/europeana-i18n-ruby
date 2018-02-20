@@ -481,6 +481,7 @@ it:
         file-type: 
         submission-terms: 
         user-age: 
+        user-age-consent: 
     galleries: Gallerie
     genres: Genere
     genres-chamber-music: Musica da camera

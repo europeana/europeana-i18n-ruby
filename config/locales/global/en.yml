@@ -479,6 +479,7 @@ en:
         file-type: 'This file format is not one of the following: %{allowed_types}'
         submission-terms: You must agree to these terms in order to make a submission
         user-age: Sorry, you must be over 16 years of age to participate
+        user-age-consent: Sorry, you must be over 16 years of age or have parental/guardian consent to participate
     galleries: Galleries
     genres: genres
     genres-chamber-music: Chamber music
