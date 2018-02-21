@@ -479,6 +479,7 @@ da:
         date-past: 
         email: 
         file-type: 
+        form-has-errors: 
         submission-terms: 
         user-age: 
         user-age-consent: 

@@ -477,6 +477,7 @@ en:
         date-past: Please select a valid date that has already occurred
         email: Please ensure you have typed a correct email address
         file-type: 'This file format is not one of the following: %{allowed_types}'
+        form-has-errors: Please ensure you have filled in all details correctly and try submitting again
         submission-terms: You must agree to these terms in order to make a submission
         user-age: Sorry, you must be over 16 years of age to participate
         user-age-consent: Sorry, you must be over 16 years of age or have parental/guardian consent to participate
