@@ -657,7 +657,7 @@ en:
           age-confirm: I am over 16 years old
           age-consent-confirm: I am under 16 years of age and my parents have expressed doumented consent that I can submit this form
           user-can-remove-data: I understand that my submitted data will be used to display my story online, and I have the right to request it being removed at any time by contacting <a href="mailto:%{email}">%{email}</a>
-          user-policy: I accept the terms of the Europeana User-Generated-Content policy available <a href="%{href}" target="_blank">here</a>
+          user-policy: I accept the terms of the <a href="%{href}" target="_blank">Europeana User-Generated-Content policy available here</a>
     facet:
       language:
         show:
