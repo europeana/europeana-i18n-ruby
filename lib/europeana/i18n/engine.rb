@@ -6,8 +6,9 @@ module Europeana
       engine_name 'europeana_i18n'
 
       # TODO: make it optional which locale sets are included
-      paths['config/locales'] << 'config/locales/global'
-      paths['config/locales'] << 'config/locales/portal'
+      %w(contribute global portal).each do |dir|
+        paths['config/locales'] << "config/locales/#{dir}"
+      end
     end
   end
 end
