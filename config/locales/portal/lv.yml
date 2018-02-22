@@ -98,9 +98,6 @@ lv:
         sneak-peek-collection: Aplūkot <i>%{preview_title}</i> %{collection}
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
-      migrations:
-        stories: 
-        subtitle: 
       music:
         description: <strong>Europeana Mūzikas kolekcija</strong> apkopo labākos mūzikas ierakstus, notis, un citas ar mūziku saistītas kolekcijas no Eiropas arhīviem, bibliotēkām, muzejiem un audiovizuālajiem arhīviem. <a href="/portal/channels/music/about">Uzziniet vairāk par Mūzikas kolekciju.</a>
         title: Europeana mūzika

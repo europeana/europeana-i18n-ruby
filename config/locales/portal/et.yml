@@ -98,9 +98,6 @@ et:
         sneak-peek-collection: Uuri <i>%{preview_title}</i> kollektsioonis %{collection}
         spotlight-on: Esile tõstetud
         whats-happening: Mis toimub
-      migrations:
-        stories: 
-        subtitle: 
       music:
         description: <strong>Europeana Muusikakogu</strong> toob ühte kohta kokku parimad salvestised, noodilehed ja muu muusikaga seotu kõikidest euroopa audiovisuaalarhiividest, raamatukogudest ja muuseumidest.<a href="/portal/channels/music/about">Tutvu kanaliga "Muusika" lähemalt</a>
         title: Europeana Muusika

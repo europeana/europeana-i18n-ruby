@@ -98,9 +98,6 @@ da:
         sneak-peek-collection: Udforsk <i>%{preview_title}</i> på %{collection}
         spotlight-on: Fokus på
         whats-happening: Hvad sker der
-      migrations:
-        stories: 
-        subtitle: 
       music:
         description: <strong>Europeanas Musiksamling</strong> samler de bedste musikoptagelser, partiturer og andre musikrelaterede genstande fra Europas audiovisuelle arkiver, biblioteker og museer. <a href="/portal/channels/music/about">Find ud af mere om Musiksamling.</a>
         title: Europeana Musik

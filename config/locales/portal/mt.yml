@@ -98,9 +98,6 @@ mt:
         sneak-peek-collection: Ibbrawżja <i>%{preview_title}</i> dwar %{collection}
         spotlight-on: Il-Lenti mixgħul
         whats-happening: X'qed jiġri
-      migrations:
-        stories: 
-        subtitle: 
       music:
         description: Il-<strong>Kollezzjoni tal-Mużika tal-Europeana</strong> tiġbor l-isbaħ rikordji ta' mużika, mużika miktuba, u aktar affarijiet relatati lejn il-kollezzjonijiet minn arkivji Ewropej tal-awdjo viswali, libreriji, arkivji u mużewijiet. <a href="/portal/channels/music/about">Skopri aktar informazzjoni dwar il-Kollezzjoni tal-Mużika.
         title: Mużika tal-Europeana

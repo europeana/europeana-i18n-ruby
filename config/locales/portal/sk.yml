@@ -98,9 +98,6 @@ sk:
         sneak-peek-collection: Preskúmajte <i>%{preview_title}</i> na %{collection}
         spotlight-on: 'Upozornenie na '
         whats-happening: Čo sa deje
-      migrations:
-        stories: 
-        subtitle: 
       music:
         description: <strong>Hudobná zbierka Europeana </strong> je súborom najlepších hudobných nahrávok, notových listov a iných hudby sa týkajúcich zbierok z európskych audiovizuálnych archívov, knižníc, archívov a múzeí. <a href="/portal/channels/music/about">Zistite si viac o hudobnej zbierke.</a>
         title: Hudba Europeana

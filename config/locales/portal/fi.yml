@@ -98,9 +98,6 @@ fi:
         sneak-peek-collection: Tutki kohdetta <i>%{preview_title}</i> kokoelmassa %{collection}
         spotlight-on: Valokeilassa
         whats-happening: Mitä tapahtuu
-      migrations:
-        stories: 
-        subtitle: 
       music:
         description: <strong>Europeanan Musiikkikokoelma</strong> tuo yhteen parhaat musiikkitallenteet, nuotit, ja muut musiikkiaiheiset kokoelmat Euroopan audiovisuaalisista arkistoista, kirjastoista ja museoista. <a href="/portal/channels/music/about">Lisätietoa Musiikkikokoelma.</a>
         title: Europeana Musiikki
