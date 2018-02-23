@@ -51,6 +51,9 @@ en:
                 owl_sameAs:
                   begin: Where did the migration begin?
                   end: Where did the migration end?
+            story:
+              age_confirm: I am over 16 years old
+              guardian_consent: I am under 16 years of age and my parents have expressed documented consent that I can submit this form
           legends:
             all_objects: Add your objects
             contributor: About you
