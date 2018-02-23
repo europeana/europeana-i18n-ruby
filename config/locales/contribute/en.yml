@@ -24,8 +24,8 @@ en:
             edm_aggregatedCHO:
               edm_wasPresentAt: 'No'
           labels:
-            dc_creator: Who created this item?
             defaults:
+              dc_creator: Who created this item?
               dc_description: What is this object?
               dc_type: What kind of item is this?
               dcterms_created: When was this item created?
