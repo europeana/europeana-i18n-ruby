@@ -2,12 +2,7 @@ en:
   contribute:
     campaigns:
       migration:
-        begin_link:
-          text: Share
-          text_long: Share your story
-        call_to_action: We invite you to contribute stories relating to European migration in your family history.
         closing_remark: Closing remark to emphasise the importance of sharing... may not be needed
-        description: Sharing your own personal migration history can help us to tell a really big story - the story of Europe and the people who live here. We invite you to <strong>share your story</strong> - through objects like pictures, letters, postcards or recipes - with <strong>Europeana Migration</strong> at one of our collection days or by visiting our website.
         form:
           buttons:
             agent:
@@ -80,8 +75,21 @@ en:
             flash:
               success: Thank you for your contribution!
           index:
-            begin_link: Tell your story...
+            begin_link:
+              text: Share
+              text_long: Share your story
             call_to_action: We invite you to contribute stories relating to European migration in your family history.
+            description: Sharing your own personal migration history can help us to tell a really big story - the story of Europe and the people who live here. We invite you to <strong>share your story</strong> - through objects like pictures, letters, postcards or recipes - with <strong>Europeana Migration</strong> at one of our collection days or by visiting our website.
+            preview_1:
+              caption: Pocket watch | Cloesen, Barent van der. Rijksmuseum. Public Domain
+              text: These objects are important parts of your heritage and recording and digitising them is easier than you might think. Once it’s done, they will become part of the Europeana Migration Collection.
+            preview_2:
+              caption: Avfotografert postkort som ble sendt fra emigrerte vadsøværinger i USA til slekt og venner i Norge. Finnmark Fylkesbibliotek. Public Domain
+              text: Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future, and made freely available for anyone to discover and use for education, research, inspiration and pleasure.
+            preview_3:
+              button_text: Read more about Marijke's story
+              caption: Marijke's Photo | Europeana.  Public Domain
+              text: For an international day at my school in Senegal when I was about 6, my mother dressed my brother like the Ghanian flag - she was from Ghana - and me like the Dutch flag - my father is Dutch.
             title: Migration
           new:
             subtitle: Share stories of your family and the people around you.
@@ -89,16 +97,6 @@ en:
           update:
             flash:
               success: Contribution saved.
-        preview_1:
-          caption: Pocket watch | Cloesen, Barent van der. Rijksmuseum. Public Domain
-          text: These objects are important parts of your heritage and recording and digitising them is easier than you might think. Once it’s done, they will become part of the Europeana Migration Collection.
-        preview_2:
-          caption: Avfotografert postkort som ble sendt fra emigrerte vadsøværinger i USA til slekt og venner i Norge. Finnmark Fylkesbibliotek. Public Domain
-          text: Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future, and made freely available for anyone to discover and use for education, research, inspiration and pleasure.
-        preview_3:
-          button_text: Read more about Marijke's story
-          caption: Marijke's Photo | Europeana.  Public Domain
-          text: For an international day at my school in Senegal when I was about 6, my mother dressed my brother like the Ghanian flag - she was from Ghana - and me like the Dutch flag - my father is Dutch.
     helpers:
       submit:
         story:
