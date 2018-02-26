@@ -69,6 +69,9 @@ en:
           placeholders:
             edm_aggregatedCHO:
               dc_description: Details here...
+          validation:
+            errors:
+              age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
         hero:
           attribution_text: This is a placeholder image found somewhere
           subtitle: We all have objects to share and stories to tell about where we've come from and what's shaped our lives.  For many of us, that involves our family's stories of migration and immigration.
