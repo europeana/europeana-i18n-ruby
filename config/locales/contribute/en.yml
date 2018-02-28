@@ -53,6 +53,8 @@ en:
                   end: Where did the migration end?
             story:
               age_confirm: I am over 16 years old
+              content_policy_accept: I accept the terms of the <a href="%{href}" target="_blank">Europeana User-Generated-Content policy available here</a>
+              display_and_takedown_accept: I understand that my submitted data will be used to display my story online, and I have the right to request it being removed at any time by contacting <a href="mailto:%{email}">%{email}</a>
               guardian_consent: I am under 16 years of age and my parents have expressed documented consent that I can submit this form
           legends:
             all_objects: Add your objects
@@ -65,6 +67,8 @@ en:
               dc_description: Details here...
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
+            content-policy-accept: You must agree to these terms in order to make a submission
+            display-and-takedown-accept: You must check the above box to make it clear that you have understood
         pages:
           create:
             flash:
