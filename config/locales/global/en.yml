@@ -471,14 +471,12 @@ en:
         required-fields: Required fields
       validation-errors:
         blank: Please enter a value
-        conditions-understood: You must check the above box to make it clear you have understood
         confirmation-required: Please confirm
         date-format: Please enter a valid date
         date-past: Please select a valid date that has already occurred
         email: Please ensure you have typed a correct email address
         file-type: 'This file format is not one of the following: %{allowed_types}'
         form-has-errors: Please ensure you have filled in all details correctly and try submitting again
-        submission-terms: You must agree to these terms in order to make a submission
         user-age: Sorry, you must be over 16 years of age to participate
         user-age-consent: Sorry, you must be over 16 years of age or have parental/guardian consent to participate
     galleries: Galleries
@@ -651,13 +649,6 @@ en:
   'no': Norway
   pl: Portugal
   site:
-    campaigns:
-      migration:
-        form:
-          age-confirm: I am over 16 years old
-          age-consent-confirm: I am under 16 years of age and my parents have expressed doumented consent that I can submit this form
-          user-can-remove-data: I understand that my submitted data will be used to display my story online, and I have the right to request it being removed at any time by contacting <a href="mailto:%{email}">%{email}</a>
-          user-policy: I accept the terms of the <a href="%{href}" target="_blank">Europeana User-Generated-Content policy available here</a>
     facet:
       language:
         show:

@@ -471,14 +471,12 @@ bg:
         required-fields: 
       validation-errors:
         blank: 
-        conditions-understood: 
         confirmation-required: 
         date-format: 
         date-past: 
         email: 
         file-type: 
         form-has-errors: 
-        submission-terms: 
         user-age: 
         user-age-consent: 
     galleries: Галерии
@@ -649,13 +647,6 @@ bg:
   'no': Норвегия
   pl: Португалия
   site:
-    campaigns:
-      migration:
-        form:
-          age-confirm: 
-          age-consent-confirm: 
-          user-can-remove-data: 
-          user-policy: 
     facet:
       language:
         show:
