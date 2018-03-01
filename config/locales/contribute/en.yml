@@ -69,8 +69,8 @@ en:
             story: Your story
             subject_agent: Who is the story about?
           placeholders:
-            dc_subject_agent:
-              name: For example. John Smith, Marie Dubois
+            dc_subject_agents:
+              foaf_name: For example. John Smith, Marie Dubois
             dcterms_spatial_places:
               owl_sameAs: E.g. Italy, Syria, Ecuador
             defaults:
