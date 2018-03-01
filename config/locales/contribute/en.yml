@@ -11,10 +11,10 @@ en:
               add: Add a new object
               remove: Remove this object
           hints:
-            default:
-              dc_creator_agent: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
             defaults:
+              dc_creator_agent: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
               dcterms_created: If you are not sure, please choose an approximate date.
+              media: You can illustrate your story with more than one object.
             edm_aggregatedCHO:
               dc_contributor_agent:
                 foaf_mbox: This will <strong>not</strong> be displayed anywhere
