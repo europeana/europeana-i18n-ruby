@@ -34,7 +34,7 @@ en:
               dc_creator: Who created this item?
               dc_description: What is this object?
               dc_type: What kind of item is this?
-              dcterms_created: 'Give your object a title:'
+              dcterms_created: Give your object a title
               edm_currentLocation: Where is this item at the moment?
               edm_wasPresentAt: Are you at a Europeana Migration Collection Day?
               rdaGr2_dateOfBirth: Date of birth
@@ -51,7 +51,7 @@ en:
               dc_language: What language is your story in?
               dc_subject: What topic or theme does this object cover?
               dc_subject_agents:
-                foaf_name: What is their or your name?
+                foaf_name: 'Enter a name:'
               dc_title: Give your story a title
               dcterms_spatial: Where did the migration take place?
             story:
@@ -67,13 +67,13 @@ en:
             subject_agent: Who is the story about?
           placeholders:
             dc_subject_agents:
-              foaf_name: " E.g. John Smith, Marie Dubois"
+              foaf_name: 'For example: John Smith, Marie Dubois'
             defaults:
-              dc_type: E.g. Drawing, furniture, sound recording, toy, photograph
+              dc_type: 'For example: Drawing, furniture, sound recording, toy, photograph'
             edm_aggregatedCHO:
-              dc_description: E.g. ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’
-              dc_title: E.g. My grandfather’s moneybox. My great aunt’s watch.
-              dcterms_spatial: E.g. Italy, Syria, Ecuador
+              dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
+              dc_title: 'For example: My grandfather’s moneybox. My great aunt’s watch.'
+              dcterms_spatial: 'For example: Italy, Syria, Ecuador'
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
             content-policy-accept: You must agree to these terms in order to make a submission
