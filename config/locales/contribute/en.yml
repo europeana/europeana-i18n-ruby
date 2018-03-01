@@ -11,15 +11,17 @@ en:
               add: Add a new object
               remove: Remove this object
           hints:
-            dc_creator_agent: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
-            dc_language: Please choose a language from this list.
-            dc_subject: Choose a keyword to help people find this story.  Once you start typing, we’ll show you suggestions for what you can choose.
-            dcterms_created: If you are not sure, please choose an approximate date.
+            default:
+              dc_creator_agent: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
+            defaults:
+              dcterms_created: If you are not sure, please choose an approximate date.
             edm_aggregatedCHO:
               dc_contributor_agent:
                 foaf_mbox: This will <strong>not</strong> be displayed anywhere
                 foaf_name: This will <strong>not</strong> be displayed anywhere
                 skos_prefLabel: This will be displayed alongside your submission
+              dc_language: Please choose a language from this list.
+              dc_subject: Choose a keyword to help people find this story.  Once you start typing, we’ll show you suggestions for what you can choose.
             edm_hasView:
               media: The content must be of type image or audio
             edm_isShownBy:
@@ -69,11 +71,13 @@ en:
           placeholders:
             dc_subject_agent:
               name: For example. John Smith, Marie Dubois
-            dc_title: E.g. My grandfather’s moneybox. My great aunt’s watch.
-            dc_type: E.g. Drawing, furniture, sound recording, toy, photograph
-            dcterms_place: E.g. Italy, Syria, Ecuador
+            dcterms_spatial_places:
+              owl_sameAs: E.g. Italy, Syria, Ecuador
+            defaults:
+              dc_type: E.g. Drawing, furniture, sound recording, toy, photograph
             edm_aggregatedCHO:
               dc_description: Details here...
+              dc_title: E.g. My grandfather’s moneybox. My great aunt’s watch.
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
             content-policy-accept: You must agree to these terms in order to make a submission
