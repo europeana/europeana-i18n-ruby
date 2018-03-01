@@ -53,10 +53,7 @@ en:
               dc_subject_agents:
                 foaf_name: What is their or your name?
               dc_title: Give your story a title
-              dcterms_spatial_places:
-                owl_sameAs:
-                  begin: Where did the migration begin?
-                  end: Where did the migration end?
+              dcterms_spatial: Where did the migration take place?
             story:
               age_confirm: I am over 16 years old
               content_policy_accept: I accept the terms of the <a href="%{href}" target="_blank">Europeana User-Generated-Content policy available here</a>
