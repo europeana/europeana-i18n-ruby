@@ -5,23 +5,23 @@ en:
         form:
           buttons:
             agent:
-              add: Add a new person
+              add: Add another person to this story
               remove: Remove this person
             object:
-              add: Add a new object
+              add: Add another object to this story
               remove: Remove this object
           hints:
             defaults:
-              dc_creator: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
+              dc_creator: E.g. Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
               dcterms_created: If you are not sure, please choose an approximate date.
               media: You can illustrate your story with more than one object.
             edm_aggregatedCHO:
               dc_contributor_agent:
-                foaf_mbox: This will <strong>not</strong> be displayed anywhere
-                foaf_name: This will <strong>not</strong> be displayed anywhere
+                foaf_mbox: "This will <strong>not</strong> be displayed anywhere. \nWe will use this to communicate with you if we need to edit or unpublish your story. This will not be shared online."
+                foaf_name: 'This will <strong>not</strong> be displayed anywhere. '
                 skos_prefLabel: This will be displayed alongside your submission
               dc_language: Please choose a language from this list.
-              dc_subject: Choose a keyword to help people find this story.  Once you start typing, we’ll show you suggestions for what you can choose.
+              dc_subject: Choose a keyword to help people find this story. Once you start typing, we’ll show you suggestions for what you can choose.
             edm_hasView:
               media: The content must be of type image or audio
             edm_isShownBy:
@@ -34,9 +34,9 @@ en:
               dc_creator: Who created this item?
               dc_description: What is this object?
               dc_type: What kind of item is this?
-              dcterms_created: When was this item created?
+              dcterms_created: 'Give your object a title:'
               edm_currentLocation: Where is this item at the moment?
-              edm_wasPresentAt: Are you at a collection day?
+              edm_wasPresentAt: Are you at a Europeana Migration Collection Day?
               rdaGr2_dateOfBirth: Date of birth
               rdaGr2_dateOfDeath: Date of death
               rdaGr2_placeOfBirth: Place of birth
@@ -48,7 +48,7 @@ en:
                 skos_prefLabel: Public display name
               dc_description: Tell or describe your story
               dc_identifier: Enter a ticket number if provided
-              dc_language: What language will you be answering in?
+              dc_language: What language is your story in?
               dc_subject: What topic or theme does this object cover?
               dc_subject_agents:
                 foaf_name: What is their or your name?
@@ -70,13 +70,13 @@ en:
             subject_agent: Who is the story about?
           placeholders:
             dc_subject_agents:
-              foaf_name: For example. John Smith, Marie Dubois
+              foaf_name: " E.g. John Smith, Marie Dubois"
             dcterms_spatial_places:
               owl_sameAs: E.g. Italy, Syria, Ecuador
             defaults:
               dc_type: E.g. Drawing, furniture, sound recording, toy, photograph
             edm_aggregatedCHO:
-              dc_description: Details here...
+              dc_description: E.g. ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’
               dc_title: E.g. My grandfather’s moneybox. My great aunt’s watch.
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
@@ -109,8 +109,8 @@ en:
               text: For an international day at my school in Senegal when I was about 6, my mother dressed my brother like the Ghanian flag - she was from Ghana - and me like the Dutch flag - my father is Dutch.
             title: Migration
           new:
-            subtitle: Share stories of your family and the people around you.
-            title: My Migration Contribution
+            subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of the Europeana Migration Collection.
+            title: Share your migration story
           update:
             flash:
               success: Contribution saved.
