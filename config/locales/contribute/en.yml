@@ -12,7 +12,7 @@ en:
               remove: Remove this object
           hints:
             defaults:
-              dc_creator_agent: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
+              dc_creator: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
               dcterms_created: If you are not sure, please choose an approximate date.
               media: You can illustrate your story with more than one object.
             edm_aggregatedCHO:
