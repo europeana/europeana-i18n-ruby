@@ -61,9 +61,9 @@ en:
               guardian_consent: I am under 16 years of age and my parents have expressed documented consent that I can submit this form
           legends:
             all_objects: Add your objects
+            contribution: Your contribution
             contributor: About you
             each_object: Object %{number}
-            story: Your story
             subject_agent: Who is the story about?
           placeholders:
             dc_subject_agents:
