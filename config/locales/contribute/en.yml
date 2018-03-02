@@ -110,6 +110,11 @@ en:
           update:
             flash:
               success: Contribution saved.
+    contributions:
+      events:
+        publish: Publish
+        unpublish: Unpublish
+        wipe: Delete
     helpers:
       submit:
         story:
