@@ -115,6 +115,13 @@ en:
         publish: Publish
         unpublish: Unpublish
         wipe: Delete
+    form:
+      hints:
+        story:
+          aasm_state: 'Current state: %{state}.'
+      labels:
+        story:
+          aasm_state: Change publication state
     helpers:
       submit:
         story:
