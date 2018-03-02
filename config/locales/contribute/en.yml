@@ -115,6 +115,10 @@ en:
         publish: Publish
         unpublish: Unpublish
         wipe: Delete
+      states:
+        deleted: Deleted
+        draft: Draft
+        published: Published
     form:
       hints:
         story:
