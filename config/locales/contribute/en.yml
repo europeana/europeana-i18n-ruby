@@ -41,6 +41,7 @@ en:
               dc_type: What kind of item is this?
               dcterms_created: When was this object created?
               edm_currentLocation: Where is this item at the moment?
+              edm_rights: "Please select the most appropriate option for your object. \n"
               edm_wasPresentAt: Are you at a Europeana Migration Collection Day?
               rdaGr2_dateOfBirth: Date of birth
               rdaGr2_dateOfDeath: Date of death
@@ -59,6 +60,21 @@ en:
                 foaf_name: 'Enter a name:'
               dc_title: Give your story a title
               dcterms_spatial: Where did the migration take place?
+            edm_web_resource:
+              copyright_not_evaluated:
+                description: I don’t know who created this object or I do not have explicit permission to share it
+                explanation: This means:<ul><li>The copyright in this object has not been evaluated.</li><li>Anyone using the object must undertake their own due diligence.</li></ul>
+              edm_rights:
+                creative_commons_attribution_share_alike:
+                  description: 'I created this object, or I have permission from the person who created it to share it
+
+'
+                  explanation: This means:<ul><li>This object is shared under a licence that allows free reuse, by anyone, for any purpose.</li><li>Anyone using the object must provide clear attribution and share any modifications they make under the same terms.</li></ul>
+                public_domain:
+                  description: " The object I am sharing is over 140 years old"
+                  explanation: 'This means:<ul><li>This object is no longer protected by copyright.</li><li>Anyone can share and reuse your object.</li></ul>
+
+'
           legends:
             all_objects: Add your objects
             contribution: Your contribution
@@ -78,6 +94,7 @@ en:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
             content-policy-accept: You must agree to these terms in order to make a submission
             display-and-takedown-accept: You must check the above box to make it clear that you have understood
+            web-resource-license: Please choose one of the above licenses
         pages:
           create:
             flash:
