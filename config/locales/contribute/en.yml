@@ -61,10 +61,10 @@ en:
               dc_title: Give your story a title
               dcterms_spatial: Where did the migration take place?
             edm_web_resource:
-              copyright_not_evaluated:
-                description: I don’t know who created this object or I do not have explicit permission to share it
-                explanation: This means:<ul><li>The copyright in this object has not been evaluated.</li><li>Anyone using the object must undertake their own due diligence.</li></ul>
               edm_rights:
+                copyright_not_evaluated:
+                  description: I don’t know who created this object or I do not have explicit permission to share it
+                  explanation: This means:<ul><li>The copyright in this object has not been evaluated.</li><li>Anyone using the object must undertake their own due diligence.</li></ul>
                 creative_commons_attribution_share_alike:
                   description: 'I created this object, or I have permission from the person who created it to share it
 
