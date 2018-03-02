@@ -128,7 +128,7 @@ en:
           aasm_state: Change publication state
     helpers:
       submit:
-        story:
+        contribution:
           create: Submit
           update: Submit
     pages:
