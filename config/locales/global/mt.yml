@@ -477,6 +477,7 @@ mt:
         date-format: 
         date-past: 
         email: 
+        file-size: 
         file-type: 
         form-has-errors: 
         user-age: 

@@ -475,6 +475,7 @@ en:
         date-format: Please enter a valid date
         date-past: Please select a valid date that has already occurred
         email: Please ensure you have typed a correct email address
+        file-size: Please ensure each uploaded file is no more than ${limit}
         file-type: 'This file format is not one of the following: %{allowed_types}'
         form-has-errors: Please ensure you have filled in all details correctly and try submitting again
         user-age: Sorry, you must be over 16 years of age to participate
