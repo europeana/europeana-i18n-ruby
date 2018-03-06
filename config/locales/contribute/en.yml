@@ -64,10 +64,11 @@ en:
             edm_web_resource:
               edm_rights:
                 creative_commons_org:
-                  by-sa:
-                    '4_0':
-                      description: I created this object, or I have permission from the person who created it to share it
-                      explanation: This means:<ul><li>This object is shared under a licence that allows free reuse, by anyone, for any purpose.</li><li>Anyone using the object must provide clear attribution and share any modifications they make under the same terms.</li></ul>
+                  licenses:
+                    by-sa:
+                      '4_0':
+                        description: I created this object, or I have permission from the person who created it to share it
+                        explanation: This means:<ul><li>This object is shared under a licence that allows free reuse, by anyone, for any purpose.</li><li>Anyone using the object must provide clear attribution and share any modifications they make under the same terms.</li></ul>
                   publicdomain:
                     mark:
                       '1_0':
