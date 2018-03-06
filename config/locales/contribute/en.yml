@@ -29,6 +29,7 @@ en:
           include_blanks:
             edm_aggregatedCHO:
               edm_wasPresentAt: 'No'
+          js_required: We do not allow submissions without Javascript enabled, please enable Javascript in your browser in order to submit this form
           labels:
             contribution:
               age_confirm: I am over 16 years old
