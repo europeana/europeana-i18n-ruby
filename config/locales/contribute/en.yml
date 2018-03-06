@@ -63,7 +63,7 @@ en:
               dcterms_spatial: Where did the migration take place?
             edm_web_resource:
               edm_rights:
-                creative_commons_org:
+                creativecommons_org:
                   licenses:
                     by-sa:
                       '4_0':
