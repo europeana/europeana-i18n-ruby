@@ -89,7 +89,7 @@ en:
             dc_subject_agents:
               foaf_name: 'For example: John Smith, Marie Dubois'
             defaults:
-              dc_type: 'For example: Drawing, furniture, sound recording, toy, photograph'
+              dc_type: 'For example: drawing, furniture, sound recording, toy, photograph'
             edm_aggregatedCHO:
               dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
               dc_title: 'For example: My grandfather’s moneybox. My great aunt’s watch.'
