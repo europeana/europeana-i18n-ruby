@@ -42,7 +42,7 @@ en:
               dc_type: What kind of item is this?
               dcterms_created: When was this object created?
               edm_currentLocation: Where is this item at the moment?
-              edm_rights: "Please select the most appropriate option for your object. \n"
+              edm_rights_id: "Please select the most appropriate option for your object. \n"
               edm_wasPresentAt: Are you at a Europeana Migration Collection Day?
               rdaGr2_dateOfBirth: Date of birth
               rdaGr2_dateOfDeath: Date of death
