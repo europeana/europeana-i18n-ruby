@@ -153,7 +153,7 @@ en:
         contribution:
           aasm_state: Change publication state
       validation:
-        media_size: Please ensure each uploaded file is no more than %{size}Mb
+        media_size: Please ensure each uploaded file is no more than %{size}
     helpers:
       submit:
         contribution:
