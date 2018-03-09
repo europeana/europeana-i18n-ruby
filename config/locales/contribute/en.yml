@@ -110,7 +110,7 @@ en:
               text_long: Share your story
             call_to_action: We invite you to contribute stories relating to European migration in your family history.
             closing_remark: Closing remark to emphasise the importance of sharing... may not be needed
-            description: Sharing your own personal migration history can help us to tell a really big story - the story of Europe and the people who live here. We invite you to <strong>share your story</strong> - through objects like pictures, letters, postcards or recipes - with <strong>Europeana Migration</strong> at one of our collection days or by visiting our website.
+            description: Sharing your migration history can help us to tell a really big story - the story of Europe and the people who live here. Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future.
             hero:
               attribution_text: This is a placeholder image found somewhere
               subtitle: We all have objects - like pictures, letters, postcards or recipes - to share and stories to tell about where we've come from and what's shaped our lives.  For many of us, that involves our personal, family or community's stories of migration and immigration.
@@ -128,7 +128,7 @@ en:
             preview_4:
               button_text: Info
               caption: House of European History
-              text: "Throughout 2018, the European Year of Cultural Heritage, Europeana will run a series of collection days and events involving museums, libraries, archives and audiovisual collections across Europe. \n\nOur first event will be held in partnership with the House of European History in Brussels on 15-17 March 2018. \n"
+              text: "Throughout 2018, the European Year of Cultural Heritage, Europeana will run a series of collection days and events involving museums, libraries, archives and audiovisual collections across Europe. \n<br/><br/>\nOur first event will be held in partnership with the House of European History in Brussels on 15-17 March 2018."
             title: Migration
           new:
             subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of the Europeana Migration Collection.
