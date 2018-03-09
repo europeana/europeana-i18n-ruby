@@ -1,5 +1,7 @@
 en:
   contribute:
+    actions:
+      delete: Delete
     campaigns:
       migration:
         form:
@@ -145,6 +147,9 @@ en:
         deleted: Deleted
         draft: Draft
         published: Published
+    events:
+      actions:
+        new: New event
     form:
       hints:
         contribution:
@@ -173,5 +178,16 @@ en:
               status: Status
               ticket: Ticket number
           title: Contributions
+      events:
+        index:
+          table:
+            headings:
+              end_date: End date
+              event_name: Event name
+              start_date: Start date
+              venue: Venue
+          title: Collection days events
+        new:
+          title: Collection day event
     site:
       name: Europeana Contribute
