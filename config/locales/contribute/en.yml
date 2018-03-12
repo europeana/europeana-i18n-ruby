@@ -14,20 +14,20 @@ en:
               remove: Remove this object
           hints:
             defaults:
-              dc_creator: E.g. Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.
+              dc_creator: 'For example: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.'
               dcterms_created: If you are not sure, please choose an approximate date.
               media: You can illustrate your story with more than one object.
             edm_aggregatedCHO:
               dc_contributor_agent:
                 foaf_mbox: "This will <strong>not</strong> be displayed anywhere. \nWe will use this to communicate with you if we need to edit or unpublish your story. This will not be shared online."
                 foaf_name: 'This will <strong>not</strong> be displayed anywhere. '
-                skos_prefLabel: This will be displayed alongside your submission
+                skos_prefLabel: This will be displayed alongside your submission.
               dc_language: Please choose a language from this list.
-              dc_subject: Choose a keyword to help people find this story. Once you start typing, we’ll show you suggestions for what you can choose.
+              dc_subject: Choose a keyword to help people find this story. Once you start typing, we’ll show you suggestions from which you can choose.
             edm_hasView:
-              media: The content must be of type image or audio
+              media: The content must be an image, audio, video or PDF.
             edm_isShownBy:
-              media: The content must be of type image or audio
+              media: The content must be an image, audio, video or PDF.
           include_blanks:
             edm_aggregatedCHO:
               edm_wasPresentAt: 'No'
@@ -40,7 +40,7 @@ en:
               guardian_consent: I am under 16 years of age and my parents have expressed documented consent that I can submit this form
             defaults:
               dc_creator: Who created this item?
-              dc_description: What is this object?
+              dc_description: Give your object a title
               dc_type: What kind of item is this?
               dcterms_created: When was this object created?
               edm_currentLocation: Where is this item at the moment?
@@ -95,7 +95,7 @@ en:
               dc_type: 'For example: drawing, furniture, sound recording, toy, photograph'
             edm_aggregatedCHO:
               dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
-              dc_title: 'For example: My grandfather’s moneybox. My great aunt’s watch.'
+              dc_title: 'For example: My grandfather’s money box. My great aunt’s watch.'
               dcterms_spatial: 'For example: Italy, Syria, Ecuador'
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
@@ -114,7 +114,7 @@ en:
             closing_remark: Closing remark to emphasise the importance of sharing... may not be needed
             description: Sharing your migration history can help us to tell a really big story - the story of Europe and the people who live here. Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future.
             hero:
-              attribution_text: This is a placeholder image found somewhere
+              attribution_text: A family with 10 children are going to emigrate.
               subtitle: We all have objects - like pictures, letters, postcards or recipes - to share and stories to tell about where we've come from and what's shaped our lives.  For many of us, that involves our personal, family or community's stories of migration and immigration.
               title: Share your migration story
             preview_1:
