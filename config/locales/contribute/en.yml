@@ -140,6 +140,8 @@ en:
             flash:
               success: Contribution saved.
     contributions:
+      confirm:
+        delete: 
       events:
         publish: Publish
         unpublish: Unpublish
