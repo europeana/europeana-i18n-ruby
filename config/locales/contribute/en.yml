@@ -141,7 +141,7 @@ en:
               success: Contribution saved.
     contributions:
       confirm:
-        delete: 
+        delete: Deletion is irreversible! Are you sure you want to permanently remove the contribution?
       events:
         publish: Publish
         unpublish: Unpublish
