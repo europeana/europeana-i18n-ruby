@@ -179,6 +179,8 @@ en:
           update: Submit
     pages:
       contributions:
+        delete:
+          title: Delete Contribution
         index:
           filters:
             events:
