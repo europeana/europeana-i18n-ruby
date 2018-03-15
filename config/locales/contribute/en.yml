@@ -142,6 +142,8 @@ en:
     contributions:
       confirm:
         delete: Deletion is irreversible! Are you sure you want to permanently remove the contribution?
+        delete_1: Deletion is irreversible!
+        delete_2: Are you sure you want to permanently remove the contribution?
       events:
         publish: Publish
         unpublish: Unpublish
