@@ -150,9 +150,9 @@ en:
         unpublish: Unpublish
         wipe: Delete
       notices:
-        delete_error: 'Unable to delete #{name}.'
-        deleted: 'Deleted #{name}.'
-        wiped: 'Wiped #{name}.'
+        delete_error: Unable to delete %{name}.
+        deleted: Deleted %{name}.
+        wiped: Wiped %{name}.
       states:
         deleted: Deleted
         draft: Draft
