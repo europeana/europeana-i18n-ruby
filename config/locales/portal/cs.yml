@@ -181,6 +181,8 @@ cs:
         placeholder:
           text: Vyhledávat podle klíčového slova zde
     news: Novinky
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

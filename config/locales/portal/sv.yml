@@ -181,6 +181,8 @@ sv:
         placeholder:
           text: Sök på nyckelord här
     news: Nyheter
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

@@ -181,6 +181,8 @@ fi:
         placeholder:
           text: Hae tästä hakusanalla
     news: Uutiset
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

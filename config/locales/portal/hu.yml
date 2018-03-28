@@ -181,6 +181,8 @@ hu:
         placeholder:
           text: Kulcsszó szerinti keresés itt
     news: Hírek
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

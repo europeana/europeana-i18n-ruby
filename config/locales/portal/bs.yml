@@ -177,6 +177,8 @@ bs:
         placeholder:
           text: 
     news: 
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

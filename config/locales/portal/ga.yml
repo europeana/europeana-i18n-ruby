@@ -191,6 +191,8 @@ ga:
         placeholder:
           text: Cuardaigh anseo de réir eochairfhocail
     news: Nuacht
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

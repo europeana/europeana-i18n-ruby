@@ -181,6 +181,8 @@
         placeholder:
           text: Søk etter nøkkelord her
     news: Nyheter
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

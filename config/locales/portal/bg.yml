@@ -181,6 +181,8 @@ bg:
         placeholder:
           text: Търсете тук по ключова дума
     news: Новини
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

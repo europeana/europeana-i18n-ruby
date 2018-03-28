@@ -181,6 +181,8 @@ da:
         placeholder:
           text: Søg på nøgleord her
     news: Nyheder
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

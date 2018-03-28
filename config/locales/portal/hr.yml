@@ -181,6 +181,8 @@ hr:
         placeholder:
           text: Pretražite po ključnim riječima ovdje
     news: Novosti
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: Anotacija

@@ -181,6 +181,8 @@ lt:
         placeholder:
           text: Ieškoti pagal raktinį žodį čia
     news: Naujienos
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

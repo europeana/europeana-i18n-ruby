@@ -181,6 +181,8 @@ fr:
         placeholder:
           text: Rechercher par mot-clé ici
     news: Nouvelles
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

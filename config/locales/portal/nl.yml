@@ -181,6 +181,8 @@ nl:
         placeholder:
           text: Zoek hier op trefwoord
     news: Nieuws
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

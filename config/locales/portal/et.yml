@@ -181,6 +181,8 @@ et:
         placeholder:
           text: Otsi võrmesõna järgi siin
     news: Uudised
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

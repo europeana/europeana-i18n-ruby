@@ -181,6 +181,8 @@ it:
         placeholder:
           text: Cerca per parole chiave qui
     news: Notizie
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

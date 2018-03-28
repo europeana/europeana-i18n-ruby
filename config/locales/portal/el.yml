@@ -181,6 +181,8 @@ el:
         placeholder:
           text: Αναζήτηση με λέξη-κλειδί εδώ
     news: Νέα
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

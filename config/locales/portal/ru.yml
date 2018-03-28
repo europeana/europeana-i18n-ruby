@@ -181,6 +181,8 @@ ru:
         placeholder:
           text: Поиск по ключевым словам
     news: Новости
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

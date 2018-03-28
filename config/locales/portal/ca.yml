@@ -181,6 +181,8 @@ ca:
         placeholder:
           text: Cerca per paraules clau
     news: Novetats
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

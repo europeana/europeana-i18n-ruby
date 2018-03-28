@@ -181,6 +181,8 @@ mt:
         placeholder:
           text: Fittex bil-keyword hawn
     news: Aħbarijiet
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

@@ -181,6 +181,8 @@ ro:
         placeholder:
           text: Căutare după cuvânt cheie, aici
     news: Știri
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

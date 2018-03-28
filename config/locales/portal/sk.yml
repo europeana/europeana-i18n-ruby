@@ -181,6 +181,8 @@ sk:
         placeholder:
           text: Tu vyhľadávajte podľa kľúčového slova
     news: Správa
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 

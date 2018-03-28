@@ -181,6 +181,8 @@ sl:
         placeholder:
           text: Tukaj iščite po ključni besedi
     news: Novice
+    notice:
+      outage-expected: 
     object:
       actions:
         annotate: 
