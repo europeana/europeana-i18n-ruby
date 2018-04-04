@@ -131,8 +131,10 @@ en:
               text: "'For an international day at my school in Senegal when I was about 6, my mother dressed my brother like the Ghanaian flag - she was from Ghana - and me like the Dutch flag - my father is Dutch.'"
             preview_4:
               button_text: Info
-              caption: House of European History
-              text: "Throughout 2018, the European Year of Cultural Heritage, Europeana will run a series of collection days and events involving museums, libraries, archives and audiovisual collections across Europe. \n<br/><br/>\nOur first event will be held in partnership with the House of European History in Brussels on 15-17 March 2018."
+              caption: |-
+                A family with 10 children are going to emigrate,<br>
+                Gooi en Vecht Historisch
+              text: Throughout 2018, the European Year of Cultural Heritage, Europeana will run a series of collection days and events involving museums, libraries, archives and audiovisual collections across Europe.
             title: Share your migration story
           new:
             subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of the Europeana Migration Collection.
