@@ -204,6 +204,8 @@ en:
               ticket: Ticket number
           title: Contributions
       events:
+        delete:
+          title: Delete event
         index:
           table:
             headings:
