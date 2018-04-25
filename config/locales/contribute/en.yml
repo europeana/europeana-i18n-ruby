@@ -220,7 +220,7 @@ en:
         index:
           table:
             headings:
-              email: email
+              email: Email
               events: Collection events
               last_sign_in_at: Last signed in at
               role: Role
@@ -228,11 +228,11 @@ en:
         new:
           form:
             labels:
-              email: email
+              email: Email
               event_ids: Events
-              password: password
-              password_confirmation: Confirm password
-              role: role
+              password: Password
+              password_confirmation: Confirm Password
+              role: Role
           title: User
     site:
       name: Europeana Contribute
