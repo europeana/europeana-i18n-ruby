@@ -216,5 +216,33 @@ en:
           title: Collection days events
         new:
           title: Collection day event
+      users:
+        index:
+          headings:
+            email: email
+            events: Collection events
+            last_sign_in_at: Last signed in at
+            role: Role
+          title: Users
+        new:
+          form:
+            labels:
+              email: email
+              event_ids: Events
+              password: password
+              password_confirmation: Confirm password
+              role: role
+          title: User
     site:
       name: Europeana Contribute
+    users:
+      actions:
+        new: Add a new user
+      flash:
+        create:
+          success: User created
+        destroy:
+          failure: Failed to delete user
+          success: User deleted
+        update:
+          success: User updated
