@@ -218,11 +218,12 @@ en:
           title: Collection day event
       users:
         index:
-          headings:
-            email: email
-            events: Collection events
-            last_sign_in_at: Last signed in at
-            role: Role
+          table:
+            headings:
+              email: email
+              events: Collection events
+              last_sign_in_at: Last signed in at
+              role: Role
           title: Users
         new:
           form:
