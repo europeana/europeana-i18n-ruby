@@ -180,6 +180,10 @@ en:
           aasm_state: Change publication state
         user:
           email: email
+          events: Events
+          password: Password
+          password_confirmation: Confirm Password
+          role: Role
       validation:
         media_size: Please ensure each uploaded file is no more than %{size}
       warnings:
