@@ -217,6 +217,8 @@ en:
         new:
           title: Collection day event
       users:
+        delete:
+          title: Delete
         index:
           table:
             headings:
