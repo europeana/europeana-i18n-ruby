@@ -234,13 +234,6 @@ en:
               role: Role
           title: Users
         new:
-          form:
-            labels:
-              email: Email
-              event_ids: Events
-              password: Password
-              password_confirmation: Confirm Password
-              role: Role
           title: User
     site:
       name: Europeana Contribute
