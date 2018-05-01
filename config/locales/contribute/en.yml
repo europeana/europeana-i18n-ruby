@@ -69,20 +69,26 @@ en:
                 creativecommons_org:
                   licenses:
                     by-sa:
-                      '4_0':
-                        description: I created this object, or I have permission from the person who created it to share it
-                        explanation: This means:<ul><li>This object is shared under a licence that allows free reuse, by anyone, for any purpose.</li><li>Anyone using the object must provide clear attribution and share any modifications they make under the same terms.</li></ul>
+                      '4_0': |-
+                        I created this object, or I have permission from the person who created it to share it
+                        This means:
+                        This object is shared under a licence that allows free reuse, by anyone, for any purpose.
+                        Anyone using the object must provide clear attribution and share any modifications they make under the same terms.
                   publicdomain:
                     mark:
-                      '1_0':
-                        description: The object I am sharing is over 140 years old
-                        explanation: This means:<ul><li>This object is no longer protected by copyright.</li><li>Anyone can share and reuse your object.</li></ul>
+                      '1_0': |-
+                        The object I am sharing is over 140 years old
+                        This means:
+                        This object is no longer protected by copyright.
+                        Anyone can share and reuse your object.
                 rightsstatements_org:
                   vocab:
                     CNE:
-                      '1_0':
-                        description: I don’t know who created this object or I do not have explicit permission to share it
-                        explanation: This means:<ul><li>The copyright in this object has not been evaluated.</li><li>Anyone using the object must undertake their own due diligence.</li></ul>
+                      '1_0': |-
+                        I don’t know who created this object or I do not have explicit permission to share it
+                        This means:
+                        The copyright in this object has not been evaluated.
+                        Anyone using the object must undertake their own due diligence.
           legends:
             all_objects: Add your objects
             contribution: Your contribution
