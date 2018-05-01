@@ -70,6 +70,7 @@ en:
                   licenses:
                     by-sa:
                       '4_0': |-
+                        CC BY-SA
                         I created this object, or I have permission from the person who created it to share it
                         This means:
                         This object is shared under a licence that allows free reuse, by anyone, for any purpose.
@@ -77,6 +78,7 @@ en:
                   publicdomain:
                     mark:
                       '1_0': |-
+                        Public Domain Marked
                         The object I am sharing is over 140 years old
                         This means:
                         This object is no longer protected by copyright.
@@ -85,6 +87,7 @@ en:
                   vocab:
                     CNE:
                       '1_0': |-
+                        Copyright Not Evaluated
                         I don’t know who created this object or I do not have explicit permission to share it
                         This means:
                         The copyright in this object has not been evaluated.
