@@ -3,6 +3,7 @@ en:
     actions:
       cancel: Cancel
       delete: Delete
+      sign_out: Log out
     campaigns:
       migration:
         form:
