@@ -11,9 +11,15 @@ en:
             agent:
               add: Add another person to this story
               remove: Remove this person
+            location:
+              add: Add another location
+              remove: Remove this location
             object:
               add: Add another object to this story
               remove: Remove this object
+            topic:
+              add: Add another topic
+              remove: Remove this topic
           hints:
             defaults:
               dc_creator: 'For example: Who took this photograph, or who wrote this recipe? If you do not know, leave this blank.'
