@@ -208,6 +208,7 @@ cs:
       enrichment:
         who:
           title: Název
+      helpbar-tip: 
       hierarchy:
         title: Související položky
         view-items-above: zobrazit položky výše

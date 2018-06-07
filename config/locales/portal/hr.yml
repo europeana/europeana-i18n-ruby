@@ -208,6 +208,7 @@ hr:
       enrichment:
         who:
           title: Naslov
+      helpbar-tip: 
       hierarchy:
         title: Srodni objekti
         view-items-above: pogledaj gornje objekte

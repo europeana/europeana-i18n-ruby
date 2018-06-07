@@ -208,6 +208,7 @@ bg:
       enrichment:
         who:
           title: Заглавие
+      helpbar-tip: 
       hierarchy:
         title: Подобни обекти
         view-items-above: Виж обектите по-горе

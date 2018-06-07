@@ -209,6 +209,7 @@ lv:
       enrichment:
         who:
           title: Nosaukums
+      helpbar-tip: 
       hierarchy:
         title: Saistītie ieraksti
         view-items-above: skatīt iepriekšējos ierakstus

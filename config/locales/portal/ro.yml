@@ -208,6 +208,7 @@ ro:
       enrichment:
         who:
           title: Titlu
+      helpbar-tip: 
       hierarchy:
         title: Înregistrări înrudite
         view-items-above: vezi obiectele de mai sus

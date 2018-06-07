@@ -208,6 +208,7 @@ fr:
       enrichment:
         who:
           title: Titre
+      helpbar-tip: 
       hierarchy:
         title: Objets similaires
         view-items-above: voir les objets au-dessus

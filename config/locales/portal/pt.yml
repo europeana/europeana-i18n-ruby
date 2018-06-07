@@ -208,6 +208,7 @@ pt:
       enrichment:
         who:
           title: Título
+      helpbar-tip: 
       hierarchy:
         title: Itens relacionados
         view-items-above: ver itens acima

@@ -208,6 +208,7 @@ it:
       enrichment:
         who:
           title: Titolo
+      helpbar-tip: 
       hierarchy:
         title: Articoli or voci collegati or collegate
         view-items-above: Vedi le voci or gli articoli sopra

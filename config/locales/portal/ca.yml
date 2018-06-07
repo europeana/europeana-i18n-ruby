@@ -208,6 +208,7 @@ ca:
       enrichment:
         who:
           title: Títol
+      helpbar-tip: 
       hierarchy:
         title: Ítems relacionats
         view-items-above: veure els ítems superiors

@@ -208,6 +208,7 @@ el:
       enrichment:
         who:
           title: Τίτλος
+      helpbar-tip: 
       hierarchy:
         title: Σχετικές εγγραφές
         view-items-above: εμφάνιση προηγούμενων

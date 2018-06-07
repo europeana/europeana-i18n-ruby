@@ -208,6 +208,7 @@ es:
       enrichment:
         who:
           title: Título
+      helpbar-tip: 
       hierarchy:
         title: Objetos relacionados
         view-items-above: ver objetos más arriba

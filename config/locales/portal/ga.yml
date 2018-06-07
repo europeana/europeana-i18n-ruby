@@ -218,6 +218,7 @@ ga:
       enrichment:
         who:
           title: Teideal
+      helpbar-tip: 
       hierarchy:
         title: Míreanna gaolmhara
         view-items-above: féach míreanna thuas

@@ -208,6 +208,7 @@ sk:
       enrichment:
         who:
           title: Nadpis
+      helpbar-tip: 
       hierarchy:
         title: Príslušné položky
         view-items-above: Pozrite si vyššie uvedené položky

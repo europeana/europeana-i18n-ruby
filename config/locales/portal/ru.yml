@@ -208,6 +208,7 @@ ru:
       enrichment:
         who:
           title: Название
+      helpbar-tip: 
       hierarchy:
         title: Связанные элементы
         view-items-above: Показать вышестоящие элементы

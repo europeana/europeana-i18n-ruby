@@ -208,6 +208,7 @@ hu:
       enrichment:
         who:
           title: Cím
+      helpbar-tip: 
       hierarchy:
         title: Hasonló elemek
         view-items-above: mutasd a fenti elemeket

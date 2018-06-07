@@ -208,6 +208,7 @@ et:
       enrichment:
         who:
           title: Pealkiri
+      helpbar-tip: 
       hierarchy:
         title: Seotud kirjed
         view-items-above: vaata kirjeid ülal

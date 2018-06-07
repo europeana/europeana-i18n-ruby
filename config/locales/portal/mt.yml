@@ -208,6 +208,7 @@ mt:
       enrichment:
         who:
           title: Titlu
+      helpbar-tip: 
       hierarchy:
         title: Oġġetti relatati
         view-items-above: Ara l-oġġetti hawn fuq

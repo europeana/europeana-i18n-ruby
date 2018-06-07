@@ -208,6 +208,7 @@ lt:
       enrichment:
         who:
           title: Pavadinimas
+      helpbar-tip: 
       hierarchy:
         title: Susiję įrašai
         view-items-above: Peržiūrėti įrašus esančius viršuje

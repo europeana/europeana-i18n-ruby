@@ -208,6 +208,7 @@ en:
       enrichment:
         who:
           title: Title
+      helpbar-tip: "<b>Welcome!</b> Help us improve this page by sending us your feedback"
       hierarchy:
         title: Related items
         view-items-above: view items above

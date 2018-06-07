@@ -208,6 +208,7 @@ fi:
       enrichment:
         who:
           title: Otsikko
+      helpbar-tip: 
       hierarchy:
         title: Aiheeseen liittyvät kohteet
         view-items-above: katso yllä olevia kohteita

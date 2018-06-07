@@ -208,6 +208,7 @@ da:
       enrichment:
         who:
           title: Titel
+      helpbar-tip: 
       hierarchy:
         title: Relaterede genstande
         view-items-above: se genstande ovenfor

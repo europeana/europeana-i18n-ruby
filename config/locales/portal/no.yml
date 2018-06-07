@@ -208,6 +208,7 @@
       enrichment:
         who:
           title: Tittel
+      helpbar-tip: 
       hierarchy:
         title: Relaterte objekter
         view-items-above: se på objekter over
