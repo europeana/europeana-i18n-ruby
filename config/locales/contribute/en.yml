@@ -66,7 +66,7 @@ en:
               dc_description: Tell or describe your story
               dc_identifier: Enter a ticket number if provided
               dc_language: What language is your story in?
-              dc_subject: What topic or theme does this object cover?
+              dc_subject: What topics or themes does this story cover?
               dc_subject_agents:
                 foaf_name: 'Enter a name:'
               dc_title: Give your story a title
