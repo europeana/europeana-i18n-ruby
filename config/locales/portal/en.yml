@@ -208,7 +208,7 @@ en:
       enrichment:
         who:
           title: Title
-      helpbar-tip: "<b>Welcome!</b> Help us improve this page by sending us your feedback"
+      helpbar-tip: We want your feedback on our new item page, use our feedback button to leave your comments.
       hierarchy:
         title: Related items
         view-items-above: view items above
