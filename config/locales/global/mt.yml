@@ -150,9 +150,13 @@ mt:
     about-us: Dwarna
     actions:
       collapse: Niżżel il-menu
+      copy: 
       delete: Iddilitja
+      download: 
+      downloading: 
       edit: Editja
       expand: Espandi
+      expand-viewer: 
       filter-all: Kollha
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
@@ -160,6 +164,7 @@ mt:
       new: Ġdid
       next: li jmiss
       previous: qabel
+      reduce-viewer: 
       register: Irreġistra
       remove: 
       share: Ixxerja

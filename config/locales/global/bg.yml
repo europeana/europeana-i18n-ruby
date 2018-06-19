@@ -150,9 +150,13 @@ bg:
     about-us: За нас
     actions:
       collapse: Свиване
+      copy: 
       delete: Изтриване
+      download: 
+      downloading: 
       edit: Редактиране
       expand: Разширяване
+      expand-viewer: 
       filter-all: Филтрира всички
       filter-by: Филтър по
       fullscreen-enter: Цял екран
@@ -160,6 +164,7 @@ bg:
       new: Ново
       next: следващия
       previous: предишен
+      reduce-viewer: 
       register: Регистрирайте се
       remove: 
       share: Споделяне

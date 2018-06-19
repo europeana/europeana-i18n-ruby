@@ -150,9 +150,13 @@ pt:
     about-us: Sobre nós
     actions:
       collapse: Ocultar
+      copy: 
       delete: Apagar
+      download: 
+      downloading: 
       edit: Editar
       expand: Expandir
+      expand-viewer: 
       filter-all: Filtrar tudo
       filter-by: Filtrar por
       fullscreen-enter: Tela cheia
@@ -160,6 +164,7 @@ pt:
       new: Novo
       next: Próximo
       previous: anterior
+      reduce-viewer: 
       register: Registar
       remove: 
       share: Partilhar

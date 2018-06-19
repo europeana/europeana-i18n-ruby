@@ -150,9 +150,13 @@ et:
     about-us: Meist
     actions:
       collapse: Ahenda
+      copy: 
       delete: Kustuta
+      download: 
+      downloading: 
       edit: Muuda
       expand: Laienda
+      expand-viewer: 
       filter-all: Kõike
       filter-by: " Filtreeri"
       fullscreen-enter: Täisekraan
@@ -160,6 +164,7 @@ et:
       new: Uus
       next: järgmine
       previous: eelmine
+      reduce-viewer: 
       register: Registreeru
       remove: 
       share: Jaga

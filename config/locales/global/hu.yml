@@ -150,9 +150,13 @@ hu:
     about-us: Rólunk
     actions:
       collapse: Összecsukás
+      copy: 
       delete: Törlés
+      download: 
+      downloading: 
       edit: Szerkesztés
       expand: Kibontás
+      expand-viewer: 
       filter-all: kiszűrje
       filter-by: Szűrés vlami alapján
       fullscreen-enter: Teljes képernyő
@@ -160,6 +164,7 @@ hu:
       new: Új
       next: következő
       previous: előző
+      reduce-viewer: 
       register: Regisztráljon nálunk
       remove: 
       share: Megosztás

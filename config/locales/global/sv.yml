@@ -150,9 +150,13 @@ sv:
     about-us: Om oss
     actions:
       collapse: Mindre
+      copy: 
       delete: Radera
+      download: 
+      downloading: 
       edit: Redigera
       expand: Mer
+      expand-viewer: 
       filter-all: filtrera alla
       filter-by: Filtrera efter
       fullscreen-enter: Fullskärm
@@ -160,6 +164,7 @@ sv:
       new: Nytt
       next: Nästa
       previous: tidigare
+      reduce-viewer: 
       register: Skapa användarkonto
       remove: 
       share: Dela

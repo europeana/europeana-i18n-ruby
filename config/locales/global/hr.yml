@@ -150,9 +150,13 @@ hr:
     about-us: O nama
     actions:
       collapse: Smanjite
+      copy: 
       delete: Pobrišite
+      download: 
+      downloading: 
       edit: Uredite
       expand: Proširite
+      expand-viewer: 
       filter-all: " Filter sve"
       filter-by: Filtrirati po
       fullscreen-enter: Puni zaslon
@@ -160,6 +164,7 @@ hr:
       new: Novo
       next: Sljedeći
       previous: prijašnji
+      reduce-viewer: 
       register: Registracija
       remove: 
       share: Podijelite

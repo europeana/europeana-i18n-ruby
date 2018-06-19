@@ -150,9 +150,13 @@ sk:
     about-us: O nás
     actions:
       collapse: Zmenšiť
+      copy: 
       delete: Vymazať
+      download: 
+      downloading: 
       edit: Editovať
       expand: Zväčšiť
+      expand-viewer: 
       filter-all: Všetko
       filter-by: Filtrovať podľa
       fullscreen-enter: zobrazenie na celú obrazovku
@@ -160,6 +164,7 @@ sk:
       new: Nový
       next: nasledujúca
       previous: predchádzajúca
+      reduce-viewer: 
       register: Zaregistrovať sa
       remove: 
       share: Zdieľať

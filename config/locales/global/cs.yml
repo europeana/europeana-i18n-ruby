@@ -150,9 +150,13 @@ cs:
     about-us: O nás
     actions:
       collapse: Sbalit
+      copy: 
       delete: Smazat
+      download: 
+      downloading: 
       edit: Upravit
       expand: Rozbalit
+      expand-viewer: 
       filter-all: Vše
       filter-by: Filtrovat podle
       fullscreen-enter: celá obrazovka
@@ -160,6 +164,7 @@ cs:
       new: Nové
       next: další
       previous: předchozí
+      reduce-viewer: 
       register: Zaregistrovat
       remove: 
       share: Sdílet

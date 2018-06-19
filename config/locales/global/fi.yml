@@ -150,9 +150,13 @@ fi:
     about-us: Tietoa meistä
     actions:
       collapse: Tiivistä
+      copy: 
       delete: Poista
+      download: 
+      downloading: 
       edit: Muokkaa
       expand: Laajenna
+      expand-viewer: 
       filter-all: suodatetaan
       filter-by: Suodata
       fullscreen-enter: Koko näyttö
@@ -160,6 +164,7 @@ fi:
       new: Uusi
       next: Seuraava
       previous: Edellinen
+      reduce-viewer: 
       register: Rekisteröidy
       remove: 
       share: Jaa

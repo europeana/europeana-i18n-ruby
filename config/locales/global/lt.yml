@@ -150,9 +150,13 @@ lt:
     about-us: Apie mus
     actions:
       collapse: Suglausti
+      copy: 
       delete: Ištrinti
+      download: 
+      downloading: 
       edit: Redaguoti
       expand: Išplėsti
+      expand-viewer: 
       filter-all: filtruoti visus
       filter-by: Filtruoti pagal
       fullscreen-enter: Per visą ekraną
@@ -160,6 +164,7 @@ lt:
       new: Nauja
       next: Kitas
       previous: iepriekšējā
+      reduce-viewer: 
       register: Užsiregistruoti
       remove: 
       share: Dalytis

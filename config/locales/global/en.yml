@@ -150,9 +150,13 @@ en:
     about-us: About us
     actions:
       collapse: Collapse
+      copy: Copy
       delete: Delete
+      download: Download
+      downloading: Downloading
       edit: Edit
       expand: Expand
+      expand-viewer: Expand viewer
       filter-all: All
       filter-by: Filter by
       fullscreen-enter: full screen
@@ -160,6 +164,7 @@ en:
       new: New
       next: next
       previous: previous
+      reduce-viewer: Reduce viewer
       register: Register
       remove: Remove
       share: Share

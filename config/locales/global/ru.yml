@@ -150,9 +150,13 @@ ru:
     about-us: О нас
     actions:
       collapse: Свернуть
+      copy: 
       delete: Удалить
+      download: 
+      downloading: 
       edit: Редактировать
       expand: Расширить
+      expand-viewer: 
       filter-all: Фильтр все
       filter-by: Сортировать по
       fullscreen-enter: Полноэкранный
@@ -160,6 +164,7 @@ ru:
       new: Новое
       next: следующий
       previous: предыдущий
+      reduce-viewer: 
       register: Зарегистрироваться
       remove: 
       share: Поделиться

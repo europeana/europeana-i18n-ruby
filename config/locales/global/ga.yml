@@ -150,9 +150,13 @@ ga:
     about-us: Fúinne
     actions:
       collapse: Leacaigh
+      copy: 
       delete: Scrios
+      download: 
+      downloading: 
       edit: Cuir in eagar
       expand: Fairsingigh
+      expand-viewer: 
       filter-all: Uile
       filter-by: Scag de réir
       fullscreen-enter: lánscáileán
@@ -160,6 +164,7 @@ ga:
       new: Nua
       next: ar aghaidh
       previous: roimhe
+      reduce-viewer: 
       register: Cláraigh
       remove: 
       share: Comhroinn

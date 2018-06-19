@@ -150,9 +150,13 @@
     about-us: Om oss
     actions:
       collapse: Kollapse
+      copy: 
       delete: Slett
+      download: 
+      downloading: 
       edit: Redigere
       expand: Utvide
+      expand-viewer: 
       filter-all: Alt
       filter-by: Filtrer etter
       fullscreen-enter: full skjerm
@@ -160,6 +164,7 @@
       new: Ny
       next: neste
       previous: tidligere
+      reduce-viewer: 
       register: Registrer deg hos oss
       remove: 
       share: Del

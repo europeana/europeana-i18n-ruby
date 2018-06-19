@@ -150,9 +150,13 @@ lv:
     about-us: Par mums
     actions:
       collapse: Salocīt
+      copy: 
       delete: Dzēst
+      download: 
+      downloading: 
       edit: Rediģēt
       expand: Izvērst
+      expand-viewer: 
       filter-all: Viss
       filter-by: Filtrēt pēc
       fullscreen-enter: pilnekrāns
@@ -160,6 +164,7 @@ lv:
       new: Jauns
       next: nākamā
       previous: iepriekšējā
+      reduce-viewer: 
       register: Reģistrēties
       remove: Noņemt
       share: Dalīties

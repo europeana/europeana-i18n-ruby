@@ -150,9 +150,13 @@ uk:
     about-us: Про нас
     actions:
       collapse: 
+      copy: 
       delete: 
+      download: 
+      downloading: 
       edit: 
       expand: 
+      expand-viewer: 
       filter-all: 
       filter-by: 
       fullscreen-enter: 
@@ -160,6 +164,7 @@ uk:
       new: 
       next: 
       previous: 
+      reduce-viewer: 
       register: 
       remove: 
       share: 

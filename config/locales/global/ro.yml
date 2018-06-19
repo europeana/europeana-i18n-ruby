@@ -150,9 +150,13 @@ ro:
     about-us: Despre noi
     actions:
       collapse: Reducere
+      copy: 
       delete: Ștergere
+      download: 
+      downloading: 
       edit: Editare
       expand: Mărire
+      expand-viewer: 
       filter-all: Se filtrează toate
       filter-by: Filtreaza dupa
       fullscreen-enter: " Ecran complet"
@@ -160,6 +164,7 @@ ro:
       new: 'Nou '
       next: Următor →
       previous: anterior
+      reduce-viewer: 
       register: Ȋnregistrare
       remove: 
       share: Transmitere

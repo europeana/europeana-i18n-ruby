@@ -150,9 +150,13 @@ es:
     about-us: Sobre nosotros
     actions:
       collapse: Reducir
+      copy: 
       delete: Borrar
+      download: 
+      downloading: 
       edit: Editar
       expand: Expandir
+      expand-viewer: 
       filter-all: Todos
       filter-by: Filtrar por
       fullscreen-enter: pantalla completa
@@ -160,6 +164,7 @@ es:
       new: Nuevo
       next: siguiente
       previous: anterior
+      reduce-viewer: 
       register: Registrate
       remove: 
       share: Compartir

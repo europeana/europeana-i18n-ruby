@@ -150,9 +150,13 @@ bs:
     about-us: 
     actions:
       collapse: 
+      copy: 
       delete: 
+      download: 
+      downloading: 
       edit: 
       expand: 
+      expand-viewer: 
       filter-all: 
       filter-by: 
       fullscreen-enter: 
@@ -160,6 +164,7 @@ bs:
       new: 
       next: 
       previous: 
+      reduce-viewer: 
       register: Registracija
       remove: 
       share: 

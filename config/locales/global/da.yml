@@ -150,9 +150,13 @@ da:
     about-us: Om os
     actions:
       collapse: Kollaps
+      copy: 
       delete: Slet
+      download: 
+      downloading: 
       edit: Redigér
       expand: Forstør
+      expand-viewer: 
       filter-all: Alt
       filter-by: Filter med
       fullscreen-enter: Fuld skærm
@@ -160,6 +164,7 @@ da:
       new: Ny
       next: Næste
       previous: tidligere
+      reduce-viewer: 
       register: Registrer
       remove: 
       share: Del

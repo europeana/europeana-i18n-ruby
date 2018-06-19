@@ -150,9 +150,13 @@ ca:
     about-us: Sobre nosaltres
     actions:
       collapse: Redueix
+      copy: 
       delete: Elimina
+      download: 
+      downloading: 
       edit: Edita
       expand: Amplia
+      expand-viewer: 
       filter-all: filtrar tot
       filter-by: Filtrar per
       fullscreen-enter: Pantalla completa
@@ -160,6 +164,7 @@ ca:
       new: Nou
       next: Pròxim
       previous: anterior
+      reduce-viewer: 
       register: Registra-t'hi
       remove: 
       share: Comparteix

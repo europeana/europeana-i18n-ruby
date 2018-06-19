@@ -150,9 +150,13 @@ el:
     about-us: Σχετικά με εμάς
     actions:
       collapse: 'Σμίκρυνση '
+      copy: 
       delete: Απαλοιφή
+      download: 
+      downloading: 
       edit: Ρύθμιση
       expand: Επέκταση
+      expand-viewer: 
       filter-all: φιλτράρει όλα
       filter-by: Φιλτράρισμα με βάση
       fullscreen-enter: ΠΛΗΡΗΣ ΟΘΟΝΗ
@@ -160,6 +164,7 @@ el:
       new: Νέο
       next: επόμενος
       previous: προηγούμενος
+      reduce-viewer: 
       register: Εγγραφείτε
       remove: 
       share: Κοινοποίηση

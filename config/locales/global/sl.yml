@@ -150,9 +150,13 @@ sl:
     about-us: O nas
     actions:
       collapse: Strnite
+      copy: 
       delete: Izbrišite
+      download: 
+      downloading: 
       edit: Uredite
       expand: Razširite
+      expand-viewer: 
       filter-all: Vse
       filter-by: Filtrirajte po
       fullscreen-enter: celozaslonski način
@@ -160,6 +164,7 @@ sl:
       new: Novo
       next: naslednja
       previous: prejšnja
+      reduce-viewer: 
       register: Registrirajte se
       remove: 
       share: Dajte v skupno rabo
