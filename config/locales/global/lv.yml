@@ -150,10 +150,10 @@ lv:
     about-us: Par mums
     actions:
       collapse: Salocīt
-      copy: 
+      copy: Kopēt
       delete: Dzēst
-      download: 
-      downloading: 
+      download: Lejupielādēt
+      downloading: Lejupielādējas
       edit: Rediģēt
       expand: Izvērst
       expand-viewer: 
@@ -473,18 +473,18 @@ lv:
     forgot-password: Aizmirsi savu paroli?
     forms:
       hints:
-        required-fields: 
+        required-fields: Nepieciešamie lauki
       validation-errors:
-        blank: 
-        confirmation-required: 
-        date-format: 
+        blank: Lūdzu, ievadi vērtību
+        confirmation-required: Lūdzu, apstiprini
+        date-format: Lūdzu, ievadi derīgu datumu
         date-past: 
-        email: 
-        file-size: 
-        file-type: 
-        form-has-errors: 
-        user-age: 
-        user-age-consent: 
+        email: Lūdzu, pārbaudi, vai esi pareizi ierakstījis e-pasta adresi
+        file-size: Lūdzu, pārliecinies, vai katra augšupielādētā datne nav lielāka par %{limit_mb} MB
+        file-type: 'Šis datnes formāts nav viens no sekojošiem: %{allowed_types}'
+        form-has-errors: Pārliecinies, vai informācija ir aizpildīta korekti, un mēģini iesniegt vēlreiz
+        user-age: Lai piedalītos, ir jābūt vismaz 16 gadus vecam
+        user-age-consent: Lai piedalītos, ir jābūt vismaz 16 gadus vecam vai ir jābūt vecāka/aizbildņa atļaujai
     galleries: Galerijas
     genres: žanri
     genres-chamber-music: Kamermūzika
