@@ -113,7 +113,7 @@ en:
             edm_aggregatedCHO:
               dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
               dc_title: 'For example: My grandfather’s money box. My great aunt’s watch.'
-              dcterms_spatial: 'For example: Italy, Syria, Ecuador'
+              dcterms_spatial: 'For example: Rome, Italy'
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.
             content-policy-accept: You must agree to these terms in order to make a submission
