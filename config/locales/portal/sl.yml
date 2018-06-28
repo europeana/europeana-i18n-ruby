@@ -355,6 +355,9 @@ sl:
 
           <p>Za več informacij o našem sodelovanju s kulturnimi ustanovami in njihovimi zbirkami obiščite <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
         title: Dobrodošli, ljubitelj kulture!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Predstavljajte si ogled originalnih ročno spisanih glasbenih rokopisov med poslušanjem različnih izvedb in branjem biografije skladatelja. In v glasbeni zbirki Europeana lahko počnete ravno to.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Naši partnerji</a>, vsi so glasbeni strokovnjaki, iz celotne Evrope so pazljivo sestavili to zbirko glasbenih posnetkov, notnih zapisov, slik glasbenih instrumentov, knjig o glasbi in drugih z glasbo povezanih vsebin. </p>\n\n<p>To zgodnjo preskusno različico glasbene zbirke smo pripravili vam, našim uporabnikom, da nam lahko pomagate pri oblikovanju in nadaljnjem razvoju. Tako vam bomo ob obiskovanju spletnega mesta občasno prikazali vprašanja ali ankete. Resnično bomo cenili, če si vzamete nekaj časa in odgovorite na vprašanja in ankete!</p>\n\n<p>V korist transparentnosti in zasebnosti vas želimo obvestiti, da beležimo uporabniške statistike in vedenje uporabnikov s storitvama Google Analytics in Hotjar. To izvajamo zato, da lažje prepoznamo mesta, kjer smo morda naredili napake pri oblikovanju in s tem si pomagamo pri izboljšanju glasbene zbirke. Vse dnevnike hranimo zasebne in anonimizirane, uporabljeni bodo samo za izboljšanje naše storitve.</p>\n\n<p>Spodbujamo vas k pregledovanju zbirke, predvajanju glasbe, ogled notnih zapisov ali branje spremnih zapisov. Ko avtorske pravice to dovoljujejo, si lahko prenesete najljubše vsebine. Obiščite tudi naše virtualne razstave na še nikoli prej viden način!</p>"
         title: O glasbenih zbirkah

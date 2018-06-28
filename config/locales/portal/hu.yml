@@ -351,6 +351,9 @@ hu:
 
           <p>Nagyon reméljük, hogy addig is kedvét leli a velünk való kulturális utazásban.</p>
         title: Üdvözöljük, kultúra szerelmese!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Képzeld el milyen lehet megtekinteni egy eredeti kézzel írt kottát, miközben az előadását hallgatod különböző előadóktól és közben a zeneszerző életrajzát is böngészed. Az Europeana Zenei Gyűjteménnyel ezt mind megteheted!</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Partnereink</a>, akik valamennyien európai zenei szakemberek, gondosan válogatták ki ezt a zenei felvételekből, kottákból, hangszerek képeiből, zenével kapcsolatos könyvekből és más zenéhez kapcsolódó anyagokból álló gyűjteményt. </p>\n\n<p>Elérhetővé tettük látogatóink számára a Zenei Csatornának ezt a korai teszt verzióját , hogy segítsetek formálni, amint továbbfejlesztjük. Tehát, amíg az oldalt böngészi néha megkérjük, hogy válaszoljon pár kérdésre vagy kérdőívre. Nagyra értékelnénk, ha időt szánna ezeknek a kérdéseknek megválaszolására, illetve kérdőívek kitöltésére!</p>\n\n<p>Értékeljük az átláthatóságot és magánéletet, így tudnod kell továbbá azt is, hogy naplózzuk a felhasználói statisztikákat és felhasználói viselkedést a Google Analyticsban és egy Hotjar nevű szolgáltatásban. Azért tesszük mindezt, hogy megtudjuk mit rontottunk el a tervezésben és hogy fejleszthessük a Zenei Csatornát. Minden naplót bizalmasan és névtelenül kezelünk és csakis a szolgáltatás javítására használjuk.</p>\n\n<p>Bíztatunk, hogy keress a gyűjteményben, hallgass zenét, tekints meg kottákat vagy olvass. Amikor a copyright megengedi, le is töltheted a kedvenc dolgaidat. Látogasd meg a virtuális kiállításainkat is, hogy felfedezd a zenének azt az arcát, melyet még sosem láttál!</p>"
         title: A Zenei Gyűjteményről

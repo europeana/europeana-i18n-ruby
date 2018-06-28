@@ -355,6 +355,9 @@ et:
 
           <p>Selleks, et evida enamat teavet selle kohta, kuidas me töötame kultuuriasutuste ja nende kogudega, külasta Europeana Prod.</p>
         title: Tere tulemast, kultuurisõber!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Kujutle muusikateoste originaalkäsikirjade vaatlemist ning samaaegsed teose erinevate interpretatsioonide kuulamist ja helilooja biograafiaga tutvumist. Europeana muusikakogus on see võimalik.</p>

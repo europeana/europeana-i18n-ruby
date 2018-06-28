@@ -355,6 +355,9 @@ cs:
 
           <p>Další informace o naší spolupráci s kulturními institucemi a o tom, jak využíváme jejich sbírky najdete na stránkách <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
         title: Vítejte, milovníci umění!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Představte si, jaké by bylo prohlížet si původní rukopisy hudebního díla a zároveň poslouchat jeho různé interpretace i číst si v životopise skladatele. I to vám umožní web Europeana.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Naši partneři</a>, odborníci přes hudbu z celé Evropy, kteří pečlivě sestavili tuto sbírku hudebních nahrávek, partitur, vyobrazení hudebních nástrojů, knih o hudbě a dalšího obsahu souvisejícího s hudbou. </p>\n\n<p>Tuto prvotní testovací verzi Hudební kolekce jsme zpřístupnili vám, uživatelům, abyste nám mohli pomoci dávat jí tvar, zatímco ji dále rozvíjíme. Po vstupu na web se proto někdy setkáte s prosbami o zodpovězení otázek nebo účast v průzkumech, které se vám zobrazí. Opravdu velmi oceníme, pokud se rozhodnete chvíli těmto otázkám a průzkumům věnovat!</p>\n\n<p>V zájmu transparentnosti a zachování soukromí bychom vás také rádi informovali, že zaznamenáváme statistiky a chování uživatelů pomocí služby Google Analytics a služby s názvem Hotjar. Děláme to proto, abychom zjistili, kde děláme chyby v designu webu a jak Hudební kolekci vylepšit. Všechny záznamy se uchovávají neveřejně a anonymizovaně a využívají se pouze ke zlepšování naší služby.</p>\n\n<p>Směle se pusťte do prohledávání sbírky, přehrávání hudby, prohlížení partitur i čtení. Pokud to dovolují autorská práva, můžete si své nejoblíbenější kousky také stáhnout. Navštivte také naše virtuální výstavy a objevujte hudbu, jak jste ji nikdy nezažili!</p>"
         title: O hudebních sbírkách

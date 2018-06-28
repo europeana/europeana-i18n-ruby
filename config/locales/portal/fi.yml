@@ -351,6 +351,9 @@ fi:
 
           <p>Sillä aikaa, toivomme, että viihdyt kulttuurimatkalla kanssamme.</p>
         title: Tervetuloa, kulttuurinrakastaja!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Kuvittele katselevasi alkuperäistä sävellyksen käsikirjoitusta samalla kun kuuntelet eri tulkintoja siitä ja luet säveltäjän elämäkertaa. Se on mahdollista Europeanan musiikkikokoelmassa.</p>

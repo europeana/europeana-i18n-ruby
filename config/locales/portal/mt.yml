@@ -355,6 +355,9 @@ mt:
 
           <p>Għal aktar informazzjoni fuq kif naħdmu ma' istituzzjonijiet kulturali u l-kollezzjonijiet tagħhom, żur Europeana Pro.</p>
         title: Merħba, maħbub tal-kultura!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Immaġina kieku qiegħed tħares lejn manuskritti miktubin bl-idejn ta' biċċa mużika waqt li qiegħed tisma' interpretazzjonijiet differenti tiegħu, u taqra il-biografu tal-kompositur. Fuq il-Kollezzjonijiet tal-Mużika ta' Europeana, tista'. </p>

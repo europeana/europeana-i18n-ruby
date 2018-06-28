@@ -353,6 +353,9 @@ de:
 
           <p> In der Zwischenzeit hoffen wir, dass Sie Ihre kulturelle Reise mit uns genießen. <p>
         title: Willkommen, Kulturliebhaber!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p> Stellen Sie sich vor Originalhandschriften eines Musikstückes anzuschauen während Sie verschiedene Interpretationen desselben anhören, sowie eine Biographie des Komponisten zu lesen. In der Europeana Musik Sammlung ist dies möglich. <p>

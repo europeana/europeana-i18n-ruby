@@ -355,6 +355,9 @@ sv:
 
           <p>För mer information om hur vi arbetar med kulturinstitutioner och deras samlingar, gå till <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
         title: Välkommen, kulturälskare!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Tänk dig att titta på originalhandskrivna manuskript av ett musikstycke medan du lyssnar på olika tolkningar av den och läser en biografi av kompositören. Med Europeana Music Collection kan du det.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Våra partners</a>, alla experter på musik, från hela Europa, har noggrant satt ihop denna samling av musikinspelningar, noter, bilder på musikinstrument, böcker om musik och annat musikrelaterat innehåll. </p>\n\n<P> i har gjort den här tidiga testversionen av musiksamlingen tillgänglig för er, våra användare, så ni kan hjälpa oss att utforma den när vi utvecklar den vidare. Så när du besöker webbplatsen kommer du ibland att bli ombedd att svara på frågor eller undersökningar som visas på skärmen. Vi skulle verkligen uppskatta om du kunde ta tid att svara på dessa frågor och undersökningar!</p>\n\n<p>Du bör också, för öppenhet och integritet, veta att vi loggar användarstatistik och användarbeteende i Google Analytics och en tjänst som heter Hotjar. Vi gör det för att det visar oss var vi har gjort fel i vår design och det hjälper oss till att förbättra Music Collection. Alla loggar hålls privata och anonymiserade och kommer endast att användas för att förbättra vår service.</p>\n\n<p>Vi uppmuntrar dig att söka i samlingen, spela musik, titta på noter eller läsa om dem. När upphovsrätten så tillåter kan du ladda ner de saker du älskar mest. Och besök våra virtuella utställningar för att upptäcka musik på sätt som du aldrig gjort tidigare!</p>"
         title: Om Musiksamlingarna

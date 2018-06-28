@@ -356,6 +356,9 @@ pl:
           <p>Aby uzyskać więcej informacji o tym, jak pracujemy z instytucjami kultury oraz ich zbiorami, odwiedź Europeana Pro.</p>
 
         title: Witaj, miłośniku kultury!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Wyobraź sobie odkrywanie oryginalnycyh rękopisów utworu muzycznego, słuchając jego różnych interpretacji i czytając biografię kompozytora. Na stronie Kolekcji Muzyki Europeana jest to możliwe</p>\n\n<p><a href=\"http://www.europeanasounds.eu\">Nasi partnerzy</a>, eksperci w dziedzinie muzyki z całej Europy starannie wybrali tę kolekcję nagrań, nut, zdjęć instrumentów muzycznych, książek o muzyce i innych materiałów \nzwiązanych z muzyką.</p>\n\n<p>Udostępniamy tę wczesną wersję testową Kolekcji Muzyki Wam, naszym użytkownikom, abyście pomogli nam dalej ją rozwijać. Dlatego od czasu do czasu, odwiedzając stronę, możecie zostać poproszeni o udzielenie odpowiedzi na pytania lub wypełnienie ankiet pojawiających się na ekranie. Będziemy Wam bardzo wdzięczni za poświęcony czas!</p>\n\n<p>Ponadto, w interesie przejrzystości i prywatności, informujemy, że zbieramy dane na temat zachowań użytkownika w Google Analytics i usłudze o nazwie Hotjar. Robimy to, aby wykryć błędy i poprawić Kolekcję Muzyki. Wszystkie dane są prywatne i anonimowe i zostaną wykorzystane wyłącznie w celu poprawy jakości naszego serwisu.</p>\n\n<p>Zapraszamy do odkrywania kolekcji, słuchania muzyki, przeglądania nut i czytania. Gdy prawo autorskie na to pozwala, możnesz pobrać swoje ulubione materiały. Odwiedź również nasze wirtualne wystawy i odkrywaj muzykę w zupełnie nowy sposób!</p>"
         title: O Kolekcji Muzyka

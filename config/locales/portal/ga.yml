@@ -358,6 +358,9 @@ ga:
       about:
         text: 
         title: 
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: 
         title: 

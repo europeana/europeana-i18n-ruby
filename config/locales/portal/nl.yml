@@ -342,6 +342,9 @@ nl:
       about:
         text: 
         title: Welkom, cultuur liefhebber!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: 
         title: Over de Muziek Collecties

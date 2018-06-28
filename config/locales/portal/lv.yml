@@ -356,6 +356,9 @@ lv:
 
           <p>Papildinformācijai, kā mēs strādājam ar kultūras institūcijām un to kolekcijām, apmeklējiet Europeana Profesionālā.</p>
         title: Esiet sveicināts, kultūras mīli!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Iedomājieties, ka aplūkojat skaņdarba nošu manuskripta oriģinālu, un tajā pašā laikā ir iespējams noklausīties arī dažādas tā interpretācijas, un izlasīt komponista biogrāfiju. Europeana Mūzikas kolekcijā tas ir iespējams.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Mūsu partneri</a>, mūzikas eksperti, no visas Eiropas ir izveidojuši šo mūzikas ierakstu, nošu, mūzikas instrumentu attēlu, mūzikas grāmatu un cita ar mūziku saistīta satura kolekciju. </p>\n\n<p>Esam publiskojuši šo Mūzikas kolekcijas testa versiju, lai mūsu lietotāji varētu mums palīdzēt to uzlabot un attīstīt. Apmeklējot vietni, lietotāji tiek aicināti atbildēt uz jautājumiem un aptaujām, kas parādās uz ekrāna. Būsim ļoti pateicīgi, ja atradīsiet laiku atbildēt uz jautājumiem!</p>\n\n<p>Tāpat, privātuma saglabāšanas nolūkos, informējam, ka mēs apkopojam lietotāju statistiku un uzvedību ar Google Analytics un Hotjar pakalpojumiem. Mēs to darām, lai novērtētu un novērstu Mūzikas kolekcijas dizaina trūkumus un uzlabotu tās lietojamību. Visa uzkrātā informācija ir anonīma, netiek nevienam izpausta un tiek izmantota tikai, lai uzlabotu pakalpojumus.</p>\n\n<p>Mēs aicinām meklēt kolekcijā, atskaņot mūziku, skatīt notis un lasīt. Ja autortiesības to atļauj, iepatikušās lietas ir iespējams lejupielādēt. Un apmeklē mūsu virtuālās izstādes, lai atklātu mūziku līdz šim vēl neiepazītos veidos!</p>"
         title: Par Mūzikas kolekcijām

@@ -351,6 +351,9 @@ da:
 
           <p>I mellemtiden håber vi, at du nyder din kulturelle rejse med os.</p>
         title: Velkommen, kulturelsker!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Forestil dig at du ser på et originalt, håndskrevet manuskript af et stykke musik, mens du lytter til forskellige fortolkninger af musikken, og læser en biografi om komponisten. Det kan du i Europeana Musiksamlingen.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Vores partnere</a>, der alle er musikeksperter fra hele Europa, har omhyggeligt kurateret denne samling af musikindspilninger, noder, billeder af musikinstrumenter, bøger om musik, og andet musikrelateret indhold. </p>\n\n<p>Vi har lagt denne tidlige testversion af Musikkanalen ud til jer, vores brugere, så I kan hjælpe os med at forme og videreudvikle den. Det betyder, at når du besøger sitet, vil du ind i mellem blive bedt om at besvare spørgsmål eller deltage i undersøgelser. Vi vil være meget taknemmelige, hvis du vil afse tid til at besvare disse spørgsmål!</p>\n\n<p>Af hensyn til transparens og privatliv, vil vi gerne informere dig om, at vi logger brugerstatistik og -adfærd i Google Aanalytics og en service ved navn Hotjar. Det gør vi, fordi de viser os hvor vi har lavet fejl i vores design, og det hjælper os til at forbedre Musikkanalen. Alle logfiler forbliver private og anonymiserede, og anvendes udelukkende til at forbedre vores service.</p>\n\n<p>Vi vil gerne opfordre dig til at søge i samlingen, afspille musikken, se noderne og læse om musikken. I det omfang ophavsretten tillader, kan du hente dine favoritfiler ned, og du kan besøge vores virtuelle udstillinger for at opleve musik, som du aldrig har prøvet det før!</p>"
         title: Om Musiksamlingen

@@ -351,6 +351,9 @@ lt:
 
           <p>Tikimės, kad jūs megaujatės "kultūrinėmis kelionėmis" kartu su mumis.</p>
         title: Sveiki, kultūros mylėtojau!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Įsivaizduokite, kad galite žiūrėti į rankraštinį natų sąsiuvinį tuo pat metu klausydamiesi skirtingų to kūrinio interpretacijų bei skaitydami autoriaus biografiją. Europeana muzikos kolekcija jums tai leidžia!</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Mūsų partneriai</a>, muzikos ekspertai iš visos Europos, atsakingai surinko puikias muzikos įrašų, natų, muzikos instrumentų vaizdų, knygų apie muziką ir kitų, su muzika susijusių, objektų kolekcijas.</p>\n\n<p>Norėdami prisitaikyti prie jūsų poreikių, pirmąją muzikos kolekcijos versiją padarėme prieinamą jums. Prašome nenustebti, jei naršant kolekciją jūsų ekrane kartas nuo karto pasirodys trumpos apklausos - mes norime išgirsti jūsų nuomonę ir tobulinti kolekciją. Skirkite keletą minučių pasidalinti savo įžvalgomis!</p>\n\n<p>Taip pat perspėjame, kad mes renkame duomenis apie vartotojus ir jų elgseną, naudodamiesi Google Analytics ir Hotjar sistemomis. Tai darome tam, kad galėtume tobulinti muzikos kolekciją - mes matome tam tikras klaidas ir galime gerinti dizainą. Visi duomenys yra anoniminiai ir nebus panaudoti jokiais kitais tikslais, o tik tobulinti muzikos kolekcijos puslapius.</p>\n\n<p>Norime jus paskatinti tyrinėti kolekciją, klausytis muzikos, peržiūrėti natas ir skaityti tekstus. Jeigu autorinės teisės leidžia, nedvejodami parsisiųskite labiausiai patikusius įrašus ir į savo kompiuterį. Be to, nepamirškite aplankyti mūsų organizuojamas virtualias parodas, kuriose muziką atrasite \"ktaip\"!</p>"
         title: Apie muzikos kolekciją

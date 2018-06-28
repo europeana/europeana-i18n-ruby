@@ -355,6 +355,9 @@ ca:
 
           <p> Per a obtenir més informació sobre com treballem amb institucions culturals i les seves col·leccions, visiteu Europeana Pro.</p>
         title: Benvingut, amant de la cultura!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Imagineu-vos mirant manuscrits originals d'una peça de música mentre escolteu a diferents interpretacions de la mateixa, i llegiu una biografia del compositor. En la col·lecció de música d'Europeana, es pot.</p>

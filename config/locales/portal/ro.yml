@@ -353,6 +353,9 @@ ro:
 
           <p>Între timp sperăm că te bucuri de expediția culturală oferiă de noi.</p>
         title: Bun venit, iubitorule de cultură!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Imaginează-ți că privești manuscrisul original al unui fragment muzical în timp ce asculți diferitele interpretări ale acestuia, însoțit de o biografie a compozitorului piesei respective. Colecția de Muzică a Europeana face toate aceste lucruri posibile.</p>
