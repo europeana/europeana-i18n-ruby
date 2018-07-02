@@ -173,7 +173,7 @@ es:
       skip-to-main: Saltar al contenido de la página
       skip-to-section: Saltar a la sección
       view: Ver
-      view-at: Ver en
+      view-at: 'Ver en '
       view-more-at: 'Ver más en '
       withdraw: retirar
     channel:
