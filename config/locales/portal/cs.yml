@@ -154,6 +154,9 @@ cs:
       share:
         one: Sdílet tuto galerii
         other: Sdílet galerie
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Více...
     my-europeana: Moje Europeana
     my-europeana-link: Odkaz na web Moje Europeana
@@ -208,7 +211,6 @@ cs:
       enrichment:
         who:
           title: Název
-      helpbar-tip: 
       hierarchy:
         title: Související položky
         view-items-above: zobrazit položky výše

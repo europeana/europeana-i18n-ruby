@@ -154,6 +154,9 @@ bg:
       share:
         one: Споделете тази галерия
         other: Споделете галериите
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Още...
     my-europeana: Моята Европеана
     my-europeana-link: линк към Моята Европеана
@@ -208,7 +211,6 @@ bg:
       enrichment:
         who:
           title: Заглавие
-      helpbar-tip: 
       hierarchy:
         title: Подобни обекти
         view-items-above: Виж обектите по-горе

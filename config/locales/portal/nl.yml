@@ -154,6 +154,9 @@ nl:
       share:
         one: Deel deze galerij
         other: Deel de galerijen
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Meer...
     my-europeana: Mijn Europeana
     my-europeana-link: Link naar mijn Europeana
@@ -208,7 +211,6 @@ nl:
       enrichment:
         who:
           title: Titel
-      helpbar-tip: 
       hierarchy:
         title: Gerelateerde objecten
         view-items-above: bekijk bovenstaande resultaten

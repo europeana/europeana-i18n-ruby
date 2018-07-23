@@ -155,6 +155,9 @@ lv:
         one: Kopīgot šo galeriju
         other: Kopīgot galerijas
         zero: ''
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Vairāk...
     my-europeana: Mana Europeana
     my-europeana-link: saite uz "Mana Europeana"
@@ -209,7 +212,6 @@ lv:
       enrichment:
         who:
           title: Nosaukums
-      helpbar-tip: 
       hierarchy:
         title: Saistītie ieraksti
         view-items-above: skatīt iepriekšējos ierakstus

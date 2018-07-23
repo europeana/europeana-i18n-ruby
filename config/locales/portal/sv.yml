@@ -154,6 +154,9 @@ sv:
       share:
         one: Dela det här galleriet
         other: Dela gallerierna
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Mera...
     my-europeana: Mitt Europeana
     my-europeana-link: länk till Mitt Europeana
@@ -208,7 +211,6 @@ sv:
       enrichment:
         who:
           title: Titel
-      helpbar-tip: 
       hierarchy:
         title: Relaterade poster
         view-items-above: visa poster ovan

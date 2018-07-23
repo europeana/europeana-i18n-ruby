@@ -154,6 +154,9 @@ sk:
       share:
         one: Zdieľajte túto galériu
         other: Zdieľajte galérie
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Viac...
     my-europeana: Moja Europeana
     my-europeana-link: link na Moja Europeana
@@ -208,7 +211,6 @@ sk:
       enrichment:
         who:
           title: Nadpis
-      helpbar-tip: 
       hierarchy:
         title: Príslušné položky
         view-items-above: Pozrite si vyššie uvedené položky

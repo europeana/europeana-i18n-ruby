@@ -154,6 +154,9 @@ pl:
       share:
         one: Udostępnij tą galerię
         other: Udostępnij galerie
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Więcej...
     my-europeana: Moja Europeana
     my-europeana-link: link do My Europeana
@@ -208,7 +211,6 @@ pl:
       enrichment:
         who:
           title: Tytuł
-      helpbar-tip: 
       hierarchy:
         title: Powiązane obiekty
         view-items-above: zobacz obiekty powyżej

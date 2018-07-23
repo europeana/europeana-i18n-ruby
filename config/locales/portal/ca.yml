@@ -154,6 +154,9 @@ ca:
       share:
         one: Comparteix aquesta galeria
         other: Comparteix les galeries
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Més...
     my-europeana: La meva Europeana
     my-europeana-link: enllaç a La meva Europeana
@@ -208,7 +211,6 @@ ca:
       enrichment:
         who:
           title: Títol
-      helpbar-tip: 
       hierarchy:
         title: Ítems relacionats
         view-items-above: veure els ítems superiors

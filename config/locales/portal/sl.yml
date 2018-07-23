@@ -154,6 +154,9 @@ sl:
       share:
         one: Deli to galerijo
         other: Deli galerije
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Več ...
     my-europeana: Moja Europeana
     my-europeana-link: povezava do Moja Europeana
@@ -208,7 +211,6 @@ sl:
       enrichment:
         who:
           title: Naziv
-      helpbar-tip: 
       hierarchy:
         title: Povezani predmeti
         view-items-above: ogled zgornjih predmetov

@@ -154,6 +154,9 @@ hu:
       share:
         one: Galéria megosztása
         other: Galériák megosztása
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Tovább...
     my-europeana: Saját Europeana
     my-europeana-link: link a Saját Europeana-ra
@@ -208,7 +211,6 @@ hu:
       enrichment:
         who:
           title: Cím
-      helpbar-tip: 
       hierarchy:
         title: Hasonló elemek
         view-items-above: mutasd a fenti elemeket

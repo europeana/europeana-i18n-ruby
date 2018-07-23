@@ -154,6 +154,9 @@ fi:
       share:
         one: Jaa tämä galleria
         other: Jaa galleriat
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Lisää...
     my-europeana: Minun Europeana
     my-europeana-link: linkki Minun Europeanaan
@@ -208,7 +211,6 @@ fi:
       enrichment:
         who:
           title: Otsikko
-      helpbar-tip: 
       hierarchy:
         title: Aiheeseen liittyvät kohteet
         view-items-above: katso yllä olevia kohteita

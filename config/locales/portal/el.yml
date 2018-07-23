@@ -154,6 +154,9 @@ el:
       share:
         one: Μοιραστείτε αυτήν την γκαλερί
         other: Μοιραστείτε τις γκαλερί
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Περισσότερα...
     my-europeana: 
     my-europeana-link: συνδεσμος για το my Europeana
@@ -208,7 +211,6 @@ el:
       enrichment:
         who:
           title: Τίτλος
-      helpbar-tip: 
       hierarchy:
         title: Σχετικές εγγραφές
         view-items-above: εμφάνιση προηγούμενων

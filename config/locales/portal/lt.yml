@@ -154,6 +154,9 @@ lt:
       share:
         one: Dalytis šia galerija
         other: Dalytis galerijomis
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Daugiau...
     my-europeana: Mano Europeana
     my-europeana-link: Nuoroda į Mano Europeana
@@ -208,7 +211,6 @@ lt:
       enrichment:
         who:
           title: Pavadinimas
-      helpbar-tip: 
       hierarchy:
         title: Susiję įrašai
         view-items-above: Peržiūrėti įrašus esančius viršuje

@@ -154,6 +154,9 @@ mt:
       share:
         one: Ixxerja din il-gallery
         other: Ixxerja l-galleries
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Aktar...
     my-europeana: L-Europeana tiegħi
     my-europeana-link: Link lejn l-Europeana tiegħi
@@ -208,7 +211,6 @@ mt:
       enrichment:
         who:
           title: Titlu
-      helpbar-tip: 
       hierarchy:
         title: Oġġetti relatati
         view-items-above: Ara l-oġġetti hawn fuq

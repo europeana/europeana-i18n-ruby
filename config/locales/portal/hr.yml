@@ -154,6 +154,9 @@ hr:
       share:
         one: Podijelite ovu galeriju
         other: Podijelite galerije
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Više...
     my-europeana: My Europeana
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login
@@ -208,7 +211,6 @@ hr:
       enrichment:
         who:
           title: Naslov
-      helpbar-tip: 
       hierarchy:
         title: Srodni objekti
         view-items-above: pogledaj gornje objekte

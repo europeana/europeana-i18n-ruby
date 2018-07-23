@@ -154,6 +154,9 @@ en:
       share:
         one: Share this gallery
         other: Share the galleries
+    helpbar-tip:
+      browse-page: 'Tip: hover over image for more options'
+      item-page: We want your feedback on our new item page, use our feedback button to leave your comments.
     more: More...
     my-europeana: MyEuropeana
     my-europeana-link: link to My Europeana
@@ -208,7 +211,6 @@ en:
       enrichment:
         who:
           title: Title
-      helpbar-tip: We want your feedback on our new item page, use our feedback button to leave your comments.
       hierarchy:
         title: Related items
         view-items-above: view items above

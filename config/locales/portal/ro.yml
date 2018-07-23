@@ -154,6 +154,9 @@ ro:
       share:
         one: Împărtășiți cu alții această galerie
         other: Împărtășiți cu alții galeriile
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Mai mult...
     my-europeana: Contul My Europeana
     my-europeana-link: 
@@ -208,7 +211,6 @@ ro:
       enrichment:
         who:
           title: Titlu
-      helpbar-tip: 
       hierarchy:
         title: Înregistrări înrudite
         view-items-above: vezi obiectele de mai sus

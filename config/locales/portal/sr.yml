@@ -150,6 +150,9 @@ sr:
       description: 
       description-default: 
       share: 
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: 
     my-europeana: 
     my-europeana-link: 
@@ -204,7 +207,6 @@ sr:
       enrichment:
         who:
           title: 
-      helpbar-tip: 
       hierarchy:
         title: 
         view-items-above: 

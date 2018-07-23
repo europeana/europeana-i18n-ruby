@@ -164,6 +164,9 @@ ga:
       share:
         one: Comhroinn an gailearaí seo
         other: Comhroinn na gailearaithe
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Tuilleadh...
     my-europeana: 
     my-europeana-link: 
@@ -218,7 +221,6 @@ ga:
       enrichment:
         who:
           title: Teideal
-      helpbar-tip: 
       hierarchy:
         title: Míreanna gaolmhara
         view-items-above: féach míreanna thuas

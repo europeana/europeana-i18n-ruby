@@ -154,6 +154,9 @@
       share:
         one: Del dette galleriet
         other: Del galleriene
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Mer ...
     my-europeana: Mitt Europeana
     my-europeana-link: lenke til Mitt Europeana
@@ -208,7 +211,6 @@
       enrichment:
         who:
           title: Tittel
-      helpbar-tip: 
       hierarchy:
         title: Relaterte objekter
         view-items-above: se på objekter over
