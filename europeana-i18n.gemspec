@@ -20,8 +20,8 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 2.3'
 
-  s.add_dependency 'rails', '>= 4.0', '< 6.0'
   s.add_dependency 'i18n-js', '>= 3.0', '< 4.0'
+  s.add_dependency 'rails', '>= 4.0', '< 6.0'
 
   s.add_development_dependency 'minitest-reporters', '~> 1'
   s.add_development_dependency 'rake', '~> 12'
