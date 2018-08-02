@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-$:.push File.expand_path('../lib', __FILE__)
+$:.push File.expand_path('lib', __dir__)
 
 # Maintain your gem's version:
 require 'europeana/i18n/version'
@@ -15,13 +15,13 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/europeana/europeana-i18n-ruby'
   s.license     = 'EUPL-1.1'
 
-  s.files = Dir['{config,lib}/**/*', '.rubocop.yml', 'Gemfile', 'LICENSE.md', 'README.md']
+  s.files = Dir['{config,lib}/**/*', '.rubocop.yml', 'Gemfile', 'LICENSE.md',
+                'Rakefile', 'README.md']
 
-  s.required_ruby_version = '>= 2.1.0'
+  s.required_ruby_version = '>= 2.3'
 
   s.add_dependency 'rails', '>= 4.0', '< 6.0'
 
   s.add_development_dependency 'minitest-reporters'
   s.add_development_dependency 'rake'
-  s.add_development_dependency 'rubocop', '0.49.1'
 end
