@@ -31,13 +31,9 @@ If no parameter is given to js_translation_files it will default to the current 
 ```
 class YourClass
   include Europeana::I18n::JsTranslationsHelper
-  
-  def required_js_files
-    js_translation_files
-  end
 end
 
-YourClass.new.required_js_files('en', 'nl') #=> ['/javascripts/i18n/en.js', '/javascripts/i18n/nl.js']
+YourClass.new.js_translation_files('en', 'nl') #=> ['/javascripts/i18n/en.js', '/javascripts/i18n/nl.js']
 ```
 
 ## License
