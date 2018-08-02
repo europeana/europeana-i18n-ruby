@@ -11,9 +11,9 @@ Simply add "europeana-i18n" to your Rails app's Gemfile and `bundle`.
 Translations from the YAML locales in this gem will then be available to your
 app.
 
-## JavScript Translations
+## JavaScript Translations
 
-Javascript translations are enabled through the [I18n-js](https://github.com/fnando/i18n-js) gem. 
+JavaScript translations are enabled through the [I18n-js](https://github.com/fnando/i18n-js) gem. 
 You will need to add these js files to your app/assets/javascript/application.js
 
 ```
@@ -23,19 +23,21 @@ You will need to add these js files to your app/assets/javascript/application.js
 ```
 
 Then ensure you load the translations specific to your current locale.
-This gem automatically generates translation files per local. (see config/i18n-js.yml)
-In order to know which language file to use include the JsTranslationsHelper and call the js_tranlation_files method.
+This gem automatically generates translation files per locale. (see config/i18n-js.yml)
+In order to know which language file to use include the JsTranslationsHelper and call the js_translation_files method.
+You can provide an array of language keys for the locales you requrire translations for.
+If no parameter is given to js_translation_files it will default to the current I18n locale.
 
 ```
 class YourClass
   include Europeana::I18n::JsTranslationsHelper
   
-  def self.required_js_files
+  def required_js_files
     js_translation_files
   end
 end
 
-YourClass.required_js_files #=> ["/javascripts/i18n/en.js"]
+YourClass.new.required_js_files('en', 'nl') #=> ['/javascripts/i18n/en.js', '/javascripts/i18n/nl.js']
 ```
 
 ## License
