@@ -1,6 +1,6 @@
 # europeana-i18n
 
-[![Build Status](https://travis-ci.org/europeana/europeana-i18n-ruby.svg?branch=develop)](https://travis-ci.org/europeana/europeana-i18n-ruby) [![Code Climate](https://codeclimate.com/github/europeana/europeana-i18n-ruby/badges/gpa.svg)](https://codeclimate.com/github/europeana/europeana-i18n-ruby)
+[![Build Status](https://travis-ci.org/europeana/europeana-i18n-ruby.svg?branch=develop)](https://travis-ci.org/europeana/europeana-i18n-ruby) [Security](https://hakiri.io/github/europeana/europeana-i18n-ruby/develop.svg)](https://hakiri.io/github/europeana/europeana-i18n-ruby/develop) [![Maintainability](https://api.codeclimate.com/v1/badges/595f677209e9fc811622/maintainability)](https://codeclimate.com/github/europeana/europeana-i18n-ruby/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/595f677209e9fc811622/test_coverage)](https://codeclimate.com/github/europeana/europeana-i18n-ruby/test_coverage)
 
 I18n for Europeana Rails apps.
 
@@ -41,6 +41,7 @@ YourClass.new.required_js_files('en', 'nl') #=> ['/javascripts/i18n/en.js', '/ja
 ```
 
 ## License
+
 Licensed under the EUPL V.1.1.
 
 For full details, see [LICENSE.md](LICENSE.md).
