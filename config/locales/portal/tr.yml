@@ -7,6 +7,8 @@ tr:
         sources:
           description: 
   global:
+    exhibitions:
+      contacts: 
     labs-link: 
     navigation:
       agents: 
@@ -26,6 +28,8 @@ tr:
       home: 
       more:
         agents: 
+        people: 
+        periods: 
         topics: 
       periods: 
       places: 
@@ -81,6 +85,7 @@ tr:
         moving-images: 
         sound: 
         texts: 
+      description: 
       e7a1418:
         contribute: 
         my-account: 
@@ -90,11 +95,31 @@ tr:
         editors-picks: 
         recent: 
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: 
         whats-happening: 
       music:
         description: 
         title: 
+    entities:
+      anagraphic:
+        birth: 
+        death: 
+        occupation: 
+      labels:
+        bio: 
+        born: 
+        description: 
+        died: 
+        related: 
+      tab_items:
+        items_about: 
+        items_by: 
+      types:
+        agent: 
+        concept: 
+        place: 
+      wiki_link_text: 
     events:
       all_day: 
       description: 
@@ -125,9 +150,13 @@ tr:
       description: 
       description-default: 
       share: 
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: 
     my-europeana: 
     my-europeana-link: 
+    name: 
     navigation:
       breadcrumb:
         account: 
@@ -151,23 +180,30 @@ tr:
         placeholder:
           text: 
     news: 
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: 
         attribute-html: 
         attribute-plaintext: 
+        collapse-extended: 
         download: 
         download-additional: 
         download-retry: 
         download-started: 
         downloaddata: 
         enlarge: 
+        expand-extended: 
         explore-by-colour: 
         media-metadata: 
         open-media: 
         show-less-data: 
         show-more-data: 
         technicalmetadata: 
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: 
@@ -283,14 +319,20 @@ tr:
       nav:
         next: 
         prev: 
+      next-item: 
       points:
         east: 
         north: 
         south: 
         west: 
       preview_unavailable: 
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: 
       similar-items: 
+      title_unavailable: 
     pages:
       '404':
         intro: 
@@ -298,6 +340,9 @@ tr:
       about:
         text: 
         title: 
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: 
         title: 
@@ -350,6 +395,7 @@ tr:
     search:
       browse: 
       or-browse: 
+      page-title: 
       placeholder:
         filter-text: 
         text: 
@@ -372,3 +418,8 @@ tr:
         label: 
         settings-label: 
       title: 
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

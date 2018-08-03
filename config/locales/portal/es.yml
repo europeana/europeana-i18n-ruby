@@ -7,12 +7,14 @@ es:
         sources:
           description: A continuación puede ver una lista de las instituciones que han aportado su contenido a Europeana Collections. Estas instituciones agregan y aportar sus datos a Europeana, Haga clic en el enlace que le interese para ver una colección de un proveedor en particular.
   global:
+    exhibitions:
+      contacts: 
     labs-link: 'link a labs '
     navigation:
       agents: Personas
       all_blog_posts: Todos los Posts...
       all_exhibitions: Todas las exposiciones...
-      all_galleries: 
+      all_galleries: Todas las galerías...
       blog: Blog
       browse: Explorar
       browse_colours: Colores
@@ -22,15 +24,17 @@ es:
       collections: Colecciones
       concepts: Temas
       exhibitions: Exposiciones
-      galleries: 
+      galleries: Galerias
       home: Inicio
       more:
-        agents: Más personas
+        agents: Gente
+        people: Más personas
+        periods: Períodos de tiempo
         topics: Más temas
       periods: Períodos de tiempo
       places: Lugares
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Ver colección entera
+      view-detailed-description: Ver una descripción más detallada
     pro-link: link a pro
     pro-text: texto para pro
     settings: Ajustes
@@ -42,11 +46,11 @@ es:
         title: Esta es la versión Beta de nuestras colecciones, el Canal de Música y el Arte Colecciones de Historia .
     blog-link: Link al Blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} mensajes de blogs"
+        page-title: Blog
+      min-to-read: minutos para leer
     browse:
       colours:
         description: Búsqueda de imágenes en función de su color. ¡Simplemente haga clic en el cuadro inferior para descubrir las imágenes que contengan ese color!
@@ -81,8 +85,9 @@ es:
         moving-images: Videos
         sound: Grabaciones sonoras
         texts: Textos
+      description: 
       e7a1418:
-        contribute: 
+        contribute: Añada su historia 1914-1918
         my-account: Mi cuenta
       labels:
         credits: Curado por
@@ -90,19 +95,41 @@ es:
         editors-picks: "  "
         recent: Adiciones recientes
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Explorar <i>%{preview_title}</i> en %{collection}
         spotlight-on: Destacados
-        whats-happening: 
+        whats-happening: Qué está pasando
       music:
         description: La <strong>Colección de Música de Europeana<strong> reúne las mejores grabaciones, partituras y otros objectos relacionados con la música de los archivos audiovisuales europeos, bibliotecas y museos. <a href="/portal/channels/music/about">Más acerca del Colección de Música.</a>
         title: Europeana Música
+    entities:
+      anagraphic:
+        birth: Nacimiento
+        death: Muerte
+        occupation: Ocupación
+      labels:
+        bio: Biografía
+        born: Nacido
+        description: 
+        died: Muerto
+        related: Relacionado
+      tab_items:
+        items_about: Artículos sobre %{name}
+        items_by: Artículos por %{name}
+      types:
+        agent: Persona
+        concept: Concepto
+        place: 'Lugar
+
+'
+      wiki_link_text: Recurso obtenido de Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Todo el día
+      description: Eventos
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} eventos"
+        future: Eventos próximos
+        page-title: Eventos
+        past: Eventos pasados
     facet:
       language:
         show:
@@ -122,52 +149,65 @@ es:
         search-tips: 'Consejos de búsqueda '
         using-myeuropeana: Usando Mi Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: "¡Cultura conservada para usted! ¡Descubra Europeana Galleries!"
+      description-default: Saber más sobre Europeana
+      share:
+        one: Compartir esta galería
+        other: Compartir las galerías
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Más...
     my-europeana: Mi Europeana
     my-europeana-link: link a Mi Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: cuenta
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Contribución
+        contribution-attachment: Adjunto
+        contribution-attachments: Adjuntos
+        contribution-done: Hecho
+        contributor: Contribuyente
+        events_list_breadcrumb: Eventos
         exhibitions:
           return_home: Exposiciones
         item_detail: Detalles del objeto
-        register: 
-        reset-password: 
+        register: Inscribirse
+        reset-password: Restaurar contraseña
         results_list: Resultados
-        results_list_mlt: 
+        results_list_mlt: Artículos similares
         return_home: Regresar al Inicio
-        sign-in: 
+        sign-in: Registrarse
       search:
         placeholder:
-          text: 
+          text: Buscar aquí por palabra clave
     news: Noticias
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Atribuye el autor
         attribute-html: HTML
         attribute-plaintext: Texto sin formato
+        collapse-extended: 
         download: Descargar
         download-additional: También disponible como
         download-retry: Reintentar
         download-started: La descarga ha comenzado
         downloaddata: Descargar datos
-        enlarge: 
+        enlarge: Aumentar
+        expand-extended: 
         explore-by-colour: Explore por color
-        media-metadata: 
+        media-metadata: Media Metadata
         open-media: Abrir este objeto
         show-less-data: Mostrar menos datos
         show-more-data: Mostrar más datos
         technicalmetadata: Meta-datos tecnicos
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Título
@@ -176,8 +216,8 @@ es:
         view-items-above: ver objetos más arriba
         view-items-below: ver objetos más abajo
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Derechos adicionales de información
+        annotations: Anotaciones de usuario
         codec: Codec
         collection-name: Set de datos
         concept: Concepto
@@ -241,7 +281,7 @@ es:
         relations: Relaciones
         rights: Derechos de Autor
         rights-human: Puedo usarlo?
-        rights-statement: 
+        rights-statement: Declaración de derechos
         runtime: Tiempo de ejecución
         runtime-unit-seconds: segundos
         source: Fuente
@@ -283,14 +323,20 @@ es:
       nav:
         next: Siguiente
         prev: Anterior
+      next-item: 
       points:
         east: Este
         north: Norte
         south: Sur
         west: Oeste
       preview_unavailable: 
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: Mostrar más
       similar-items: Objetos similares
+      title_unavailable: 
     pages:
       '404':
         intro: Disculpe, no podemos encontrar esta página
@@ -305,6 +351,9 @@ es:
 
           <p>Estamos probando una nueva versión de Europeana Colecciones y estamos trabajando duro para mejorar tu experiencia y para que encuentres más fácilmente lo que buscas. Te pediremos que nos ayudes respondiendo a algunas preguntas. Tus respuestas nos serán de gran ayuda así que por favor gasta unos minutos para compartir tus comentarios. ¡Gracias! </p>
         title: "¡Bienvenido, amante de la cultura!"
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Imagina mirar manuscritos originales de una obra musical mientras escuchas diferentes interpretaciones y lees la biografía del compositor. Estos es posible en el canal Europeana Música.</p>  \n\n<p><a href=\"http://www.europeanasounds.eu\">Nuestros colaboradores</a>, expertos en Música de toda Europa han seleccionado cuidadosamente esta colección de grabaciones, partituras, imágenes de instrumentos musicales, libros sobre música y otros contenidos relacionados con la materia.</p>\n\n<p>Hemos hecho disponible esta versión de prueba del Canal de Música a vosotros, nuestros usuarios, para que podáis ayudarnos a darle forma y mejorarlo. Cuando lo visites a veces te pediremos que respondas a los cuestionarios que aparecen en la pantalla. Te agradecemos que gastes unos minutos en responder a nuestras preguntas.</p> \n\n<p>En nombre de la transparencia y la privacidad, te comunicamos que guardamos las estadísticas de uso en Google Analytics y en un servicio llamado Hotjar. Hacemos esto porque nos muestra lo que estamos haciendo mal y nos ayuda a mejorar el canal de música. Todos los registros son privados y anónimos y solo serán usados para mejorar nuestro servicio.</p> \n\n<p>Te animamos a buscar en nuestras colecciones, escuchar música, ver partituras u ojearlas. Cuando los derechos de autor lo permitan, te puedes descargar lo que más te guste o visitar nuestras exhibiciones virtuales y descubrir la música de una manera como nunca antes lo habías hecho.</p>"
         title: Acerca del Canal de Música
@@ -318,9 +367,9 @@ es:
         product-save: Guardar
         saveto: Guardar en
         show-all-collections: Muestra todas las colecciones
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Clic aquí para ver más resultados de fuentes no Europeana
+      federated-clicked: Artículos de fuentes no Europeana
+      federated_more: Ver todos %{results_count} resultados en  %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -353,12 +402,13 @@ es:
           grid: Retícula
           list: Lista
         view-at-provider: Ver en
-      results: 
+      results: Resultados
     search:
       browse: Navegar
       or-browse: o navegar
+      page-title: Resultados de la búsqueda
       placeholder:
-        filter-text: 
+        filter-text: Buscar
         text: 'Añadir término de búsqueda '
       similar:
         prefix: Similar a %{mlt_item}
@@ -379,3 +429,8 @@ es:
         label: Idioma
         settings-label: Ajustes de idioma
       title: Ajustes
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

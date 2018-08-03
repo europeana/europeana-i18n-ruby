@@ -7,12 +7,14 @@ sv:
         sources:
           description: Här finner du alla institutioner som har bidragit till Europeanas samlingar.
   global:
+    exhibitions:
+      contacts: 
     labs-link: Länk till Labs
     navigation:
       agents: Personligheter
       all_blog_posts: Alla bloggposter
       all_exhibitions: Alla utställningar
-      all_galleries: 
+      all_galleries: Alla gallerier...
       blog: Blogg
       browse: Utforska
       browse_colours: Färger
@@ -22,31 +24,33 @@ sv:
       collections: Samlingar
       concepts: Ämnen
       exhibitions: Utställningar
-      galleries: 
+      galleries: Gallerier
       home: Start
       more:
-        agents: Fler människor
+        agents: Människor
+        people: Fler människor
+        periods: Tidsperioder
         topics: fler ämnen
-      periods: 
+      periods: Tidsperioder
       places: platser
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Visa hela samlingen
+      view-detailed-description: Visa mer detaljerad beskrivning
     pro-link: länk till Pro
-    pro-text: 
+    pro-text: text för pro
     settings: Inställningar
   site:
     alpha:
       feedback_banner:
-        description: 
-        link-text: 
-        title: 
-    blog-link: 
+        description: En Betaversion innebär att denna webbplats är under aktiv utveckling och uppdateras regelbundet. Den kan ibland vara offline. Din feedback hjälper oss att förbättra vår webbplats.
+        link-text: Ge oss din input!
+        title: Detta är en Betaversion av våra nya "Collections" och "Music Collections"
+    blog-link: länka till blogg
     blogs:
-      description: 
+      description: Bloggar
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} av %{results_count} blogginklägg"
+        page-title: Blogg
+      min-to-read: minuter att läsa
     browse:
       colours:
         description: Här kan du söka efter bilder med en viss färg. Klicka pa en färgruta och finn bilder som innehåller den färgen!
@@ -61,8 +65,8 @@ sv:
         description: Här hittar du höjdpunkterna från våra samlingar som rör liv och verk av kända artister, kompositörer och andra viktiga siffror från historien.
         title: Personer
       periods:
-        description: 
-        title: 
+        description: Bläddra efter tidsperiod.
+        title: Tidsperioder
       sources:
         description: 'Här finner du de senaste uppdateringarna i Europeanas samlingar. Från vilken partner, hur mycket och när. '
         title: Källor
@@ -71,7 +75,7 @@ sv:
         title: Ämnen och typer
     collections:
       art-history:
-        description: 
+        description: Från renässansen till surrealisterna, och från gammal romersk skulptur till samtidskonst, introducerar Europeana Art dig för konstnärer och konstverk från hela Europa.
         title: Konsthistoria
       data-types:
         3d: 3D objekt
@@ -81,8 +85,9 @@ sv:
         moving-images: Video
         sound: Ljudinspelningar
         texts: Texter
+      description: 
       e7a1418:
-        contribute: Lägg till din berättelse
+        contribute: Lägg till din 1914-1918 berättelse
         my-account: Mitt konto
       labels:
         credits: Sammanställd av
@@ -90,84 +95,119 @@ sv:
         editors-picks: "  "
         recent: Senaste tilläggen
         sneak-peek: Explore Europeana Fashion
-        spotlight-on: 
-        whats-happening: 
+        sneak-peek-collection: Upptäck <i>%{preview_title}</i> i %{collection}
+        spotlight-on: 'Strålkastare på '
+        whats-happening: Vad händer
       music:
+        description: <strong>Europeana Music Collection</strong>samlar de bästa musikinspelningarna, noterna och andra musikrelaterade samlingar från Europas audiovisuella arkiv, bibliotek, arkiv och museer. <a href="/portal/channels/music/about">Läs mer om Music Collection.</a>
+        title: Europeana Music
+    entities:
+      anagraphic:
+        birth: Födelseår
+        death: Dödsår
+        occupation: Yrke
+      labels:
+        bio: Biografi
+        born: Född
         description: 
-        title: 
+        died: Dog
+        related: Relaterad
+      tab_items:
+        items_about: Objekt som handlar om %{name}
+        items_by: Objekt efter %{name}
+      types:
+        agent: Person
+        concept: Koncept
+        place: 'Plats
+
+'
+      wiki_link_text: Resurs erhållen från Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Hela dagen
+      description: Evenemang
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} av %{results_count} evenemang"
+        future: Kommande evenemang
+        page-title: Evenemang
+        past: Tidigare evenemang
     facet:
       language:
         show:
           results: Resultat
     footer:
       menu:
-        about: 
+        about: Om
         become-a-provider: Bli vår partner
         contact: Kontaktinformation
-        contact-us: 
+        contact-us: Kontakta oss
         copyright: Copyright
         data-providers: Alla institutioner
         help: Hjälp
         new-collections: Nya samlingar
         rights: Användarvillkor & Policys
-        roadmap: 
+        roadmap: Utvecklingsuppdateringar
         search-tips: Söktips
         using-myeuropeana: Om Mitt Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultur som är handplockad för dig! Upptäck Europeana Galleries!
+      description-default: Läs mer om på Europeana
+      share:
+        one: Dela det här galleriet
+        other: Dela gallerierna
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Mera...
     my-europeana: Mitt Europeana
     my-europeana-link: länk till Mitt Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blogg
+        contribution: Bidrag
+        contribution-attachment: Bilaga
+        contribution-attachments: Bilagor
+        contribution-done: klar
+        contributor: 'Bidragsgivare '
+        events_list_breadcrumb: Evenemang
         exhibitions:
-          return_home: 
+          return_home: Utställningar
         item_detail: Post
-        register: 
-        reset-password: 
+        register: Register
+        reset-password: Återställ lösenord
         results_list: Resultat
-        results_list_mlt: 
+        results_list_mlt: Liknande föremål
         return_home: Tillbaka till Startsidan
-        sign-in: 
+        sign-in: Logga in
       search:
         placeholder:
-          text: 
+          text: Sök på nyckelord här
     news: Nyheter
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Attribuera upphovsmannen
         attribute-html: HTML
-        attribute-plaintext: 
+        attribute-plaintext: Oformaterad text
+        collapse-extended: 
         download: Ladda ner
         download-additional: Flera versioner
-        download-retry: 
-        download-started: 
+        download-retry: Försök igen
+        download-started: Nedladdningen har börjat
         downloaddata: Ladda ner metadata
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Förstora
+        expand-extended: 
+        explore-by-colour: Utforska efter färg
+        media-metadata: Media Metadata
         open-media: Visa
         show-less-data: Visa mindre information
         show-more-data: Visa mer information
         technicalmetadata: Teknisk metadata
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Titel
@@ -176,8 +216,8 @@ sv:
         view-items-above: visa poster ovan
         view-items-below: visa poster nedan
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: 'Information om ytterligare rättigheter '
+        annotations: Användaranmärkningar
         codec: Codec
         collection-name: Dataset
         concept: Koncept
@@ -209,7 +249,7 @@ sv:
         fps: Buildrutor per sekund
         has-type: Är av typen
         identifier: ID-nummer
-        intermediate-provider: 
+        intermediate-provider: Mellanleverantör
         is-format-of: Är en form av
         is-part-of: Är en del av
         is-referenced-by: Refereras av
@@ -231,7 +271,7 @@ sv:
         provenance: Provenans
         provided-by: Upptäck mera
         provided-by-detail: Europeana visar denna post via %{institution_name_and_link}. Besök deras sajt för mera information.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana visar detta objekt via
         provider: Leverantör
         providing-country: Leverantörsland
         publication-date: Publiceringsdatum
@@ -241,7 +281,7 @@ sv:
         relations: Relationer
         rights: Rättigheter
         rights-human: Kan jag använda det digitala objektet?
-        rights-statement: 
+        rights-statement: Rättighetsredogörelse
         runtime: Speltid
         runtime-unit-seconds: sekunder
         source: Källa
@@ -283,37 +323,59 @@ sv:
       nav:
         next: Nästa
         prev: Föregående
+      next-item: 
       points:
         east: Öst
         north: Nord
         south: Syd
         west: Väst
-      preview_unavailable: 
+      preview_unavailable: Objektförhandsgranskning är inte tillgänglig, för att få tillgång till hela bilden och mer information om objektet gå till%{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: visa fler
       similar-items: Liknande poster
+      title_unavailable: 
     pages:
       '404':
         intro: Förlåt men vi kan inte hitta den sidan
-        text: 
+        text: Tyvärr kunde vi inte hitta den sida du letade efter. Försök att söka på Europeana eller så kanske du gillar de valda objekten nedan.
       about:
-        text: 
-        title: 
+        text: |-
+          <p>Letar du efter en gammal favoritmålning? Forskar du eller skriver du en skoluppsats?  Letar du efter inspiration till din nästa kaffemuggsdesign?  Vill du lära dig något nytt? Oavsett anledning till ditt besök i Europeana, välkommen!</p>
+
+          <p>Ta del av Europas största online-samling av konst, kultur och vetenskap. Europeana Collections ger dig material från de berömda och de inte-så-berömda (men alltid fascinerande) biblioteken, museerna, gallerierna och arkiven i Europa.</p>
+
+          <p>Böcker och manuskript, bilder och målningar, skulpturer och noter, video- och ljudinspelningar, dagböcker och kartor - de finns alla här. Inget behov av att resa runt kontinenten, vare sig fysiskt eller virtuellt!</p>
+
+          <p>Utforska, upptäck, titta, lyssna, läs, ladda ner ... Njut!</p>
+
+          <p>Varför inte testa<a href="http://europeana.eu/portal/collections/art-history">Europeana Art History Collections</a> eller <a href="http://europeana.eu/portal/collections/music">Europeana Music Collections</a>? Vi har även egna resurser för <a href="http://research.europeana.eu/">forskare</a> och kultur- <a href="http://labs.europeana.eu/">utvecklare/uppfinnare</a> (här kan du hitta vår <a href="http://labs.europeana.eu/api">APIs</a>), liksom ett utbud av<a href="http://exhibitions.europeana.eu/">virtuella utställningar</a> och en <a href="http://blog.europeana.eu/">blogg</a>. </p>
+
+          <p>Och om du fortfarande vill ha mer så kan du få din dagliga dos kultur på <a href="https://www.facebook.com/Europeana">Facebook</a>, <a href="https://twitter.com/Europeanaeu">Twitter</a>, <a href="https://medium.com/@Europeana">Medium</a>, <a href="https://plus.google.com/+europeana">Google+</a>, <a href="http://europeanacollections.tumblr.com/">Tumblr</a> och <a href="https://www.pinterest.com/europeana/">Pinterest</a>.</p>
+
+          <p>För mer information om hur vi arbetar med kulturinstitutioner och deras samlingar, gå till <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
+        title: Välkommen, kulturälskare!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
-        text: 
+        text: "<p>Tänk dig att titta på originalhandskrivna manuskript av ett musikstycke medan du lyssnar på olika tolkningar av den och läser en biografi av kompositören. Med Europeana Music Collection kan du det.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Våra partners</a>, alla experter på musik, från hela Europa, har noggrant satt ihop denna samling av musikinspelningar, noter, bilder på musikinstrument, böcker om musik och annat musikrelaterat innehåll. </p>\n\n<P> i har gjort den här tidiga testversionen av musiksamlingen tillgänglig för er, våra användare, så ni kan hjälpa oss att utforma den när vi utvecklar den vidare. Så när du besöker webbplatsen kommer du ibland att bli ombedd att svara på frågor eller undersökningar som visas på skärmen. Vi skulle verkligen uppskatta om du kunde ta tid att svara på dessa frågor och undersökningar!</p>\n\n<p>Du bör också, för öppenhet och integritet, veta att vi loggar användarstatistik och användarbeteende i Google Analytics och en tjänst som heter Hotjar. Vi gör det för att det visar oss var vi har gjort fel i vår design och det hjälper oss till att förbättra Music Collection. Alla loggar hålls privata och anonymiserade och kommer endast att användas för att förbättra vår service.</p>\n\n<p>Vi uppmuntrar dig att söka i samlingen, spela musik, titta på noter eller läsa om dem. När upphovsrätten så tillåter kan du ladda ner de saker du älskar mest. Och besök våra virtuella utställningar för att upptäcka musik på sätt som du aldrig gjort tidigare!</p>"
         title: Om Musiksamlingarna
     results:
       actions:
-        configure-actions: 
-        dutchmasters: 
-        favouriteart: 
-        label: 
-        newcollection: 
-        product-save: 
-        saveto: 
+        configure-actions: Konfigurera åtgärder
+        dutchmasters: Holländska mästare
+        favouriteart: Favoritkonst
+        label: Åtgärder
+        newcollection: Ny kollektion
+        product-save: Spara
+        saveto: Spara till
         show-all-collections: Visa all tematiska samlingar
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: 'Klicka här för att se resultat från källor som är icke-Europeana '
+      federated-clicked: Objekt från källor som är icke-Europeana
+      federated_more: Visa alla %{results_count} resultat på %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -321,7 +383,7 @@ sv:
           text: Texter
           video: Video
         count-and-terms: "%{results_count} träffar"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} av %{results_count} resultat"
         empty: Inga träffar
         empty-with-terms: Din sökning efter %{query_terms} fick inga träffar
         header: Träffar för
@@ -331,7 +393,7 @@ sv:
         less_adv: Färre filter
         more: Flera
         more_adv: Avancerade filter
-        per-page: 
+        per-page: Per sida
         product-3D: 3D
         product-image: Bilder
         product-sound: Ljud
@@ -339,19 +401,20 @@ sv:
         product-video: Video
         results-relevance: Relevans
         results-view:
-          grid: 
-          list: 
+          grid: Rutnät
+          list: Lista
         single-result: 1 träff för %{query_terms}
         view:
           grid: Rutnät
           list: Lista
         view-at-provider: Se hos
-      results: 
+      results: Resultat
     search:
-      browse: 
-      or-browse: 
+      browse: Bläddra
+      or-browse: eller bläddra
+      page-title: Sök Resultat
       placeholder:
-        filter-text: 
+        filter-text: Sök
         text: Lägg till sökterm
       similar:
         prefix: 'Liknar: %{mlt_item}'
@@ -372,3 +435,8 @@ sv:
         label: Språk
         settings-label: Språkinställningar
       title: Inställningar
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

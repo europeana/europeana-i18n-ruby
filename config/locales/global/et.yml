@@ -59,7 +59,7 @@ et:
       8B4513: Sadulapruun
       8FBC8F: Tume mereroheline
       90EE90: Heleroheline
-      9370DB: Mõõdukas lilla
+      9370DB: Keskmine lilla
       9400D3: Tumelilla
       98FB98: Kahvaturoheline
       9932CC: Tume orhidee
@@ -149,27 +149,33 @@ et:
   global:
     about-us: Meist
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Ahenda
+      copy: 
+      delete: Kustuta
+      download: 
+      downloading: 
+      edit: Muuda
+      expand: Laienda
+      expand-viewer: 
       filter-all: Kõike
       filter-by: " Filtreeri"
       fullscreen-enter: Täisekraan
       fullscreen-exit: Välju täisekraanilt
-      new: 
+      new: Uus
       next: järgmine
       previous: eelmine
+      reduce-viewer: 
       register: Registreeru
-      share: 
+      remove: 
+      share: Jaga
       sign-in: Logi sisse
       sign-out: Logi välja
       skip-to-main: Otse lehekülje sisule
       skip-to-section: Otse sektsiooni
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Vaata
+      view-at: Vaata kohta
+      view-more-at: 'Vaata veel kohas '
+      withdraw: loobu
     channel:
       all: Kõik teemad
       archaeology: arheoloogia
@@ -177,7 +183,7 @@ et:
       art: kunst
       art-history: Kunstiajalugu
       fashion: mood
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Avaleht (kõik)
       maps: kaardid
       music: Muusika
@@ -193,9 +199,14 @@ et:
     cookie_disclaimer:
       more_info: Rohkem infot
       text: See veebileht kasutab küpsiseid, et tagada teile parim kogemus meie veebisaidil. Klõpsates või Saidil olete nõus, et võimaldada meie teabe kogumine toimub küpsised.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: e-posti aadress
     error:
-      unavailable: 
+      unavailable: Ei ole saadaval
     facet:
       advanced:
         options: Sätted
@@ -257,11 +268,11 @@ et:
         country: Riik
         data_provider: Asutus
         date-created: Loomise kuupäev
-        edm_ugc: 
+        edm_ugc: Näita kasutajate esitatud sisu
         fashion:
           colour: Värv
           designer: Disainer
-          material: 
+          material: Materjal
           technique: tehnika
           type: Objekti tüüp
         image_aspectratio: Orientatsioon
@@ -280,7 +291,7 @@ et:
         sound_duration: Kestus
         sound_hq: Kõrge kvaliteet
         text_fulltext: Täistekst
-        thumbnail: 
+        thumbnail: Ainult pisipiltidega elemendid
         type: Meedia
         ugc: Näita kasutajate poolt loodud sisu
         video_duration: Kestus
@@ -344,33 +355,43 @@ et:
       resource:
         type: Tüüp
       reusability:
-        advanced: Detailne
-        advanced-cc-by: ''
-        advanced-cc-by-nc: ''
-        advanced-cc-by-nc-nd: ''
-        advanced-cc-by-nc-sa: ''
-        advanced-cc-by-nd: ''
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: ''
-        advanced-orphan-work: Orbteos
-        advanced-out-of-copyright-non-commercial: Autorikaitse alt vaba - mitteäriline taaskasutus
-        advanced-public: Märgistatud avalikuks omandiks
-        advanced-rrfa: Õigused kaitstud - vaba ligipääs
-        advanced-rrpa: Õigused kaitstud - tasuline ligipääs
-        advanced-rrra: Õigused kaitstud - piiratud ligipääs
-        advanced-rs-cne: Copyright hindamata
-        advanced-rs-inc: Autoriõigusega kaitstud
-        advanced-rs-inc-edu: Autoriõigusega kaitstud - Teoste kasutamine näitena õppe-eesmärgil on lubatud
-        advanced-rs-inc-ow-eu: Autoriõigusega kaitstud - EU orbteos
-        advanced-rs-noc-nc: Autoriõigus puudub - Kasutada ainult mittekaubanduslikel eesmärkidel
-        advanced-rs-noc-oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
-        advanced-ucs: Autorikaitse staatus teadmata
+        advanced-MARKEDFORDELETION: Detailne
         expiry: Kuni %{date}
-        open: Jah, omistamisega
-        permission: Ainult loaga
-        restricted: Jah, piirangutega
-        rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
+        open:
+          brief: 
+          info: 
+          label: Jah, omistamisega
+        permission:
+          brief: 
+          info: 
+          label: Ainult loaga
+        restricted:
+          brief: 
+          info: 
+          label: Jah, piirangutega
         simple: Lihtne
+      rights:
+        cc-by: ''
+        cc-by-nc: ''
+        cc-by-nc-nd: ''
+        cc-by-nc-sa: ''
+        cc-by-nd: ''
+        cc-by-sa: CC BY-SA
+        cc0: ''
+        orphan-work: Orbteos
+        out-of-copyright-non-commercial: Autorikaitse alt vaba - mitteäriline taaskasutus
+        public: Märgistatud avalikuks omandiks
+        rrfa: Õigused kaitstud - vaba ligipääs
+        rrpa: Õigused kaitstud - tasuline ligipääs
+        rrra: Õigused kaitstud - piiratud ligipääs
+        rs-cne: Copyright hindamata
+        rs-inc: Autoriõigusega kaitstud
+        rs-inc-edu: Autoriõigusega kaitstud - Teoste kasutamine näitena õppe-eesmärgil on lubatud
+        rs-inc-ow-eu: Autoriõigusega kaitstud - EU orbteos
+        rs-noc-nc: Autoriõigus puudub - Kasutada ainult mittekaubanduslikel eesmärkidel
+        rs-noc-oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
+        rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
+        ucs: Autorikaitse staatus teadmata
       sound_duration:
         long: Pikk (üle 6 minuti)
         medium: Keskmine (3-6 minutit)
@@ -383,8 +404,8 @@ et:
         'false': Ei
         'true': Jah
       thumbnail:
-        'false': 
-        'true': 
+        'false': Ei
+        'true': Jah
       type:
         3d: 3D
         image: Kujutis
@@ -421,8 +442,8 @@ et:
           medium: Keskmine (%{data})
           short: Lühike (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Ei
+        'true': Jah
       video_duration:
         long: Pikk (üle 20 minuti)
         medium: Keskmine (4-20 minutit)
@@ -450,6 +471,20 @@ et:
     find-us-social-media: 
     follow-channel: Jälgi kanalit %{channel}
     forgot-password: Unustasid parooli?
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
     galleries: Galeriid
     genres: žanrid
     genres-chamber-music: Kammermuusika
@@ -469,8 +504,9 @@ et:
     help: Abi
     home: Avaleht
     javascript-required: Et näha seda sisu, luba palun JavaScript ja kaalu HTML5 toega veebilehitseja kasutuselevõttu.
+    javascript-required-ugc: 
     labels:
-      by: 
+      by: poolt
       images: Pildid
     labs: Laborid
     labs-text: Remix'i kultuurilist sisu läbi meie API'de ja andmestike
@@ -504,6 +540,42 @@ et:
     language-spanish: hispaania
     language-swedish: rootsi
     language-ukranian: ukraina
+    languages:
+      bg: bulgaaria
+      ca: katalaani
+      cs: tšehhi
+      da: taani
+      de: saksa
+      el: kreeka
+      en: inglise
+      es: hispaania
+      et: Eesti
+      eu: baski
+      fi: soome
+      fr: prantsuse
+      ga: gaeli
+      he: עברית
+      hr: horvaatia
+      hu: ungari
+      is: islandi
+      it: itaalia
+      lt: leedu
+      lv: läti
+      mt: malta
+      mul: mitmekeelne
+      nl: hollandi
+      'no': norra
+      pl: poola
+      pt: portugali
+      ro: rumeenia
+      ru: vene
+      sk: slovakkia
+      sl: sloveenia
+      sr: Српски
+      sv: rootsi
+      tr: Türkçe
+      uk: ukraina
+      yi: ייִדיש
     login: Logi sisse
     mission: Me muudame kultuuri abil maailma! Tahame võtta aluseks euroopa rikka pärandi ja teha selle inimestele kergemi kasutatavaks - olgu eesmärgiks töö, õppimine või lihtsalt lõbu.
     mission-title: Meie missioon
@@ -528,33 +600,36 @@ et:
     professional: Pro
     professional-text: Võta osa, jaga oma andmeid või kasuta meie omi
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Rakendus
+      apps: Rakendused
+      blog: Blogi
+      blogs: Blogid
+      collection: Temaatiline kogu
+      collections: Temaatilised kogud
+      dataset: Andmestik
+      datasets: Andmestikud
+      event: Sündmus
+      events: Sündmused
+      exhibition: Näitus
+      exhibitions: Näitused
+      featured_site: Esiletõstetud sait
+      featured_sites: Esiletõstetud saidid
+      galleries: Galeriid
+      gallery: Galerii
+      image: Pilt
+      images: Pildid
+      new: Uudised
+      partner: Meie partner
+      partners: Meie partnerid
+      playlist: Esitusloend
+      playlists: Esitusloendid
+      stories: Lood
+      story: Lugu
+      timeline: Ajajoon
+      timelines: Ajajooned
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Täpsusta oma otsingut
     refine-your-search-short: 
     register: Registreeri
@@ -571,11 +646,8 @@ et:
     terms-and-policies: Kasutustingimused
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Kas oled vaadanud meie uusi galeerisid?
         search:
           new-filter: Nüüd saate filtreerida otsingut konkreetse litsentsi alusel
           new-grid: Kas olete näinud uut raamistiku asetust?

@@ -1,5 +1,5 @@
 sk:
-  Symphonies: 
+  Symphonies: Symfónie
   X11:
     colours:
       '000000': 
@@ -147,442 +147,516 @@ sk:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: 
+    about-us: O nás
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      new: 
-      next: 
-      previous: 
+      collapse: Zmenšiť
+      copy: 
+      delete: Vymazať
+      download: 
+      downloading: 
+      edit: Editovať
+      expand: Zväčšiť
+      expand-viewer: 
+      filter-all: Všetko
+      filter-by: Filtrovať podľa
+      fullscreen-enter: zobrazenie na celú obrazovku
+      fullscreen-exit: ukončenie zobrazenia na celú obrazovku
+      new: Nový
+      next: nasledujúca
+      previous: predchádzajúca
+      reduce-viewer: 
       register: Zaregistrovať sa
-      share: 
+      remove: 
+      share: Zdieľať
       sign-in: Prihlásiť sa
       sign-out: Odhlásiť sa
-      skip-to-main: 
-      skip-to-section: 
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      skip-to-main: Preskočiť na stránku s obsahom
+      skip-to-section: Preskočiť na odsek
+      view: Pohľad
+      view-at: Vidieť na
+      view-more-at: 'Vidieť viac na '
+      withdraw: odstrániť
     channel:
-      all: 
-      archaeology: 
-      architecture: 
-      art: 
+      all: Všetky položky
+      archaeology: archeológia
+      architecture: architektúra
+      art: Dejiny umenia
       art-history: Dejiny Umenia
-      fashion: 
-      first-world-war: 
-      home: 
-      maps: 
-      music: 
-      natural-history: 
-      newspapers: 
-      performing-arts: 
+      fashion: móda
+      first-world-war: Europeana 1914-1918
+      home: Domov
+      maps: mapy
+      music: hudba
+      natural-history: prírodopis
+      newspapers: noviny
+      performing-arts: umenie predvádzané pred ľuďmi
     channels-art: Dejiny Umenia
-    channels-art-image: 
-    channels-art-link: 
-    channels-fashion: 
+    channels-art-image: Obraz zbierky dejín umenia
+    channels-art-link: Zbierky dejín umenia
+    channels-fashion: Móda
     channels-music: Hudba
-    choose-language: 
+    choose-language: Jazyk
     cookie_disclaimer:
-      more_info: 
-      text: 
-    email-address: 
+      more_info: Viac informácií
+      text: Táto webová stránka používa cookies, aby jej zobrazenie bolo čo najlepšie. Kliknutím, alebo navigovaním na stránke súhlasíte s tým, aby sme zhromažďovali informácie prostredníctvom cookies.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
+    email-address: emailová adresa
     error:
-      unavailable: 
+      unavailable: Nie je k dispozícii
     facet:
       advanced:
-        options: 
+        options: Možnosti
         show:
-          ugc: 
+          ugc: Používateľom vytvorený obsah
       art:
         form:
           paintings:
-            genre: 
-            medium: 
-      carrier: 
-      colour: 
-      colour-black-and-white: 
+            genre: Žáner
+            medium: Médium
+      carrier: Doručovateľ
+      colour: Farba
+      colour-black-and-white: Čierna a biela
       country:
-        austria: 
-        belgium: 
-        bulgaria: 
-        croatia: 
-        cyprus: 
-        czechrepublic: 
-        denmark: 
-        estonia: 
-        europe: 
-        finland: 
-        france: 
-        germany: 
-        greece: 
-        hungary: 
-        iceland: 
-        ireland: 
-        israel: 
-        italy: 
-        latvia: 
-        lithuania: 
-        luxembourg: 
-        malta: 
-        netherlands: 
-        norway: 
-        poland: 
-        portugal: 
-        romania: 
-        russia: 
-        serbia: 
-        slovakia: 
-        slovenia: 
-        spain: 
-        sweden: 
-        switzerland: 
-        turkey: 
-        ukraine: 
-        unitedkingdom: 
-        unitedstatesofamerica: 
-        vaticancity: 
-      creator: 
-      filter: 
+        austria: Rakúsko
+        belgium: Belgicko
+        bulgaria: Bulharsko
+        croatia: Chorvátsko
+        cyprus: Cyprus
+        czechrepublic: Česká republika
+        denmark: Dánsko
+        estonia: Estónsko
+        europe: Európa
+        finland: Fínsko
+        france: Francúzsko
+        germany: Nemecko
+        greece: Grécko
+        hungary: Maďarsko
+        iceland: Island
+        ireland: Írsko
+        israel: Izrael
+        italy: Taliansko
+        latvia: Lotyšsko
+        lithuania: Litva
+        luxembourg: Luxembursko
+        malta: Malta
+        netherlands: Holandsko
+        norway: Nórsko
+        poland: Poľsko
+        portugal: Portugalsko
+        romania: Rumunsko
+        russia: Rusko
+        serbia: Srbsko
+        slovakia: Slovensko
+        slovenia: Slovinsko
+        spain: Španielsko
+        sweden: Švédsko
+        switzerland: Švajčiarsko
+        turkey: Turecko
+        ukraine: Ukrajina
+        unitedkingdom: Spojené kráľovstvo Veľkej Británie a Severného Írska
+        unitedstatesofamerica: USA
+        vaticancity: Vatikánsky mestský štát
+      creator: tvorca
+      filter: filter
       header:
-        collection: 
-        colourpalette: 
-        country: 
-        data_provider: 
-        date-created: 
-        edm_ugc: 
+        collection: Zbierky
+        colourpalette: Farba
+        country: Krajina
+        data_provider: Inštitúcia
+        date-created: Vytvorený dátum
+        edm_ugc: Zobraziť obsah vložený používateľmi
         fashion:
-          colour: 
+          colour: Farba
           designer: Návrhár
-          material: 
+          material: Materiál
           technique: Technika
           type: Typ položky
-        image_aspectratio: 
-        image_colour: 
-        image_size: 
-        intermediateprovider: 
-        language: 
-        language_of_description: 
-        media: 
-        mime_type: 
-        provider: 
-        providing_country: 
-        proxy_dcterms_created: 
-        reusability: 
-        rights: 
-        sound_duration: 
-        sound_hq: 
-        text_fulltext: 
-        thumbnail: 
-        type: 
-        ugc: 
-        video_duration: 
-        video_hd: 
-        year: 
+        image_aspectratio: Orientácia
+        image_colour: Paleta
+        image_size: Rozmer
+        intermediateprovider: Medziľahlý poskytovateľ
+        language: Jazyk
+        language_of_description: Jazyk popisu
+        media: Iba položky s linkami na médiá
+        mime_type: Formát súboru
+        provider: Zberateľský subjekt
+        providing_country: Poskytujúca krajina
+        proxy_dcterms_created: Vytvorený dátum
+        reusability: Môžem to použiť?
+        rights: Licencia
+        sound_duration: Trvanie
+        sound_hq: Vysoká kvalita
+        text_fulltext: Úplný text (full text)
+        thumbnail: Iba položky s náhľadmi
+        type: Médiá
+        ugc: Zobraziť obsah vložený používateľmi
+        video_duration: Trvanie
+        video_hd: Kvalita
+        year: Dátum
       image_aspectratio:
-        landscape: 
-        portrait: 
+        landscape: Formát na šírku (krajinka)
+        portrait: Formát na výšku (portrét)
       image_colour:
-        'false': 
-        'true': 
+        'false': Čierna a biela
+        'true': Farba
       image_size:
-        extra_large: 
-        large: 
-        medium: 
-        small: 
+        extra_large: Extra veľký (>4 MP)
+        large: Veľký (1 - 4 MP)
+        medium: Stredný (0,5 - 1 MP)
+        small: Malý (<0,5 MP)
       language:
-        bg: 
-        ca: 
-        cs: 
-        da: 
-        de: 
-        el: 
-        en: 
-        es: 
-        et: 
-        fi: 
-        fr: 
-        ga: 
-        he: 
-        hr: 
-        hu: 
-        is: 
+        bg: Български
+        ca: Català
+        cs: Čeština
+        da: Dansk
+        de: Nemčina
+        el: Ελληνικά
+        en: Angličtina
+        es: Španielčina
+        et: Eesti
+        fi: Suomi
+        fr: Francúzština
+        ga: Gaeilge
+        he: עברית
+        hr: Hrvatski
+        hu: Maďarčina
+        is: Íslenska
         it: 
-        lt: 
+        lt: Lietuvių
         lv: 
-        mt: 
-        mul: 
+        mt: Malti
+        mul: Mnohojazyčný
         nl: Nederlands
-        'no': 
-        pl: 
-        pt: 
-        ro: 
-        ru: 
-        sk: 
-        sl: 
-        sr: 
-        sv: 
-        tr: 
-        uk: 
-        yi: 
-      less: 
+        'no': Norsk
+        pl: Polski
+        pt: Portugalčina
+        ro: Română
+        ru: Русский
+        sk: Slovenský
+        sl: Slovenski
+        sr: Српски
+        sv: Švédčina
+        tr: " Türkçe"
+        uk: Українська
+        yi: ייִדיש
+      less: Menej
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Skryť špecifické vyhlásenia o autorských právach
+        show-specific: Zobraziť špecifické vyhlásenia o autorských právach
       media:
-        'false': 
-        'true': 
-      more: 
-      more-refinements: 
+        'false': Nie
+        'true': Áno
+      more: Viac
+      more-refinements: Viac jemných rozdielov (vycibrení)
       resource:
-        type: 
+        type: Typ
       reusability:
-        advanced: 
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: 
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
-        expiry: 
-        open: 
-        permission: 
-        restricted: 
-        rs_noc_oklr: 
-        simple: 
+        advanced-MARKEDFORDELETION: Pokročilý
+        expiry: do %{date}
+        open:
+          brief: 
+          info: 
+          label: Neobmedzené opakované používanie
+        permission:
+          brief: 
+          info: 
+          label: Žiadne opakované používanie
+        restricted:
+          brief: 
+          info: 
+          label: Obmedzené opakované používanie
+        simple: Jednoduchý
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Osirelé dielo
+        out-of-copyright-non-commercial: 'Bez ochrany autorským právom - nekomerčné neobmedzené používanie '
+        public: Označené ako voľne šíriteľné dielo
+        rrfa: Práva vyhradené - voľný prístup
+        rrpa: Práva vyhradené - platený prístup
+        rrra: Práva vyhradené - obmedzený prístup
+        rs-cne: Nevyhodnotené autorské práva
+        rs-inc: Chránené autorskými právami
+        rs-inc-edu: Chránené autorskými právami - povolené použitie na účely vzdelávania
+        rs-inc-ow-eu: Chránené autorskými právami - EU osirotené dielo
+        rs-noc-nc: Nechránené autorskými právami - iba na nekomerčné použitie
+        rs-noc-oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
+        rs_noc_oklr: Nechránené autorskými právami - ostatné známe právne obmedzenia
+        ucs: Neznámy status autorskoprávnej ochrany diela
       sound_duration:
-        long: 
-        medium: 
-        short: 
-        very_short: 
+        long: Dlho (>6 minút)
+        medium: Stredne dlho (3 - 6 minút)
+        short: Krátko (30 s - 3 minúty)
+        very_short: Veľmi krátko (<30 s)
       sound_hq:
-        'true': 
-      source: 
+        'true': Áno
+      source: Zdroj
       text_fulltext:
-        'false': 
-        'true': 
+        'false': Nie
+        'true': Áno
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nie
+        'true': Áno
       type:
-        3d: 
-        image: 
-        sound: 
-        text: 
-        video: 
+        3d: 3D
+        image: Obraz
+        sound: Zvuk
+        text: Text
+        video: Video
       type-image:
         orientation:
-          label: 
-          landscape: 
-          portrait: 
+          label: Orientácia zobrazenia
+          landscape: Formát na šírku (krajinka)
+          portrait: Formát na výšku (portrét)
         quality:
-          all: 
-          hq-only: 
-          label: 
+          all: Zobraziť všetko
+          hq-only: Zobraziť iba vo vysokej kvalite
+          label: Kvalita
         size:
-          explanation: 
-          label: 
-          large: 
-          medium: 
-          small: 
-          xl: 
+          explanation: Čo znamenajú tieto rozmery?
+          label: Veľkosť zobrazenia
+          large: Veľké (%{data})
+          medium: Stredné (%{data})
+          small: Malé (%{data})
+          xl: Extra veľké (%{data})
       type-sound:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
-          very-short: 
+          label: Trvanie
+          long: Dlhé (%{data})
+          medium: Stredné (%{data})
+          short: Krátke (%{data})
+          very-short: Veľmi krátke (%{data})
       type-video:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
+          label: Trvanie
+          long: Dlhé (%{data})
+          medium: Stredné (%{data})
+          short: Krátke (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nie
+        'true': Áno
       video_duration:
-        long: 
-        medium: 
-        short: 
+        long: Dlho (>20 minút)
+        medium: Stredne dlho (4 - 20 minút)
+        short: Krátko (<4 minúty)
       video_hd:
-        'true': 
+        'true': Vysoké rozlíšenie (576p+)
       year:
-        from: 
-        to: 
+        from: od
+        to: do
     feedback:
-      close: 
+      close: Zatvoriť
       error: 
-      open: 
-      placeholder: 
-      submit: 
+      open: Spätná väzba
+      placeholder: Dajte nám vedieť čo si myslíte a čo môžeme zlepšiť. Ak chcete, aby sme vás kontaktovali, vložte sem aj vašu emailovú adresu!
+      submit: Predložiť
       thanks:
-        long: 
-        short: 
+        long: Ďakujeme vám za spätnú väzbu. V prípade potreby sa Vám čo najskôr ozveme
+        short: Ďakujeme vám!
       title: 
       type:
-        bug: 
-        comment: 
-        correction: 
-    find-us-elsewhere: 
+        bug: chyba
+        comment: poznámka
+        correction: oprava
+    find-us-elsewhere: Nájdite nás niekde inde
     find-us-social-media: 
-    follow-channel: 
-    forgot-password: 
-    galleries: 
-    genres: 
-    genres-chamber-music: 
-    genres-classical-music: 
-    genres-concertos: 
-    genres-non-western-classical-music: 
-    genres-opera: 
-    genres-popular-music: 
-    genres-traditional-music: 
+    follow-channel: Sledovať %{channel}
+    forgot-password: Zabudli ste svoje heslo?
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Galérie
+    genres: žánre
+    genres-chamber-music: Komorná hudba
+    genres-classical-music: Klasická hudba
+    genres-concertos: Koncerty
+    genres-non-western-classical-music: Nie westernová klasická hudba
+    genres-opera: Opera
+    genres-popular-music: Populárna hudba
+    genres-traditional-music: Tradičná hudba
     header:
-      connect: 
-      develop: 
-      discover: 
-      network: 
-    help: 
-    home: 
-    javascript-required: 
+      connect: Pripojiť
+      develop: Vyvinúť
+      discover: Objaviť (odhaliť)
+      network: Sieť
+    help: Pomoc
+    home: Domov
+    javascript-required: Ak si chcete pozrieť obsah tejto stránky, povoľte JavaScript a zvážte upgrade na webový prehliadač, podporujúci HTML5.
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
-    labs: 
-    labs-text: 
-    language-basque: 
-    language-bulgarian: 
-    language-catalan: 
-    language-croatian: 
-    language-czech: 
-    language-danish: 
-    language-dutch: 
-    language-english: 
-    language-estonian: 
-    language-finnish: 
-    language-french: 
-    language-gaelic: 
-    language-german: 
-    language-greek: 
-    language-hungarian: 
-    language-icelandic: 
-    language-italian: 
-    language-latvian: 
-    language-lithuanian: 
-    language-maltese: 
-    language-norwegian: 
-    language-polish: 
-    language-portuguese: 
-    language-romanian: 
-    language-russian: 
-    language-slovakian: 
-    language-slovenian: 
-    language-spanish: 
-    language-swedish: 
-    language-ukranian: 
-    login: 
-    mission: 
-    mission-title: 
+      by: od
+      images: obrazy
+    labs: Labs (laboratóriá)
+    labs-text: 'Urobte remix kultúrneho obsahu s našimi API a dátovými setmi
+
+'
+    language-basque: Baskičtina
+    language-bulgarian: Bulharčina
+    language-catalan: Katalánčina
+    language-croatian: Chorvátčina
+    language-czech: Čeština
+    language-danish: Dánčina
+    language-dutch: Holandčina
+    language-english: Angličtina
+    language-estonian: Estónčina
+    language-finnish: Fínčina
+    language-french: Francúzština
+    language-gaelic: Gaelčina
+    language-german: Nemčina
+    language-greek: Gréčtina
+    language-hungarian: Maďarčina
+    language-icelandic: Islandčina
+    language-italian: Taliančina
+    language-latvian: Lotyština
+    language-lithuanian: Litovčina
+    language-maltese: Maltčina
+    language-norwegian: Nórčina
+    language-polish: Poľština
+    language-portuguese: Portugalčina
+    language-romanian: Rumunčina
+    language-russian: Ruština
+    language-slovakian: Slovenčina
+    language-slovenian: Slovinčina
+    language-spanish: Španielčina
+    language-swedish: Švédčina
+    language-ukranian: Ukrajinčina
+    languages:
+      bg: Bulharčina
+      ca: Katalánčina
+      cs: Čeština
+      da: Dánčina
+      de: Nemčina
+      el: Gréčtina
+      en: Angličtina
+      es: Španielčina
+      et: Estónčina
+      eu: Baskičtina
+      fi: Fínčina
+      fr: Francúzština
+      ga: Gaelčina
+      he: עברית
+      hr: Chorvátčina
+      hu: Maďarčina
+      is: Islandčina
+      it: Taliančina
+      lt: Litovčina
+      lv: Lotyština
+      mt: Maltčina
+      mul: Mnohojazyčný
+      nl: Holandčina
+      'no': Nórčina
+      pl: Poľština
+      pt: Portugalčina
+      ro: Rumunčina
+      ru: Ruština
+      sk: Slovenčina
+      sl: Slovinčina
+      sr: Српски
+      sv: Švédčina
+      tr: Türkçe
+      uk: Ukrajinčina
+      yi: ייִדיש
+    login: Login
+    mission: Pretransformujeme svet kultúrou! Chceme stavať na bohatom európskom dedičstve a uľahčiť ľuďom používanie, či už pre prácu, učenie sa, alebo iba pre zábavu.
+    mission-title: Naše poslanie
     more:
-      load-more: 
-      show-more: 
-      view-more: 
-    more-info: 
+      load-more: Viac
+      show-more: Zobraziť viac
+      view-more: Pozrieť viac
+    more-info: Viac informácií
     newsletter:
-      choose-language: 
-      email-address-invalid: 
-      email-address-required: 
+      choose-language: Vyberte si jazyk
+      email-address-invalid: Email musí mať platnú adresu.
+      email-address-required: Musí byť uvedená emailová adresa.
       fashion:
-        heading: 
-        subheading: 
-      language-required: 
-      signup: 
-      submit-alt: 
-    our-sites: 
-    page: 
-    password: 
-    professional: 
-    professional-text: 
+        heading: Prihlásiť sa!
+        subheading: Prihlásiť sa na odber informačného bulletinu Europeana Fashion
+      language-required: Musí byť uvedený jazyk.
+      signup: Prihláste sa k odberu informačného bulletinu
+      submit-alt: Podpísať
+    our-sites: naše miesta
+    page: stránka
+    password: Heslo
+    professional: Pro
+    professional-text: Zapojte sa, zdieľajte svoje údaje, alebo používajte naše
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
-    refine-your-search: 
+      app: Aplikacia
+      apps: Apps (aplikácie)
+      blog: Blog
+      blogs: Blogy
+      collection: Tematická zbierka
+      collections: Tematické zbierky
+      dataset: Súbor údajov
+      datasets: Súbory údajov
+      event: Udalosť
+      events: Udalosti
+      exhibition: Výstava
+      exhibitions: Výstavy (ukážky)
+      featured_site: Špeciálna stránka
+      featured_sites: špeciálne stránky
+      galleries: Galérie
+      gallery: Galéria
+      image: Obraz
+      images: Obrazy
+      new: Čo je nové
+      partner: Náš partner
+      partners: Naši partneri
+      playlist: Playlist
+      playlists: Playlisty
+      stories: Príbehy
+      story: Príbeh
+      timeline: Harmonogram
+      timelines: Časové osy
+    punctuation:
+      list-item-separator: 
+      term-list: 
+    refine-your-search: Upresnite svoje vyhľadávanie
     refine-your-search-short: 
-    register: 
-    research: 
-    research-text: 
+    register: Zaregistrovanie sa
+    research: Výskum
+    research-text: Pripojenie k akademickej komunite
     search-area:
-      search-button-image-alt: 
-      search-placeholder-text: 
-    search-collections: 
-    search-collections-text: 
-    share: 
-    sitemap: 
-    subscribe: 
-    terms-and-policies: 
+      search-button-image-alt: Hľadať
+      search-placeholder-text: Vložiť hľadaný výraz
+    search-collections: Zbierky
+    search-collections-text: Objavte európske kultúrne dedičstvo
+    share: Zdieľať
+    sitemap: Mapa stránky
+    subscribe: Podpísať
+    terms-and-policies: Podmienky používania a postupy (politiky)
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Preskúmali ste si naše nové galérie?
         search:
-          new-filter: 
-          new-grid: 
-    type: 
-  'no': 
-  pl: 
+          new-filter: Teraz môžete používať filter pri hľadaní konkrétnej licencie
+          new-grid: Videli ste grafický návrh novej mriežky?
+    type: typ
+  'no': Nórsko
+  pl: Portugalsko
   site:
     facet:
       language:
         show:
-          results: 
-        show-results-all: 
+          results: Výsledky
+        show-results-all: Zobraziť všetky výsledky

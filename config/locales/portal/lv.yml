@@ -7,12 +7,14 @@ lv:
         sources:
           description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu!
   global:
+    exhibitions:
+      contacts: Kontakti
     labs-link: saite uz Laboratoriju
     navigation:
       agents: Cilvēki
       all_blog_posts: Visi bloga ieraksti...
       all_exhibitions: Visas izstādes...
-      all_galleries: 
+      all_galleries: Visas galerijas
       blog: Blogs
       browse: Pārlūkot
       browse_colours: Krāsas
@@ -22,10 +24,12 @@ lv:
       collections: Kolekcijas
       concepts: Tēmas
       exhibitions: Izstādes
-      galleries: 
+      galleries: Galerijas
       home: Sākums
       more:
-        agents: Vairāk cilvēku
+        agents: Cilvēki
+        people: Vairāk cilvēku
+        periods: Laika periods
         topics: Vairāk tēmu
       periods: Laika periodi
       places: Vietas
@@ -42,7 +46,7 @@ lv:
         title: Šī ir  mūsu jauno "Kolekciju" un "Mūzikas kolekcijas" "Beta" versija
     blog-link: saite uz blogu
     blogs:
-      description: 
+      description: Blogi
       list:
         count-and-terms-with-range: "%{results_range} no %{results_count} bloga ierakstiem"
         page-title: Europeana blogs
@@ -81,8 +85,9 @@ lv:
         moving-images: Video
         sound: Skaņu ieraksti
         texts: Teksti
+      description: Europeana tematiskās kolekcijas parāda saturu par konkrētām tēmām.
       e7a1418:
-        contribute: Pievieno savu stāstu
+        contribute: Pievieno savu 1914-1918 stāstu
         my-account: Mans konts
       labels:
         credits: Kurators
@@ -90,19 +95,41 @@ lv:
         editors-picks: " "
         recent: Jaunākie papildinājumi
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Aplūkot <i>%{preview_title}</i> %{collection}
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
       music:
         description: <strong>Europeana Mūzikas kolekcija</strong> apkopo labākos mūzikas ierakstus, notis, un citas ar mūziku saistītas kolekcijas no Eiropas arhīviem, bibliotēkām, muzejiem un audiovizuālajiem arhīviem. <a href="/portal/channels/music/about">Uzziniet vairāk par Mūzikas kolekciju.</a>
         title: Europeana mūzika
+    entities:
+      anagraphic:
+        birth: Dzimšanas dati
+        death: Miršanas dati
+        occupation: Nodarbošanās
+      labels:
+        bio: Biogrāfija
+        born: Dzimis
+        description: Apraksts
+        died: Miris
+        related: Saistīts
+      tab_items:
+        items_about: Vienumi par %{name}
+        items_by: Vienumi pēc %{name}
+      types:
+        agent: Persona
+        concept: Koncepts
+        place: 'Vieta
+
+'
+      wiki_link_text: Resursi iegūti no Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Visu dienu
+      description: Notikumi
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} no %{results_count} notikumi"
+        future: Gaidāmie notikumi
+        page-title: Notikumi
+        past: Pagājušie notikumi
     facet:
       language:
         show:
@@ -128,49 +155,60 @@ lv:
         one: Kopīgot šo galeriju
         other: Kopīgot galerijas
         zero: ''
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Vairāk...
     my-europeana: Mana Europeana
     my-europeana-link: saite uz "Mana Europeana"
+    name: Europeana kolekcijas
     navigation:
       breadcrumb:
         account: konts
         blogs_list_breadcrumb: Blogs
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        contribution: Ieguldījums
+        contribution-attachment: Pielikums
+        contribution-attachments: Pielikumi
+        contribution-done: paveikts
+        contributor: Ieguldītājs
+        events_list_breadcrumb: Notikumi
         exhibitions:
           return_home: Izstādes
         item_detail: Ieraksts
-        register: 
-        reset-password: 
+        register: Reģistrēties
+        reset-password: Atiestatīt paroli
         results_list: Rezultāti
         results_list_mlt: Līdzīgi ieraksti
         return_home: Atgriezties uz sākumu
-        sign-in: 
+        sign-in: Pierakstīties
       search:
         placeholder:
-          text: 
+          text: Meklēt pēc atslēgvārda šeit
     news: Ziņas
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: Anotēt
         attribute-author: Autora atribūti
         attribute-html: HTML
         attribute-plaintext: Vienkāršs teksts
+        collapse-extended: nerādīt papildinformāciju
         download: Lejupielādēt
         download-additional: Pieejams arī kā
         download-retry: Atkārtot
         download-started: Lejupielāde uzsākta
         downloaddata: Lejupielādēt datus
         enlarge: Palielināt
+        expand-extended: rādīt papildinformāciju
         explore-by-colour: Izpētīt pēc krāsas
         media-metadata: Resursa metadati
         open-media: Atvērt šo ierakstu
         show-less-data: Rādīt mazāk datu
         show-more-data: Rādīt vairāk datu
         technicalmetadata: Tehniskie metadati
+        view-more-at: Skatīt vairāk
+      description_unavailable: Apraksts nav pieejams.
       enrichment:
         who:
           title: Nosaukums
@@ -286,14 +324,20 @@ lv:
       nav:
         next: Nākamais
         prev: Iepriekšējais
+      next-item: Nākamais
       points:
         east: Austrumi
         north: Ziemeļi
         south: Dienvidi
         west: Rietumi
       preview_unavailable: Ieraksta priekšskatījums nav pieejams, lai piekļūtu attēlam un informācijai par ierakstu, atveriet %{institution_name_and_link}
+      preview_unavailable_explanation: Šī saite ved uz
+      preview_unavailable_intro: Mūsu partneris nepiedāvā priekšskatījumu, skat. papildinformāciju avotā.
+      preview_unavailable_source: Doties uz avotu
+      previous-item: Iepriekšējais
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
+      title_unavailable: Nosaukums nav pieejams.
     pages:
       '404':
         intro: Atvainojiet, šo lapu neizdevās atrast
@@ -314,6 +358,9 @@ lv:
 
           <p>Papildinformācijai, kā mēs strādājam ar kultūras institūcijām un to kolekcijām, apmeklējiet Europeana Profesionālā.</p>
         title: Esiet sveicināts, kultūras mīli!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Iedomājieties, ka aplūkojat skaņdarba nošu manuskripta oriģinālu, un tajā pašā laikā ir iespējams noklausīties arī dažādas tā interpretācijas, un izlasīt komponista biogrāfiju. Europeana Mūzikas kolekcijā tas ir iespējams.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Mūsu partneri</a>, mūzikas eksperti, no visas Eiropas ir izveidojuši šo mūzikas ierakstu, nošu, mūzikas instrumentu attēlu, mūzikas grāmatu un cita ar mūziku saistīta satura kolekciju. </p>\n\n<p>Esam publiskojuši šo Mūzikas kolekcijas testa versiju, lai mūsu lietotāji varētu mums palīdzēt to uzlabot un attīstīt. Apmeklējot vietni, lietotāji tiek aicināti atbildēt uz jautājumiem un aptaujām, kas parādās uz ekrāna. Būsim ļoti pateicīgi, ja atradīsiet laiku atbildēt uz jautājumiem!</p>\n\n<p>Tāpat, privātuma saglabāšanas nolūkos, informējam, ka mēs apkopojam lietotāju statistiku un uzvedību ar Google Analytics un Hotjar pakalpojumiem. Mēs to darām, lai novērtētu un novērstu Mūzikas kolekcijas dizaina trūkumus un uzlabotu tās lietojamību. Visa uzkrātā informācija ir anonīma, netiek nevienam izpausta un tiek izmantota tikai, lai uzlabotu pakalpojumus.</p>\n\n<p>Mēs aicinām meklēt kolekcijā, atskaņot mūziku, skatīt notis un lasīt. Ja autortiesības to atļauj, iepatikušās lietas ir iespējams lejupielādēt. Un apmeklē mūsu virtuālās izstādes, lai atklātu mūziku līdz šim vēl neiepazītos veidos!</p>"
         title: Par Mūzikas kolekcijām
@@ -327,9 +374,9 @@ lv:
         product-save: Saglabāt
         saveto: Saglabāt
         show-all-collections: Rādīt visas kolekcijas
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: 'Klikšķināt šeit, lai skatītu rezultātus no avotiem ārpus Europeana  '
+      federated-clicked: Vienumi no avotiem ārpus Europeana
+      federated_more: Skatīt visus %{results_count} rezultātus %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -362,12 +409,13 @@ lv:
           grid: Tabula
           list: Saraksts
         view-at-provider: Skatīt
-      results: 
+      results: Rezultāti
     search:
       browse: Pārlūko
       or-browse: vai pārlūko
+      page-title: Meklēšanas rezultāti
       placeholder:
-        filter-text: 
+        filter-text: Meklēt
         text: Pievienot meklējamo vārdu
       similar:
         prefix: 'Līdzīgs: %{mlt_item}'
@@ -388,3 +436,8 @@ lv:
         label: Valoda
         settings-label: valodas iestatījumi
       title: Iestatījumi
+    ugc:
+      actions:
+        copy-name: Kopēt vārdu
+        copy-public-display-name: 
+        submit: Iesniegt

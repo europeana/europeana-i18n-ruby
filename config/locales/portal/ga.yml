@@ -3,372 +3,457 @@ ga:
     site:
       browse:
         newcontent:
-          description: 
+          description: Is féidir leat na gnéithe is úrnua i Europeana Collections a thaiscéal anseo. Féach cén institiúid chulturtha a sholáthair míreanna nua, cé mhéid díobh seo a sholáthair siad, agus cathain. Ní ga duit ach cliceáil ar na nascanna thíos agus cífidh tú.
         sources:
-          description: 
+          description: Féach thíos an liosta de na hinstitiúidí a sholáthair a n- inneachair do Bailliúcháin Europeana. Combhailíonn agus tairiscíonn na hinstitiúidí seo a chuid sonraíochtaí do Europeana; cliceáil ar an nasc thíos chun an bailiúcháin comhpháirtí a bhfuil suim agat ann a fheiscint!
   global:
-    labs-link: 
+    exhibitions:
+      contacts: 
+    labs-link: nasc do labs
     navigation:
-      agents: 
-      all_blog_posts: 
-      all_exhibitions: 
-      all_galleries: 
-      blog: 
-      browse: 
+      agents: Daoine
+      all_blog_posts: Chuile ionchur blag…
+      all_exhibitions: Gach taispeántas…
+      all_galleries: Gach gailearaí...
+      blog: Blag
+      browse: Taiscéal
       browse_colours: Dathanna
-      browse_newcontent: 
-      browse_sources: 
-      channels: 
+      browse_newcontent: Cad atá nua
+      browse_sources: Foinsí
+      channels: Bailúcháin
       collections: Bailiúchán
-      concepts: 
-      exhibitions: 
+      concepts: Topaicí
+      exhibitions: Taispeántais
       galleries: Gailearaithe
       home: Baile
       more:
-        agents: 
-        topics: 
-      periods: 
-      places: 
-      view-collection: 
-      view-detailed-description: 
+        agents: Daoine
+        people: Tuilleadh daoine
+        periods: Tréimhsí ama
+        topics: Tuilleadh topaicí
+      periods: Tréimhsí ama
+      places: Ionaid
+      view-collection: Féach bailiúchan iomlán
+      view-detailed-description: Féach tuairisc níos mionsonraithe
     pro-link: 
     pro-text: 
-    settings: 
+    settings: Socruithe
   site:
     alpha:
       feedback_banner:
         description: 
         link-text: 
         title: 
-    blog-link: 
+    blog-link: nasc don bhlag
     blogs:
-      description: 
+      description: Blaganna
       list:
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} postáil blag\n"
         page-title: 
-      min-to-read: 
+      min-to-read: nóiméad le léamh
     browse:
       colours:
-        description: 
-        title: 
+        description: Cuardaigh íomhánna de réir dath. Ní gá duit ach cliceáil ar an mbosca daite thíos agus chífidh tú íomhánna leis an dath céanna!
+        title: Dathanna
       newcontent:
         description: 
-        tableh1: 
-        tableh2: 
-        tableh3: 
-        title: 
+        tableh1: Gach institiúid
+        tableh2: Míreanna
+        tableh3: Dáta
+        title: Cad atá nua?
       people:
-        description: 
-        title: 
+        description: 'Chífidh tú anseo na buaicphointí ó Europeana Collections faoi shaol na healaíontóirí iomráití, cumadóirí agus daoine eile tábhachtacha na staire.
+
+'
+        title: Daoine
       periods:
-        description: 
-        title: 
+        description: Brabhsáil de réir tréimhse ama.
+        title: Tréimhsí ama
       sources:
-        description: 
-        title: 
+        description: Féach thíos an liosta de na hinstitiúidí a sholáthair a n- inneachair do Europeana Collections. Combhailíonn agus tairiscíonn na hinstitiúidí seo a chuid sonraíochtaí do Europeana; cliceáil ar an nasc thíos chun an bailiúcháin comhpháirtí a bhfuil suim agat ann a fheiscint!
+        title: 'Foinsí
+
+'
       topics:
-        description: 
-        title: 
+        description: 'Taiscéal Europeana Collections de réir topaic, téama nó seánra.
+
+'
+        title: Topaicí
     collections:
       art-history:
         description: 
         title: 
       data-types:
-        3d: 
-        all: 
-        count: 
-        images: 
-        moving-images: 
-        sound: 
-        texts: 
+        3d: Ábhair 3D
+        all: Uile
+        count: míreanna
+        images: Íomhánna
+        moving-images: Físeáin
+        sound: Taifeadtaí fuaime
+        texts: Téacsanna
+      description: 
       e7a1418:
-        contribute: Cuir do scéal
+        contribute: Cuir do 1914-1918 scéal
         my-account: Mo chuntas
       labels:
-        credits: 
-        designer: 
+        credits: Coimeádta ag
+        designer: Dearthóir
         editors-picks: 
-        recent: 
+        recent: Rudaí nuashealbhaithe
         sneak-peek: Explore Europeana Fashion
-        spotlight-on: 
-        whats-happening: 
+        sneak-peek-collection: 'Taiscéal <i>%{preview_title}</i> ar %{collection}
+
+'
+        spotlight-on: Spotsolas ar
+        whats-happening: Cad atá ag tarlú
       music:
         description: 
         title: 
+    entities:
+      anagraphic:
+        birth: Breith
+        death: Bás
+        occupation: Ceird
+      labels:
+        bio: 
+        born: 
+        description: 
+        died: 
+        related: Gaolmhar
+      tab_items:
+        items_about: Míreanna faoi %{name}
+        items_by: Míreanna de réir %{name}
+      types:
+        agent: 
+        concept: 
+        place: 
+      wiki_link_text: 
     events:
-      all_day: 
-      description: 
+      all_day: An La ar fad
+      description: Imeachtaí
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "“%{results_range} of %{results_count} imeachtaí"
+        future: Imeachtaí atá ag teacht aníos
+        page-title: Imeachtaí
+        past: Imeachtaí caite
     facet:
       language:
         show:
-          results: 
+          results: Torthaí
     footer:
       menu:
-        about: 
-        become-a-provider: 
-        contact: 
-        contact-us: 
-        copyright: 
-        data-providers: 
-        help: 
-        new-collections: 
-        rights: 
-        roadmap: 
-        search-tips: 
-        using-myeuropeana: 
+        about: Faoi
+        become-a-provider: Téigh i gcomhpháirtíocht linn
+        contact: Teagmháil
+        contact-us: Déan teagmháil linn
+        copyright: 'Cóipcheart
+
+'
+        data-providers: Gach institiúid
+        help: Cabhair
+        new-collections: Bailliúcháin nua
+        rights: Coinníollacha úsáide & Polasaithe
+        roadmap: Forbairtí chun dáta
+        search-tips: Leideanna don chuardach
+        using-myeuropeana: 'Ag úsáid MyEuropeana
+
+'
     galleries:
-      description: 
-      description-default: 
-      share: 
-    more: 
+      description: Cultúr coimeádta duitse! Aimsigh Gailearaithe Europeana!
+      description-default: Féach breis eolais faoi Europeana
+      share:
+        one: Comhroinn an gailearaí seo
+        other: Comhroinn na gailearaithe
+    helpbar-tip:
+      browse-page: 
+      item-page: 
+    more: Tuilleadh...
     my-europeana: 
     my-europeana-link: 
+    name: 
     navigation:
       breadcrumb:
         account: cuntas
         blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        contribution: Dréacht
+        contribution-attachment: Ceangaltán
+        contribution-attachments: Ceangaltáin
+        contribution-done: déanta
+        contributor: Rannpháirtí
+        events_list_breadcrumb: Imeachtaí
         exhibitions:
-          return_home: 
-        item_detail: 
-        register: 
-        reset-password: 
-        results_list: 
-        results_list_mlt: 
-        return_home: 
-        sign-in: 
+          return_home: Taispeántais
+        item_detail: Míreanna
+        register: Cláraigh
+        reset-password: Athshocraigh Pasfhocal
+        results_list: Torthaí
+        results_list_mlt: Míreanna dá shamhail
+        return_home: Ar ais go Baile
+        sign-in: Sínigh Isteach
       search:
         placeholder:
-          text: 
-    news: 
+          text: Cuardaigh anseo de réir eochairfhocail
+    news: Nuacht
+    notice:
+      outage-expected: 
     object:
       actions:
-        attribute-author: 
+        annotate: 
+        attribute-author: Airí an údar
         attribute-html: 
         attribute-plaintext: 
-        download: 
-        download-additional: 
-        download-retry: 
-        download-started: 
+        collapse-extended: 
+        download: Íoslódáil
+        download-additional: Ar fáil freisin mar
+        download-retry: Atriail
+        download-started: Íoslódáil curtha chun siúil
         downloaddata: 
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
-        open-media: 
-        show-less-data: 
-        show-more-data: 
-        technicalmetadata: 
+        enlarge: Méadaigh
+        expand-extended: 
+        explore-by-colour: Taiscéal de réir dath
+        media-metadata: Metasonraíochtaí Meáin
+        open-media: Oscail an mír meáin seo
+        show-less-data: Taispeáin níos lú sonraíochtaí
+        show-more-data: Taispeáin níos mó sonraíochtaí
+        technicalmetadata: Metasonraíochtaí teicniúla
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
-          title: 
+          title: Teideal
       hierarchy:
-        title: 
-        view-items-above: 
-        view-items-below: 
+        title: Míreanna gaolmhara
+        view-items-above: féach míreanna thuas
+        view-items-below: féach míreanna thíos
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Eoals faoin chearta breise
+        annotations: Anótála úsáideora
         codec: 
-        collection-name: 
-        concept: 
-        concepts: 
-        consists-of: 
-        contributor: 
-        copyright: 
-        creation-date: 
-        creator: 
-        current-location: 
-        data-provider: 
-        date: 
-        dates: 
-        description: 
-        dimensions: 
-        duration: 
+        collection-name: Tacar sonraí
+        concept: Topaicí
+        concepts: Rangaithe
+        consists-of: Tá ann
+        contributor: Rannpháirtí
+        copyright: Cóipcheart
+        creation-date: Dáta cruthaithe
+        creator: Cruthaitheoir
+        current-location: Suíomh reatha
+        data-provider: Institiúid
+        date: Dáta
+        dates: Dátaí
+        description: Tuairisc
+        dimensions: Toisí
+        duration: Fad ama
         edm:
-          has-met: 
-          incorporates: 
-          is-derivative-of: 
-          is-representation-of: 
-          is-similar-to: 
-          is-successor-of: 
-          realises: 
-          was-present-at: 
-        extent: 
-        file-size: 
-        format: 
-        fps: 
+          has-met: Gaolmhar le
+          incorporates: San áireamh
+          is-derivative-of: Díorthach den
+          is-representation-of: Léiriú den
+          is-similar-to: Cosúil le
+          is-successor-of: Comharba ar
+          realises: Réadaíonn
+          was-present-at: I láthair ag
+        extent: Méid
+        file-size: Méid comhaid
+        format: Formáid
+        fps: Frámaí sa soicind
         has-type: 
-        identifier: 
-        intermediate-provider: 
-        is-format-of: 
-        is-part-of: 
-        is-referenced-by: 
-        is-replaced-by: 
-        is-required-by: 
-        issued: 
-        language: 
-        latitude: 
-        location: 
-        longitude: 
-        map: 
-        map-tiles: 
-        medium: 
-        people: 
-        period: 
-        place: 
-        place-time: 
-        properties: 
-        provenance: 
-        provided-by: 
-        provided-by-detail: 
-        provided-by-detail-no-link: 
-        provider: 
-        providing-country: 
-        publication-date: 
-        publisher: 
-        references: 
-        refs-rels: 
-        relations: 
-        rights: 
-        rights-human: 
-        rights-statement: 
-        runtime: 
-        runtime-unit-seconds: 
-        source: 
-        subject: 
-        temporal: 
-        time: 
-        timestamp-created: 
-        timestamp-updated: 
-        timestamp_created: 
-        timestamp_updated: 
-        title: 
-        toc: 
-        type: 
-        ugc: 
-        version: 
+        identifier: Aitheantóir
+        intermediate-provider: Soláthróir idirmheánaigh
+        is-format-of: Formáid den
+        is-part-of: Cuid den
+        is-referenced-by: Tagartha ar bhonn
+        is-replaced-by: Athchurtha ag
+        is-required-by: Riachtanach de réir
+        issued: Eisithe ar dtús
+        language: 'Teanga
+
+'
+        latitude: Leithead
+        location: Suíomh
+        longitude: Fad
+        map: Mapa
+        map-tiles: Tíleanna
+        medium: Meán
+        people: Daoine
+        period: Tréimhse
+        place: Ionad
+        place-time: Ionad / Am
+        properties: Airíonna
+        provenance: Bunáitíocht
+        provided-by: Féach breis eolais
+        provided-by-detail: Féach ag %{institution_name_and_link}
+        provided-by-detail-no-link: Tá Europeana ag leiriú an mhír seo trí
+        provider: Soláthróir
+        providing-country: Tír soláthartha
+        publication-date: Dáta foilsithe
+        publisher: Foilsitheoir
+        references: Tagairtí
+        refs-rels: Tagairtí agus caidrimh
+        relations: Caidrimh
+        rights: Cearta
+        rights-human: An féidir liom é/í seo a úsáid?
+        rights-statement: Ráiteas cearta
+        runtime: 'Am rite
+
+'
+        runtime-unit-seconds: soicindí
+        source: Foinseach
+        subject: Ábhar
+        temporal: Ama
+        time: Am
+        timestamp-created: Foilsithe ar dtús in Europeana
+        timestamp-updated: Uasdátú is déanaí in Europeana
+        timestamp_created: Foilsithe ar dtús in Europeana (%{timestamp_created})
+        timestamp_updated: Uasdátú is déanaí in Europeana (%{timestamp_updated})
+        title: Teideal
+        toc: Tábla na nÁbhar
+        type: Cineál
+        ugc: Inneachair soláthartha ag úsáideoirí
+        version: Leagan
       named-entities:
-        title: 
+        title: Aonáin
         what:
           broader: 
-          label: 
-          term: 
-          title: 
+          label: Lipéad Coincheapa
+          term: Téarma Coincheapa
+          title: Ábhair, cineál acmhainní, seéanraí agus modhanna (Coincheapa)
         when:
-          begin: 
-          end: 
-          label: 
-          term: 
-          title: 
+          begin: Tús Tréimhse
+          end: Deireadh Tréimhse
+          label: Lipéad Tréimhse
+          term: Téarma Tréimhse
+          title: Réisí ama agus dátaí (RéiseAma)
         where:
-          label: 
-          latitude: 
-          longitude: 
-          term: 
-          title: 
+          label: Lipéad Áite
+          latitude: Leithead
+          longitude: Fad
+          term: Téarma Áite
+          title: Ainmneacha Áite (Ionaid)
         who:
-          label: 
-          term: 
-          title: 
+          label: Lipéad Gníomhaí
+          term: Téarma Gníomhaí
+          title: Daoine agus eagraíochtaí (Gníomhaithe)
       nav:
-        next: 
-        prev: 
+        next: Ar aghaidh
+        prev: Roimhe
+      next-item: 
       points:
-        east: 
-        north: 
-        south: 
-        west: 
-      preview_unavailable: 
-      show-more-similar-items: 
-      similar-items: 
+        east: Oirthear
+        north: Tuaisceart
+        south: Deisceart
+        west: Iarthar
+      preview_unavailable: 'Níl réamhamharc an mhír seo ar fáil; chun an t-íomhá iomlán a rochtainiú maraon le tuilleadh eolais faoin mhír, téir chuig  %{institution_name_and_link}
+
+'
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
+      show-more-similar-items: taispeáin níos mó
+      similar-items: Míreanna dá shamhail
+      title_unavailable: 
     pages:
       '404':
-        intro: 
-        text: 
+        intro: Ár leithscéal, ní féidir linn an leathanach sin a aimsiú
+        text: Ar an drochuair, níor fhéad linn teacht ar an leathanach a chuardaigh tú. Déan iarracht Europeana a chuardú nó seans go mbeadh na míreanna a roghnaigh muid thíos sásúil.
       about:
         text: 
         title: 
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: 
         title: 
     results:
       actions:
-        configure-actions: 
-        dutchmasters: 
-        favouriteart: 
-        label: 
-        newcollection: 
-        product-save: 
-        saveto: 
-        show-all-collections: 
-      federated: 
-      federated-clicked: 
-      federated_more: 
+        configure-actions: Gníomhartha cumraithe
+        dutchmasters: Máistrí na hÍsiltíre
+        favouriteart: Rogha ealaíona
+        label: Gníomhaíochtaí
+        newcollection: Bailliúcháin nua
+        product-save: Sábháil
+        saveto: Sábháil chuig
+        show-all-collections: Taispeáin gach bailliúchán
+      federated: Cliceáil anseo go bhfeice tú torthaí ó fhoinsí neamh-Europeana
+      federated-clicked: Míreanna ó fhoinsí neamh-Europeana
+      federated_more: 'Féach gach %{results_count} torthaí ar %{results_provider}
+
+'
       list:
         all-results:
-          3D: 
-          images: 
-          text: 
-          video: 
-        count-and-terms: 
-        count-and-terms-with-range: 
-        empty: 
-        empty-with-terms: 
-        header: 
-        header-and: 
-        in-channel: 
-        less: 
-        less_adv: 
-        more: 
-        more_adv: 
-        per-page: 
-        product-3D: 
-        product-image: 
-        product-sound: 
-        product-text: 
-        product-video: 
-        results-relevance: 
+          3D: 3D
+          images: Íomhánna
+          text: Téacs
+          video: Físeán
+        count-and-terms: "%{results_count} torthaí"
+        count-and-terms-with-range: "%{results_range} of %{results_count} torthaí\n"
+        empty: Níor aimsíodh aon Torthaí
+        empty-with-terms: 'Níor aimsíodh aon torthaí do %{query_terms}
+
+'
+        header: Torthaí do
+        header-and: agus
+        in-channel: i mbailiúchán téamach
+        less: Níos lú
+        less_adv: Níos lú Mionchoigeartuithe
+        more: 'Breis
+
+'
+        more_adv: 'Ard-scagairí
+
+'
+        per-page: Ar gach leathanach
+        product-3D: 3D
+        product-image: Íomhá
+        product-sound: Fuaim
+        product-text: Téacs
+        product-video: Físeán
+        results-relevance: Ábharthacht
         results-view:
-          grid: 
-          list: 
-        single-result: 
+          grid: Greille
+          list: Liosta
+        single-result: Toradh amháin don %{query_terms}
         view:
-          grid: 
-          list: 
-        view-at-provider: 
-      results: 
+          grid: Greille
+          list: Liosta
+        view-at-provider: Féach ag
+      results: Torthaí
     search:
-      browse: 
-      or-browse: 
+      browse: Brabhsáil
+      or-browse: nó brabhsáil
+      page-title: 
       placeholder:
-        filter-text: 
-        text: 
+        filter-text: Cuardaigh
+        text: 'Cuir téarma cuardaigh leis
+
+'
       similar:
-        prefix: 
+        prefix: 'Cosúil le: %{mlt_item}
+
+'
     settings:
       actions:
-        clear-selection: 
-        save-settings: 
+        clear-selection: Glan roghnúchán
+        save-settings: Sábháil socruithe
       language:
-        auto-translate-limit: 
-        auto-translate-page: 
-        auto-translate-page-short: 
-        auto-translate-query: 
-        available: 
-        default: 
+        auto-translate-limit: 'Is féidir uasmhéid de %{max_languages} a roghnú
+
+'
+        auto-translate-page: Aistrigh mírleathanacha go huathoibríoch go...
+        auto-translate-page-short: Aistrigh míreanna go huathoibríoch go
+        auto-translate-query: Aistrigh eochairfhocail go huathoibríoch go...
+        available: Teangacha infhaighte
+        default: Teanga réamhshocraithe
         flash:
-          alert: 
-          notice: 
-        label: 
-        settings-label: 
-      title: 
+          alert: 'Teanga neamhbhailí roghnaithe. Teangacha infhaighte: %{locales}'
+          notice: Socruithe teanga sábháilte.
+        label: Teanga
+        settings-label: socruithe teanga
+      title: Socruithe
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

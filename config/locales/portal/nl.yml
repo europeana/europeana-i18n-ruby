@@ -7,12 +7,14 @@ nl:
         sources:
           description: Hieronder zie je een lijst van instellingen die hun inhoud aan Europeana Collections hebben bijgedragen.
   global:
+    exhibitions:
+      contacts: 
     labs-link: 'link naar labs '
     navigation:
       agents: Mensen
       all_blog_posts: Alle berichten...
       all_exhibitions: Alle tentoonstellingen
-      all_galleries: 
+      all_galleries: Alle galerijen...
       blog: Blog
       browse: Bladeren
       browse_colours: Kleuren
@@ -22,15 +24,17 @@ nl:
       collections: Collecties
       concepts: onderwerpen
       exhibitions: Tentoonstellingen
-      galleries: 
+      galleries: Galerijen
       home: Home
       more:
-        agents: Meer mensen
+        agents: Mensen
+        people: Meer mensen
+        periods: Tijdsperioden
         topics: meer onderwerpen
       periods: Tijdvakken
       places: plaatsen
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Bekijk de volledige collectie
+      view-detailed-description: Bekijk een meer gedetailleerde omschrijving
     pro-link: link naar pro
     pro-text: tekst voor pro
     settings: Instellingen
@@ -42,20 +46,20 @@ nl:
         title: 'Dit is een Beta versie van onze nieuwe Collections, Kunst Geschiedenis- en Muziek Collecties. '
     blog-link: link naar de blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
+        page-title: Blog
+      min-to-read: minuten om te lezen
     browse:
       colours:
         description: 'Zoek naar afbeeldingen op basis van hun kleur. Klik op een gekleurd vakje hieronder en ontdek bijbehorende afbeeldingen. '
         title: Kleuren
       newcontent:
-        description: 
+        description: 'Hier kun je alle recente aanvullingen van Europeana Collections verkennen. Bekijk welke culturele instellingen nieuwe items hebben bijgedragen, het aantal items die ze hebben toegevoegd en wanneer. Klik op de onderstaande links om meer te weten te komen. '
         tableh1: Alle instellingen
         tableh2: Items
-        tableh3: 
+        tableh3: Datum
         title: Onlangs toegevoegd
       people:
         description: Hier vindt u de hoogtepunten van onze collecties die betrekking hebben tot het leven en de werken van beroemde kunstenaars, componisten en andere belangrijke figuren uit de geschiedenis.
@@ -81,8 +85,9 @@ nl:
         moving-images: Videos
         sound: Geluidsopnames
         texts: Tekst
+      description: 
       e7a1418:
-        contribute: Uw verhaal toevoegen
+        contribute: Uw 1914-1918 verhaal toevoegen
         my-account: Mijn account
       labels:
         credits: Gecureerd door
@@ -90,19 +95,41 @@ nl:
         editors-picks: "  "
         recent: Recent toegevoegd
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Verken <i>%{preview_title}</i> in %{collection}
         spotlight-on: In de spotlight
-        whats-happening: 
+        whats-happening: Wat gebeurt er
       music:
         description: 'Het <strong> Europeana collecties: muziek</strong> brengt u de beste muziek opnames, blad muziek en ander muziek gerelateerde collecties van Europa''s audio-visuele archieven, bibliotheken, archieven en musea. <a href="/portal/channels/music/about"> Meer over Europeana collecties: muziek</a>'
         title: Europeana Muziek
+    entities:
+      anagraphic:
+        birth: Geboorte
+        death: Dood
+        occupation: Beroep
+      labels:
+        bio: Biografie
+        born: Geboren
+        description: 
+        died: is gestorven
+        related: Verwant
+      tab_items:
+        items_about: Items over %{name}
+        items_by: Items per %{name}
+      types:
+        agent: Persoon
+        concept: Concept
+        place: 'Plaats
+
+'
+      wiki_link_text: De bron werd in Wikimedia Commons verkregen.
     events:
-      all_day: 
-      description: 
+      all_day: De hele dag
+      description: Evenementen
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} evenementen"
+        future: Aankomende evenementen
+        page-title: Evenementen
+        past: Eerdere evenementen
     facet:
       language:
         show:
@@ -112,62 +139,75 @@ nl:
         about: Over ons
         become-a-provider: Word een data provider
         contact: Contact
-        contact-us: 
+        contact-us: Neem contact met ons op
         copyright: Auteursrecht
         data-providers: Alle data providers
         help: Help
         new-collections: Nieuwe Collecties
         rights: Algemene voorwaarden
-        roadmap: 
+        roadmap: 'Updates van de ontwikkeling '
         search-tips: Zoek tips
         using-myeuropeana: Gebruik mijn Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Cultuur samengesteld voor jou! Ontdek Europeana Galleries!
+      description-default: Meer te weten komen over Europeana
+      share:
+        one: Deel deze galerij
+        other: Deel de galerijen
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Meer...
     my-europeana: Mijn Europeana
     my-europeana-link: Link naar mijn Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: account
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Bijdrage
+        contribution-attachment: Bijlage
+        contribution-attachments: Bijlagen
+        contribution-done: klaar
+        contributor: Donateur
+        events_list_breadcrumb: Evenementen
         exhibitions:
-          return_home: 
+          return_home: Tentoonstellingen
         item_detail: Object details
-        register: 
-        reset-password: 
+        register: Register
+        reset-password: Wachtwoord opnieuw instellen.
         results_list: Resultaten
-        results_list_mlt: 
+        results_list_mlt: Vergelijkbare items
         return_home: Terug naar hoofdpagina
-        sign-in: 
+        sign-in: Aanmelden
       search:
         placeholder:
-          text: 
+          text: Zoek hier op trefwoord
     news: Nieuws
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Naam van de maker
         attribute-html: HTML
         attribute-plaintext: tekst
+        collapse-extended: 
         download: Download
         download-additional: Ook beschikbaar als
-        download-retry: 
-        download-started: 
+        download-retry: Opnieuw proberen
+        download-started: De download is gestart.
         downloaddata: Download informatie
-        enlarge: 
-        explore-by-colour: 
+        enlarge: Vergroten
+        expand-extended: 
+        explore-by-colour: 'Per kleur verkennen '
         media-metadata: Media Metadata
         open-media: Open dit type media
         show-less-data: Toon minder informatie
         show-more-data: Toon meer informatie
         technicalmetadata: Technische metadata
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Titel
@@ -176,8 +216,8 @@ nl:
         view-items-above: bekijk bovenstaande resultaten
         view-items-below: bekijk onderstaande resultaten
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Aanvullende informatie over rechten
+        annotations: Aantekeningen van gebruikers
         codec: Codec
         collection-name: Dataset
         concept: Soort object
@@ -209,7 +249,7 @@ nl:
         fps: FPS
         has-type: 
         identifier: 
-        intermediate-provider: 
+        intermediate-provider: Tijdelijke aanbieder
         is-format-of: 
         is-part-of: Deel van
         is-referenced-by: Referentie van
@@ -231,7 +271,7 @@ nl:
         provenance: Bron
         provided-by: Meer
         provided-by-detail: De bron van dit object is %{institution_name_and_link} Ga naar de website voor meer informatie
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana laat dit item zien via
         provider: Partner
         providing-country: Land
         publication-date: Publicatie datum
@@ -241,7 +281,7 @@ nl:
         relations: Relaties
         rights: Rechten
         rights-human: Mag ik dit gebruiken?
-        rights-statement: 
+        rights-statement: Rechtenverklaring
         runtime: Totale tijd
         runtime-unit-seconds: seconde
         source: Bron en Herkomst
@@ -254,7 +294,7 @@ nl:
         timestamp_updated: Laatste Europeana update (%{timestamp_updated})
         title: Titel
         toc: Inhoudsopgave
-        type: Typ
+        type: Type
         ugc: Bijdragen van particulieren
         version: Versie
       named-entities:
@@ -283,14 +323,20 @@ nl:
       nav:
         next: Volgende
         prev: Vorige
+      next-item: 
       points:
         east: Oost
         north: Noord
         south: Zuid
         west: West
-      preview_unavailable: 
+      preview_unavailable: Item is voor de voorvertoning niet beschikbaar. Om toegang te krijgen tot de volledige afbeelding en voor meer informatie over het item, ga naar %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
+      title_unavailable: 
     pages:
       '404':
         intro: Sorry, deze pagina is onvindbaar
@@ -298,6 +344,9 @@ nl:
       about:
         text: 
         title: Welkom, cultuur liefhebber!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: 
         title: Over de Muziek Collecties
@@ -311,9 +360,9 @@ nl:
         product-save: Bewaar
         saveto: Bewaar als
         show-all-collections: Geef alle collecties weer
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Klik hier om resultaten te zien uit niet-Europeana bronnen.
+      federated-clicked: Items uit niet-Europeana bronnen.
+      federated_more: Bekijk alle %{results_count} resultaten op %{results_provider}.
       list:
         all-results:
           3D: 3D
@@ -321,7 +370,7 @@ nl:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} resultaten"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} of %{results_count} resultaten"
         empty: Geen resultaten
         empty-with-terms: Uw zoekopdracht voor %{query_terms} heeft geen resultaat
         header: Resultaten voor
@@ -331,7 +380,7 @@ nl:
         less_adv: Minder verfijning
         more: meer
         more_adv: Geavanceerd...
-        per-page: 
+        per-page: Per pagina
         product-3D: 3D
         product-image: Afbeelding
         product-sound: Geluid
@@ -339,19 +388,20 @@ nl:
         product-video: Video
         results-relevance: Relevantie
         results-view:
-          grid: 
-          list: 
+          grid: Raster
+          list: Lijst
         single-result: 1 reslutaat van %{query_terms}
         view:
           grid: Grit
           list: Lijst
         view-at-provider: Bekijk via
-      results: 
+      results: Resultaten
     search:
       browse: Bladeren
-      or-browse: 
+      or-browse: of blader door
+      page-title: Zoekresultaten
       placeholder:
-        filter-text: 
+        filter-text: Zoeken
         text: Voeg zoekterm toe
       similar:
         prefix: Hetzelfde als %{mlt_item}
@@ -372,3 +422,8 @@ nl:
         label: Taal
         settings-label: Instellingen voor taal
       title: Settings
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

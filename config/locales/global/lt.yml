@@ -149,27 +149,33 @@ lt:
   global:
     about-us: Apie mus
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Suglausti
+      copy: 
+      delete: Ištrinti
+      download: 
+      downloading: 
+      edit: Redaguoti
+      expand: Išplėsti
+      expand-viewer: 
       filter-all: filtruoti visus
       filter-by: Filtruoti pagal
       fullscreen-enter: Per visą ekraną
       fullscreen-exit: išeiti visą ekraną
-      new: 
+      new: Nauja
       next: Kitas
       previous: iepriekšējā
+      reduce-viewer: 
       register: Užsiregistruoti
-      share: 
+      remove: 
+      share: Dalytis
       sign-in: Prisijungti
       sign-out: Atsijungti
       skip-to-main: Pereiti į puslapio turinį
       skip-to-section: Pereiti į skyrių
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Peržiūrėti
+      view-at: Peržiūrėti
+      view-more-at: 'Peržiūrėti daugiau '
+      withdraw: Pašalinti
     channel:
       all: Visi daiktai
       archaeology: archeologija
@@ -177,7 +183,7 @@ lt:
       art: menas
       art-history: Meno Istorija
       fashion: mada
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Pagrindinis (visi)
       maps: žemėlapiai
       music: Muzika
@@ -193,9 +199,14 @@ lt:
     cookie_disclaimer:
       more_info: Daugiau informacijos
       text: Ši svetainė naudoja slapukus, siekiant užtikrinti jums gauti geriausią patirtį mūsų svetainėje. Paspaudę arba naršyti svetainėje, Jūs sutinkate, kad mūsų informacijos rinkimo per slapukus.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} pr. m. e."
+          current: "%{date} m. e."
     email-address: el. pašto adresas
     error:
-      unavailable: 
+      unavailable: Negalima
     facet:
       advanced:
         options: Pasirinkimai
@@ -257,11 +268,11 @@ lt:
         country: Šalis
         data_provider: Institucija
         date-created: Sukūrimo data
-        edm_ugc: 
+        edm_ugc: Rodyti vartotojų įkeltą turinį
         fashion:
           colour: spalva
           designer: Dizaineris
-          material: 
+          material: Medžiaga
           technique: technika
           type: prekė tipas
         image_aspectratio: Pozicija
@@ -280,7 +291,7 @@ lt:
         sound_duration: Trukmė
         sound_hq: Aukšta kokybė
         text_fulltext: Pilnas tekstas
-        thumbnail: 
+        thumbnail: Tik elementai su miniatiūromis
         type: Medija
         ugc: Rodyti vartotojų įkeltą turinį
         video_duration: Video įrašo trukmė
@@ -344,33 +355,43 @@ lt:
       resource:
         type: Tipas
       reusability:
-        advanced: Papildomas
-        advanced-cc-by: CC BY licenzija
-        advanced-cc-by-nc: CC BY-NC licenzija
-        advanced-cc-by-nc-nd: CC BY-NC-ND licenzija
-        advanced-cc-by-nc-sa: CC BY-NC-SA licenzija
-        advanced-cc-by-nd: CC BY-ND licenzija
-        advanced-cc-by-sa: CC BY-SA licenzija
-        advanced-cc0: CC0 licenzija
-        advanced-orphan-work: Kūrinio autorius nenustatytas
-        advanced-out-of-copyright-non-commercial: Nekomerciniam pakartotiniam naudojimui autorinės teisės netaikomos
-        advanced-public: Viešo naudojimo
-        advanced-rrfa: Teisės saugomis - laisva prieiga
-        advanced-rrpa: Teisės saugomos - mokama prieiga
-        advanced-rrra: Teisės saugomos - ribota prieiga
-        advanced-rs-cne: Autorinės teisės neįvertino
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: Autorinių teisių statusas nežinomas
-        expiry: 
-        open: Taip, su atribucija
-        permission: Tik su leidimu
-        restricted: Taip, su apribojimais
-        rs_noc_oklr: 
+        advanced-MARKEDFORDELETION: Papildomas
+        expiry: iki %{date}
+        open:
+          brief: 
+          info: 
+          label: Taip, su atribucija
+        permission:
+          brief: 
+          info: 
+          label: Tik su leidimu
+        restricted:
+          brief: 
+          info: 
+          label: Taip, su apribojimais
         simple: Paprastas
+      rights:
+        cc-by: CC BY licenzija
+        cc-by-nc: CC BY-NC licenzija
+        cc-by-nc-nd: CC BY-NC-ND licenzija
+        cc-by-nc-sa: CC BY-NC-SA licenzija
+        cc-by-nd: CC BY-ND licenzija
+        cc-by-sa: CC BY-SA licenzija
+        cc0: CC0 licenzija
+        orphan-work: Kūrinio autorius nenustatytas
+        out-of-copyright-non-commercial: Nekomerciniam pakartotiniam naudojimui autorinės teisės netaikomos
+        public: Viešo naudojimo
+        rrfa: Teisės saugomis - laisva prieiga
+        rrpa: Teisės saugomos - mokama prieiga
+        rrra: Teisės saugomos - ribota prieiga
+        rs-cne: Autorinės teisės neįvertino
+        rs-inc: Saugoma autoriaus teisių
+        rs-inc-edu: Saugoma autoriaus teisių – leidžiama švietimo tikslams
+        rs-inc-ow-eu: Saugoma autoriaus teisių – ES nenustatytos autorių teisės kūriniai
+        rs-noc-nc: Nesaugoma autoriaus teisių – tik nekomerciniam naudojimui
+        rs-noc-oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
+        rs_noc_oklr: Nesaugoma autoriaus teisių – kiti žinomi teisiniai apribojimai
+        ucs: Autorinių teisių statusas nežinomas
       sound_duration:
         long: Ilgas (6+ min)
         medium: Vidutinis (3-6 min)
@@ -383,8 +404,8 @@ lt:
         'false': Ne
         'true': Taip
       thumbnail:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Taip
       type:
         3d: 3D
         image: Vaizdas
@@ -421,8 +442,8 @@ lt:
           medium: Vidutinis (%{data})
           short: Trumpas (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Taip
       video_duration:
         long: Ilgas (20+ min)
         medium: Vidutinis (4-20 min)
@@ -435,7 +456,7 @@ lt:
     feedback:
       close: Uždaryti
       error: 
-      open: 
+      open: Atsiliepimas
       placeholder: Leiskite mums žinoti, ką manote ir ką galime pagerinti. Jei norite susisiekti, palikite savo elektroninio pašto adresą čia pat!
       submit: Pateikti
       thanks:
@@ -443,14 +464,28 @@ lt:
         short: Ačiū!
       title: 
       type:
-        bug: 
+        bug: klaida
         comment: komentaras
         correction: taisymas
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Sekti %{channel}
     forgot-password: Pamiršote slaptažodį?
-    galleries: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Galerijos
     genres: Žanrai
     genres-chamber-music: Kamerinė muzika
     genres-classical-music: Klasikinė muzika
@@ -467,9 +502,10 @@ lt:
     help: Pagalba
     home: Pagrindinis
     javascript-required: Norėdami matyti šį turinį, įjunkite JavaScript bei apsvarstykite galimybę atnaujinti naršyklės versiją į tokią, kuri palaiko HTML5 turinį.
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
+      by: pagal
+      images: nuotraukos
     labs: Labs
     labs-text: Derinkite turinį naudodamiesi mūsų API ir duomenų rinkiniais
     language-basque: Baskų
@@ -502,6 +538,42 @@ lt:
     language-spanish: Ispanų
     language-swedish: Švedų
     language-ukranian: Ukrainiečių
+    languages:
+      bg: Bulgarų
+      ca: Katalonų
+      cs: Čekų
+      da: Danų
+      de: Vokiečių
+      el: Graikų
+      en: Anglų
+      es: Ispanų
+      et: Estų
+      eu: Baskų
+      fi: Suomių
+      fr: Prancūzų
+      ga: Airių
+      he: Hebrajų
+      hr: Kroatų
+      hu: Vengrų
+      is: Islandų
+      it: Italų
+      lt: Lietuvių
+      lv: Latvių
+      mt: Maltiečių
+      mul: Daugiakalbis
+      nl: Olandų
+      'no': Norvegų
+      pl: Lenkų
+      pt: Portugalų
+      ro: Rumunų
+      ru: Rusų
+      sk: Slovakų
+      sl: Slovėnų
+      sr: Serbų
+      sv: Švedų
+      tr: Turkų
+      uk: Ukrainiečių
+      yi: Jidiš
     login: Prisijungti
     mission: Mes keičiame pasaulį kultūros pagalba! Siekiame kurti turtingiausią Europos kultūrinio paveldo sistemą ir padaryti ją patogia naudotis tiek darbo, tiek mokslo, tiek laisvalaikio tikslais.
     mission-title: Mūsų misija
@@ -526,33 +598,36 @@ lt:
     professional: Pro
     professional-text: Prisijunkite! Dalinkitės savo duomenimis ar naudokite mūsiškius
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Programėlė
+      apps: Programėlės
+      blog: Dienoraštis
+      blogs: Dienoraščiai
+      collection: Teminė kolekcija
+      collections: Teminės kolekcijos
+      dataset: Duomenų rinkinys
+      datasets: Duomenų rinkiniai
+      event: Įvykis
+      events: Įvykiai
+      exhibition: Paroda
+      exhibitions: Parodos
+      featured_site: Speciali svetainė
+      featured_sites: Specialios svetainės
+      galleries: Galerijos
+      gallery: Galerija
+      image: Nuotrauka
+      images: Nuotraukos
+      new: Kas naujo
+      partner: Mūsų partneris
+      partners: Mūsų partneriai
+      playlist: Grojaraštis
+      playlists: Grojaraščiai
+      stories: Istorijos
+      story: Istorija
+      timeline: Laiko juosta
+      timelines: Laiko juostos
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Patikslinkite paiešką
     refine-your-search-short: 
     register: Registruotis
@@ -569,11 +644,8 @@ lt:
     terms-and-policies: Naudojimosi taisyklės ir privatumo politika
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Ar peržiūrėjote naujas galerijas?
         search:
           new-filter: Dabar galite filtruoti paiešką konkrečios licencijos
           new-grid: Ar matėte naują tinklo išdėstymą?

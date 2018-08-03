@@ -7,12 +7,14 @@ en:
         sources:
           description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
   global:
+    exhibitions:
+      contacts: Contacts
     labs-link: 'link to labs '
     navigation:
       agents: People
       all_blog_posts: All blog posts…
       all_exhibitions: All exhibitions…
-      all_galleries: All Galleries...
+      all_galleries: All galleries...
       blog: Blog
       browse: Explore
       browse_colours: Colours
@@ -25,7 +27,9 @@ en:
       galleries: Galleries
       home: Home
       more:
-        agents: More people
+        agents: People
+        people: More people
+        periods: Time Periods
         topics: More topics
       periods: Time periods
       places: Places
@@ -45,8 +49,8 @@ en:
       description: Blogs
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
-        page-title: Europeana Blog
-      min-to-read: min to read
+        page-title: Blog
+      min-to-read: minutes to read
     browse:
       colours:
         description: Search for images based on their colour. Simply click a coloured box below to discover images containing that colour!
@@ -58,7 +62,7 @@ en:
         tableh3: Date
         title: What's new?
       people:
-        description: Here you can find highlights from our Collections relating to the lives and works of famous artists, composers and other important figures from history.
+        description: Here you can find highlights from Europeana Collections relating to the lives and works of famous artists, composers and other important figures from history.
         title: People
       periods:
         description: Browse by time period.
@@ -67,7 +71,7 @@ en:
         description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
         title: Sources
       topics:
-        description: 'Explore our Collections by topic, theme or genre. '
+        description: Explore Europeana Collections by topic, theme or genre.
         title: Topics
     collections:
       art-history:
@@ -81,8 +85,9 @@ en:
         moving-images: Videos
         sound: Sound recordings
         texts: Texts
+      description: Europeana Thematic Collections expose content related to specific topics.
       e7a1418:
-        contribute: Add your story
+        contribute: Add your 1914-1918 story
         my-account: My Account
       labels:
         credits: 'Curated by '
@@ -90,11 +95,33 @@ en:
         editors-picks: "  "
         recent: Recent additions
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Explore <i>%{preview_title}</i> on %{collection}
         spotlight-on: 'Spotlight on '
         whats-happening: What's happening
       music:
         description: The <strong>Europeana Music Collection</strong> brings together the best music recordings, sheet music, and other music related collections from Europe's audio-visual archives, libraries, archives and museums. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>
         title: Europeana Music
+    entities:
+      anagraphic:
+        birth: Birth
+        death: Death
+        occupation: Occupation
+      labels:
+        bio: Biography
+        born: Born
+        description: Description
+        died: Died
+        related: Related
+      tab_items:
+        items_about: Items about %{name}
+        items_by: Items by %{name}
+      types:
+        agent: Person
+        concept: Concept
+        place: 'Place
+
+'
+      wiki_link_text: Resource obtained from Wikimedia Commons
     events:
       all_day: All Day
       description: Events
@@ -127,9 +154,13 @@ en:
       share:
         one: Share this gallery
         other: Share the galleries
+    helpbar-tip:
+      browse-page: 'Tip: hover over image for more options'
+      item-page: We want your feedback on our new item page, use our feedback button to leave your comments.
     more: More...
-    my-europeana: My Europeana
+    my-europeana: MyEuropeana
     my-europeana-link: link to My Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: account
@@ -153,23 +184,30 @@ en:
         placeholder:
           text: Search by keyword here
     news: News
+    notice:
+      outage-expected: Europeana Collections may experience service outages between 19:00 (CET) and 01:00 (CET) due to ongoing maintenance by our hosting provider. We appreciate your patience during this time.
     object:
       actions:
+        annotate: Annotate
         attribute-author: Attribute the author
         attribute-html: HTML
         attribute-plaintext: Plain text
+        collapse-extended: collapse extended information
         download: Download
         download-additional: Also available as
         download-retry: Retry
         download-started: The download has started
         downloaddata: Download data
         enlarge: Enlarge
+        expand-extended: expand extended information
         explore-by-colour: Explore by colour
         media-metadata: Media Metadata
         open-media: Open this media item
         show-less-data: Show less data
         show-more-data: Show more data
         technicalmetadata: Technical metadata
+        view-more-at: View more at
+      description_unavailable: Sorry.  No description is available.
       enrichment:
         who:
           title: Title
@@ -228,11 +266,11 @@ en:
         people: People
         period: Period
         place: Place
-        place-time: Place/Time
+        place-time: Place / Time
         properties: Properties
         provenance: Provenance
         provided-by: Find out more
-        provided-by-detail: 'View at %{institution_name_and_link}. '
+        provided-by-detail: View at %{institution_name_and_link}
         provided-by-detail-no-link: Europeana is displaying this item via
         provider: Provider
         providing-country: Providing country
@@ -285,14 +323,20 @@ en:
       nav:
         next: Next
         prev: Previous
+      next-item: Next item
       points:
         east: East
         north: North
         south: South
         west: West
       preview_unavailable: Item preview not available, to access the full image and more information about the item go to %{institution_name_and_link}
+      preview_unavailable_explanation: This link will take you to
+      preview_unavailable_intro: No preview was provided by our partners, more information may be available at the source.
+      preview_unavailable_source: Go to source
+      previous-item: Previous item
       show-more-similar-items: show more
       similar-items: Similar items
+      title_unavailable: Sorry.  No title is available.
     pages:
       '404':
         intro: Sorry, we can't find that page
@@ -313,6 +357,9 @@ en:
 
           <p>For more information on how we work with cultural institutions and their collections, visit <a href="http://pro.europeana.eu/">Europeana Pro</a>.</p>
         title: Welcome, culture lover!
+      browse:
+        record_sets:
+          link_text: More records like %{set_pref_label}
       music-channel-about:
         text: "<p>Imagine looking at original handwritten manuscripts of a piece of music while listening to different interpretations of it, and reading a biography of the composer. On the Europeana Music Collection, you can.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Our partners</a>, all experts in music, from across Europe have carefully curated this collection of music recordings, sheet music, images of musical instruments, books about music and other music-related content. </p>\n\n<p>We’ve made this early test version of the Music Collection available to you, our users, so you can help us shape it as we develop it further. So when you visit the site you will at times be asked to answer questions or surveys that appear on screen. We would really appreciate if you could take the time to answer those questions and surveys!</p>\n\n<p>Also, in the interest of transparency and privacy, you should know that we log user statistics and user behaviour in Google Analytics and a service called Hotjar. We do that because it shows us where we’ve gone wrong in our designs and so helps us to improve the Music Collection. All logs are kept private and anonymised and will only be used to improve our service.</p>\n\n<p>We encourage you to search the collection, play music, view the sheet music or read around it. When copyright allows, you can download the things you love most. And visit our virtual exhibitions to discover music in ways you’ve never done before!</p>"
         title: About the Music Collections
@@ -365,6 +412,7 @@ en:
     search:
       browse: Browse
       or-browse: or browse
+      page-title: Search Results
       placeholder:
         filter-text: Search
         text: Add a search term
@@ -387,3 +435,8 @@ en:
         label: Language
         settings-label: language settings
       title: Settings
+    ugc:
+      actions:
+        copy-name: Use my name
+        copy-public-display-name: Use my public display name
+        submit: Submit

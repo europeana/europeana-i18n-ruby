@@ -149,27 +149,33 @@ mt:
   global:
     about-us: Dwarna
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Niżżel il-menu
+      copy: 
+      delete: Iddilitja
+      download: 
+      downloading: 
+      edit: Editja
+      expand: Espandi
+      expand-viewer: 
       filter-all: Kollha
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
-      new: 
+      new: Ġdid
       next: li jmiss
       previous: qabel
-      register: 
-      share: 
-      sign-in: 
-      sign-out: 
+      reduce-viewer: 
+      register: Irreġistra
+      remove: 
+      share: Ixxerja
+      sign-in: Idħol
+      sign-out: Oħroġ
       skip-to-main: Aqbeż għall-kontenut paġna
       skip-to-section: Aqbeż għall-taqsima
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Ara
+      view-at: Ara hawn
+      view-more-at: 'Ara aktar hawn '
+      withdraw: Neħħi
     channel:
       all: 'L-oġġetti kollha
 
@@ -179,7 +185,7 @@ mt:
       art: arti
       art-history: Istorja tal-arti
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Dar
       maps: mapep
       music: Mużika
@@ -195,9 +201,14 @@ mt:
     cookie_disclaimer:
       more_info: Izjed informazzjoni
       text: F'din il-websajt jintuzaw 'cookies' biex jiżguraw li jkollok l-aħjar esperjenza fuq il-websajt tagħna. Jekk tikklikkja jew iżżur is-sit, inti tkun qed taqbel li tippermetti l-ġbir ta 'informazzjoni.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: Indirizz tal-email
     error:
-      unavailable: 
+      unavailable: 'Mhux disponibbli '
     facet:
       advanced:
         options: Għażliet
@@ -259,11 +270,11 @@ mt:
         country: Pajjiż
         data_provider: Istituzzjoni
         date-created: data maħluqa
-        edm_ugc: 
+        edm_ugc: Uri l-kontenut li kkontribwew l-utenti
         fashion:
           colour: Kulur
           designer: Disinjatur
-          material: 
+          material: Materjal
           technique: Teknika
           type: It-tip tal-oġġett
         image_aspectratio: Orientazzjoni
@@ -282,7 +293,7 @@ mt:
         sound_duration: 'Dewmien '
         sound_hq: Kwalita' Għolja
         text_fulltext: Il-kitba sħiħa
-        thumbnail: 
+        thumbnail: Oġġetti bil-minjaturi biss
         type: Il-Medja
         ugc: Uri l-kontenut kontribut mill-utenti
         video_duration: Tul
@@ -346,33 +357,43 @@ mt:
       resource:
         type: Tip
       reusability:
-        advanced: Avvanzat
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Xogħol Orfni
-        advanced-out-of-copyright-non-commercial: Barra mill-copyright - mhux għal użu kummerċjali
-        advanced-public: "'Public Domain Marked'"
-        advanced-rrfa: Drittijiet riżervati - Aċċess b'xejn
-        advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
-        advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
-        advanced-rs-cne: Copyright Mhux evalwat
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: L-istatus tal-copyright mhux magħruf
+        advanced-MARKEDFORDELETION: Avvanzat
         expiry: sa %{date}
-        open: Iva bl-attribuzzjoni
-        permission: Bil-permess biss
-        restricted: Iva bir-restrizzjonijiet
-        rs_noc_oklr: 
+        open:
+          brief: 
+          info: 
+          label: Iva bl-attribuzzjoni
+        permission:
+          brief: 
+          info: 
+          label: Bil-permess biss
+        restricted:
+          brief: 
+          info: 
+          label: Iva bir-restrizzjonijiet
         simple: Sempliċi
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Xogħol Orfni
+        out-of-copyright-non-commercial: Barra mill-copyright - mhux għal użu kummerċjali
+        public: "'Public Domain Marked'"
+        rrfa: Drittijiet riżervati - Aċċess b'xejn
+        rrpa: Drittijiet riżervati - Aċċess mħallas
+        rrra: Drittijiet riżervati - Aċċess mhux permess
+        rs-cne: Copyright Mhux evalwat
+        rs-inc: Bid-Drittijiet tal-Awtur
+        rs-inc-edu: Bid-Drittijiet tal-Awtur - L-Użu Għall-Edukazzjoni Huwa Permess
+        rs-inc-ow-eu: Bid-Drittijiet tal-Awtur - Xogħlijiet Orfni tal-UE
+        rs-noc-nc: Mingħajr id-Drittijiet tal-Awtur - Għall-Użu Mhux Kummerċjali Biss
+        rs-noc-oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
+        rs_noc_oklr: Mingħajr id-Drittijiet tal-Awtur - Restrizzjonijiet Legali Oħra Magħrufa
+        ucs: L-istatus tal-copyright mhux magħruf
       sound_duration:
         long: Twil (6+ minuti)
         medium: Medju (3-6 minuti)
@@ -385,8 +406,8 @@ mt:
         'false': Le
         'true': Iva
       thumbnail:
-        'false': 
-        'true': 
+        'false': Le
+        'true': Iva
       type:
         3d: 3D
         image: Immaġni
@@ -423,8 +444,8 @@ mt:
           medium: Medju (%{data})
           short: Qasir (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Le
+        'true': Iva
       video_duration:
         long: Twil (20+ minuti)
         medium: Medju (4-20 minuta)
@@ -450,9 +471,23 @@ mt:
         correction: korrezzjoni
     find-us-elsewhere: Sibna x'imkien ieħor
     find-us-social-media: Fittex %{channel} fuq midja soċjali
-    follow-channel: 
+    follow-channel: Segwi %{channel}
     forgot-password: Insejt il-password?
-    galleries: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Galleries
     genres: tip
     genres-chamber-music: Mużika 'chamber'
     genres-classical-music: Mużika klassika
@@ -469,9 +504,10 @@ mt:
     help: Għinuna
     home: Paġna Primarja
     javascript-required: Biex taċċessa l-kontenut, jekk joġgħbok ħaddem il-JavaScript, u kkonsidra li tuża web browswer li jiflaħ kontenut ta' HTML5.
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
+      by: minn
+      images: immaġni
     labs: Laboratorji
     labs-text: Remix tal-kontenut kulturali ma' l-APIs & datasets tagħna
     language-basque: Bask
@@ -504,6 +540,42 @@ mt:
     language-spanish: Spanjol
     language-swedish: Svediż
     language-ukranian: Ukrain
+    languages:
+      bg: Bulgaru
+      ca: Katalan
+      cs: Ċek
+      da: Daniż
+      de: Germaniż
+      el: Grieg
+      en: Ingliż
+      es: Spanjol
+      et: Estonjan
+      eu: Bask
+      fi: Finlandiż
+      fr: Franċiż
+      ga: Gaelic
+      he: Hibru
+      hr: Kroat
+      hu: Ungariż
+      is: Iżlandiż
+      it: Taljan
+      lt: Litwan
+      lv: Latvjan
+      mt: Malti
+      mul: Aktar minn lingwa waħda
+      nl: Olandiż
+      'no': Norveġiż
+      pl: Pollakk
+      pt: Portugiż
+      ro: Rumen
+      ru: Russu
+      sk: Slovakk
+      sl: Sloven
+      sr: Serb
+      sv: Svediż
+      tr: Tork
+      uk: Ukrain
+      yi: Jiddix
     login: Irrifma biex tid
     mission: Aħna nittrasformaw id-dinja permezz tal-kultura! Rridu li nibnu fuq il-wirt għani tal-Ewropa u nagħmluha aktar faċli għal persuni li jużaw, kemm jekk għal xogħol, għat-tagħlim jew biss għall-gost.
     mission-title: Il-missjoni tagħna
@@ -528,33 +600,36 @@ mt:
     professional: Professjonali
     professional-text: Involvi ruħek, aqsam l-ideat tiegħek jew uża tagħna
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Kollezzjoni tematika
+      collections: Kollezzjonijiet tematiċi
+      dataset: Dataset
+      datasets: Datasets
+      event: Avveniment
+      events: Avvenimenti
+      exhibition: Wirja
+      exhibitions: Wirjiet
+      featured_site: Sit immarkat
+      featured_sites: Siti mmarkati
+      galleries: Galleries
+      gallery: Gallery
+      image: Immaġni
+      images: Immaġni
+      new: Kontenut ġdid
+      partner: Is-Sieħeb Tagħna
+      partners: 'L-Imsieħba Tagħna '
+      playlist: Playlist
+      playlists: Playlists
+      stories: Stejjer
+      story: Storja
+      timeline: Kronoloġija
+      timelines: Kronoloġiji
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Irfina t-tfixxija tiegħek
     refine-your-search-short: Iffiltra
     register: Irreġistra
@@ -571,11 +646,8 @@ mt:
     terms-and-policies: Termini u Kundizzjonijiet
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Ibbrawżjajthom il-galleries il-ġodda tagħna?
         search:
           new-filter: Tista tiffiltra it-tfittxija tiegħek skont il-liċenzja speċifika
           new-grid: Kont taf li tista tirranga r-risultati b'forma ta' gradilja?

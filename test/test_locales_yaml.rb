@@ -4,7 +4,7 @@ require 'test_helper'
 require 'yaml'
 
 class TestLocalesYAML < Minitest::Test
-  %w(global portal).each do |set|
+  %w(contribute global portal).each do |set|
     FileList.new("config/locales/#{set}/??.yml").each do |file_path|
       locale = File.basename(file_path, '.yml')
 

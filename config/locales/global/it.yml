@@ -149,27 +149,33 @@ it:
   global:
     about-us: Chi siamo
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Contrai
+      copy: 
+      delete: Cancella
+      download: 
+      downloading: 
+      edit: Modifica
+      expand: Espandi
+      expand-viewer: 
       filter-all: Tutte
       filter-by: Filtra per
       fullscreen-enter: A schermo intero
       fullscreen-exit: schermo intero uscita
-      new: 
+      new: Nuovo
       next: Il prossimo
       previous: precedente
+      reduce-viewer: 
       register: Registrati
-      share: 
+      remove: 
+      share: Condividi
       sign-in: Accedi
       sign-out: Esci
       skip-to-main: Passa al contenuto della pagina
       skip-to-section: Vai alla sezione
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Vedi
+      view-at: Vedi su
+      view-more-at: 'Vedi di più su '
+      withdraw: ritira
     channel:
       all: Tutti gli articoli
       archaeology: archeologia
@@ -177,7 +183,7 @@ it:
       art: arte
       art-history: Storia dell'Arte
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: 
       maps: mappe
       music: Musica
@@ -185,7 +191,7 @@ it:
       newspapers: giornali
       performing-arts: Arti performative
     channels-art: Storia dell'Arte
-    channels-art-image: 
+    channels-art-image: Immagine della Collezione di Storia dell'Arte
     channels-art-link: 'Collezioni: Storia dell''arte'
     channels-fashion: Moda
     channels-music: Musica
@@ -193,9 +199,14 @@ it:
     cookie_disclaimer:
       more_info: Ulteriori informazioni
       text: Questo sito web utilizza i cookie per essere sicuri di ottenere la migliore esperienza sul nostro sito. Cliccando o la navigazione del sito, l'utente accetta di permettere alla nostra raccolta di informazioni tramite i cookie.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: indirizzo email
     error:
-      unavailable: 
+      unavailable: Non disponibile
     facet:
       advanced:
         options: Opzioni
@@ -257,20 +268,20 @@ it:
         country: Paese
         data_provider: Istituzione
         date-created: Data di creazione
-        edm_ugc: 
+        edm_ugc: Mostra i contenuti forniti dagli utenti
         fashion:
           colour: Colore
           designer: Progettista
-          material: 
+          material: Materiale
           technique: 'Tecnica '
           type: Tipo di elemento (tipo di oggetto)
         image_aspectratio: Orientamento
-        image_colour: 
+        image_colour: Palette
         image_size: Dimensione
         intermediateprovider: Provider Intermedio
         language: Lingua
         language_of_description: Lingua della descrizione
-        media: 
+        media: Solo elementi con link ai media
         mime_type: Formato del file
         provider: Aggregatore
         providing_country: Paese fornitore
@@ -280,7 +291,7 @@ it:
         sound_duration: Durata
         sound_hq: Alta Qualità
         text_fulltext: Testo integrale
-        thumbnail: 
+        thumbnail: Solo elementi con miniatura
         type: 
         ugc: Mostra contenuti generati dagli utenti
         video_duration: Durata
@@ -304,7 +315,7 @@ it:
         da: 
         de: 
         el: 
-        en: 
+        en: Italiano
         es: ''
         et: ''
         fi: 
@@ -344,33 +355,43 @@ it:
       resource:
         type: Tipo
       reusability:
-        advanced: Avanzato
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright Non Valutata
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
-        expiry: 
-        open: 
-        permission: 
-        restricted: 
-        rs_noc_oklr: 
+        advanced-MARKEDFORDELETION: Avanzato
+        expiry: fino a %{date}
+        open:
+          brief: 
+          info: 
+          label: Ri-utilizzo gratuito
+        permission:
+          brief: 
+          info: 
+          label: Nessun ri-utilizzo
+        restricted:
+          brief: 
+          info: 
+          label: Ri-utilizzo limitato
         simple: Semplice
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright Non Valutata
+        rs-inc: In Copyright
+        rs-inc-edu: In Copyright - Uso consentito per fini educativi
+        rs-inc-ow-eu: In Copyright - Opera orfana EU
+        rs-noc-nc: No Copyright - Solo per uso non commerciale
+        rs-noc-oklr: No Copyright - Altre restrizioni legali note
+        rs_noc_oklr: No Copyright - Altre restrizioni legali note
+        ucs: 
       sound_duration:
         long: Lungo (6+ minuti)
         medium: Medio (3-6 minuti)
@@ -383,8 +404,8 @@ it:
         'false': 'No'
         'true': Si
       thumbnail:
-        'false': 
-        'true': 
+        'false': 'No'
+        'true': Sì
       type:
         3d: 3D
         image: Immagine
@@ -421,8 +442,8 @@ it:
           medium: Medio (%{data})
           short: Breve (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': 'No'
+        'true': Sì
       video_duration:
         long: Lungo (20+ minuti)
         medium: Medio (4-20 minuti)
@@ -448,11 +469,25 @@ it:
         bug: bug
         comment: commento
         correction: correzione
-    find-us-elsewhere: 
+    find-us-elsewhere: Trovaci altrove
     find-us-social-media: Trova %{channel}  sui social media
-    follow-channel: 
+    follow-channel: Segui %{channel}
     forgot-password: Hai dimenticato la password?
-    galleries: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Gallerie
     genres: Genere
     genres-chamber-music: Musica da camera
     genres-classical-music: Musica classica
@@ -465,13 +500,14 @@ it:
       connect: 'Connetti '
       develop: Sviluppa
       discover: Scopri
-      network: 
+      network: Network
     help: Aiuto
     home: 
     javascript-required: Per vedere questo contenuto è necessario attivare Javascript, e consideri aggiornare il browser a una versione più recente che supporti i contenuti HTML5
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
+      by: da
+      images: immagini
     labs: Laboratori
     labs-text: Crea un remix di contenuti culturali con le nostre API e i nostri dataset
     language-basque: Basco
@@ -504,8 +540,44 @@ it:
     language-spanish: Spagnolo
     language-swedish: Svedese
     language-ukranian: Ucraino
+    languages:
+      bg: Bulgaro
+      ca: Catalano
+      cs: Ceco
+      da: Danese
+      de: Tedesco
+      el: Greco
+      en: Inglese
+      es: Spagnolo
+      et: Estone
+      eu: Basco
+      fi: Finlandese
+      fr: Francese
+      ga: Gaelico
+      he: עברית
+      hr: Croato
+      hu: Ungherese
+      is: Islandese
+      it: Italiano
+      lt: Lituano
+      lv: Lettone
+      mt: Maltese
+      mul: Multilingue
+      nl: Olandese
+      'no': Norvegese
+      pl: Polacco
+      pt: Portoghese
+      ro: Romeno
+      ru: Russo
+      sk: Slovacco
+      sl: Sloveno
+      sr: Српски
+      sv: Svedese
+      tr: Türkçe
+      uk: Ucraino
+      yi: ייִדיש
     login: Login
-    mission: 
+    mission: Trasformiamo il mondo con la cultura! Vogliamo sviluppare la ricca eredità europea e facilitare l'uso da parte delle persone per lavoro, per studio o semplicemente per divertimento.
     mission-title: La nostra missione
     more:
       load-more: Più
@@ -525,41 +597,44 @@ it:
     our-sites: i nostri siti
     page: pagina
     password: 
-    professional: 
+    professional: Pro
     professional-text: Fatti coinvolgere, condividi i tuoi dati o utilizza i nostri
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: App
+      blog: Blog
+      blogs: Blog
+      collection: Collezione tematica
+      collections: Collezioni tematiche
+      dataset: Gruppo di dati
+      datasets: Gruppi di dati
+      event: Evento
+      events: Eventi
+      exhibition: Mostra
+      exhibitions: Mostre
+      featured_site: Sito principale
+      featured_sites: Siti principali
+      galleries: Gallerie
+      gallery: Galleria
+      image: Immagine
+      images: Immagini
+      new: Novità
+      partner: Il nostro partner
+      partners: I nostri partner
+      playlist: Playlist
+      playlists: Playlist
+      stories: Storie
+      story: Storia
+      timeline: Calendario
+      timelines: Calendari
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Affina la tua ricerca
     refine-your-search-short: 
     register: Registrati
     research: Ricerca
-    research-text: 
+    research-text: Connessione alla comunità accademica
     search-area:
       search-button-image-alt: Cerca
       search-placeholder-text: Aggiungi un termine di ricerca
@@ -571,11 +646,8 @@ it:
     terms-and-policies: 'Condizioni e politiche di utilizzo '
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Hai esplorato le nostre nuove gallerie?
         search:
           new-filter: Ora è possibile filtrare la ricerca su specifica licenza
           new-grid: Hai visto il nuovo layout a griglia?

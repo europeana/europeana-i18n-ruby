@@ -7,12 +7,14 @@ da:
         sources:
           description: Nedenfor ser du en liste over institutioner, der har bidraget deres indhold til Europeana samlinger. Disse institutioner samle og bidrage med deres data til Europeana, skal du klikke på linket, der interesserer dig nedenfor for at se en bestemt partner samling!
   global:
+    exhibitions:
+      contacts: 
     labs-link: link til labs
     navigation:
       agents: Mennesker
       all_blog_posts: Alle poster...
       all_exhibitions: Alle udstillinger
-      all_galleries: 
+      all_galleries: Alle gallerier ...
       blog: Blog
       browse: Browse
       browse_colours: Farver
@@ -22,15 +24,17 @@ da:
       collections: Samlinger
       concepts: Emner
       exhibitions: Udstillinger
-      galleries: 
+      galleries: Gallerier
       home: Hjem
       more:
-        agents: Flere folk
+        agents: Mennesker
+        people: Flere folk
+        periods: Tidsperioder
         topics: Flere emner
       periods: tidsperioder
       places: Steder
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Se hele kollektionen
+      view-detailed-description: Se en mere detaljeret beskrivelse
     pro-link: link til pro
     pro-text: tekst til pro
     settings: Indstillinger
@@ -42,17 +46,17 @@ da:
         title: 'Dette er en Beta version af vores nye "Samlinger" og "Musiksamling" og "Kunsthistorie Samlinger". '
     blog-link: link til blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} ud af %{results_count} blogindlæg"
+        page-title: Blog
+      min-to-read: minutter til at læse
     browse:
       colours:
         description: Søg efter billeder baseret på deres farve. Du skal blot klikke en farvet boks nedenfor for at finde billeder, der indeholder denne farve!
         title: Farver
       newcontent:
-        description: 
+        description: 'Her kan du udforske alle de seneste tilføjelser til Europeana Collections. Se hvilke kulturelle institutioner, der har bidraget med nye artikler, antallet af artikler de har tilføjet og hvornår. Klik blot på linksene nedenfor for at læse mere. '
         tableh1: Alle institutioner
         tableh2: Elementer
         tableh3: Dato
@@ -76,11 +80,12 @@ da:
       data-types:
         3d: 3D genstande
         all: Alle
-        count: 
+        count: artikler
         images: Billeder
         moving-images: Videoer
         sound: Lydoptagelser
         texts: Tekster
+      description: 
       e7a1418:
         contribute: Tilføj
         my-account: Min konto
@@ -90,19 +95,41 @@ da:
         editors-picks: "  "
         recent: Senest tilføjet
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Udforsk <i>%{preview_title}</i> på %{collection}
         spotlight-on: Fokus på
-        whats-happening: 
+        whats-happening: Hvad sker der
       music:
         description: <strong>Europeanas Musiksamling</strong> samler de bedste musikoptagelser, partiturer og andre musikrelaterede genstande fra Europas audiovisuelle arkiver, biblioteker og museer. <a href="/portal/channels/music/about">Find ud af mere om Musiksamling.</a>
         title: Europeana Musik
+    entities:
+      anagraphic:
+        birth: Fødsel
+        death: Død
+        occupation: Beskæftigelse
+      labels:
+        bio: Biografi
+        born: Født
+        description: 
+        died: Døde
+        related: Relateret
+      tab_items:
+        items_about: Artikler om %{name}
+        items_by: Artikel efter %{name}
+      types:
+        agent: Person
+        concept: Koncept
+        place: 'Sted
+
+'
+      wiki_link_text: Ressource modtaget fra Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Hele dagen
+      description: Arrangementer
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} ud af %{results_count} arrangementer"
+        future: Kommende arrangementer
+        page-title: Arrangementer
+        past: Tidligere arrangementer
     facet:
       language:
         show:
@@ -112,62 +139,75 @@ da:
         about: Om
         become-a-provider: Bliv vores partner
         contact: Kontakt
-        contact-us: 
+        contact-us: Kontakt os
         copyright: Ophavsret
         data-providers: Alle institutioner
         help: Hjælp
         new-collections: Nye Samlinger
         rights: 'Betingelser for brug '
-        roadmap: 
+        roadmap: Udviklingsopdateringer
         search-tips: Søgetips
         using-myeuropeana: Brug af Mit Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultur udvalgt til dig! Gå på opdagelse i Europeana Galleries!
+      description-default: Lær mere om  Europeana
+      share:
+        one: Del dette galleri
+        other: Del gallerierne
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Mere...
     my-europeana: Mit Europeana
     my-europeana-link: link til mit Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Bidrag
+        contribution-attachment: Vedhæftning
+        contribution-attachments: Vedhæftninger
+        contribution-done: færdig
+        contributor: Bidragsyder
+        events_list_breadcrumb: Arrangementer
         exhibitions:
-          return_home: 
+          return_home: Udstillinger
         item_detail: Genstandsdetalje
-        register: 
-        reset-password: 
+        register: Registrer
+        reset-password: Nulstil adgangskode
         results_list: Oversigt over Resultater
-        results_list_mlt: 
+        results_list_mlt: Lignende artikler
         return_home: Tilbage til Hjem
-        sign-in: 
+        sign-in: Log ind
       search:
         placeholder:
-          text: 
+          text: Søg på nøgleord her
     news: Nyheder
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Krediter kilden
         attribute-html: HTML
         attribute-plaintext: Almindelig tekst
+        collapse-extended: 
         download: Hent
         download-additional: Også tilgængelig som
-        download-retry: 
-        download-started: 
+        download-retry: Prøv igen
+        download-started: Downloadningen er begyndt
         downloaddata: Hent data
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Forstør
+        expand-extended: 
+        explore-by-colour: Udforsk efter farve
+        media-metadata: Media Metadata
         open-media: Åbn denne mediefil
         show-less-data: Vis færre data
         show-more-data: Vis flere data
         technicalmetadata: Tekniske metadata
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Titel
@@ -176,8 +216,8 @@ da:
         view-items-above: se genstande ovenfor
         view-items-below: se genstande nedenfor
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Information om yderligere rettigheder
+        annotations: Brugeranbefalinger
         codec: 'Codec '
         collection-name: Datasæt
         concept: Koncept
@@ -207,10 +247,10 @@ da:
         file-size: Filstørrelse
         format: Format
         fps: Billeder i sekundet
-        has-type: 
+        has-type: Har type
         identifier: Identifikator
-        intermediate-provider: 
-        is-format-of: 
+        intermediate-provider: Mellemleverandør
+        is-format-of: Har format af
         is-part-of: Er del af
         is-referenced-by: Er betegnet med
         is-replaced-by: Er erstattet af
@@ -230,8 +270,8 @@ da:
         properties: Egenskaber
         provenance: Proveniens
         provided-by: Mere info
-        provided-by-detail: 
-        provided-by-detail-no-link: 
+        provided-by-detail: Se på %{institution_name_and_link}
+        provided-by-detail-no-link: Europeana viser denne artikel via
         provider: Leverandør
         providing-country: Oprindelsesland
         publication-date: Udgivelsesdato
@@ -241,7 +281,7 @@ da:
         relations: Relationer
         rights: Rettigheder
         rights-human: Må jeg bruge denne?
-        rights-statement: 
+        rights-statement: Rettighedserklæring
         runtime: Kørselstid
         runtime-unit-seconds: sekunder
         source: Kilde
@@ -261,7 +301,7 @@ da:
         title: Navngivne Enheder
         what:
           broader: Bredere Begreb
-          label: 
+          label: Konceptmærke
           term: Begrebsbetegnelse
           title: Hvad
         when:
@@ -271,26 +311,32 @@ da:
           term: Periodebetegnelse
           title: Hvornår
         where:
-          label: 
+          label: Stedmærke
           latitude: Sted Længdegrad
           longitude: Sted Breddegrad
           term: Stedsbetegnelse
           title: Hvor
         who:
-          label: 
-          term: 
+          label: Agentmærke
+          term: Agentbetingelse
           title: Hvem
       nav:
         next: Næste
         prev: Forrige
+      next-item: 
       points:
         east: Øst
         north: Nord
         south: Syd
         west: Vest
-      preview_unavailable: 
+      preview_unavailable: Forhåndsvisning af artiklen er ikke tilgængelig, gå til %{institution_name_and_link} for at se det fulde billede og mere information om artiklen
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: vis mere
       similar-items: Lignende genstande
+      title_unavailable: 
     pages:
       '404':
         intro: Beklager, siden kunne ikke findes
@@ -307,6 +353,9 @@ da:
 
           <p>I mellemtiden håber vi, at du nyder din kulturelle rejse med os.</p>
         title: Velkommen, kulturelsker!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Forestil dig at du ser på et originalt, håndskrevet manuskript af et stykke musik, mens du lytter til forskellige fortolkninger af musikken, og læser en biografi om komponisten. Det kan du i Europeana Musiksamlingen.</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Vores partnere</a>, der alle er musikeksperter fra hele Europa, har omhyggeligt kurateret denne samling af musikindspilninger, noder, billeder af musikinstrumenter, bøger om musik, og andet musikrelateret indhold. </p>\n\n<p>Vi har lagt denne tidlige testversion af Musikkanalen ud til jer, vores brugere, så I kan hjælpe os med at forme og videreudvikle den. Det betyder, at når du besøger sitet, vil du ind i mellem blive bedt om at besvare spørgsmål eller deltage i undersøgelser. Vi vil være meget taknemmelige, hvis du vil afse tid til at besvare disse spørgsmål!</p>\n\n<p>Af hensyn til transparens og privatliv, vil vi gerne informere dig om, at vi logger brugerstatistik og -adfærd i Google Aanalytics og en service ved navn Hotjar. Det gør vi, fordi de viser os hvor vi har lavet fejl i vores design, og det hjælper os til at forbedre Musikkanalen. Alle logfiler forbliver private og anonymiserede, og anvendes udelukkende til at forbedre vores service.</p>\n\n<p>Vi vil gerne opfordre dig til at søge i samlingen, afspille musikken, se noderne og læse om musikken. I det omfang ophavsretten tillader, kan du hente dine favoritfiler ned, og du kan besøge vores virtuelle udstillinger for at opleve musik, som du aldrig har prøvet det før!</p>"
         title: Om Musiksamlingen
@@ -320,9 +369,9 @@ da:
         product-save: Gem
         saveto: Gem til
         show-all-collections: Vis alle samlinger
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Klik her for at se alle ikke-Europeana kilder
+      federated-clicked: Artikler fra ikke-Europeana kilder
+      federated_more: Se alle %{results_count} resultater på %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -330,7 +379,7 @@ da:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} resultater"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} ud af %{results_count} resultater"
         empty: Ingen Resultater
         empty-with-terms: Din søgning efter %{query_terms} gav ingen resultater
         header: Resultater for
@@ -340,7 +389,7 @@ da:
         less_adv: Færre Detaljer
         more: Mere
         more_adv: Avancerede Filtre
-        per-page: 
+        per-page: Per side
         product-3D: 3D
         product-image: Billede
         product-sound: Lyd
@@ -348,19 +397,20 @@ da:
         product-video: Video
         results-relevance: Relevans
         results-view:
-          grid: 
-          list: 
+          grid: Gitter
+          list: Liste
         single-result: 1 resultat for %{query_terms}
         view:
           grid: Grid
           list: Liste
         view-at-provider: Se hos
-      results: 
+      results: Resultater
     search:
-      browse: 
-      or-browse: 
+      browse: Søg
+      or-browse: eller søg
+      page-title: Søgeresultater
       placeholder:
-        filter-text: 
+        filter-text: Søg
         text: Tilføj en søgeterm
       similar:
         prefix: 'Beslægtet med: %{mlt_item}'
@@ -369,7 +419,7 @@ da:
         clear-selection: Ryd valgte
         save-settings: Gem indstillinger
       language:
-        auto-translate-limit: 
+        auto-translate-limit: Der kan maksimalt vælges %{max_languages}
         auto-translate-page: Oversæt automatisk genstandssider til...
         auto-translate-page-short: Oversæt automatisk genstande til
         auto-translate-query: Oversæt automatisk nøgleord fra søgning til
@@ -381,3 +431,8 @@ da:
         label: Sprog
         settings-label: sprogindstillinger
       title: Indstillinger
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

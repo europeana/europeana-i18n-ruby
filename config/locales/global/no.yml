@@ -1,5 +1,5 @@
 'no':
-  Symphonies: 
+  Symphonies: Symfonier
   X11:
     colours:
       '000000': 
@@ -149,27 +149,33 @@
   global:
     about-us: Om oss
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Kollapse
+      copy: 
+      delete: Slett
+      download: 
+      downloading: 
+      edit: Redigere
+      expand: Utvide
+      expand-viewer: 
       filter-all: Alt
       filter-by: Filtrer etter
       fullscreen-enter: full skjerm
       fullscreen-exit: Avslutt fullskjerm
-      new: 
+      new: Ny
       next: neste
       previous: tidligere
+      reduce-viewer: 
       register: Registrer deg hos oss
-      share: 
+      remove: 
+      share: Del
       sign-in: Logg inn
       sign-out: Logg ut
       skip-to-main: Hopp til sideinnhold
       skip-to-section: Gå til seksjon
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Se
+      view-at: Se på
+      view-more-at: 'Se mer på '
+      withdraw: Trekke tilbake
     channel:
       all: Alle ting
       archaeology: arkeologi
@@ -177,7 +183,7 @@
       art: kunst
       art-history: Kunsthistorie
       fashion: mote
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Hjem (alle)
       maps: kart
       music: Musikk
@@ -193,9 +199,14 @@
     cookie_disclaimer:
       more_info: Mer informasjon
       text: Dette nettstedet bruker cookies for å sikre at du får den beste opplevelsen på vår nettside. Ved å klikke eller navigere på nettstedet, godtar du at vår samling av informasjon gjennom informasjonskapsler.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} fvt"
+          current: "%{date} evt"
     email-address: epostadresse
     error:
-      unavailable: 
+      unavailable: Utilgjengelig
     facet:
       advanced:
         options: Valg
@@ -206,7 +217,7 @@
           paintings:
             genre: Sjanger
             medium: Medium
-      carrier: 
+      carrier: Speditør
       colour: Farge
       colour-black-and-white: Svart og hvitt
       country:
@@ -257,11 +268,11 @@
         country: Land
         data_provider: Institusjon
         date-created: Date laget
-        edm_ugc: 
+        edm_ugc: Vis innhold fra brukere
         fashion:
           colour: Farge
           designer: Designer
-          material: 
+          material: Materialer
           technique: Teknikk
           type: Elementtype
         image_aspectratio: Orientering
@@ -280,7 +291,7 @@
         sound_duration: Varighet
         sound_hq: Høy kvalitet
         text_fulltext: Full tekst
-        thumbnail: 
+        thumbnail: Bare elementer med miniatyrbilder
         type: Media
         ugc: Vis innhold lagt til av brukere
         video_duration: Varighet
@@ -344,33 +355,43 @@
       resource:
         type: Type
       reusability:
-        advanced: Avansert
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Hitteverk
-        advanced-out-of-copyright-non-commercial: Utgått opphavsrett - ikke-kommersiell gjenbruk
-        advanced-public: Verk falt i det fri
-        advanced-rrfa: Rettigheter reservert - fri tilgang
-        advanced-rrpa: Rettigheter reservert - betalt tilgang
-        advanced-rrra: Rettigheter reservert - begrenset tilgang
-        advanced-rs-cne: Copyright Ikke Evaluert
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: Ukjent opphavsrettslig status
-        expiry: 
-        open: Ja ved navngivelse
-        permission: Bare med tillatelse
-        restricted: Ja med restriksjoner
-        rs_noc_oklr: 
+        advanced-MARKEDFORDELETION: Avansert
+        expiry: Til %{date}
+        open:
+          brief: 
+          info: 
+          label: Ja ved navngivelse
+        permission:
+          brief: 
+          info: 
+          label: Bare med tillatelse
+        restricted:
+          brief: 
+          info: 
+          label: Ja med restriksjoner
         simple: Enkel
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Hitteverk
+        out-of-copyright-non-commercial: Utgått opphavsrett - ikke-kommersiell gjenbruk
+        public: Verk falt i det fri
+        rrfa: Rettigheter reservert - fri tilgang
+        rrpa: Rettigheter reservert - betalt tilgang
+        rrra: Rettigheter reservert - begrenset tilgang
+        rs-cne: Copyright Ikke Evaluert
+        rs-inc: Under opphavsrett
+        rs-inc-edu: Under opphavsrett - Opplæringsbruk tillatt
+        rs-inc-ow-eu: Under opphavsrett - EU hitteverk
+        rs-noc-nc: Ingen opphavsrett - Kun ikke-kommersiell bruk
+        rs-noc-oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
+        rs_noc_oklr: Ingen opphavsrett - Andre kjente juridiske begrensninger
+        ucs: Ukjent opphavsrettslig status
       sound_duration:
         long: Lang (6+ minutter)
         medium: Medium (3-6 minutter)
@@ -383,8 +404,8 @@
         'false': Nei
         'true': Ja
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nei
+        'true': Ja
       type:
         3d: 3D
         image: Bilde
@@ -393,7 +414,7 @@
         video: Video
       type-image:
         orientation:
-          label: 
+          label: Bildeorientering
           landscape: Landskap
           portrait: Portrett
         quality:
@@ -416,26 +437,26 @@
           very-short: Veldig kort (%{data})
       type-video:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
+          label: Varighet
+          long: Lang (%{data})
+          medium: Medium (%{data})
+          short: Kort (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nei
+        'true': Ja
       video_duration:
-        long: 
-        medium: 
-        short: 
+        long: Lang (20 + minutter)
+        medium: Middels (4-20 minutter)
+        short: 'Kort (<4 minutter) '
       video_hd:
         'true': HD
       year:
-        from: 
-        to: 
+        from: fra
+        to: til
     feedback:
       close: Lukk
       error: 
-      open: 
+      open: Tilbakemelding
       placeholder: La oss få vite hva du tenker og hva vi kan forbedre. Hvis du ønsker å bli kontaktet, kan du legge igjen din e-postadresse her også!
       submit: Sende inn
       thanks:
@@ -448,9 +469,23 @@
         correction: rettelse
     find-us-elsewhere: Finn-oss-andre-steder
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Følg %{channel}
     forgot-password: glemt-passord
-    galleries: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Gallerier
     genres: sjangre
     genres-chamber-music: sjangre-kammermusikk
     genres-classical-music: sjangre-klassisk-musikk
@@ -460,16 +495,17 @@
     genres-popular-music: sjangre-populærmusikk
     genres-traditional-music: sjangre-tradisjonell musikk
     header:
-      connect: 
-      develop: 
-      discover: 
-      network: 
+      connect: Kontakt
+      develop: Utvikle
+      discover: Oppdag
+      network: Nettverk
     help: hjelp
     home: hjem
     javascript-required: javascript-påkrevd
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
+      by: av
+      images: Bilder
     labs: lab
     labs-text: lab-tekst
     language-basque: språk-baskisk
@@ -483,7 +519,7 @@
     language-estonian: Estisk
     language-finnish: Finsk
     language-french: Fransk
-    language-gaelic: 
+    language-gaelic: Gælisk
     language-german: Tysk
     language-greek: Gresk
     language-hungarian: Ungarsk
@@ -501,88 +537,124 @@
     language-slovenian: Slovensk
     language-spanish: Spansk
     language-swedish: Svensk
-    language-ukranian: 
-    login: 
-    mission: 
-    mission-title: 
+    language-ukranian: Ukrainsk
+    languages:
+      bg: språk-bulgarsk
+      ca: språk-katalansk
+      cs: språk-tsjekkisk
+      da: Dansk
+      de: Tysk
+      el: Gresk
+      en: Engelsk
+      es: Spansk
+      et: Estisk
+      eu: språk-baskisk
+      fi: Finsk
+      fr: Fransk
+      ga: Irsk
+      he: Hebraisk
+      hr: språk-kroatisk
+      hu: Ungarsk
+      is: Islandsk
+      it: Italiensk
+      lt: Litauisk
+      lv: Latvisk
+      mt: Maltesisk
+      mul: Flerspråklig
+      nl: Nederlandsk
+      'no': Norsk
+      pl: Polsk
+      pt: Portugisisk
+      ro: Rumensk
+      ru: Russisk
+      sk: Slovakisk
+      sl: Slovensk
+      sr: Serbokroatisk
+      sv: Svensk
+      tr: Tykrkisk
+      uk: Ukrainsk
+      yi: Jiddisch
+    login: Logg Inn
+    mission: Vi endrer verden med kultur! Vi ønsker å bygge på Europas rike arv og gjøre den lettere å bruke, enten til arbeid, til læring eller bare for moro skyld.
+    mission-title: Vårt oppdrag
     more:
-      load-more: 
-      show-more: 
-      view-more: 
-    more-info: 
+      load-more: Mer
+      show-more: Vis mer
+      view-more: Se mer
+    more-info: Mer informasjon
     newsletter:
       choose-language: Velg et språk
-      email-address-invalid: 
-      email-address-required: 
+      email-address-invalid: E-post må være en gyldig e-postadresse.
+      email-address-required: Du må oppgi en e-post adresse.
       fashion:
         heading: Meld deg på
         subheading: Abonner på Europeana Fashion nyhetsbrev
-      language-required: 
-      signup: 
+      language-required: Du må spesifisere et språk.
+      signup: Meld deg på vårt nyhetsbrev
       submit-alt: Abonnere
-    our-sites: 
+    our-sites: Våre nettsteder
     page: side
-    password: 
-    professional: 
-    professional-text: 
+    password: Passord
+    professional: Pro
+    professional-text: Bli involvert, del dataene dine eller bruk våre
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
-    refine-your-search: 
+      app: App
+      apps: Apper
+      blog: Blogg
+      blogs: Blogger
+      collection: Tematisk samling
+      collections: Tematiske samlinger
+      dataset: Datasett
+      datasets: Datasett
+      event: Begivenhet
+      events: Begivenheter
+      exhibition: Utstilling
+      exhibitions: Utstillinger
+      featured_site: Utvalgt nettsted
+      featured_sites: Utvalgte nettsteder
+      galleries: Gallerier
+      gallery: Galleri
+      image: Bilde
+      images: Bilder
+      new: Hva er nytt
+      partner: Vår partner
+      partners: Våre partnere
+      playlist: Spilleliste
+      playlists: Spillelister
+      stories: Historier
+      story: Historie
+      timeline: Tidslinje
+      timelines: Tidslinjer
+    punctuation:
+      list-item-separator: 
+      term-list: 
+    refine-your-search: Avgrens søket ditt
     refine-your-search-short: 
-    register: 
-    research: 
-    research-text: 
+    register: Registrer
+    research: Forskning
+    research-text: Koble til det akademiske samfunnet
     search-area:
-      search-button-image-alt: 
-      search-placeholder-text: 
+      search-button-image-alt: Søk
+      search-placeholder-text: Legg til et søkeord
     search-collections: Samlinger
-    search-collections-text: 
+    search-collections-text: Utforsk Europas kulturarv
     share: Del
-    sitemap: 
+    sitemap: Nettstedskart
     subscribe: abonnere
-    terms-and-policies: 
+    terms-and-policies: Vilkår for bruk og retningslinjer
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Har du utforsket våre nye gallerier?
         search:
           new-filter: Nå kan du filtrere søket på spesifikke lisens
           new-grid: Har du sett den nye rutenettet?
-    type: 
+    type: type
   'no': Norge
   pl: Portugal
   site:
     facet:
       language:
         show:
-          results: 
-        show-results-all: 
+          results: Resultater
+        show-results-all: Vis alle resultater

@@ -7,12 +7,14 @@ et:
         sources:
           description: Allpool näed loetelu meie kogude allikaist. Need allikad koondavad ja panustavad kogusid Europeanasse. Klõpsa sind huvitavale lingile, et sind viidaks kõikide nende kogudeni!
   global:
+    exhibitions:
+      contacts: 
     labs-link: link Labs'i
     navigation:
       agents: Inimesed
       all_blog_posts: Kõik blogipostitused...
       all_exhibitions: Kõik näitused...
-      all_galleries: 
+      all_galleries: Kõik galeriid
       blog: Blogi
       browse: Sirvi
       browse_colours: Värvid
@@ -22,15 +24,17 @@ et:
       collections: Kogud
       concepts: Teemasid
       exhibitions: Näitused
-      galleries: 
+      galleries: Galeriid
       home: Avaleht
       more:
-        agents: Rohkem inimesi
+        agents: Inimesed
+        people: Rohkem inimesi
+        periods: Perioodid
         topics: Veel teemasid
       periods: ajaperioodid
       places: Kohad
       view-collection: Vaata kogu kollektsiooni
-      view-detailed-description: 
+      view-detailed-description: Vaata üksikasjalikumat kirjeldust
     pro-link: link Pro'sse
     pro-text: tekst Pro jaoks
     settings: Seadistused
@@ -42,11 +46,11 @@ et:
         title: Tegu on "Kogude" ja "Muusikakogu" beta versiooniga.
     blog-link: link blogisse
     blogs:
-      description: 
+      description: Blogid
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} %{results_count} blogipostitusest"
+        page-title: Blogi
+      min-to-read: minutit lugeda
     browse:
       colours:
         description: Selles alaosas saad otsida pilte nende värvist lähtudes. Lihtsalt klõpsa pildile, mis sulle meeldib,et vastavat kogu näha!
@@ -81,8 +85,9 @@ et:
         moving-images: Videod
         sound: Helisalvestised
         texts: Tekstid
+      description: 
       e7a1418:
-        contribute: 
+        contribute: Lisa oma lugu 1914-1918 kohta
         my-account: Minu konto
       labels:
         credits: Kuraator
@@ -90,19 +95,41 @@ et:
         editors-picks: "  "
         recent: Hiljutised täiendused
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Uuri <i>%{preview_title}</i> kollektsioonis %{collection}
         spotlight-on: Esile tõstetud
         whats-happening: Mis toimub
       music:
         description: <strong>Europeana Muusikakogu</strong> toob ühte kohta kokku parimad salvestised, noodilehed ja muu muusikaga seotu kõikidest euroopa audiovisuaalarhiividest, raamatukogudest ja muuseumidest.<a href="/portal/channels/music/about">Tutvu kanaliga "Muusika" lähemalt</a>
         title: Europeana Muusika
+    entities:
+      anagraphic:
+        birth: Sünd
+        death: Surm
+        occupation: Tegevusala
+      labels:
+        bio: Elulugu
+        born: Sündis
+        description: 
+        died: Suri
+        related: Seotud
+      tab_items:
+        items_about: Artikleid autori %{name} kohta
+        items_by: Artikleid autorilt %{name}
+      types:
+        agent: Isik
+        concept: Kontseptsioon
+        place: 'Koht
+
+'
+      wiki_link_text: 'Ressursi allikas: Wikimedia Commons'
     events:
-      all_day: 
-      description: 
+      all_day: Kogu päev
+      description: Sündmused
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} %{results_count} sündmusest"
+        future: Saabuvad sündmused
+        page-title: Sündmused
+        past: Varasemad sündmused
     facet:
       language:
         show:
@@ -122,54 +149,65 @@ et:
         search-tips: Otsingunipid
         using-myeuropeana: Minu Europeana kasutamine
     galleries:
-      description: 
-      description-default: 
+      description: Sinu jaoks kureeritud kultuur! Avasta Europeana Galleries!
+      description-default: Rohkem teavet Europeana kohta
       share:
         one: ''
         other: Jaga galeriisid
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Veel...
     my-europeana: Minu Europeana
     my-europeana-link: linu Minu Europeanasse
+    name: Europeana kollektsioonid
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blogi
+        contribution: Toetus
+        contribution-attachment: Manus
+        contribution-attachments: Manused
+        contribution-done: valmis
+        contributor: Toetaja
+        events_list_breadcrumb: Sündmused
         exhibitions:
           return_home: Näitused
         item_detail: Ese
-        register: 
-        reset-password: 
+        register: Register
+        reset-password: Lähtesta salasõna
         results_list: Tulemused
         results_list_mlt: Sarnased valikud
         return_home: Tagasi avalehele
-        sign-in: 
+        sign-in: Logi sisse
       search:
         placeholder:
-          text: 
+          text: Otsi võrmesõna järgi siin
     news: Uudised
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Omista autorile
         attribute-html: HTML
         attribute-plaintext: Vabatekst
+        collapse-extended: 
         download: Lae alla
         download-additional: Veel saadaval
         download-retry: Proovi palun uuesti
         download-started: Allalaadimine alustatud
         downloaddata: Lae andmed alla
         enlarge: Suurenda
+        expand-extended: 
         explore-by-colour: Uuri värvi järgi
         media-metadata: Meedia metaandmed
         open-media: Ava see kirje
         show-less-data: Näita vähem andmeid
         show-more-data: Näita rohkem andmeid
         technicalmetadata: Tehnilised metaandmed
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Pealkiri
@@ -285,14 +323,20 @@ et:
       nav:
         next: Järgmine
         prev: Eelmine
+      next-item: 
       points:
         east: Ida
         north: Põhi
         south: Lõuna
         west: Lääs
       preview_unavailable: Eelvaade pole saadaval, juurdepääs täisekraanile ja täiendavale informatsioonile läbi aadressi %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
+      title_unavailable: 
     pages:
       '404':
         intro: Vabandust! Me ei suuda seda lehekülge leida
@@ -313,6 +357,9 @@ et:
 
           <p>Selleks, et evida enamat teavet selle kohta, kuidas me töötame kultuuriasutuste ja nende kogudega, külasta Europeana Prod.</p>
         title: Tere tulemast, kultuurisõber!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Kujutle muusikateoste originaalkäsikirjade vaatlemist ning samaaegsed teose erinevate interpretatsioonide kuulamist ja helilooja biograafiaga tutvumist. Europeana muusikakogus on see võimalik.</p>
@@ -335,9 +382,9 @@ et:
         product-save: Salvesta
         saveto: 'Salvesta '
         show-all-collections: Näita kõiki kogusid
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Klõpsa siia, et näha tulemusi muudest allikatest kui Europeana
+      federated-clicked: Artiklid muudest allikatest kui Europeana
+      federated_more: Vaata kõiki %{results_count} tulemust kohas %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -370,10 +417,11 @@ et:
           grid: Joonestik
           list: Loend
         view-at-provider: Vaade
-      results: 
+      results: Tulemused
     search:
       browse: Sirvi
       or-browse: või sirvi
+      page-title: Otsingu tulemused
       placeholder:
         filter-text: Otsi
         text: Lisa otsisõna
@@ -396,3 +444,8 @@ et:
         label: Keel
         settings-label: keeleseadistused
       title: Seadistused
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

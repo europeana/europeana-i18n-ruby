@@ -1,5 +1,5 @@
 sl:
-  Symphonies: 
+  Symphonies: Simfonije
   X11:
     colours:
       '000000': 
@@ -147,442 +147,516 @@ sl:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: 
+    about-us: O nas
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      new: 
-      next: 
-      previous: 
+      collapse: Strnite
+      copy: 
+      delete: Izbrišite
+      download: 
+      downloading: 
+      edit: Uredite
+      expand: Razširite
+      expand-viewer: 
+      filter-all: Vse
+      filter-by: Filtrirajte po
+      fullscreen-enter: celozaslonski način
+      fullscreen-exit: izhod iz celega zaslona
+      new: Novo
+      next: naslednja
+      previous: prejšnja
+      reduce-viewer: 
       register: Registrirajte se
-      share: 
+      remove: 
+      share: Dajte v skupno rabo
       sign-in: Prijava
       sign-out: Odjava
-      skip-to-main: 
-      skip-to-section: 
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      skip-to-main: Preskoči na vsebino strani
+      skip-to-section: Preskoči na razdelek
+      view: Prikaz
+      view-at: Poglejte v
+      view-more-at: 'Poglejte več v '
+      withdraw: umaknite
     channel:
-      all: 
-      archaeology: 
-      architecture: 
-      art: 
+      all: Vsi elementi
+      archaeology: arheologija
+      architecture: arhitektura
+      art: Zgodovina umetnosti
       art-history: Zgodovina Umetnosti
-      fashion: 
-      first-world-war: 
-      home: 
-      maps: 
-      music: 
-      natural-history: 
-      newspapers: 
-      performing-arts: 
+      fashion: moda
+      first-world-war: Europeana 1914-1918
+      home: Domov
+      maps: zemljevidi
+      music: glasba
+      natural-history: naravoslovje
+      newspapers: časopisi
+      performing-arts: scenske umetnosti
     channels-art: Zgodovina Umetnosti
-    channels-art-image: 
-    channels-art-link: 
-    channels-fashion: 
+    channels-art-image: Slika zbirke iz zgodovine umetnosti
+    channels-art-link: Zbirke iz zgodovine umetnosti
+    channels-fashion: Moda
     channels-music: Glasba
-    choose-language: 
+    choose-language: Jezik
     cookie_disclaimer:
-      more_info: 
-      text: 
-    email-address: 
+      more_info: Več informacij
+      text: Da bi zagotovili najboljše izkušnje na našem spletišču, uporabljamo piškotke. S klikom ali navigacijo po spletišču se strinjate z našim zbiranjem informacij s pomočjo piškotkov.
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
+    email-address: e-poštni naslov
     error:
-      unavailable: 
+      unavailable: Ni na voljo
     facet:
       advanced:
-        options: 
+        options: Možnosti
         show:
-          ugc: 
+          ugc: Uporabniške vsebine
       art:
         form:
           paintings:
-            genre: 
-            medium: 
-      carrier: 
-      colour: 
-      colour-black-and-white: 
+            genre: Zvrst
+            medium: Medij
+      carrier: Nosilec
+      colour: Barva
+      colour-black-and-white: Črna in bela
       country:
-        austria: 
-        belgium: 
-        bulgaria: 
-        croatia: 
-        cyprus: 
-        czechrepublic: 
-        denmark: 
-        estonia: 
-        europe: 
-        finland: 
-        france: 
-        germany: 
-        greece: 
-        hungary: 
-        iceland: 
-        ireland: 
-        israel: 
-        italy: 
-        latvia: 
-        lithuania: 
-        luxembourg: 
-        malta: 
-        netherlands: 
-        norway: 
-        poland: 
-        portugal: 
-        romania: 
-        russia: 
-        serbia: 
-        slovakia: 
-        slovenia: 
-        spain: 
-        sweden: 
-        switzerland: 
-        turkey: 
-        ukraine: 
-        unitedkingdom: 
-        unitedstatesofamerica: 
-        vaticancity: 
-      creator: 
-      filter: 
+        austria: Avstrija
+        belgium: Belgija
+        bulgaria: Bolgarija
+        croatia: Hrvaška
+        cyprus: Ciper
+        czechrepublic: Češka republika
+        denmark: Danska
+        estonia: Estonija
+        europe: Evropa
+        finland: Finska
+        france: Francija
+        germany: Nemčija
+        greece: Grčija
+        hungary: Madžarska
+        iceland: Islandija
+        ireland: Irska
+        israel: Izrael
+        italy: Italija
+        latvia: Latvija
+        lithuania: Litva
+        luxembourg: Luksemburg
+        malta: Malta
+        netherlands: Nizozemska
+        norway: Norveška
+        poland: Poljska
+        portugal: Portugalska
+        romania: Romunija
+        russia: Rusija
+        serbia: Srbija
+        slovakia: Slovaška
+        slovenia: Slovenija
+        spain: Španija
+        sweden: Švedska
+        switzerland: Švica
+        turkey: Turčija
+        ukraine: Ukrajina
+        unitedkingdom: Velika Britanija
+        unitedstatesofamerica: USA
+        vaticancity: Mesto Vatikan
+      creator: kreator
+      filter: filter
       header:
-        collection: 
-        colourpalette: 
-        country: 
-        data_provider: 
-        date-created: 
-        edm_ugc: 
+        collection: Zbirke
+        colourpalette: Barva
+        country: Država
+        data_provider: Ustanova
+        date-created: Datum izdelave
+        edm_ugc: Prikaži vsebino, ki so jo prispevali uporabniki
         fashion:
-          colour: 
+          colour: Barva
           designer: Designer
-          material: 
+          material: Material
           technique: Tehnika
           type: Tip točke
-        image_aspectratio: 
-        image_colour: 
-        image_size: 
-        intermediateprovider: 
-        language: 
-        language_of_description: 
-        media: 
-        mime_type: 
-        provider: 
-        providing_country: 
-        proxy_dcterms_created: 
-        reusability: 
-        rights: 
-        sound_duration: 
-        sound_hq: 
-        text_fulltext: 
-        thumbnail: 
-        type: 
-        ugc: 
-        video_duration: 
-        video_hd: 
-        year: 
+        image_aspectratio: Usmerjenost
+        image_colour: Paleta
+        image_size: Velikost
+        intermediateprovider: Vmesni ponudnik
+        language: Jezik
+        language_of_description: Jezik opisa
+        media: Samo elementi s povezavami na medije
+        mime_type: Format datoteke
+        provider: Zbiralnik
+        providing_country: Država ponudnika
+        proxy_dcterms_created: Datum izdelave
+        reusability: Ga lahko uporabljam?
+        rights: Licenca
+        sound_duration: Trajanje
+        sound_hq: Visoka kakovost
+        text_fulltext: Polno besedilo
+        thumbnail: Samo elementi s sličicami
+        type: Mediji
+        ugc: Prikaži vsebino, ki so jo prispevali uporabniki
+        video_duration: Trajanje
+        video_hd: Kakovost
+        year: Datum
       image_aspectratio:
-        landscape: 
-        portrait: 
+        landscape: Ležeče
+        portrait: Pokončno
       image_colour:
-        'false': 
-        'true': 
+        'false': Črna in bela
+        'true': Barva
       image_size:
-        extra_large: 
-        large: 
-        medium: 
-        small: 
+        extra_large: Zelo veliko (4 MP+)
+        large: Veliko (1-4 MP)
+        medium: Srednje (0,5-1 MP)
+        small: Majhno (<0,5 MP)
       language:
-        bg: 
-        ca: 
-        cs: 
-        da: 
-        de: 
-        el: 
-        en: 
-        es: 
-        et: 
-        fi: 
-        fr: 
-        ga: 
-        he: 
-        hr: 
-        hu: 
-        is: 
+        bg: Български
+        ca: Català
+        cs: Čeština
+        da: Dansk
+        de: Deutsch
+        el: Ελληνικά
+        en: Angleščina
+        es: Español
+        et: Eesti
+        fi: Suomi
+        fr: Français
+        ga: Gaeilge
+        he: עברית
+        hr: Hrvatski
+        hu: Magyar
+        is: Íslenska
         it: 
-        lt: 
+        lt: Lietuvių
         lv: 
-        mt: 
-        mul: 
+        mt: Malti
+        mul: Večjezični
         nl: Nederlands
-        'no': 
-        pl: 
-        pt: 
-        ro: 
-        ru: 
-        sk: 
-        sl: 
-        sr: 
-        sv: 
-        tr: 
-        uk: 
-        yi: 
-      less: 
+        'no': Norsk
+        pl: Polski
+        pt: Português
+        ro: Română
+        ru: Русский
+        sk: Slovenský
+        sl: Slovenski
+        sr: Српски
+        sv: Svenska
+        tr: " Türkçe"
+        uk: Українська
+        yi: ייִדיש
+      less: Manj
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Skrij izjave o posebnih pravicah
+        show-specific: Prikaži izjave o posebnih pravicah
       media:
-        'false': 
-        'true': 
-      more: 
-      more-refinements: 
+        'false': Ne
+        'true': Da
+      more: Več
+      more-refinements: Več izboljšav
       resource:
-        type: 
+        type: Tip
       reusability:
-        advanced: 
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: 
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
-        expiry: 
-        open: 
-        permission: 
-        restricted: 
-        rs_noc_oklr: 
-        simple: 
+        advanced-MARKEDFORDELETION: Napredno
+        expiry: do %{date}
+        open:
+          brief: 
+          info: 
+          label: Brezplačna ponovna uporaba
+        permission:
+          brief: 
+          info: 
+          label: Ponovna uporaba ni mogoča
+        restricted:
+          brief: 
+          info: 
+          label: Omejena ponovna uporaba
+        simple: Enostavno
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Delo sirota
+        out-of-copyright-non-commercial: 'Potekle avtorske pravice - nekomercialna ponovna uporaba '
+        public: Označena javna domena
+        rrfa: Pravice pridržane - Brezplačen dostop
+        rrpa: Pravice pridržane - Plačan dostop
+        rrra: Pravice pridržane - omejeni dostop
+        rs-cne: Avtorske pravice niso ocenjene
+        rs-inc: Z avtorskimi pravicami
+        rs-inc-edu: Z avtorskimi pravicami - Dovoljena uporaba za izobraževanje
+        rs-inc-ow-eu: Z avtorskimi pravicami - EU Orphan Work
+        rs-noc-nc: Brez avtorskih pravic - Samo nekomercialna uporaba
+        rs-noc-oklr: Brez avtorskih pravic - Druge znane pravne omejitve
+        rs_noc_oklr: Brez avtorskih pravic - Druge znane pravne omejitve
+        ucs: Neznan status avtorskih pravic
       sound_duration:
-        long: 
-        medium: 
-        short: 
-        very_short: 
+        long: Dolgo (6+ minut)
+        medium: Srednje (3-6 minut)
+        short: Kratko (30 s - 3 minute)
+        very_short: Zelo kratko (<30 s)
       sound_hq:
-        'true': 
-      source: 
+        'true': Da
+      source: Vir
       text_fulltext:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Da
       thumbnail:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Da
       type:
-        3d: 
-        image: 
-        sound: 
-        text: 
-        video: 
+        3d: 3D
+        image: Slika
+        sound: Zvok
+        text: Besedilo
+        video: Video
       type-image:
         orientation:
-          label: 
-          landscape: 
-          portrait: 
+          label: Usmerjenost slike
+          landscape: Ležeče
+          portrait: Pokončno
         quality:
-          all: 
-          hq-only: 
-          label: 
+          all: Prikaži vse
+          hq-only: Prikaži samo visoko kakovost
+          label: Kakovost
         size:
-          explanation: 
-          label: 
-          large: 
-          medium: 
-          small: 
-          xl: 
+          explanation: Kaj pomenijo te velikosti?
+          label: Velikost slike
+          large: Velika (%{data})
+          medium: Srednje (%{data})
+          small: Majhna (%{data})
+          xl: Zelo velika (%{data})
       type-sound:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
-          very-short: 
+          label: Trajanje
+          long: Dolgo (%{data})
+          medium: Srednje (%{data})
+          short: Kratko (%{data})
+          very-short: Zelo kratko (%{data})
       type-video:
         duration:
-          label: 
-          long: 
-          medium: 
-          short: 
+          label: Trajanje
+          long: Dolgo (%{data})
+          medium: Srednje (%{data})
+          short: Kratko (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Da
       video_duration:
-        long: 
-        medium: 
-        short: 
+        long: Dolga (20+ minut)
+        medium: Srednja (4-20 minut)
+        short: Kratka (<4 minute)
       video_hd:
-        'true': 
+        'true': Visoka ločljivost (576 p+)
       year:
-        from: 
-        to: 
+        from: od
+        to: do
     feedback:
-      close: 
+      close: Zaprite
       error: 
-      open: 
-      placeholder: 
-      submit: 
+      open: Povratne informacije
+      placeholder: Sporočite nam, kaj mislite in kaj lahko izboljšamo. Če želite, da stopimo v stik z vami, pustite tudi svoj e-poštni naslov!
+      submit: Pošljite
       thanks:
-        long: 
-        short: 
+        long: Hvala za vaše povratne informacije. Če bo potrebno, bomo čimprej stopili v stik z vami
+        short: Hvala!
       title: 
       type:
-        bug: 
-        comment: 
-        correction: 
-    find-us-elsewhere: 
+        bug: hrošč
+        comment: pripomba
+        correction: popravek
+    find-us-elsewhere: Poiščite nas drugje
     find-us-social-media: 
-    follow-channel: 
-    forgot-password: 
-    galleries: 
-    genres: 
-    genres-chamber-music: 
-    genres-classical-music: 
-    genres-concertos: 
-    genres-non-western-classical-music: 
-    genres-opera: 
-    genres-popular-music: 
-    genres-traditional-music: 
+    follow-channel: Sledite %{channel}
+    forgot-password: Ste pozabili svoje geslo?
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Galerije
+    genres: zvrsti
+    genres-chamber-music: Komorna glasba
+    genres-classical-music: Klasična glasba
+    genres-concertos: Koncerti
+    genres-non-western-classical-music: Ne-zahodna klasična glasba
+    genres-opera: Opera
+    genres-popular-music: Popularna glasba
+    genres-traditional-music: Tradicionalna glasba
     header:
-      connect: 
-      develop: 
-      discover: 
-      network: 
-    help: 
-    home: 
-    javascript-required: 
+      connect: Povežite se
+      develop: Razvijte
+      discover: Odkrijte
+      network: Omrežje
+    help: Pomoč
+    home: Domov
+    javascript-required: Če si želite ogledati to vsebino, omogočite JavaScript in razmislite o nadgradnji v spletni brskalnik, ki podpira vsebino HTML5.
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
-    labs: 
-    labs-text: 
-    language-basque: 
-    language-bulgarian: 
-    language-catalan: 
-    language-croatian: 
-    language-czech: 
-    language-danish: 
-    language-dutch: 
-    language-english: 
-    language-estonian: 
-    language-finnish: 
-    language-french: 
-    language-gaelic: 
-    language-german: 
-    language-greek: 
-    language-hungarian: 
-    language-icelandic: 
-    language-italian: 
-    language-latvian: 
-    language-lithuanian: 
-    language-maltese: 
-    language-norwegian: 
-    language-polish: 
-    language-portuguese: 
-    language-romanian: 
-    language-russian: 
-    language-slovakian: 
-    language-slovenian: 
-    language-spanish: 
-    language-swedish: 
-    language-ukranian: 
-    login: 
-    mission: 
-    mission-title: 
+      by: od
+      images: slike
+    labs: Laboratoriji
+    labs-text: 'Pomešajte kulturne vsebine z našimi API-ji in podatkovnimi bazami
+
+'
+    language-basque: Baskovščina
+    language-bulgarian: Bolgarščina
+    language-catalan: Katalanščina
+    language-croatian: Hrvaščina
+    language-czech: Češčina
+    language-danish: Danščina
+    language-dutch: Nizozemščina
+    language-english: Angleščina
+    language-estonian: Estonščina
+    language-finnish: Finščina
+    language-french: Francoščina
+    language-gaelic: Galščina
+    language-german: Nemščina
+    language-greek: Grščina
+    language-hungarian: Madžarščina
+    language-icelandic: Islandščina
+    language-italian: Italijanščina
+    language-latvian: Latvijščina
+    language-lithuanian: Litvanščina
+    language-maltese: Malteščina
+    language-norwegian: Norveščina
+    language-polish: Poljščina
+    language-portuguese: Portugalščina
+    language-romanian: Romunščina
+    language-russian: Ruščina
+    language-slovakian: Slovaščina
+    language-slovenian: Slovenščina
+    language-spanish: Španščina
+    language-swedish: Švedščina
+    language-ukranian: Ukrajinščina
+    languages:
+      bg: Bolgarščina
+      ca: Katalanščina
+      cs: Češčina
+      da: Danščina
+      de: Nemščina
+      el: Grščina
+      en: Angleščina
+      es: Španščina
+      et: Estonščina
+      eu: Baskovščina
+      fi: Finščina
+      fr: Francoščina
+      ga: Galščina
+      he: עברית
+      hr: Hrvaščina
+      hu: Madžarščina
+      is: Islandščina
+      it: Italijanščina
+      lt: Litvanščina
+      lv: Latvijščina
+      mt: Malteščina
+      mul: Večjezični
+      nl: Nizozemščina
+      'no': Norveščina
+      pl: Poljščina
+      pt: Portugalščina
+      ro: Romunščina
+      ru: Ruščina
+      sk: Slovaščina
+      sl: Slovenščina
+      sr: Српски
+      sv: Švedščina
+      tr: Türkçe
+      uk: Ukrajinščina
+      yi: ייִדיש
+    login: Prijava
+    mission: Svet spreminjamo s kulturo! Želimo graditi na bogati evropski dediščini in ljudem olajšati njeno uporabo, bodisi za delo, za učenje ali samo za zabavo.
+    mission-title: Naše poslanstvo
     more:
-      load-more: 
-      show-more: 
-      view-more: 
-    more-info: 
+      load-more: Več
+      show-more: Prikaži več
+      view-more: Poglej več
+    more-info: Več informacij
     newsletter:
-      choose-language: 
-      email-address-invalid: 
-      email-address-required: 
+      choose-language: Izberite jezik
+      email-address-invalid: E-poštni naslov mora biti veljaven.
+      email-address-required: Navesti morate e-poštni naslov.
       fashion:
-        heading: 
-        subheading: 
-      language-required: 
-      signup: 
-      submit-alt: 
-    our-sites: 
-    page: 
-    password: 
-    professional: 
-    professional-text: 
+        heading: Prijavite se!
+        subheading: Prijavite se na e-novice Europeana Fashion
+      language-required: Navesti morate jezik.
+      signup: Naročite se na naše e-novice
+      submit-alt: Naročite se
+    our-sites: naša spletišča
+    page: stran
+    password: geslo
+    professional: Pro
+    professional-text: Sodelujte, delite svoje podatke ali uporabite naše
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
-    refine-your-search: 
+      app: Aplikacija
+      apps: Aplikacije
+      blog: Blog
+      blogs: Blogi
+      collection: Tematska zbirka
+      collections: Tematske zbirke
+      dataset: Nabor podatkov
+      datasets: Nabori podatkov
+      event: Dogodek
+      events: Dogodki
+      exhibition: Razstava
+      exhibitions: Razstave
+      featured_site: Predstavljeno spletišče
+      featured_sites: Predstavljena spletišča
+      galleries: Galerije
+      gallery: Galerija
+      image: Slika
+      images: Slike
+      new: Kaj je novega
+      partner: Naš partner
+      partners: Naši partnerji
+      playlist: Seznam predvajanja
+      playlists: Seznami predvajanja
+      stories: Zgodbe
+      story: Zgodba
+      timeline: Časovnica
+      timelines: Časovnice
+    punctuation:
+      list-item-separator: 
+      term-list: 
+    refine-your-search: Izboljšajte iskanje
     refine-your-search-short: 
-    register: 
-    research: 
-    research-text: 
+    register: Registrirajte se
+    research: Iskanje
+    research-text: Povezava z akademsko skupnostjo
     search-area:
-      search-button-image-alt: 
-      search-placeholder-text: 
-    search-collections: 
-    search-collections-text: 
-    share: 
-    sitemap: 
-    subscribe: 
-    terms-and-policies: 
+      search-button-image-alt: Iskanje
+      search-placeholder-text: Dodajte iskalni izraz
+    search-collections: Zbirke
+    search-collections-text: Raziskujte kulturo dediščino Evrope
+    share: Dajte v skupno rabo
+    sitemap: Zemljevid spletišča
+    subscribe: Naročite se
+    terms-and-policies: Pogoji uporabe in pravilniki
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Ste raziskali naše nove galerije?
         search:
-          new-filter: 
-          new-grid: 
-    type: 
-  'no': 
-  pl: 
+          new-filter: Sedaj lahko filtrirate iskanje določene licence
+          new-grid: Ste videli novo postavitev omrežja?
+    type: tip
+  'no': Norveška
+  pl: Portugalska
   site:
     facet:
       language:
         show:
-          results: 
-        show-results-all: 
+          results: Rezultati
+        show-results-all: Prikaži vse rezultate

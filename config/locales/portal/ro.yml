@@ -7,12 +7,14 @@ ro:
         sources:
           description: Mai jos vedeți o listă a instituțiilor care au contribuit conținutul lor la Europeana Colecții. Aceste instituții agregate și să contribuie datele lor la Europeana, faceți clic pe link-ul care vă interesează mai jos pentru a vizualiza o anumită colecție partener!
   global:
+    exhibitions:
+      contacts: 
     labs-link: 
     navigation:
       agents: oameni
       all_blog_posts: Toate postările...
       all_exhibitions: Toate expozițiile...
-      all_galleries: 
+      all_galleries: Toate galeriile...
       blog: Blog
       browse: Caută
       browse_colours: Culori
@@ -22,15 +24,17 @@ ro:
       collections: Colecții
       concepts: subiecte
       exhibitions: Expoziții
-      galleries: 
+      galleries: Galerii
       home: Acasă
       more:
-        agents: Mai multi oameni
+        agents: Personalități
+        people: Mai multi oameni
+        periods: Perioade de timp
         topics: Mai multe subiecte
       periods: perioadele de timp
       places: Locuri
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Vizualizarea întregii colecții
+      view-detailed-description: Vizualizare descriere detaliată
     pro-link: 
     pro-text: 
     settings: Setări
@@ -42,17 +46,17 @@ ro:
         title: "Aceasta este versiunea Beta a noilor noastre \"Colecții\" și a \"Colecției de Muzică\" si a \n\"Istoria Artei Colecții\""
     blog-link: 
     blogs:
-      description: 
+      description: Bloguri
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} din %{results_count} publicări pe blog"
+        page-title: Blog
+      min-to-read: minute pentru a citi
     browse:
       colours:
         description: Căutați imagini bazate pe culoarea lor. Pur și simplu faceți clic pe o casetă colorată de mai jos pentru a descoperi imagini care conțin această culoare!
         title: Culori
       newcontent:
-        description: 
+        description: 'Aici puteți studia toate noile exponate din  Europeana Collections. Vedeți care instituție europeană a contribuit cu noi obiecte, numărul obiectelor adăugate și data adăugării. Trebuie doar să dați click pe link-urile de mai jos pentru a afla mai multe detalii. '
         tableh1: Instituții
         tableh2: Înregistrări
         tableh3: Dată
@@ -81,8 +85,9 @@ ro:
         moving-images: Înregistrări video
         sound: Înregistrări audio
         texts: Texte
+      description: 
       e7a1418:
-        contribute: Adaugă povestea ta
+        contribute: Adaugă istoria ta 1914-1918
         my-account: Contul meu
       labels:
         credits: Curatoriata de
@@ -90,19 +95,41 @@ ro:
         editors-picks: "  "
         recent: Adăugări recente
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Explorare <i>%{preview_title}</i> din %{collection}
         spotlight-on: Sub lupă
-        whats-happening: 
+        whats-happening: Ce se întâmplă
       music:
         description: <strong>Colecția de Muzică Europeana <strong> adună la un loc cele mai bune înregistrări muzicale, partituri și alte colecții legate de muzică de la arhivele, bibliotecile și muzeele din Europa <a href="/portal/channels/music/about">Află mai multe despre Colecția de Muzică.</a>
         title: Europeana Music
+    entities:
+      anagraphic:
+        birth: Naștere
+        death: Moarte
+        occupation: Ocupație
+      labels:
+        bio: Biografie
+        born: Născut
+        description: 
+        died: Mort
+        related: Asociat
+      tab_items:
+        items_about: Obiecte despre %{name}
+        items_by: Obiecte, după %{name}
+      types:
+        agent: Persoană
+        concept: Concept
+        place: 'Loc
+
+'
+      wiki_link_text: Resurse obținute din Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Toată ziua
+      description: Evenimente
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} din %{results_count} evenimente"
+        future: Evenimente viitoare
+        page-title: Evenimente
+        past: Evenimente trecute
     facet:
       language:
         show:
@@ -112,62 +139,75 @@ ro:
         about: Despre
         become-a-provider: Cum să devii instituție contributoare
         contact: Contactează-ne
-        contact-us: 
+        contact-us: Contactați-ne
         copyright: Copyright
         data-providers: Toate instituțiile contributoare
         help: Ajutor
         new-collections: Colecții noi
         rights: Termeni & Politici de utilizare
-        roadmap: 
+        roadmap: Actualizări dezvoltare
         search-tips: Sfaturi de căutare
         using-myeuropeana: Contul My Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Cultura, administrată de dvs.! Descoperiți galeriile Europeana!
+      description-default: Aflați mai multe despre Europeana
+      share:
+        one: Împărtășiți cu alții această galerie
+        other: Împărtășiți cu alții galeriile
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Mai mult...
     my-europeana: Contul My Europeana
     my-europeana-link: 
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: contul
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Participare
+        contribution-attachment: Fișier atașat
+        contribution-attachments: Fișiere atașate
+        contribution-done: efectuat
+        contributor: Participant
+        events_list_breadcrumb: Evenimente
         exhibitions:
-          return_home: 
+          return_home: Expoziții
         item_detail: detalii înregistrare
-        register: 
-        reset-password: 
+        register: Înscriere
+        reset-password: Resetare parolă
         results_list: Lista rezultatelor
-        results_list_mlt: 
+        results_list_mlt: Obiecte similare
         return_home: Inapoi Acasă
-        sign-in: 
+        sign-in: Intrare cont
       search:
         placeholder:
-          text: 
+          text: Căutare după cuvânt cheie, aici
     news: Știri
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Atribuie autorul
         attribute-html: HTML
         attribute-plaintext: Text simplu
+        collapse-extended: 
         download: Descarcă
         download-additional: Disponibil și ca
-        download-retry: 
-        download-started: 
+        download-retry: Nouă încercare
+        download-started: Descărcarea a început
         downloaddata: Descarcă date
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Mărire
+        expand-extended: 
+        explore-by-colour: Explorare după culoare
+        media-metadata: Metadate Media
         open-media: Deschide această înregistrare
         show-less-data: Arată mai puține date
         show-more-data: Arată mai multe date
         technicalmetadata: Metadate technice
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Titlu
@@ -176,8 +216,8 @@ ro:
         view-items-above: vezi obiectele de mai sus
         view-items-below: vezi obiectele de mai jos
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Informații suplimentare privind drepturile
+        annotations: Adnotările utilizatorului
         codec: Codec
         collection-name: Set de date
         concept: Concept
@@ -209,7 +249,7 @@ ro:
         fps: Cadre pe secundă
         has-type: Are tip
         identifier: Identificator
-        intermediate-provider: 
+        intermediate-provider: Furnizor intermediar
         is-format-of: E format din
         is-part-of: E parte a
         is-referenced-by: Referențiat_de
@@ -231,7 +271,7 @@ ro:
         provenance: Proveniență
         provided-by: Află mai multe
         provided-by-detail: Europeana vă ofera aceasta înregistrare cu ajutorul %{institution_name_and_link}. Pentru mai multe detalii vizitați website-ul acestei instituții.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana prezintă acest obiect prin intermediul
         provider: Instituție
         providing-country: Țara furnizoare
         publication-date: Data publicării
@@ -241,7 +281,7 @@ ro:
         relations: Relații
         rights: Drepturi
         rights-human: Pot folosi?
-        rights-statement: 
+        rights-statement: Informații privind drepturile
         runtime: runtime
         runtime-unit-seconds: secunde
         source: Sursă
@@ -285,14 +325,20 @@ ro:
       nav:
         next: Următor
         prev: Precedent
+      next-item: 
       points:
         east: Est
         north: Nord
         south: Sud
         west: Vest
-      preview_unavailable: 
+      preview_unavailable: Previzualizarea obiectului nu este disponibilă. Pentru a accesa imaginea integrală și mai multe informații privind obiectul, mergeți la%{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: arată mai multe
       similar-items: Înregistrări asemănătoare
+      title_unavailable: 
     pages:
       '404':
         intro: Ne pare rău, pagina nu a fost găsită
@@ -309,6 +355,9 @@ ro:
 
           <p>Între timp sperăm că te bucuri de expediția culturală oferiă de noi.</p>
         title: Bun venit, iubitorule de cultură!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Imaginează-ți că privești manuscrisul original al unui fragment muzical în timp ce asculți diferitele interpretări ale acestuia, însoțit de o biografie a compozitorului piesei respective. Colecția de Muzică a Europeana face toate aceste lucruri posibile.</p>
@@ -331,9 +380,9 @@ ro:
         product-save: Salvează
         saveto: Salvează la
         show-all-collections: Arată toate colecțiile
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Dați click aici pentru a vedea rezultate din surse neeuropene
+      federated-clicked: Obiecte din surse neeuropene
+      federated_more: Vizualizare toate %{results_count} rezultatele de la %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -341,7 +390,7 @@ ro:
           text: Text
           video: Înregistrare video
         count-and-terms: "%{results_count} rezultate găsite"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} din %{results_count} rezultate"
         empty: Niciun rezultat
         empty-with-terms: Pentru căutarea după %{query_terms} nu au fost găsite rezultate
         header: Rezultate pentru
@@ -351,7 +400,7 @@ ro:
         less_adv: Mai puține filtre
         more: Mai mult
         more_adv: Filtre avansate
-        per-page: 
+        per-page: Pe pagină
         product-3D: 3D
         product-image: Imagine
         product-sound: Înregistrare audio
@@ -359,19 +408,20 @@ ro:
         product-video: Înregistrare video
         results-relevance: Relevanță
         results-view:
-          grid: 
-          list: 
+          grid: Grilă
+          list: Listă
         single-result: 1 rezultat găsit pentru %{query_terms}
         view:
           grid: Grilă
           list: Listă
         view-at-provider: Vezi la
-      results: 
+      results: Rezultate
     search:
-      browse: 
-      or-browse: 
+      browse: Navigare
+      or-browse: sau navigați
+      page-title: Căutare rezultate
       placeholder:
-        filter-text: 
+        filter-text: Căutare
         text: Adaugă termen de căutare
       similar:
         prefix: 'Asemănător cu: %{mlt_item}'
@@ -380,7 +430,7 @@ ro:
         clear-selection: Anulează selecție
         save-settings: Salvează setări
       language:
-        auto-translate-limit: 
+        auto-translate-limit: " Un maximum de  %{max_languages} pot fi selectate"
         auto-translate-page: Tradu automat pagina în
         auto-translate-page-short: Tradu automat înregistrarea în
         auto-translate-query: Tradu automat cuvinte-cheie în
@@ -394,3 +444,8 @@ ro:
         label: Limbă
         settings-label: setări de limbă
       title: Setări
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

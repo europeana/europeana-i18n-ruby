@@ -149,27 +149,33 @@ hu:
   global:
     about-us: Rólunk
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Összecsukás
+      copy: 
+      delete: Törlés
+      download: 
+      downloading: 
+      edit: Szerkesztés
+      expand: Kibontás
+      expand-viewer: 
       filter-all: kiszűrje
       filter-by: Szűrés vlami alapján
       fullscreen-enter: Teljes képernyő
       fullscreen-exit: kilépés a teljes képernyős
-      new: 
+      new: Új
       next: következő
       previous: előző
+      reduce-viewer: 
       register: Regisztráljon nálunk
-      share: 
+      remove: 
+      share: Megosztás
       sign-in: Bejelentkezés
       sign-out: Kijelentkezés
       skip-to-main: Ugrás az oldal tartalmához
       skip-to-section: Ugrás a szakasz
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Megtekintés
+      view-at: Megtekintés
+      view-more-at: 'Több megtekintése '
+      withdraw: visszavonás
     channel:
       all: összes példány
       archaeology: régészet
@@ -177,7 +183,7 @@ hu:
       art: művészet
       art-history: Művészettörténet
       fashion: divat
-      first-world-war: 
+      first-world-war: Európa 1914-1918
       home: Főoldal
       maps: térképek
       music: Zene
@@ -193,9 +199,14 @@ hu:
     cookie_disclaimer:
       more_info: Több információ
       text: Ez a weboldal cookie-kat használ, hogy biztosítsa, hogy a legjobb élményt a honlapunkon. Kattintva, vagy a navigációt az oldalon, akkor beleegyezik abba, hogy mi az információgyűjtés sütikkel.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: Email cím
     error:
-      unavailable: 
+      unavailable: Nem elérhető
     facet:
       advanced:
         options: Beállítások
@@ -257,11 +268,11 @@ hu:
         country: Ország
         data_provider: Intézmény
         date-created: létrehozás dátuma
-        edm_ugc: 
+        edm_ugc: Felhasználók által közzétett tartalom megjelenítése
         fashion:
           colour: szín
           designer: Tervező
-          material: 
+          material: Anyag
           technique: Technika
           type: Termék típusa
         image_aspectratio: Tájolás
@@ -280,7 +291,7 @@ hu:
         sound_duration: Időtartam
         sound_hq: Magas minőségű
         text_fulltext: Teljes szöveg
-        thumbnail: 
+        thumbnail: Csak bélyegképpel rendelkező elemek
         type: Média
         ugc: Mutasd a felhasználók által feltöltött tartalmat
         video_duration: Videó hossza
@@ -344,33 +355,43 @@ hu:
       resource:
         type: Típus
       reusability:
-        advanced: Összetett
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: CC0
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Minden jog nem értékelték
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: ''
-        expiry: 
-        open: Igen, tulajdonos feltüntetésével
-        permission: Csak engedéllyel
-        restricted: Igen, korlátozásokkal
-        rs_noc_oklr: 
+        advanced-MARKEDFORDELETION: Összetett
+        expiry: "%{date}-ig"
+        open:
+          brief: 
+          info: 
+          label: Igen, tulajdonos feltüntetésével
+        permission:
+          brief: 
+          info: 
+          label: Csak engedéllyel
+        restricted:
+          brief: 
+          info: 
+          label: Igen, korlátozásokkal
         simple: Egyszerű
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: CC0
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Minden jog nem értékelték
+        rs-inc: Szerzői jogvédelem alatt
+        rs-inc-edu: Szerzői jogvédelem alatt - Oktatási célú felhasználás megengedett
+        rs-inc-ow-eu: Szerzői jogvédelem alatt - EU árva művek
+        rs-noc-nc: Szerzői jogvédelem alatt nem áll - Kizárólag nem kereskedelmi célú felhasználás
+        rs-noc-oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
+        rs_noc_oklr: Szerzői jogvédelem alatt nem áll - Egyéb ismert jogi korlátozások
+        ucs: ''
       sound_duration:
         long: Hosszú (6+ perc)
         medium: Közepes (3-6 perc)
@@ -383,8 +404,8 @@ hu:
         'false': Nem
         'true': Igen
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nem
+        'true': Igen
       type:
         3d: 3D
         image: Kép
@@ -421,8 +442,8 @@ hu:
           medium: Közepes (%{data})
           short: Rövid (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nem
+        'true': Igen
       video_duration:
         long: Hosszú (20+ perc)
         medium: Közepes (4-20 perc)
@@ -435,7 +456,7 @@ hu:
     feedback:
       close: Bezárás
       error: 
-      open: 
+      open: Visszajelzés
       placeholder: Nézzük, mit gondol, és mit tudunk javítani. Ha azt szeretnénk, hogy a kapcsolatot, kérjük, hagyja el e-mail címét is!
       submit: beküldése
       thanks:
@@ -443,14 +464,28 @@ hu:
         short: Köszönöm!
       title: 
       type:
-        bug: 
+        bug: hiba
         comment: megjegyzés
         correction: javítás
     find-us-elsewhere: Találj meg minket a közösségi médiában
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: "%{channel} követése"
     forgot-password: Elfelejtetted a jelszavad?
-    galleries: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Galériák
     genres: műfajok
     genres-chamber-music: Kamarazene
     genres-classical-music: Klasszikus zene
@@ -467,9 +502,10 @@ hu:
     help: Segítség
     home: Főoldal
     javascript-required: Hogy ezt a tartalmat megtekinthesse, kérjük engedélyezze a JavaScript használatát; javasoljuk olyan böngésző használatát is, mely a HTML5 tartalmat támogatja.
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
+      by: készítette
+      images: képek
     labs: Labs
     labs-text: Remixelje a kulturális tartalmainkat az API-ink és adathalmazaink segítségével.
     language-basque: Baszk
@@ -502,6 +538,42 @@ hu:
     language-spanish: Spanyol
     language-swedish: Svéd
     language-ukranian: Ukrán
+    languages:
+      bg: Bolgár
+      ca: Katalán
+      cs: Cseh
+      da: Dán
+      de: Német
+      el: Görög
+      en: Angol
+      es: Spanyol
+      et: Észt
+      eu: Baszk
+      fi: Finn
+      fr: Francia
+      ga: Kelta
+      he: עברית
+      hr: Horvát
+      hu: Magyar
+      is: Izlandi
+      it: Olasz
+      lt: Litván
+      lv: Lett
+      mt: Máltai
+      mul: Többnyelvű
+      nl: Holland
+      'no': Norvég
+      pl: Lengyel
+      pt: Portugál
+      ro: Román
+      ru: Orosz
+      sk: Szlovák
+      sl: Szlovén
+      sr: Српски
+      sv: Svéd
+      tr: Türkçe
+      uk: Ukrán
+      yi: ייִדיש
     login: Bejelentkezés
     mission: Megváltoztatjuk a világot a kultúra segítségével! Európa gazdag örökségére akarunk építeni és ezt könnyen hozzáférhetővé tenni az emberek számára, legyen látogatóink célja munka, tanulás vagy akár csupán szórakozás.
     mission-title: Küldetésünk
@@ -526,33 +598,36 @@ hu:
     professional: Pro
     professional-text: Csatlakozz te is, oszd meg adataidat vagy használd fel a miénket
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: App
+      apps: Appok
+      blog: Blog
+      blogs: Blogok
+      collection: Tematikus gyűjtemény
+      collections: Tematikus gyűjtemények
+      dataset: Adatkészlet
+      datasets: Adatkészletek
+      event: Esemény
+      events: Események
+      exhibition: Kiállítás
+      exhibitions: Kiállítások
+      featured_site: Kiemelt oldal
+      featured_sites: Kiemelt oldalak
+      galleries: Galériák
+      gallery: Galéria
+      image: Kép
+      images: Képek
+      new: Újdonságok
+      partner: Partnerünk
+      partners: Partnereink
+      playlist: Lejátszási lista
+      playlists: Lejátszási listák
+      stories: Történetek
+      story: Történet
+      timeline: Idővonal
+      timelines: Idővonalak
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Finomítsd a keresésed
     refine-your-search-short: 
     register: Regisztráció
@@ -569,11 +644,8 @@ hu:
     terms-and-policies: Felhasználási feltételek és házirend
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Felfedezte már az új galériákat?
         search:
           new-filter: Szűrhetők keressen a konkrét engedély
           new-grid: Láttad az új rács elrendezés?

@@ -149,27 +149,33 @@ hr:
   global:
     about-us: O nama
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Smanjite
+      copy: 
+      delete: Pobrišite
+      download: 
+      downloading: 
+      edit: Uredite
+      expand: Proširite
+      expand-viewer: 
       filter-all: " Filter sve"
       filter-by: Filtrirati po
       fullscreen-enter: Puni zaslon
       fullscreen-exit: izlaz na cijelom zaslonu
-      new: 
+      new: Novo
       next: Sljedeći
       previous: prijašnji
+      reduce-viewer: 
       register: Registracija
-      share: 
+      remove: 
+      share: Podijelite
       sign-in: Prijava
       sign-out: Odjavi se
       skip-to-main: Preskoči na sadržaj stranice
       skip-to-section: Preskoči na odjeljak
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Pregled
+      view-at: Pogledajte u
+      view-more-at: 'Pogledajte više u '
+      withdraw: povući
     channel:
       all: Svi predmeti
       archaeology: arheologija
@@ -177,7 +183,7 @@ hr:
       art: umjetnost
       art-history: Povijest Umjetnosti
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914.-1918.
       home: Naslovnica (all)
       maps: karte
       music: Glazba
@@ -193,9 +199,14 @@ hr:
     cookie_disclaimer:
       more_info: Više informacija
       text: Ova web stranica koristi kolačiće kako bi se osiguralo da ćete dobiti najbolje iskustvo na našoj web stranici. Klikom ili navigacije web stranice, pristajete da naše prikupljanje podataka putem kolačića.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: e-mail adresa
     error:
-      unavailable: 
+      unavailable: Nedostupno
     facet:
       advanced:
         options: Izbornik
@@ -257,11 +268,11 @@ hr:
         country: Država
         data_provider: Ustanova
         date-created: Datum izrade
-        edm_ugc: 
+        edm_ugc: Prikažite sadržaje kao priloge korisnika
         fashion:
           colour: boja
           designer: Dizajner
-          material: 
+          material: Materijal
           technique: Tehnika
           type: Vrsta stavke
         image_aspectratio: Orijentacija
@@ -280,7 +291,7 @@ hr:
         sound_duration: Trajanje
         sound_hq: Visoka kvaliteta
         text_fulltext: Cjeloviti tekst
-        thumbnail: 
+        thumbnail: Samo stavke sa umanjenim sličicama
         type: Medij
         ugc: Prikaži sadržaj koji su postavili korisnici
         video_duration: Trajanje
@@ -344,33 +355,43 @@ hr:
       resource:
         type: Vrsta
       reusability:
-        advanced: Napredno
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright ne vrednuje
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
-        expiry: 
-        open: 
-        permission: 
-        restricted: 
-        rs_noc_oklr: 
+        advanced-MARKEDFORDELETION: Napredno
+        expiry: do %{date}
+        open:
+          brief: 
+          info: 
+          label: 
+        permission:
+          brief: 
+          info: 
+          label: 
+        restricted:
+          brief: 
+          info: 
+          label: 
         simple: Jednostavno
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright ne vrednuje
+        rs-inc: U Autorskim pravima
+        rs-inc-edu: U autorskim pravima - dozvoljeno za obrazovnu uporabu
+        rs-inc-ow-eu: U autorskima pravima - rad sa siročadi EU
+        rs-noc-nc: Bez autorskih prava - samo nekomercijalna uporaba
+        rs-noc-oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
+        rs_noc_oklr: Bez autorskih prava - ostala poznata zakonska ograničenja
+        ucs: 
       sound_duration:
         long: Dugačko (6+ minuta)
         medium: Srednje (3-6 minuta)
@@ -383,8 +404,8 @@ hr:
         'false': Ne
         'true': Da
       thumbnail:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Da
       type:
         3d: 3D
         image: Slika
@@ -421,8 +442,8 @@ hr:
           medium: Srednje (%{data})
           short: Kratko (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Ne
+        'true': Da
       video_duration:
         long: Dugačko (20+ minuta)
         medium: Srednje (4-20 minuta)
@@ -435,7 +456,7 @@ hr:
     feedback:
       close: Blizu
       error: 
-      open: 
+      open: Povratne informacije
       placeholder: Recite nam što mislite i što možemo poboljšati. Ako želite da vas kontaktiramo, molimo vas da ostavite svoj e-mail i ovdje!
       submit: podnijeti
       thanks:
@@ -443,14 +464,28 @@ hr:
         short: Hvala ti!
       title: 
       type:
-        bug: 
+        bug: pogreška
         comment: komentar
         correction: korekcija
     find-us-elsewhere: Pronađite nas i na drugim mjestima
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Slijedite %{channel}
     forgot-password: Zaboravili ste lozinku?
-    galleries: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
+    galleries: Galerije
     genres: žanrovi
     genres-chamber-music: Komorna glazba
     genres-classical-music: Klasična glazba
@@ -467,9 +502,10 @@ hr:
     help: Pomoć
     home: Naslovnica
     javascript-required: Da biste vidjeli ovaj sadržaj omogućite JavaScript i razmislite o nadogradnji na web preglednik koji podržava HTML5 sadržaj.
+    javascript-required-ugc: 
     labels:
-      by: 
-      images: 
+      by: po
+      images: Slike
     labs: Europeana Labs
     labs-text: Prilagodi kulturalne sadržaje pomoću naših API-ja i skupova podataka
     language-basque: Baskijski
@@ -502,6 +538,42 @@ hr:
     language-spanish: Španjolski
     language-swedish: Švedski
     language-ukranian: Ukrajinski
+    languages:
+      bg: Bugarski
+      ca: Katalonski
+      cs: Češki
+      da: Danski
+      de: Njemački
+      el: Grčki
+      en: Engleski
+      es: Španjolski
+      et: Estonski
+      eu: Baskijski
+      fi: Finski
+      fr: Francuski
+      ga: Galski
+      he: עברית
+      hr: Hrvatski
+      hu: Mađarski
+      is: Islandski
+      it: Talijanski
+      lt: Litvanski
+      lv: Latvijski
+      mt: Malteški
+      mul: Višejezično
+      nl: Nizozemski
+      'no': Norveški
+      pl: Poljski
+      pt: Portugalski
+      ro: Rumunjski
+      ru: Ruski
+      sk: Slovački
+      sl: Slovenski
+      sr: Srpski
+      sv: Švedski
+      tr: Turski
+      uk: Ukrajinski
+      yi: ייִדיש
     login: Prijava
     mission: Mi preoblikujemo svijet kulturom! Želimo unaprijediti bogatu baštinu Europe i olakšati ljudima njeno korištenje, bilo za posao, učenje ili samo za zabavu.
     mission-title: Naša misija
@@ -526,33 +598,36 @@ hr:
     professional: Pro
     professional-text: Uključi se, dijeli svoje sadržaje ili koristi naše
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Aplikacija
+      apps: Aplikacije
+      blog: Blog
+      blogs: Blogovi
+      collection: Tematska kolekcija
+      collections: Tematske kolekcije
+      dataset: Garnitura podataka
+      datasets: Garniture podataka
+      event: Dešavanje
+      events: Dešavanja
+      exhibition: Izložba
+      exhibitions: Izložbe
+      featured_site: Istaknuta lokacija
+      featured_sites: Istaknute lokacije
+      galleries: Galerije
+      gallery: Galerija
+      image: Slika
+      images: Slike
+      new: Što je novo
+      partner: Naš partner
+      partners: Naši partneri
+      playlist: Popis za reprodukciju
+      playlists: Popisi za reprodukciju
+      stories: Priče
+      story: Priča
+      timeline: Vremenski slijed
+      timelines: Vremenski slijedovi
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Suzi rezultate pretraživanja
     refine-your-search-short: 
     register: Registriraj se
@@ -569,11 +644,8 @@ hr:
     terms-and-policies: Uvjeti korištenja
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Jeste li istražili naše nove galerije?
         search:
           new-filter: Sada možete filtrirati Vašu pretragu na određenu licencu
           new-grid: Jeste li vidjeli novi izgled mreže?

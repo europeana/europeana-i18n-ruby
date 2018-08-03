@@ -7,12 +7,14 @@ pl:
         sources:
           description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
   global:
+    exhibitions:
+      contacts: 
     labs-link: link do labs
     navigation:
       agents: Osoby
       all_blog_posts: Wszystkie wpisy...
       all_exhibitions: Wszystkie wystawy...
-      all_galleries: 
+      all_galleries: Wszystkie galerie...
       blog: Blog
       browse: Przeglądaj
       browse_colours: Kolory
@@ -22,15 +24,17 @@ pl:
       collections: Kolekcje
       concepts: Tematy
       exhibitions: Wystawy
-      galleries: 
+      galleries: Galerie
       home: Strona główna
       more:
-        agents: Więcej osób
+        agents: Ludzie
+        people: Więcej osób
+        periods: Okresy czasu
         topics: Więcej tematów
       periods: Okresy czasu
       places: Miejsca
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Zobacz całą kolekcję
+      view-detailed-description: Zobacz szczegółowy opis
     pro-link: link do Europeana Pro
     pro-text: tekst dla Europeana Pro
     settings: Ustawienia
@@ -42,11 +46,11 @@ pl:
         title: 'To jest wersja alfa nowych "Kolekcji" oraz "Kolekcji: Muzyka" oraz "Kolekcji: Historia sztuki".'
     blog-link: http://blog.europeana.eu
     blogs:
-      description: 
+      description: Blogi
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} z %{results_count} postów na blogu"
+        page-title: Blog
+      min-to-read: minut czytania
     browse:
       colours:
         description: Wyszukuj obrazy ze względu na kolor. Kliknij na wybrany kolor poniżej, aby zobaczyć obrazy, które go zawierają!
@@ -81,8 +85,9 @@ pl:
         moving-images: Ruchome obrazy
         sound: Nagrania
         texts: Teksty
+      description: 
       e7a1418:
-        contribute: Dodaj swoją historię
+        contribute: Dodaj swoją 1914-1918 historię
         my-account: Moje konto
       labels:
         credits: 'Kurator:'
@@ -90,19 +95,41 @@ pl:
         editors-picks: "  "
         recent: Ostatnio dodane
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Przeglądaj <i>%{preview_title}</i> w %{collection}
         spotlight-on: Zbliżenie
-        whats-happening: 
+        whats-happening: Co się dzieje
       music:
         description: '<strong>Europeana Kolekcje: Muzyka</strong> zawiera najlepsze nagrania i inne związane z muzyką zbiory z europejskich archiwów audiowizualnych, bibliotek, archiwów i muzeów. <a href="/portal/channels/music/about"> Dowiedz się więcej o Kolekcji Muzyka. </a>'
         title: Europeana Muzyka
+    entities:
+      anagraphic:
+        birth: Narodziny
+        death: Śmierć
+        occupation: Zawód
+      labels:
+        bio: Biografia
+        born: Urodzony
+        description: 
+        died: Zmarł
+        related: Powiązane
+      tab_items:
+        items_about: Obiekty o %{name}
+        items_by: Obiekty według %{name}
+      types:
+        agent: Osoba
+        concept: Koncept
+        place: 'Miejsce
+
+'
+      wiki_link_text: Materiały otrzymane od Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Cały Dzień
+      description: Wydarzenia
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} z %{results_count} wydarzeń"
+        future: Nadchodzące wydarzenia
+        page-title: Wydarzenia
+        past: Minione wydarzenia
     facet:
       language:
         show:
@@ -122,52 +149,65 @@ pl:
         search-tips: Porady
         using-myeuropeana: Moja Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultura dobrana do Ciebie! Odkryj Galerie Europeana!
+      description-default: Dowiedz się więcej o Europeana
+      share:
+        one: Udostępnij tą galerię
+        other: Udostępnij galerie
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Więcej...
     my-europeana: Moja Europeana
     my-europeana-link: link do My Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: konto
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Wkład
+        contribution-attachment: Załącznik
+        contribution-attachments: Załączniki
+        contribution-done: zrobione
+        contributor: Wkładca
+        events_list_breadcrumb: Wydarzenia
         exhibitions:
           return_home: Wystawy
         item_detail: Obiekt
-        register: 
-        reset-password: 
+        register: Zarejestruj
+        reset-password: Zresetuj Hasło
         results_list: Lista Wyników
-        results_list_mlt: 
+        results_list_mlt: Podobne obiekty
         return_home: Powrót do strony głównej
-        sign-in: 
+        sign-in: Zaloguj Się
       search:
         placeholder:
-          text: 
+          text: Wyszukaj za pomocą słowa klucz
     news: Wiadomości
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Oznacz autora
         attribute-html: 
         attribute-plaintext: Zwykły tekst
+        collapse-extended: 
         download: Ściągnij
         download-additional: Dostępne także jako
         download-retry: Spróbuj ponownie
         download-started: Ściąganie rozpoczęte
         downloaddata: Ściągnij dane
-        enlarge: 
+        enlarge: Powiększ
+        expand-extended: 
         explore-by-colour: Odkrywaj według kolorów
         media-metadata: Metadane Obiektu
         open-media: Otwórz
         show-less-data: Pokaż mniej
         show-more-data: Pokaż więcej
         technicalmetadata: Metadane administracyjne
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Tytuł
@@ -176,8 +216,8 @@ pl:
         view-items-above: zobacz obiekty powyżej
         view-items-below: zobacz obiekty poniżej
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Informacje o dodatkowych prawach
+        annotations: Adnotacje użytkowników
         codec: Kodek
         collection-name: Zbiór
         concept: Koncept
@@ -241,7 +281,7 @@ pl:
         relations: Relacje
         rights: Prawa autorskie
         rights-human: Czy mogę tego użyć?
-        rights-statement: 
+        rights-statement: Licencje
         runtime: Długość
         runtime-unit-seconds: sekundy
         source: Źródło
@@ -283,14 +323,20 @@ pl:
       nav:
         next: Następny
         prev: Poprzedni
+      next-item: 
       points:
         east: Wschód
         north: Północ
         south: Południe
         west: Zachód
-      preview_unavailable: 
+      preview_unavailable: Podgląd niedostępny. By wyświetlić pełen obraz oraz szczegółowe informacje przejdź do %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: pokaż więcej
       similar-items: Podobne obiekty
+      title_unavailable: 
     pages:
       '404':
         intro: Przykro nam - ta strona gdzieś się zapodziała
@@ -312,6 +358,9 @@ pl:
           <p>Aby uzyskać więcej informacji o tym, jak pracujemy z instytucjami kultury oraz ich zbiorami, odwiedź Europeana Pro.</p>
 
         title: Witaj, miłośniku kultury!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: "<p>Wyobraź sobie odkrywanie oryginalnycyh rękopisów utworu muzycznego, słuchając jego różnych interpretacji i czytając biografię kompozytora. Na stronie Kolekcji Muzyki Europeana jest to możliwe</p>\n\n<p><a href=\"http://www.europeanasounds.eu\">Nasi partnerzy</a>, eksperci w dziedzinie muzyki z całej Europy starannie wybrali tę kolekcję nagrań, nut, zdjęć instrumentów muzycznych, książek o muzyce i innych materiałów \nzwiązanych z muzyką.</p>\n\n<p>Udostępniamy tę wczesną wersję testową Kolekcji Muzyki Wam, naszym użytkownikom, abyście pomogli nam dalej ją rozwijać. Dlatego od czasu do czasu, odwiedzając stronę, możecie zostać poproszeni o udzielenie odpowiedzi na pytania lub wypełnienie ankiet pojawiających się na ekranie. Będziemy Wam bardzo wdzięczni za poświęcony czas!</p>\n\n<p>Ponadto, w interesie przejrzystości i prywatności, informujemy, że zbieramy dane na temat zachowań użytkownika w Google Analytics i usłudze o nazwie Hotjar. Robimy to, aby wykryć błędy i poprawić Kolekcję Muzyki. Wszystkie dane są prywatne i anonimowe i zostaną wykorzystane wyłącznie w celu poprawy jakości naszego serwisu.</p>\n\n<p>Zapraszamy do odkrywania kolekcji, słuchania muzyki, przeglądania nut i czytania. Gdy prawo autorskie na to pozwala, możnesz pobrać swoje ulubione materiały. Odwiedź również nasze wirtualne wystawy i odkrywaj muzykę w zupełnie nowy sposób!</p>"
         title: O Kolekcji Muzyka
@@ -325,9 +374,9 @@ pl:
         product-save: Zapisz
         saveto: Zapisz do
         show-all-collections: Pokaż wszystkie kolekcje
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Kilknij, aby zobaczyć wyniki spoza Europeany
+      federated-clicked: Obiekty spoza Europeany
+      federated_more: Zobacz wszystko (%{results_count}) z %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -360,12 +409,13 @@ pl:
           grid: Siatka
           list: Lista
         view-at-provider: Zobacz w
-      results: 
+      results: Wyniki
     search:
       browse: Przeglądaj
       or-browse: lub przeglądaj
+      page-title: Wyniki Wyszukiwania
       placeholder:
-        filter-text: 
+        filter-text: Szukaj
         text: Dodaj termin wyszukiwawczy
       similar:
         prefix: 'Podobne do: %{mlt_item}'
@@ -386,3 +436,8 @@ pl:
         label: Język
         settings-label: ustawienia języków
       title: Ustawienia
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

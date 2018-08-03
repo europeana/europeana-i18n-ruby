@@ -150,9 +150,13 @@ en:
     about-us: About us
     actions:
       collapse: Collapse
+      copy: Copy
       delete: Delete
+      download: Download
+      downloading: Downloading
       edit: Edit
       expand: Expand
+      expand-viewer: Expand viewer
       filter-all: All
       filter-by: Filter by
       fullscreen-enter: full screen
@@ -160,7 +164,9 @@ en:
       new: New
       next: next
       previous: previous
+      reduce-viewer: Reduce viewer
       register: Register
+      remove: Remove
       share: Share
       sign-in: Sign in
       sign-out: Sign out
@@ -193,6 +199,11 @@ en:
     cookie_disclaimer:
       more_info: More info
       text: This website uses cookies to ensure you get the best experience on our website. By clicking or navigating the site, you agree to allow our collection of information through cookies.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
     email-address: email address
     error:
       unavailable: Unavailable
@@ -344,33 +355,43 @@ en:
       resource:
         type: Type
       reusability:
-        advanced: Advanced
-        advanced-cc-by: CC BY
-        advanced-cc-by-nc: CC BY-NC
-        advanced-cc-by-nc-nd: CC BY-NC-ND
-        advanced-cc-by-nc-sa: CC BY-NC-SA
-        advanced-cc-by-nd: CC BY-ND
-        advanced-cc-by-sa: CC BY-SA
-        advanced-cc0: CC0
-        advanced-orphan-work: Orphan Work
-        advanced-out-of-copyright-non-commercial: 'Out of copyright - non commercial re-use '
-        advanced-public: Public Domain Marked
-        advanced-rrfa: Rights reserved - Free access
-        advanced-rrpa: Rights reserved - Paid access
-        advanced-rrra: Rights Reserved - Restricted Access
-        advanced-rs-cne: Copyright Not Evaluated
-        advanced-rs-inc: In Copyright
-        advanced-rs-inc-edu: In Copyright - Educational Use Permitted
-        advanced-rs-inc-ow-eu: In Copyright - EU Orphan Work
-        advanced-rs-noc-nc: No Copyright - Non-Commercial Use Only
-        advanced-rs-noc-oklr: No Copyright - Other Known Legal Restrictions
-        advanced-ucs: Unknown copyright status
+        advanced-MARKEDFORDELETION: Advanced
         expiry: until %{date}
-        open: Free Re-use
-        permission: No Re-use
-        restricted: Limited Re-use
-        rs_noc_oklr: No Copyright - Other Known Legal Restrictions
+        open:
+          brief: 'Yes'
+          info: with attribution
+          label: Free Re-use
+        permission:
+          brief: 'No'
+          info: learn why
+          label: No Re-use
+        restricted:
+          brief: 'Yes'
+          info: limitations apply
+          label: Limited Re-use
         simple: Simple
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Orphan Work
+        out-of-copyright-non-commercial: 'Out of copyright - non commercial re-use '
+        public: Public Domain Marked
+        rrfa: Rights reserved - Free access
+        rrpa: Rights reserved - Paid access
+        rrra: Rights Reserved - Restricted Access
+        rs-cne: Copyright Not Evaluated
+        rs-inc: In Copyright
+        rs-inc-edu: In Copyright - Educational Use Permitted
+        rs-inc-ow-eu: In Copyright - EU Orphan Work
+        rs-noc-nc: No Copyright - Non-Commercial Use Only
+        rs-noc-oklr: No Copyright - Other Known Legal Restrictions
+        rs_noc_oklr: No Copyright - Other Known Legal Restrictions
+        ucs: Unknown copyright status
       sound_duration:
         long: Long (6+ minutes)
         medium: Medium (3-6 minutes)
@@ -439,7 +460,7 @@ en:
       placeholder: Let us know what you think and what we can improve. If you want to be contacted, please leave your email address here too!
       submit: Submit
       thanks:
-        long: Thank you for your feedback. If needed; we'll get back to you as soon as possible
+        long: Thank you for your feedback. If needed, we'll get back to you as soon as possible
         short: Thank you!
       title: Feedback
       type:
@@ -450,6 +471,20 @@ en:
     find-us-social-media: Find %{channel} on social media
     follow-channel: Follow %{channel}
     forgot-password: Forgot your password?
+    forms:
+      hints:
+        required-fields: Required fields
+      validation-errors:
+        blank: Please enter a value
+        confirmation-required: Please confirm
+        date-format: Please enter a valid date
+        date-past: Please select a valid date that has already occurred
+        email: Please ensure you have typed a correct email address
+        file-size: Please ensure each uploaded file is no more than %{limit_mb} MB
+        file-type: 'This file format is not one of the following: %{allowed_types}'
+        form-has-errors: Please ensure you have filled in all details correctly and try submitting again
+        user-age: Sorry, you must be over 16 years of age to participate
+        user-age-consent: Sorry, you must be over 16 years of age or have parental/guardian consent to participate
     galleries: Galleries
     genres: genres
     genres-chamber-music: Chamber music
@@ -467,6 +502,7 @@ en:
     help: Help
     home: Home
     javascript-required: To view this content please enable JavaScript, and consider upgrading to a web browser that supports HTML5 content.
+    javascript-required-ugc: We do not allow submissions without Javascript enabled, please enable Javascript in your browser in order to submit this form.
     labels:
       by: by
       images: images
@@ -504,6 +540,42 @@ en:
     language-spanish: Spanish
     language-swedish: Swedish
     language-ukranian: Ukrainian
+    languages:
+      bg: Bulgarian
+      ca: Catalan
+      cs: Czech
+      da: Danish
+      de: German
+      el: Greek
+      en: English
+      es: Spanish
+      et: Estonian
+      eu: Basque
+      fi: Finnish
+      fr: French
+      ga: Gaelic
+      he: עברית
+      hr: Croatian
+      hu: Hungarian
+      is: Icelandic
+      it: Italian
+      lt: Lithuanian
+      lv: Latvian
+      mt: Maltese
+      mul: Multilingual
+      nl: Dutch
+      'no': Norwegian
+      pl: Polish
+      pt: Portuguese
+      ro: Romanian
+      ru: Russian
+      sk: Slovak
+      sl: Slovenian
+      sr: Српски
+      sv: Swedish
+      tr: Türkçe
+      uk: Ukrainian
+      yi: ייִדיש
     login: Login
     mission: We transform the world with culture! We want to build on Europe’s rich heritage and make it easier for people to use, whether for work, for learning or just for fun.
     mission-title: Our mission
@@ -555,6 +627,9 @@ en:
       story: Story
       timeline: Timeline
       timelines: Timelines
+    punctuation:
+      list-item-separator: "; "
+      term-list: "%{term}: %{items}"
     refine-your-search: Refine your search
     refine-your-search-short: Filter
     register: Register
@@ -571,9 +646,6 @@ en:
     terms-and-policies: Terms of use & Policies
     tooltips:
       channels:
-        galleries:
-          filter: You can filter the galleries here.
-          info: Hover to find out more about a gallery
         home:
           new-galleries: Have you explored our new galleries?
         search:

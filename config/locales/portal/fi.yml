@@ -7,12 +7,14 @@ fi:
         sources:
           description: Alla näet listan instituutiot, jotka ovat vaikuttaneet niiden sisältöä Europeanaan kokoelmat. Nämä instituutiot koota ja edistää tietonsa Europeanan klikkaa linkkiä, joka kiinnostaa sinua alla katsella tiettyä kumppani kokoelma!
   global:
+    exhibitions:
+      contacts: 
     labs-link: linkki labsiin
     navigation:
       agents: Ihmiset
       all_blog_posts: Kaikki blogikirjoitukset...
       all_exhibitions: Kaikki näyttelyt...
-      all_galleries: 
+      all_galleries: Kaikki galleriat...
       blog: Blogi
       browse: Selaa
       browse_colours: Värit
@@ -22,15 +24,17 @@ fi:
       collections: Kokoelmat
       concepts: Aiheet
       exhibitions: Näyttelyt
-      galleries: 
+      galleries: Galleriat
       home: Koti
       more:
-        agents: Enemmän ihmisiä
+        agents: Henkilöt
+        people: Enemmän ihmisiä
+        periods: Aikakaudet
         topics: lisää aiheita
       periods: ajanjaksot
       places: paikat
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Katsele koko kokoelmaa
+      view-detailed-description: Katso tarkempi kuvaus
     pro-link: linkki pro:hon
     pro-text: teksti pro:hon
     settings: Asetukset
@@ -42,17 +46,17 @@ fi:
         title: Tämä on Alfa-julkaisu uusista julkaisuistamme "Kokoelmat", "Taidehistorian Kokoelmat" ja "Musiikkikokoelma"
     blog-link: linkki blogiin
     blogs:
-      description: 
+      description: Blogit
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: Tulokset %{results_range} %{results_count} blogimerkinnästä
+        page-title: Blogi
+      min-to-read: minuutin lukuaika
     browse:
       colours:
         description: Etsiä kuvia perustuu niiden väriä. Klikkaa värillinen alla löytää sisältävien kuvien että väri!
         title: Värit
       newcontent:
-        description: 
+        description: 'Täällä voit tutustua Europeana Collections -kokoelman uusimpiin lisäyksiin. Tarkastele, mitkä kulttuurialan laitokset ovat lisänneet uusia teoksia, sekä uusien teosten määrää ja lisäämisajankohtaa. Klikkaa linkkejä alta saadaksesi lisätietoa. '
         tableh1: Kaikki instituutiot
         tableh2: Kohteet
         tableh3: Päivämäärä
@@ -81,8 +85,9 @@ fi:
         moving-images: videota
         sound: äänitallennetta
         texts: tekstiä
+      description: 
       e7a1418:
-        contribute: 
+        contribute: Lisää tarinasi vuosilta 1914-1918
         my-account: Tilini
       labels:
         credits: Kuratoinut
@@ -90,19 +95,41 @@ fi:
         editors-picks: "  "
         recent: Äskettäiset lisäykset
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Tutki kohdetta <i>%{preview_title}</i> kokoelmassa %{collection}
         spotlight-on: Valokeilassa
-        whats-happening: 
+        whats-happening: Mitä tapahtuu
       music:
         description: <strong>Europeanan Musiikkikokoelma</strong> tuo yhteen parhaat musiikkitallenteet, nuotit, ja muut musiikkiaiheiset kokoelmat Euroopan audiovisuaalisista arkistoista, kirjastoista ja museoista. <a href="/portal/channels/music/about">Lisätietoa Musiikkikokoelma.</a>
         title: Europeana Musiikki
+    entities:
+      anagraphic:
+        birth: Syntyi
+        death: Kuoli
+        occupation: Ammatti
+      labels:
+        bio: Biografia
+        born: Syntyi
+        description: 
+        died: Kuoli
+        related: Sukulaiset
+      tab_items:
+        items_about: Teokset aiheesta %{name}
+        items_by: "%{name} tekemät teokset"
+      types:
+        agent: Henkilö
+        concept: Käsite
+        place: 'Paikka
+
+'
+      wiki_link_text: Aineisto on saatu lähteestä Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Koko päivä
+      description: Tapahtumat
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: Tulokset %{results_range} %{results_count} tapahtumasta
+        future: Tulevat tapahtumat
+        page-title: Tapahtumat
+        past: Menneet tapahtumat
     facet:
       language:
         show:
@@ -112,62 +139,75 @@ fi:
         about: Tietoa meistä
         become-a-provider: Tule kumppaniksemme
         contact: Yhteystiedot
-        contact-us: 
+        contact-us: Ota yhteyttä
         copyright: Tekijänoikeudet
         data-providers: Kaikki instituutiot
         help: Apu
         new-collections: Uudet kokoelmat
         rights: Käyttöehdot ja käytännöt
-        roadmap: 
+        roadmap: Päivitykset
         search-tips: Hakuohjeita
         using-myeuropeana: Minun Europeanan käyttäminen
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Sinulle kuratoitua kulttuuria! Tutustu Europeanan gallerioihin!
+      description-default: Lisätietoa Europeanasta
+      share:
+        one: Jaa tämä galleria
+        other: Jaa galleriat
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Lisää...
     my-europeana: Minun Europeana
     my-europeana-link: linkki Minun Europeanaan
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: tili
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blogi
+        contribution: Lahjoitus
+        contribution-attachment: Liite
+        contribution-attachments: Liitteet
+        contribution-done: valmis
+        contributor: Lahjoittaja
+        events_list_breadcrumb: Tapahtumat
         exhibitions:
-          return_home: 
+          return_home: Näyttelyt
         item_detail: Kohde
-        register: 
-        reset-password: 
+        register: Rekisteröidy
+        reset-password: Uusi salasana
         results_list: Tulokset
-        results_list_mlt: 
+        results_list_mlt: Samankaltaisia teoksia
         return_home: Palaa Aloitussivulle
-        sign-in: 
+        sign-in: Kirjaudu sisään
       search:
         placeholder:
-          text: 
+          text: Hae tästä hakusanalla
     news: Uutiset
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Viittaa tekijään
         attribute-html: HTML
         attribute-plaintext: Tekstimuotoinen
+        collapse-extended: 
         download: Lataa
         download-additional: Saatavilla myös
-        download-retry: 
-        download-started: 
+        download-retry: Yritä uudelleen
+        download-started: Lataus on alkanut
         downloaddata: Lataa data
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Suurenna
+        expand-extended: 
+        explore-by-colour: Tutki väreittäin
+        media-metadata: Median metatiedot
         open-media: Avaa mediakohde
         show-less-data: Näytä vähemmän tietoa
         show-more-data: Näytä enemmän tietoa
         technicalmetadata: Tekniset metatiedot
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Otsikko
@@ -176,8 +216,8 @@ fi:
         view-items-above: katso yllä olevia kohteita
         view-items-below: katso alla olevia kohteita
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Lisätietoa oikeuksista
+        annotations: Käyttäjän huomautukset
         codec: Koodekki
         collection-name: Datasetti
         concept: Käsite
@@ -209,7 +249,7 @@ fi:
         fps: Ruutua sekunnissa
         has-type: On tyypiltään
         identifier: Tunniste
-        intermediate-provider: 
+        intermediate-provider: Välittäjä
         is-format-of: On formaatiltaan
         is-part-of: On osa
         is-referenced-by: Viitataan seuraavista
@@ -231,7 +271,7 @@ fi:
         provenance: Provenienssi
         provided-by: Aiheesta lisää
         provided-by-detail: "%{institution_name_and_link} esittää kohteen Europeanassa. Lisätietoa sen verkkopalvelussa."
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: 'Europeana näyttää tämän teoksen seuraavan laitoksen kautta:'
         provider: Tarjoaja
         providing-country: Tarjoava maa
         publication-date: Jukaisupäivämäärä
@@ -241,7 +281,7 @@ fi:
         relations: Linkit
         rights: Oikeudet
         rights-human: Voinko käyttää tätä?
-        rights-statement: 
+        rights-statement: Lausunto oikeuksista
         runtime: Kesto
         runtime-unit-seconds: sekuntia
         source: Lähde
@@ -283,14 +323,20 @@ fi:
       nav:
         next: Seuraava
         prev: Edellinen
+      next-item: 
       points:
         east: Itä
         north: Pohjoinen
         south: Etelä
         west: Länsi
-      preview_unavailable: 
+      preview_unavailable: 'Nimikkeen esikatselu ei ole saatavilla. Täysimittaisen kuvan ja lisätiedon saamiseksi siirry tänne: %{institution_name_and_link}'
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
+      title_unavailable: 
     pages:
       '404':
         intro: Valitettavasti emme löydä tätä sivua
@@ -307,6 +353,9 @@ fi:
 
           <p>Sillä aikaa, toivomme, että viihdyt kulttuurimatkalla kanssamme.</p>
         title: Tervetuloa, kulttuurinrakastaja!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Kuvittele katselevasi alkuperäistä sävellyksen käsikirjoitusta samalla kun kuuntelet eri tulkintoja siitä ja luet säveltäjän elämäkertaa. Se on mahdollista Europeanan musiikkikokoelmassa.</p>
@@ -338,9 +387,9 @@ fi:
         product-save: Tallenna
         saveto: Tallenna...
         show-all-collections: Näytä kaikki kokoelmat
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Klikkaa tästä nähdäksesi tulokset Europeanan ulkopuolisista lähteistä
+      federated-clicked: Teokset Europeanan ulkopuolisista lähteistä
+      federated_more: Näytä kaikki %{results_count} tulosta kohteesta %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -348,7 +397,7 @@ fi:
           text: Teksti
           video: Video
         count-and-terms: "%{results_count} tulosta"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: Tulokset %{results_range} %{results_count} tuloksesta
         empty: Ei tuloksia
         empty-with-terms: Hakusi %{query_terms} ei tuottanut tuloksia
         header: Tulokset
@@ -358,7 +407,7 @@ fi:
         less_adv: Vähemmän määrittelyjä
         more: Lisää
         more_adv: Laajennetut suotimet
-        per-page: 
+        per-page: Sivua kohden
         product-3D: 3D
         product-image: Kuva
         product-sound: Ääni
@@ -366,19 +415,20 @@ fi:
         product-video: Video
         results-relevance: Osuvuus
         results-view:
-          grid: 
-          list: 
+          grid: Ruudukko
+          list: Luettelo
         single-result: 1 tulos %{query_terms}
         view:
           grid: Ruudukko
           list: Luettelo
         view-at-provider: Katso
-      results: 
+      results: Tulokset
     search:
-      browse: 
-      or-browse: 
+      browse: Selaa
+      or-browse: tai selaa
+      page-title: Hakutulokset
       placeholder:
-        filter-text: 
+        filter-text: Hae
         text: Lisää hakutermi
       similar:
         prefix: Samalainen kuin %{mlt_item}
@@ -399,3 +449,8 @@ fi:
         label: Kieli
         settings-label: kieliasetukset
       title: Asetukset
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

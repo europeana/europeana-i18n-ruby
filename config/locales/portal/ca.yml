@@ -7,12 +7,14 @@ ca:
         sources:
           description: A continuació veureu una llista d&#39;institucions que han aportat el seu contingut a Europeana Col·leccions. Aquestes institucions afegir i aportar les seves dades a Europeana, feu clic a 'enllaç de sota que li interessi per veure una col·lecció soci en particular!
   global:
+    exhibitions:
+      contacts: 
     labs-link: enllaç a labs
     navigation:
       agents: Gent
       all_blog_posts: Tots els posts
       all_exhibitions: Totes les exposicions...
-      all_galleries: 
+      all_galleries: Totes les galeries...
       blog: Blog
       browse: Navega
       browse_colours: Colors
@@ -22,15 +24,17 @@ ca:
       collections: Colleccions
       concepts: temes
       exhibitions: Exposicions
-      galleries: 
+      galleries: Galeries
       home: Inici
       more:
-        agents: Més gent
+        agents: Persones
+        people: Més gent
+        periods: Períodes de temps
         topics: més temes
       periods: Els períodes de temps
       places: llocs
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Mostra tota la col·lecció
+      view-detailed-description: Mostra una descripció més detallada
     pro-link: enllaç a pro
     pro-text: text per a pro
     settings: Configuració
@@ -42,17 +46,17 @@ ca:
         title: 'Això és una versió Beta de "Colleccions" i "Collecció de Música" i "Art Colleccions d''Història". '
     blog-link: enllaç al blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} articles del blog"
+        page-title: Blog
+      min-to-read: minuts per llegir
     browse:
       colours:
         description: Recerca d&#39;imatges en funció del seu color. Simplement feu clic en un quadre de color sota per descobrir les imatges que continguin aquest color!
         title: Colors
       newcontent:
-        description: 
+        description: 'Aquí pots explorar tot el que s''ha afegit últimament a Europeana Collections. Mira quina institució cultural ha contribuït amb elements nous i quan i quants n''ha afegit. Fes clic als següents enllaços per a veure més informació. '
         tableh1: Totes les institucions
         tableh2: Ítems
         tableh3: Data
@@ -81,8 +85,9 @@ ca:
         moving-images: Vídeos
         sound: Enregistraments de so
         texts: Texts
+      description: 
       e7a1418:
-        contribute: 
+        contribute: Afegeix la teva història de 1914-1918
         my-account: El meu compte
       labels:
         credits: Comissariada per
@@ -90,19 +95,41 @@ ca:
         editors-picks: "  "
         recent: Addicions Recents
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Explora <i>%{preview_title}</i> a %{collection}
         spotlight-on: Focus en
-        whats-happening: 
+        whats-happening: Contingut nou
       music:
         description: L'<strong>Europeana Music Collection</strong> junt els millors enregistraments musicals, partitures, i altres objectes musicals de col·leccions d'arxius, biblioteques i museus d'Europa. <a href="/portal/channels/music/about">Descobreix-ne més al Music Collection.</a>
         title: Europeana Music
+    entities:
+      anagraphic:
+        birth: Naixement
+        death: Defunció
+        occupation: Ocupació
+      labels:
+        bio: Biografia
+        born: Naixement
+        description: 
+        died: Defunció
+        related: Relacionat
+      tab_items:
+        items_about: Ítems sobre %{name}
+        items_by: Ítems per %{name}
+      types:
+        agent: Persona
+        concept: Concepte
+        place: 'Lloc
+
+'
+      wiki_link_text: Recurs obtingut de Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Tot el dia
+      description: Esdeveniments
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} esdeveniments"
+        future: Esdeveniments futurs
+        page-title: Esdeveniments
+        past: Esdeveniments passats
     facet:
       language:
         show:
@@ -112,62 +139,75 @@ ca:
         about: Sobre
         become-a-provider: Esdevé el nostre soci
         contact: Contacte
-        contact-us: 
+        contact-us: Contacta amb nosaltres
         copyright: Drets d'autor
         data-providers: Totes les institucions
         help: Ajuda
         new-collections: Noves colleccions
         rights: Termes d'ús i Polítiques
-        roadmap: 
+        roadmap: 'Actualitzacions del desenvolupament '
         search-tips: Consells de cerca
         using-myeuropeana: Fent servir La Meva Europeana
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Et presentem la nostra selecció de cultura! Descobreix les galeries d'Europeana!
+      description-default: Descobreix més coses a Europeana
+      share:
+        one: Comparteix aquesta galeria
+        other: Comparteix les galeries
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Més...
     my-europeana: La meva Europeana
     my-europeana-link: enllaç a La meva Europeana
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: compte
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Contribució
+        contribution-attachment: Fitxer adjunt
+        contribution-attachments: Fitxers adjunts
+        contribution-done: fet
+        contributor: Contribuïdor
+        events_list_breadcrumb: Esdeveniments
         exhibitions:
-          return_home: 
+          return_home: Exposicions
         item_detail: Ítem
-        register: 
-        reset-password: 
+        register: Registra-t'hi
+        reset-password: Restableix la contrasenya
         results_list: Resultats
-        results_list_mlt: 
+        results_list_mlt: Ítems similars
         return_home: Tornar a l'inici
-        sign-in: 
+        sign-in: Inicia sessió
       search:
         placeholder:
-          text: 
+          text: Cerca per paraules clau
     news: Novetats
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Atribueix a l'autor
         attribute-html: HTML
         attribute-plaintext: Text pla
+        collapse-extended: 
         download: Baixa
         download-additional: També disponible com
-        download-retry: 
-        download-started: 
+        download-retry: Torna-ho a intentar
+        download-started: Ha començat la descàrrega
         downloaddata: Baixar la informació
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Amplia
+        expand-extended: 
+        explore-by-colour: Explora per color
+        media-metadata: Metadades del mitjà
         open-media: Obrir aquest ítem
         show-less-data: Mostrar menys dades
         show-more-data: Mostrar més dades
         technicalmetadata: Metadades tècniques
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Títol
@@ -176,8 +216,8 @@ ca:
         view-items-above: veure els ítems superiors
         view-items-below: verue els ítems inferiors
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Més informació sobre els drets
+        annotations: Notes d'usuari
         codec: Códec
         collection-name: Dataset
         concept: Concepte
@@ -209,7 +249,7 @@ ca:
         fps: Frames per segon
         has-type: Tipus de Has
         identifier: Identificador
-        intermediate-provider: 
+        intermediate-provider: Proveïdor intermediari
         is-format-of: és format de
         is-part-of: és part de
         is-referenced-by: és referenciat per
@@ -231,7 +271,7 @@ ca:
         provenance: Provinença
         provided-by: Saber-ne més
         provided-by-detail: Europeana mostra aquest ítem via %{institution_name_and_link}. Visita el seu web per a més informació
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana mostra aquest ítem via
         provider: Proveïdor
         providing-country: País proveïdor
         publication-date: Data de publicació
@@ -241,7 +281,7 @@ ca:
         relations: Relacions
         rights: Drets
         rights-human: Puc fer-ho servir?
-        rights-statement: 
+        rights-statement: Declaració de drets
         runtime: Temps d'execució
         runtime-unit-seconds: segons
         source: Font
@@ -283,14 +323,20 @@ ca:
       nav:
         next: Següent
         prev: Previ
+      next-item: 
       points:
         east: Est
         north: Nord
         south: Sud
         west: Oest
-      preview_unavailable: 
+      preview_unavailable: La visualització prèvia d'aquest element no està disponible, ves a %{institution_name_and_link} per a accedir a la imatge sencera i veure'n més informació.
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: mostra més
       similar-items: ítems similars
+      title_unavailable: 
     pages:
       '404':
         intro: Ho sentim, no hem pogut trobar la pàgina
@@ -311,6 +357,9 @@ ca:
 
           <p> Per a obtenir més informació sobre com treballem amb institucions culturals i les seves col·leccions, visiteu Europeana Pro.</p>
         title: Benvingut, amant de la cultura!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Imagineu-vos mirant manuscrits originals d'una peça de música mentre escolteu a diferents interpretacions de la mateixa, i llegiu una biografia del compositor. En la col·lecció de música d'Europeana, es pot.</p>
@@ -333,9 +382,9 @@ ca:
         product-save: Desa
         saveto: Desa a
         show-all-collections: Mostra totes les col·leccions
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Fes clic aquí per a veure resultats de fonts externes a Europeana
+      federated-clicked: Ítems de fonts externes a Europeana
+      federated_more: Mostra tots els %{results_count} resultats de %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -343,7 +392,7 @@ ca:
           text: Text
           video: Vídeo
         count-and-terms: "%{results_count} resultats"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} resultats"
         empty: Sense Resultats
         empty-with-terms: La teva cerca %{query_terms} no té resultats
         header: Resultats per
@@ -353,7 +402,7 @@ ca:
         less_adv: Menys refinaments
         more: Més
         more_adv: Filtres avançats
-        per-page: 
+        per-page: Per pàgina
         product-3D: 3D
         product-image: Imatge
         product-sound: So
@@ -361,19 +410,20 @@ ca:
         product-video: Vídeo
         results-relevance: Rellevància
         results-view:
-          grid: 
-          list: 
+          grid: Quadrícula
+          list: Llista
         single-result: 1 resultat per %{query_terms}
         view:
           grid: Graella
           list: Llista
         view-at-provider: Veure a
-      results: 
+      results: Resultats
     search:
-      browse: 
-      or-browse: 
+      browse: Navega
+      or-browse: o navega
+      page-title: Resultats de la cerca
       placeholder:
-        filter-text: 
+        filter-text: Busca
         text: Afegir terme de cerca
       similar:
         prefix: 'Similar a: %{mlt_item}'
@@ -394,3 +444,8 @@ ca:
         label: Idioma
         settings-label: Configuració d'idioma
       title: Configuració
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

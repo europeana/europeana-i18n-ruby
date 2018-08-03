@@ -7,12 +7,14 @@ bg:
         sources:
           description: По-долу можете да видите списък на институциите, които са допринесли тяхното съдържание към Europeana колекции. Тези институции се обединят и да допринесат със своите данни за Europeana, щракнете върху връзката, която ви интересува по-долу, за да видите точно определена колекция партньор!
   global:
+    exhibitions:
+      contacts: 
     labs-link: линк към лабораториите
     navigation:
       agents: хора
       all_blog_posts: Всички постове
       all_exhibitions: Всички виртуални изложби
-      all_galleries: 
+      all_galleries: Всички галерии...
       blog: Блог
       browse: Разгледай
       browse_colours: Цветове
@@ -22,15 +24,17 @@ bg:
       collections: Колекции
       concepts: Теми
       exhibitions: Виртуални изложби
-      galleries: 
+      galleries: Галерии
       home: Начало
       more:
-        agents: Повече хора
+        agents: Хора
+        people: Повече хора
+        periods: Времеви периоди
         topics: Още теми
       periods: Сроковете
       places: места
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Преглед на цялата колекция
+      view-detailed-description: Вижте по-подробно описание
     pro-link: линк към Pro
     pro-text: текст за Pro
     settings: Настройки
@@ -42,17 +46,17 @@ bg:
         title: Това е Beta версия на новите ни страници "Колекции" и "Музикални колекции" и "История на изкуството Колекции".
     blog-link: линк към блог
     blogs:
-      description: 
+      description: Блогове
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} от %{results_count} публикации в блога"
+        page-title: Блог
+      min-to-read: минути за прочитане
     browse:
       colours:
         description: Търсене на изображения на базата на техния цвят. Просто кликнете на цветна кутия по-долу, за да откриете изображения, съдържащи този цвят!
         title: Цветове
       newcontent:
-        description: 
+        description: 'Тук можете да разгледате всички нови попълнения в колекциите на Europeana. Вижте коя културна институция е допринесла с нови артикули, броя на добавените от вас артикули и кога. Просто щракнете върху връзките по-долу, за да научите повече. '
         tableh1: Всички институции
         tableh2: Обекти
         tableh3: Дата
@@ -81,8 +85,9 @@ bg:
         moving-images: Видео
         sound: Аудио записи
         texts: Текстове
+      description: 
       e7a1418:
-        contribute: 
+        contribute: Добавете вашата история от 1914-1918
         my-account: Моята сметка
       labels:
         credits: Куратор
@@ -90,19 +95,41 @@ bg:
         editors-picks: "   "
         recent: Последни допълнения
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Разгледайте <i>%{preview_title}</i> в %{collection}
         spotlight-on: Фокус върху
-        whats-happening: 
+        whats-happening: Какво се случва
       music:
         description: 'Музикалните колекции на Европеана обхващат най-добрите музикални записи, партитури и други, свързани с музиката колекции от европейските аудио-визуални архиви, библиотеки и музеи. '
         title: Музикални колекции на Европеана
+    entities:
+      anagraphic:
+        birth: Раждане
+        death: Смърт
+        occupation: Професия
+      labels:
+        bio: Биография
+        born: Роден(а)
+        description: 
+        died: Починал(а)
+        related: Свързани
+      tab_items:
+        items_about: Артикули за %{name}
+        items_by: Артикули от %{name}
+      types:
+        agent: Лице
+        concept: Концепция
+        place: 'Място
+
+'
+      wiki_link_text: Ресурс, получен от Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Цял ден
+      description: Събития
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} от %{results_count} събития"
+        future: Предстоящи събития
+        page-title: Събития
+        past: Минали събития
     facet:
       language:
         show:
@@ -112,62 +139,75 @@ bg:
         about: За колекциите
         become-a-provider: Стани партньор
         contact: За контакти
-        contact-us: 
+        contact-us: Връзка с нас
         copyright: Авторско право
         data-providers: Всички институции
         help: Помощ
         new-collections: Нови колекции
         rights: Условия за ползване & Политики
-        roadmap: 
+        roadmap: Актуализации за разработки
         search-tips: Съвети за търсене
         using-myeuropeana: Упътване за Моята Европеана
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Култура, препоръчана за вас! Открийте европейските галерии!
+      description-default: Научете повече за Europeana
+      share:
+        one: Споделете тази галерия
+        other: Споделете галериите
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Още...
     my-europeana: Моята Европеана
     my-europeana-link: линк към Моята Европеана
+    name: Колекции на Europeana
     navigation:
       breadcrumb:
         account: сметка
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Блог
+        contribution: Принос
+        contribution-attachment: Прикачен файл
+        contribution-attachments: Прикачени файлове
+        contribution-done: Готово
+        contributor: Сътрудник
+        events_list_breadcrumb: Събития
         exhibitions:
-          return_home: 
+          return_home: Изложения
         item_detail: Допълнителна информация за обекта
-        register: 
-        reset-password: 
+        register: Регистриране
+        reset-password: Възстановяване на парола
         results_list: Списък с резултати
-        results_list_mlt: 
+        results_list_mlt: Подобни артикули
         return_home: Обратно към начална страница
-        sign-in: 
+        sign-in: Вход
       search:
         placeholder:
-          text: 
+          text: Търсете тук по ключова дума
     news: Новини
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Посочи автор
         attribute-html: HTML
         attribute-plaintext: Обикновен текст без форматиране
+        collapse-extended: 
         download: Изтегли
         download-additional: Наличен също като
-        download-retry: 
-        download-started: 
+        download-retry: Опитайте отново
+        download-started: Изтеглянето започна
         downloaddata: Изтегли данни
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Уголемяване
+        expand-extended: 
+        explore-by-colour: Разгледайте по цвят
+        media-metadata: Метаданни на медия
         open-media: Отвори този медиен обект
         show-less-data: Покажи по-малко данни
         show-more-data: Покажи повече данни
         technicalmetadata: Технически метаданни
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Заглавие
@@ -176,8 +216,8 @@ bg:
         view-items-above: Виж обектите по-горе
         view-items-below: Виж обектите по-долу
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Допълнителна информация за правата
+        annotations: Анотации на потребителите
         codec: Codec
         collection-name: Масив от данни
         concept: Концепция
@@ -209,7 +249,7 @@ bg:
         fps: Рамки за секунда
         has-type: От тип
         identifier: Идентификатор
-        intermediate-provider: 
+        intermediate-provider: Междинен доставчик
         is-format-of: Във формат
         is-part-of: Част от
         is-referenced-by: Съотнесен с
@@ -233,7 +273,7 @@ bg:
         provided-by-detail: 'Европеана показва този обект благодарение на %{institution_name_and_link}. Моля, посетете тяхната уеб страница за повече информация.
 
 '
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana показва този артикул чрез
         provider: Доставчик
         providing-country: Страна-доставчик
         publication-date: Дата на публикуване
@@ -243,7 +283,7 @@ bg:
         relations: Връзки
         rights: Права
         rights-human: Мога ли да ползвам това?
-        rights-statement: 
+        rights-statement: Декларация за правата
         runtime: Време за обработка
         runtime-unit-seconds: секунди
         source: Източник
@@ -285,14 +325,20 @@ bg:
       nav:
         next: Следващ
         prev: Предишен
+      next-item: 
       points:
         east: Изток
         north: Север
         south: Юг
         west: Запад
-      preview_unavailable: 
+      preview_unavailable: Преглед на артикула не е наличен, за достъп до пълното изображение и за повече информация за артикула отидете на %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
+      title_unavailable: 
     pages:
       '404':
         intro: За съжаление не можем да намерим тази страница
@@ -300,6 +346,9 @@ bg:
       about:
         text: "<p>Независимо дали сте ни посетили в търсене на вдъхновение, за да подпомогнете своите изследвания, откриете идеи за дизайн за следващата си чаша за кафе или просто от любопитство, надяваме се, че ще успеете да намерите това, което търсите, сред 45-те милиона обекта тук. </p>\n\n<p>Нашето съдържание идва от цяла Европа и обхватът на колекциите е наистина впечатляващ. Нашата цел е да Ви упътим и помогнем да откриете своите съкровища. </p>\n\n<p>През последните години ние разширихме своите колекции и научихме повече за тях и за това какво Вие бихте искали да направите с тях. Сега е време да подобрим нашите услуги. </p>\n\n<p>Ние тестваме нова версия на колекциите на Европеана. Работим усилено да подобрим Вашите преживавания тук и улесним максимално намирането на информацията, която търсите. Ето защо вероятно ще Ви помолим да ни помогнете като отговорите на няколко въпроса. Вашите отговори наистина ще бъдат от полза за нас, затова моля отделете малко време да споделите Вашите мисли. Благодарим Ви!</p> \n\n<p>А междувременно се надяваме, че се наслаждавате на Вашето културно пътешествие с нас. </p>"
         title: Добре дошъл, любителю на културата!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Представете си, че разглеждате оригинален ръкопис на музикално произведение и същевременно слушате негови различни интерпретации и четете биографията на композитора. Сега това е възможно в Музикалните колекции на Европеана.</p>
@@ -322,9 +371,9 @@ bg:
         product-save: Запази
         saveto: Запази в
         show-all-collections: Покажи всички колекции
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Щракнете тук, за да видите резултатите от неевропейски източници
+      federated-clicked: Артикули от неевропейски източници
+      federated_more: Вижте всички %{results_count} резултата за %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -332,7 +381,7 @@ bg:
           text: Текст
           video: Видео
         count-and-terms: "%{results_count} резултати"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} от %{results_count} резултата"
         empty: Няма получени резултати
         empty-with-terms: Вашето търсене за %{query_terms} не върна резултати.
         header: Резултати за
@@ -342,7 +391,7 @@ bg:
         less_adv: По-малко филтри
         more: Повече
         more_adv: Разширени филтри
-        per-page: 
+        per-page: На страница
         product-3D: 3D
         product-image: Изображение
         product-sound: Аудио
@@ -350,19 +399,20 @@ bg:
         product-video: Видео
         results-relevance: Съответствие
         results-view:
-          grid: 
-          list: 
+          grid: Решетка
+          list: Списък
         single-result: 1 резултат за %{query_terms}
         view:
           grid: Рамка
           list: Списък
         view-at-provider: Виж в
-      results: 
+      results: Резултати
     search:
-      browse: 
-      or-browse: 
+      browse: Преглед
+      or-browse: или прегледайте
+      page-title: Резултати от търсенето
       placeholder:
-        filter-text: 
+        filter-text: Търсене
         text: Добави дума за търсене
       similar:
         prefix: Сходен с %{mlt_item}
@@ -371,7 +421,7 @@ bg:
         clear-selection: Изтриване на подбора
         save-settings: Запази настройки
       language:
-        auto-translate-limit: 
+        auto-translate-limit: Могат да бъдат избрани максимално %{max_languages}
         auto-translate-page: Автоматично преведи страниците на обектите на...
         auto-translate-page-short: Автоматично преведи обектите на...
         auto-translate-query: Автоматично преведи ключовите думи за търсене на...
@@ -383,3 +433,8 @@ bg:
         label: Език
         settings-label: езикови настройки
       title: Настройки
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 

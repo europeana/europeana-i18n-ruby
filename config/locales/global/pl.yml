@@ -149,27 +149,33 @@ pl:
   global:
     about-us: O nas
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Zwiń
+      copy: 
+      delete: Usuń
+      download: 
+      downloading: 
+      edit: Edycja
+      expand: Rozwiń
+      expand-viewer: 
       filter-all: Wszystko
       filter-by: Filtruj
       fullscreen-enter: pełny ekran
       fullscreen-exit: wyjście z trybu pełnoekranowego
-      new: 
+      new: Nowy
       next: Następny
       previous: poprzedni
+      reduce-viewer: 
       register: Zarejestruj się
-      share: 
+      remove: 
+      share: Udział
       sign-in: Zaloguj się
       sign-out: Wyloguj się
       skip-to-main: Przejdź do zawartości strony
       skip-to-section: Przejdź do sekcji
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Widok
+      view-at: Widok na
+      view-more-at: 'Pokaż więcej na '
+      withdraw: Wycofaj
     channel:
       all: Wszystko
       archaeology: archeologia
@@ -177,7 +183,7 @@ pl:
       art: sztuka
       art-history: Historia Sztuki
       fashion: moda
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Strona główna
       maps: mapy
       music: Muzyka
@@ -193,9 +199,14 @@ pl:
     cookie_disclaimer:
       more_info: Więcej informacji
       text: Nasza strona używa plików cookies (tzw. ciasteczek) aby zapewnić wygodniejsze korzystanie z serwisu. Pozostając na niej, wyrażasz zgodę na gromadzenie przez nas danych poprzez pliki cookies.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} p.n.e."
+          current: "%{date} n.e."
     email-address: email
     error:
-      unavailable: 
+      unavailable: Niedostępne
     facet:
       advanced:
         options: Opcje
@@ -257,11 +268,11 @@ pl:
         country: Kraj
         data_provider: Instytucja
         date-created: Data utworzenia
-        edm_ugc: 
+        edm_ugc: Pokaż treść tworzoną przez użytkowników
         fashion:
           colour: Kolor
           designer: Projektant
-          material: 
+          material: Materiał
           technique: Technika
           type: Rodzaj obiektu
         image_aspectratio: Orientacja
@@ -280,7 +291,7 @@ pl:
         sound_duration: Czas trwania
         sound_hq: Dobra Jakość
         text_fulltext: Pełna Treść
-        thumbnail: 
+        thumbnail: Tylko elementy z miniaturami
         type: Rodzaje
         ugc: Pokaż obiekty dodane przez użytkowników
         video_duration: Czas Trwania
@@ -290,7 +301,7 @@ pl:
         landscape: Pejzaż
         portrait: Portret
       image_colour:
-        'false': Czarno-biały
+        'false': Czarno-białe
         'true': W kolorze
       image_size:
         extra_large: Bardzo duży
@@ -344,36 +355,46 @@ pl:
       resource:
         type: Typ
       reusability:
-        advanced: Zaawansowane
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: ''
-        advanced-out-of-copyright-non-commercial: ''
-        advanced-public: ''
-        advanced-rrfa: ''
-        advanced-rrpa: ''
-        advanced-rrra: ''
-        advanced-rs-cne: Prawa autorskie nie analizowany
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: ''
+        advanced-MARKEDFORDELETION: Zaawansowane
         expiry: do %{date}
-        open: Tak, ale pamiętaj o podaniu źródła.
-        permission: Nie - wymagana jest pisemna zgoda.
-        restricted: Tak, ale z pewnymi ograniczeniami.
-        rs_noc_oklr: 
+        open:
+          brief: 
+          info: 
+          label: Tak, ale pamiętaj o podaniu źródła.
+        permission:
+          brief: 
+          info: 
+          label: Nie - wymagana jest pisemna zgoda.
+        restricted:
+          brief: 
+          info: 
+          label: Tak, ale z pewnymi ograniczeniami.
         simple: Proste
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: ''
+        out-of-copyright-non-commercial: ''
+        public: ''
+        rrfa: ''
+        rrpa: ''
+        rrra: ''
+        rs-cne: Prawa autorskie nie analizowany
+        rs-inc: Chronione prawem autorskim
+        rs-inc-edu: Chronione prawem autorskim - dozwolony użytek edukacyjny
+        rs-inc-ow-eu: Chronione prawem autorskim - dzieło osierocone
+        rs-noc-nc: Niechronione prawem autorskim - dozwolony użytek niekomercyjny
+        rs-noc-oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
+        rs_noc_oklr: Niechronione prawem autorskim - inne znane obostrzenia prawne
+        ucs: ''
       sound_duration:
         long: Długi
-        medium: Średni
+        medium: Średnia (3-6 min)
         short: Krótki
         very_short: Bardzo krótki
       sound_hq:
@@ -383,8 +404,8 @@ pl:
         'false': Nie
         'true': Tak
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nie
+        'true': Tak
       type:
         3d: 3D
         image: Obraz
@@ -421,8 +442,8 @@ pl:
           medium: Średni (%{data})
           short: Krótki (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nie
+        'true': Tak
       video_duration:
         long: Długi (>20 min)
         medium: Średni (4-20 min)
@@ -448,8 +469,22 @@ pl:
         correction: korekta
     find-us-elsewhere: Znajdź nas także
     find-us-social-media: Znajdź %{channel} w mediach społecznościowych
-    follow-channel: 
+    follow-channel: Śledź %{channel}
     forgot-password: Nie pamiętam hasła.
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
     galleries: Galerie
     genres: gatunki
     genres-chamber-music: Muzyka kameralna
@@ -467,8 +502,9 @@ pl:
     help: Pomoc
     home: Strona główna
     javascript-required: Chcesz uzyskać dostęp do pełnej zawartości tej strony? W tym celu należy włączyć obsługę JavaScript. Zalecamy również zmianę przeglądarki na obsługującą elementy w HTML5
+    javascript-required-ugc: 
     labels:
-      by: 
+      by: przez
       images: obrazy
     labs: Europeana Labs
     labs-text: Wykorzystaj twórczo nasze zasoby dzięki API
@@ -502,6 +538,42 @@ pl:
     language-spanish: Hiszpański
     language-swedish: Szwedzki
     language-ukranian: Ukraiński
+    languages:
+      bg: Bułgarski
+      ca: Kataloński
+      cs: Czeski
+      da: Duński
+      de: Niemiecki
+      el: Grecki
+      en: Angielski
+      es: Hiszpański
+      et: Estoński
+      eu: Baskijski
+      fi: Fiński
+      fr: Francuski
+      ga: Irlandzki
+      he: עברית
+      hr: Chorwacki
+      hu: Węgierski
+      is: Islandzki
+      it: Włoski
+      lt: Litewski
+      lv: Łotewski
+      mt: Maltański
+      mul: Wielojęzyczny
+      nl: Niderlandzki
+      'no': Norweski
+      pl: Polski
+      pt: Portugalski
+      ro: Rumuński
+      ru: Rosyjski
+      sk: Słowacki
+      sl: Słoweński
+      sr: Српски
+      sv: Szwedzki
+      tr: Türkçe
+      uk: Ukraiński
+      yi: ייִדיש
     login: Login
     mission: Kulturą zmieniamy świat! Chcemy budować na bogatym dziedzictwie kulturowym Europy i ułatwić do niego dostęp, aby każdy miał szansę wykorzystać je w pracy, do nauki lub po prostu dla zabawy.
     mission-title: Nasza misja
@@ -526,33 +598,36 @@ pl:
     professional: Europeana Pro
     professional-text: Zaangażuj się, podziel się swoją wiedzą lub wykorzystaj naszą.
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Aplikacja
+      apps: Aplikacje
+      blog: Blog
+      blogs: Blogi
+      collection: Kolekcja tematyczna
+      collections: Kolekcje tematyczne
+      dataset: Zbiór danych
+      datasets: Zbiory danych
+      event: Wydarzenie
+      events: Wydarzenia
+      exhibition: Wystawa
+      exhibitions: Wystawy
+      featured_site: Wyróżniona witryna
+      featured_sites: Wyróżnione witryny
+      galleries: Galerie
+      gallery: Galeria
+      image: Obraz
+      images: Obrazy
+      new: Co nowego
+      partner: Nasz partner
+      partners: Nasi partnerzy
+      playlist: Lista odtwarzania
+      playlists: Listy odtwarzania
+      stories: Opowieści
+      story: Opowieść
+      timeline: Linia czasu
+      timelines: Linie czasu
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Zawęź wyniki wyszukiwania
     refine-your-search-short: Filtry
     register: Zarejestruj się
@@ -569,11 +644,8 @@ pl:
     terms-and-policies: Regulamin i polityka prywatności
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Czy zwiedziłeś nasze nowe galerie?
         search:
           new-filter: Teraz możesz zawęzić wyszukiwanie do konkretnej licencji
           new-grid: Wypróbowaliście już nowy widok siatki?

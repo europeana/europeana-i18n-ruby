@@ -150,9 +150,13 @@ uk:
     about-us: Про нас
     actions:
       collapse: 
+      copy: 
       delete: 
+      download: 
+      downloading: 
       edit: 
       expand: 
+      expand-viewer: 
       filter-all: 
       filter-by: 
       fullscreen-enter: 
@@ -160,7 +164,9 @@ uk:
       new: 
       next: 
       previous: 
+      reduce-viewer: 
       register: 
+      remove: 
       share: 
       sign-in: 
       sign-out: 
@@ -193,6 +199,11 @@ uk:
     cookie_disclaimer:
       more_info: 
       text: 
+    date:
+      eras:
+        gregorian:
+          before: 
+          current: 
     email-address: адреса електронної пошти
     error:
       unavailable: 
@@ -344,33 +355,43 @@ uk:
       resource:
         type: 
       reusability:
-        advanced: 
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: 
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: 
         expiry: 
-        open: 
-        permission: 
-        restricted: 
-        rs_noc_oklr: 
+        open:
+          brief: 
+          info: 
+          label: 
+        permission:
+          brief: 
+          info: 
+          label: 
+        restricted:
+          brief: 
+          info: 
+          label: 
         simple: 
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: 
+        rs-inc: 
+        rs-inc-edu: 
+        rs-inc-ow-eu: 
+        rs-noc-nc: 
+        rs-noc-oklr: 
+        rs_noc_oklr: 
+        ucs: 
       sound_duration:
         long: 
         medium: 
@@ -450,6 +471,20 @@ uk:
     find-us-social-media: 
     follow-channel: 
     forgot-password: 
+    forms:
+      hints:
+        required-fields: 
+      validation-errors:
+        blank: 
+        confirmation-required: 
+        date-format: 
+        date-past: 
+        email: 
+        file-size: 
+        file-type: 
+        form-has-errors: 
+        user-age: 
+        user-age-consent: 
     galleries: 
     genres: 
     genres-chamber-music: 
@@ -467,6 +502,7 @@ uk:
     help: 
     home: 
     javascript-required: 
+    javascript-required-ugc: 
     labels:
       by: 
       images: 
@@ -502,6 +538,42 @@ uk:
     language-spanish: 
     language-swedish: 
     language-ukranian: 
+    languages:
+      bg: 
+      ca: 
+      cs: 
+      da: 
+      de: 
+      el: 
+      en: 
+      es: 
+      et: 
+      eu: 
+      fi: 
+      fr: 
+      ga: 
+      he: 
+      hr: 
+      hu: 
+      is: 
+      it: 
+      lt: 
+      lv: 
+      mt: 
+      mul: 
+      nl: Nederlands
+      'no': 
+      pl: 
+      pt: 
+      ro: 
+      ru: 
+      sk: 
+      sl: 
+      sr: 
+      sv: 
+      tr: 
+      uk: 
+      yi: 
     login: 
     mission: 
     mission-title: 
@@ -553,6 +625,9 @@ uk:
       story: 
       timeline: 
       timelines: 
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: 
     refine-your-search-short: 
     register: 
@@ -569,9 +644,6 @@ uk:
     terms-and-policies: 
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
           new-galleries: 
         search:

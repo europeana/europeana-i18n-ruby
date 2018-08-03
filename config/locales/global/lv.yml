@@ -149,27 +149,33 @@ lv:
   global:
     about-us: Par mums
     actions:
-      collapse: 
-      delete: 
-      edit: 
-      expand: 
+      collapse: Salocīt
+      copy: Kopēt
+      delete: Dzēst
+      download: Lejupielādēt
+      downloading: Lejupielādējas
+      edit: Rediģēt
+      expand: Izvērst
+      expand-viewer: 
       filter-all: Viss
       filter-by: Filtrēt pēc
       fullscreen-enter: pilnekrāns
       fullscreen-exit: iziet no pilnekrāna
-      new: 
+      new: Jauns
       next: nākamā
       previous: iepriekšējā
+      reduce-viewer: 
       register: Reģistrēties
-      share: 
+      remove: Noņemt
+      share: Dalīties
       sign-in: Ienākt
       sign-out: Iziet
       skip-to-main: Pāriet uz lapas saturu
       skip-to-section: Pāriet uz sadaļu
-      view: 
-      view-at: 
-      view-more-at: 
-      withdraw: 
+      view: Skatīt
+      view-at: Skatīt
+      view-more-at: 'Skatīt vairāk '
+      withdraw: atsaukt
     channel:
       all: Visi ieraksti
       archaeology: arheoloģija
@@ -177,7 +183,7 @@ lv:
       art: māksla
       art-history: Mākslas vēsture
       fashion: mode
-      first-world-war: 
+      first-world-war: Europeana 1914-1918
       home: Sākums
       maps: kartes
       music: mūzika
@@ -193,9 +199,14 @@ lv:
     cookie_disclaimer:
       more_info: Papildinformācija
       text: Šī vietne izmanto sīkdatnes, lai palīdzētu uzlabot vietnes lietošanas pieredzi. Klikšķinot vai pārvietojoties vietnē, jūs piekrītat, ka ar sīdatņu starpniecību tiek uzkrāta informācija.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} PMĒ"
+          current: "%{date} MĒ"
     email-address: e-pasta adrese
     error:
-      unavailable: 
+      unavailable: Nav pieejams
     facet:
       advanced:
         options: Opcijas
@@ -257,11 +268,11 @@ lv:
         country: Valsts
         data_provider: Institūcija
         date-created: Izveidošanas datējums
-        edm_ugc: 
+        edm_ugc: Rādīt lietotāju izplatīto saturu
         fashion:
           colour: Krāsa
           designer: Dizainers
-          material: 
+          material: Materiāls
           technique: Tehnika
           type: Prece tips
         image_aspectratio: Orientācija
@@ -280,7 +291,7 @@ lv:
         sound_duration: Ilgums
         sound_hq: Augstas kvalitātes
         text_fulltext: Pilnteksta
-        thumbnail: 
+        thumbnail: Tikai vienumus ar sīktēliem
         type: Datu nesējs
         ugc: Rādīt lietotāju sagatavoto saturu
         video_duration: Ilgums
@@ -344,33 +355,43 @@ lv:
       resource:
         type: Tips
       reusability:
-        advanced: Paplašinātā
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
-        advanced-out-of-copyright-non-commercial: 
-        advanced-public: 
-        advanced-rrfa: 
-        advanced-rrpa: 
-        advanced-rrra: 
-        advanced-rs-cne: Copyright Nav vērtēts
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
-        advanced-ucs: 
+        advanced-MARKEDFORDELETION: Paplašinātā
         expiry: līdz %{date}
-        open: Jā, ar atsauci
-        permission: Tikai ar atļauju
-        restricted: Jā, ar ierobežojumiem
-        rs_noc_oklr: 
+        open:
+          brief: Jā
+          info: 
+          label: Jā, ar atsauci
+        permission:
+          brief: Nē
+          info: uzzini kāpēc
+          label: Tikai ar atļauju
+        restricted:
+          brief: Jā
+          info: 
+          label: Jā, ar ierobežojumiem
         simple: Vienkāršā
+      rights:
+        cc-by: 
+        cc-by-nc: 
+        cc-by-nc-nd: 
+        cc-by-nc-sa: 
+        cc-by-nd: 
+        cc-by-sa: 
+        cc0: 
+        orphan-work: 
+        out-of-copyright-non-commercial: 
+        public: 
+        rrfa: 
+        rrpa: 
+        rrra: 
+        rs-cne: Copyright Nav vērtēts
+        rs-inc: Ar autortiesībām
+        rs-inc-edu: Ar autortiesībām - atļauts izmantot izglītojošos nolūkos
+        rs-inc-ow-eu: Ar autortiesībām - ES nenosakāmu autortiesību darbs
+        rs-noc-nc: Bez autortiesībām - izmantošanai tikai nekomerciālos nolūkos
+        rs-noc-oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
+        rs_noc_oklr: Bez autortiesībām - citi zināmi juridiski ierobežojumi
+        ucs: 
       sound_duration:
         long: Garš (6+ minūtes)
         medium: Vidējs (3-6 minūtes)
@@ -383,8 +404,8 @@ lv:
         'false': Nē
         'true': Jā
       thumbnail:
-        'false': 
-        'true': 
+        'false': Nē
+        'true': Jā
       type:
         3d: 3D
         image: Attēls
@@ -421,8 +442,8 @@ lv:
           medium: Vidējs (%{data})
           short: Īss (%{data})
       ugc:
-        'false': 
-        'true': 
+        'false': Nē
+        'true': Jā
       video_duration:
         long: Garš (20+ minūtes)
         medium: Vidējs (4-20 minūtes)
@@ -450,6 +471,20 @@ lv:
     find-us-social-media: Meklē %{channel} sociālajos tīklos
     follow-channel: Sekot %{channel}
     forgot-password: Aizmirsi savu paroli?
+    forms:
+      hints:
+        required-fields: Nepieciešamie lauki
+      validation-errors:
+        blank: Lūdzu, ievadi vērtību
+        confirmation-required: Lūdzu, apstiprini
+        date-format: Lūdzu, ievadi derīgu datumu
+        date-past: 
+        email: Lūdzu, pārbaudi, vai esi pareizi ierakstījis e-pasta adresi
+        file-size: Lūdzu, pārliecinies, vai katra augšupielādētā datne nav lielāka par %{limit_mb} MB
+        file-type: 'Šis datnes formāts nav viens no sekojošiem: %{allowed_types}'
+        form-has-errors: Pārliecinies, vai informācija ir aizpildīta korekti, un mēģini iesniegt vēlreiz
+        user-age: Lai piedalītos, ir jābūt vismaz 16 gadus vecam
+        user-age-consent: Lai piedalītos, ir jābūt vismaz 16 gadus vecam vai ir jābūt vecāka/aizbildņa atļaujai
     galleries: Galerijas
     genres: žanri
     genres-chamber-music: Kamermūzika
@@ -467,8 +502,9 @@ lv:
     help: Palīdzība
     home: Sākums
     javascript-required: Lai aplūkotu šo saturu, lūdzu, iespējojiet JavaScript un apsveriet iespēju atjaunināt interneta pārlūku, lai tas atbalstītu HTML5 saturu.
+    javascript-required-ugc: 
     labels:
-      by: 
+      by: Autors
       images: attēli
     labs: Laboratorija
     labs-text: Remiksē kultūras saturu ar mūsu API un datu kopām
@@ -502,6 +538,42 @@ lv:
     language-spanish: Spāņu
     language-swedish: Zviedru
     language-ukranian: Ukraiņu
+    languages:
+      bg: Bulgāru
+      ca: Katalāņu
+      cs: Čehu
+      da: Dāņu
+      de: Vācu
+      el: Grieķu
+      en: Angļu
+      es: Spāņu
+      et: Igauņu
+      eu: Basku
+      fi: Somu
+      fr: Franču
+      ga: Gēļu
+      he: עברית
+      hr: Horvātu
+      hu: Ungāru
+      is: Islandiešu
+      it: Itāliešu
+      lt: Lietuviešu
+      lv: Latviešu
+      mt: Maltiešu
+      mul: Daudzvalodu
+      nl: Holandiešu
+      'no': Norvēģu
+      pl: Poļu
+      pt: Portugāļu
+      ro: Rumāņu
+      ru: Krievu
+      sk: Slovāku
+      sl: Slovēņu
+      sr: Српски
+      sv: Zviedru
+      tr: Türkçe
+      uk: Ukraiņu
+      yi: ייִדיש
     login: Pieslēgties
     mission: Ar kultūru mēs mainām pasauli! Mēs vēlamies attīstīt Eiropas bagāto kultūras mantojumu un padarīt to cilvēkiem pieejamāku izmantošanai, - gan darbam, gan mācībām, gan izklaidei.
     mission-title: Mūsu misija
@@ -526,33 +598,36 @@ lv:
     professional: Profesionālā
     professional-text: Iesaisties, dalies ar saviem datiem vai izmanto mūsu
     promotions:
-      app: 
-      apps: 
-      blog: 
-      blogs: 
-      collection: 
-      collections: 
-      dataset: 
-      datasets: 
-      event: 
-      events: 
-      exhibition: 
-      exhibitions: 
-      featured_site: 
-      featured_sites: 
-      galleries: 
-      gallery: 
-      image: 
-      images: 
-      new: 
-      partner: 
-      partners: 
-      playlist: 
-      playlists: 
-      stories: 
-      story: 
-      timeline: 
-      timelines: 
+      app: Lietotne
+      apps: Lietotnes
+      blog: Blogs
+      blogs: Blogi
+      collection: Tematiskā kolekcija
+      collections: Tematiskās kolekcijas
+      dataset: Datu kopa
+      datasets: Datu kopas
+      event: Notikums
+      events: Notikumi
+      exhibition: Izstāde
+      exhibitions: Izstādes
+      featured_site: Izcelta vietne
+      featured_sites: Izceltas vietnes
+      galleries: Galerijas
+      gallery: Galerija
+      image: Attēls
+      images: Attēli
+      new: Kas jauns
+      partner: Mūsu partneris
+      partners: Mūsu partneri
+      playlist: Atskaņošanas saraksts
+      playlists: Atskaņošanas saraksti
+      stories: Stāsti
+      story: Stāsts
+      timeline: Laika josla
+      timelines: Laika joslas
+    punctuation:
+      list-item-separator: 
+      term-list: 
     refine-your-search: Precizēt meklēšanas pieprasījumu
     refine-your-search-short: Filtrs
     register: Reģistrēties
@@ -569,11 +644,8 @@ lv:
     terms-and-policies: Lietošanas noteikumi un politika
     tooltips:
       channels:
-        galleries:
-          filter: 
-          info: 
         home:
-          new-galleries: 
+          new-galleries: Vai esat aplūkojuši mūsu jaunās galerijas?
         search:
           new-filter: Tagad meklēšanu ir iespējams filtrēt pēc noteiktas licences
           new-grid: Vai esi redzējis jauno režģa izkārtojumu?

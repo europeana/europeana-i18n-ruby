@@ -7,12 +7,14 @@ mt:
         sources:
           description: Hawn taħt tista' tara lista ta' sorsi għall-kollezzjonijiet tagħna. Dawn is sorsi ikomplu u jżidu kollezzjonijiet fuq Europeana, ikklikja fuq il-link li tinteressak hawn taħt biex tara l-kollezzjonijiet kollha!
   global:
+    exhibitions:
+      contacts: 
     labs-link: Link lejn il-labs
     navigation:
       agents: Nies
       all_blog_posts: Il-blog posts kollha...
       all_exhibitions: Il-wirjiet kollha...
-      all_galleries: 
+      all_galleries: Il-galleries kollha...
       blog: Blog
       browse: Ibbrawżja
       browse_colours: Kuluri
@@ -22,15 +24,17 @@ mt:
       collections: Kollezzjonijiet
       concepts: Suġġetti
       exhibitions: Wirjiet
-      galleries: 
+      galleries: Galleries
       home: Paġna Primarja
       more:
-        agents: Izjed nies
+        agents: Nies
+        people: Izjed nies
+        periods: Perjodi ta' Żmien
         topics: Izjed suġġetti
       periods: perjodi ta zmień
       places: postijiet
-      view-collection: 
-      view-detailed-description: 
+      view-collection: Ara l-kollezzjoni sħiħa
+      view-detailed-description: Ara deskrizzjoni aktar dettaljata
     pro-link: Link għal pro
     pro-text: Kitba għal pro
     settings: Settings
@@ -42,17 +46,17 @@ mt:
         title: Dan huwa Beta release tal-kollezzjoni ġdida tagħna "Kollezzjonijiet" u "Kollezzjonijiet tal-Mużika"
     blog-link: Link għall-blog
     blogs:
-      description: 
+      description: Blogs
       list:
-        count-and-terms-with-range: 
-        page-title: 
-      min-to-read: 
+        count-and-terms-with-range: "%{results_range} ta' %{results_count} blog posts"
+        page-title: Blog
+      min-to-read: minuti biex taqra
     browse:
       colours:
         description: F'din is-sezzjoni tista' tfittex ritratti bbażati fuq il-kulur tagħhom. Kemm tikklikkja fuq ir-ritratt li jogħġbok biex tara l-kollezzjoni!
         title: Kuluri
       newcontent:
-        description: F'din is-sezzjoni tista' ssib il-kontenut kollhu li ġie miżjud reċentament fuq il-Kollezzjonijiet ta' Europeana. Hawnhekk tista' tara liema istituzzjoni ppubblikat materjal ġdid, kemm hemm materjal u meta. Ikklikkja fuq il-links hawn taħt biex tara l-kollezzjonijiet kollha!
+        description: 'Hawn, tista'' tibbrawżja ż-żidiet riċenti kollha tal-Europeana Collections. Ara liema istituzzjoni kulturali kkontribwiet oġġetti ġodda, in-numru ta'' oġġetti li żiedu u meta. Għal aktar tagħrif kemm tikklikkja fuq il-links hawn taħt.  '
         tableh1: L-istituzzjonijiet kollha
         tableh2: Oġġetti
         tableh3: Data
@@ -81,8 +85,9 @@ mt:
         moving-images: Videos
         sound: Ħsejjes
         texts: Kitba
+      description: 
       e7a1418:
-        contribute: 
+        contribute: Żid l-istorja tiegħek tal-1914-1918
         my-account: kont tiegħi
       labels:
         credits: Curated minn
@@ -90,19 +95,41 @@ mt:
         editors-picks: "  "
         recent: Żidiet riċenti
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Ibbrawżja <i>%{preview_title}</i> dwar %{collection}
         spotlight-on: Il-Lenti mixgħul
-        whats-happening: 
+        whats-happening: X'qed jiġri
       music:
         description: Il-<strong>Kollezzjoni tal-Mużika tal-Europeana</strong> tiġbor l-isbaħ rikordji ta' mużika, mużika miktuba, u aktar affarijiet relatati lejn il-kollezzjonijiet minn arkivji Ewropej tal-awdjo viswali, libreriji, arkivji u mużewijiet. <a href="/portal/channels/music/about">Skopri aktar informazzjoni dwar il-Kollezzjoni tal-Mużika.
         title: Mużika tal-Europeana
+    entities:
+      anagraphic:
+        birth: Twelid
+        death: Mewt
+        occupation: Okkupazzjoni
+      labels:
+        bio: Bijografija
+        born: Twieled
+        description: 
+        died: Miet
+        related: Relatat
+      tab_items:
+        items_about: Oġġetti dwar %{name}
+        items_by: Oġġetti bl- %{name}
+      types:
+        agent: Persuna
+        concept: Kunċett
+        place: 'Post
+
+'
+      wiki_link_text: Riżorsi miksuba minn Wikimedia Commons
     events:
-      all_day: 
-      description: 
+      all_day: Ġurnata sħiħa
+      description: Avvenimenti
       list:
-        count-and-terms-with-range: 
-        future: 
-        page-title: 
-        past: 
+        count-and-terms-with-range: "%{results_range} ta' %{results_count} avvenimenti"
+        future: Avvenimenti li ġejjin
+        page-title: Avvenimenti
+        past: Avvenimenti li għaddew
     facet:
       language:
         show:
@@ -122,52 +149,65 @@ mt:
         search-tips: Tips għat-tiftix
         using-myeuropeana: L-użu ta' Europeana Tiegħi
     galleries:
-      description: 
-      description-default: 
-      share: 
+      description: Kultura magħżula għalik! Skopri l-Europeana Galleries!
+      description-default: Għal aktar tagħrif dwar l-Europeana
+      share:
+        one: Ixxerja din il-gallery
+        other: Ixxerja l-galleries
+    helpbar-tip:
+      browse-page: 
+      item-page: 
     more: Aktar...
     my-europeana: L-Europeana tiegħi
     my-europeana-link: Link lejn l-Europeana tiegħi
+    name: Europeana Collections
     navigation:
       breadcrumb:
         account: kont
-        blogs_list_breadcrumb: 
-        contribution: 
-        contribution-attachment: 
-        contribution-attachments: 
-        contribution-done: 
-        contributor: 
-        events_list_breadcrumb: 
+        blogs_list_breadcrumb: Blog
+        contribution: Kontribuzzjoni
+        contribution-attachment: Dokument mehmuż
+        contribution-attachments: Dokumenti mehmuża
+        contribution-done: lest
+        contributor: Kontributur
+        events_list_breadcrumb: Avvenimenti
         exhibitions:
           return_home: Wirjiet
         item_detail: Oġġett
-        register: 
-        reset-password: 
+        register: Irreġistra
+        reset-password: Irrisettja l-Password
         results_list: Riżultati
-        results_list_mlt: 
+        results_list_mlt: Oġġetti simili
         return_home: Mur lura fuq il-paġna primarja
-        sign-in: 
+        sign-in: Idħol
       search:
         placeholder:
-          text: 
+          text: Fittex bil-keyword hawn
     news: Aħbarijiet
+    notice:
+      outage-expected: 
     object:
       actions:
+        annotate: 
         attribute-author: Semmi l-awtur
         attribute-html: HTML
         attribute-plaintext: Kitba sempliċi
+        collapse-extended: 
         download: Niżżel
         download-additional: Disponibbli wkoll bħala
         download-retry: Erġa' pprova
         download-started: Id-'download' bdiet
         downloaddata: Niżżel informazzjoni
-        enlarge: 
+        enlarge: Kabbar
+        expand-extended: 
         explore-by-colour: Esplora skond il-kulur
         media-metadata: Medja Metadejta
         open-media: Iftaħ din l-iskjetta
         show-less-data: Uri inqas informazzjoni
         show-more-data: Uri aktar informazzjoni
         technicalmetadata: Metadata tekniku
+        view-more-at: 
+      description_unavailable: 
       enrichment:
         who:
           title: Titlu
@@ -176,8 +216,8 @@ mt:
         view-items-above: Ara l-oġġetti hawn fuq
         view-items-below: Ara l-oġġetti hawn isfel
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Tagħrif addizzjonali dwar id-drittijiet
+        annotations: Annotazzjonijiet tal-utent
         codec: Codec
         collection-name: Dataset
         concept: Suġġetti
@@ -241,7 +281,7 @@ mt:
         relations: Relazzjonijiet
         rights: Drittijiet
         rights-human: Nista' nuża dan?
-        rights-statement: 
+        rights-statement: Dikjarazzjoni tad-drittijiet
         runtime: Dewmien
         runtime-unit-seconds: sekondi
         source: Sors
@@ -283,14 +323,20 @@ mt:
       nav:
         next: Li jmiss
         prev: Ta' qabel
+      next-item: 
       points:
         east: Lvant
         north: Tramuntana
         south: Nofsinhar
         west: Punent
-      preview_unavailable: 
+      preview_unavailable: Il-previżjoni tal-oġġett mhix disponibbli, biex taċċessa l-immaġni sħiħa u aktar tagħrif żur %{institution_name_and_link}
+      preview_unavailable_explanation: 
+      preview_unavailable_intro: 
+      preview_unavailable_source: 
+      previous-item: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
+      title_unavailable: 
     pages:
       '404':
         intro: Jiddispjaċina, ma nistgħux insibu din il-paġna
@@ -311,6 +357,9 @@ mt:
 
           <p>Għal aktar informazzjoni fuq kif naħdmu ma' istituzzjonijiet kulturali u l-kollezzjonijiet tagħhom, żur Europeana Pro.</p>
         title: Merħba, maħbub tal-kultura!
+      browse:
+        record_sets:
+          link_text: 
       music-channel-about:
         text: |-
           <p>Immaġina kieku qiegħed tħares lejn manuskritti miktubin bl-idejn ta' biċċa mużika waqt li qiegħed tisma' interpretazzjonijiet differenti tiegħu, u taqra il-biografu tal-kompositur. Fuq il-Kollezzjonijiet tal-Mużika ta' Europeana, tista'. </p>
@@ -333,9 +382,9 @@ mt:
         product-save: Salva
         saveto: Salva f'
         show-all-collections: Uri l-kollezzjonijiet kollha
-      federated: 
-      federated-clicked: 
-      federated_more: 
+      federated: Ikklikkja hawn għal riżultati minn sorsi li mhumiex Europeana
+      federated-clicked: Oġġetti minn sorsi li mhumiex Europeana
+      federated_more: Ara r-riżultati %{results_count} kollha dwar %{results_provider}
       list:
         all-results:
           3D: 3D
@@ -368,12 +417,13 @@ mt:
           grid: Grid
           list: Lista
         view-at-provider: Ara f'
-      results: 
+      results: Riżultati
     search:
       browse: Fittex
       or-browse: jew fittex
+      page-title: Riżultati tat-tiftix
       placeholder:
-        filter-text: 
+        filter-text: Fittex
         text: Żid terminu ġdid għat-tfittxija
       similar:
         prefix: 'Simili għal: %{mlt_item}'
@@ -394,3 +444,8 @@ mt:
         label: Lingwa
         settings-label: settings tal-lingwa
       title: Settings
+    ugc:
+      actions:
+        copy-name: 
+        copy-public-display-name: 
+        submit: 
