@@ -8,11 +8,14 @@ module Europeana
         app.config.middleware.use ::I18n::JS::Middleware
       end
 
-      initializer 'europeana_i18n.setup_assets' do |app|
-        Rake::Task['assets:precompile'].enhance(['i18n:js:export'])
+      rake_tasks do
+        Dir[File.expand_path('../../tasks/*.rake', __dir__)].each { |f| load f }
+      end
 
+      initializer 'europeana_i18n.setup_assets' do |app|
         app.config.assets.precompile += %w(
-          i18n/??.js
+          europeana/i18n/*.js
+          i18n-js/??.js
         )
       end
     end
