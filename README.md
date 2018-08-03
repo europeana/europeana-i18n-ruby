@@ -16,7 +16,7 @@ app.
 JavaScript translations are enabled through the [I18n-js](https://github.com/fnando/i18n-js) gem. 
 You will need to add these js files to your app/assets/javascript/application.js
 
-```
+```javascript
 //= require i18n_initializer
 //= require i18n
 //= require i18n_translations
@@ -25,10 +25,10 @@ You will need to add these js files to your app/assets/javascript/application.js
 Then ensure you load the translations specific to your current locale.
 This gem automatically generates translation files per locale. (see config/i18n-js.yml)
 In order to know which language file to use include the JsTranslationsHelper and call the js_translation_files method.
-You can provide an array of language keys for the locales you requrire translations for.
+You can provide an array of language keys for the locales you require translations for.
 If no parameter is given to js_translation_files it will default to the current I18n locale.
 
-```
+```ruby
 class YourClass
   include Europeana::I18n::JsTranslationsHelper
 end
