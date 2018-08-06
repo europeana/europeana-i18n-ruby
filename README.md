@@ -14,12 +14,10 @@ app.
 ## JavaScript Translations
 
 JavaScript translations are enabled through the [I18n-js](https://github.com/fnando/i18n-js) gem. 
-You will need to add these js files to your app/assets/javascript/application.js
+You will need to add europeana/i18n to your app/assets/javascript/application.js
 
 ```javascript
-//= require i18n_initializer
-//= require i18n
-//= require i18n_translations
+//= require europeana/i18n
 ```
 
 Then ensure you load the translations specific to your current locale.
@@ -33,8 +31,11 @@ class YourClass
   include Europeana::I18n::JsTranslationsHelper
 end
 
-YourClass.new.js_translation_files('en', 'nl') #=> ['/javascripts/i18n/en.js', '/javascripts/i18n/nl.js']
+YourClass.new.js_translation_files('en', 'nl') #=> ['/assets/i18n-js/en-FINGERPRINT.js', '/assets/i18n-js/nl-FINGERPRINT.js']
 ```
+
+This gem modifies the asset pipeline to ensure the individual translations are present when running rake asset:precompile.
+It's a good idea to ignore these files from version control in your project.
 
 ## License
 
