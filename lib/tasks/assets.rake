@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 ##
-# Modifying the asset precompile task
-namespace :assets do
-  ::Rake::Task[:precompile].enhance(['i18n:js:export'])
-end
+# Modifying the asset precompile task to ensure js translations are available before assets are precompiled.
+::Rake::Task['assets:precompile'].enhance(['i18n:js:export'])
+

@@ -37,7 +37,7 @@ YourClass.new.js_translation_files('en', 'nl') #=> ['/assets/i18n-js/en-FINGERPR
 ```
 
 This gem modifies the asset pipeline to ensure the individual translations are present when running rake asset:precompile.
-It's a good idea to git ignore these files in your project.
+It's a good idea to ignore these files from version control in your project.
 
 ## License
 

@@ -1,10 +1,7 @@
 # frozen_string_literal: true
 
 require 'i18n-js'
-if defined?(Rails)
-  require 'europeana/i18n/engine'
-  require 'europeana/i18n/railtie'
-end
+require 'europeana/i18n/engine' if defined?(Rails)
 
 module Europeana
   module I18n
