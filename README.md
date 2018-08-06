@@ -14,12 +14,10 @@ app.
 ## JavaScript Translations
 
 JavaScript translations are enabled through the [I18n-js](https://github.com/fnando/i18n-js) gem. 
-You will need to add these js files to your app/assets/javascript/application.js
+You will need to add europeana/i18n to your app/assets/javascript/application.js
 
 ```javascript
-//= require europeana/i18n/i18n_initializer
-//= require i18n
-//= require europeana/i18n/i18n_translations
+//= require europeana/i18n
 ```
 
 Then ensure you load the translations specific to your current locale.
