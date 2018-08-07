@@ -8,7 +8,7 @@ module Europeana
       # @return [Array<string>] The paths for the translation js files.
       def js_translation_files(*locales)
         locales = [::I18n.locale] if locales.empty?
-        locales.map { |locale| asset_path("i18n-js/#{locale}") }
+        locales.map { |locale| asset_path("i18n-js/#{locale}.js") }
       end
     end
   end
