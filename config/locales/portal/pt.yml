@@ -215,6 +215,7 @@ pt:
         title: Itens relacionados
         view-items-above: ver itens acima
         view-items-below: ver itens abaixo
+      items-similar-to-item: 
       meta-label:
         additional-rights: 'Informação adicional sobre os direitos '
         annotations: 'Anotações do utilizador '
@@ -336,6 +337,7 @@ pt:
       previous-item: 
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

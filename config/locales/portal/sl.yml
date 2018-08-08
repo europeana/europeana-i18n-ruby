@@ -215,6 +215,7 @@ sl:
         title: Povezani predmeti
         view-items-above: ogled zgornjih predmetov
         view-items-below: ogled spodnjih predmetov
+      items-similar-to-item: 
       meta-label:
         additional-rights: Dodatne informacije o pravicah
         annotations: Uporabniške opombe
@@ -336,6 +337,7 @@ sl:
       previous-item: 
       show-more-similar-items: prikaži več
       similar-items: Podobni predmeti
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

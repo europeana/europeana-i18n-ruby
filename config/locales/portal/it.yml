@@ -215,6 +215,7 @@ it:
         title: Articoli or voci collegati or collegate
         view-items-above: Vedi le voci or gli articoli sopra
         view-items-below: Vedi le voci or gli articoli sotto
+      items-similar-to-item: 
       meta-label:
         additional-rights: Informazioni aggiuntive sui diritti
         annotations: Annotazioni dell'utente
@@ -336,6 +337,7 @@ it:
       previous-item: 
       show-more-similar-items: mostra di più
       similar-items: Oggetti simili
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

@@ -215,6 +215,7 @@ en:
         title: Related items
         view-items-above: view items above
         view-items-below: view items below
+      items-similar-to-item: Similar to this item
       meta-label:
         additional-rights: Additional rights information
         annotations: User annotations
@@ -336,6 +337,7 @@ en:
       previous-item: Previous item
       show-more-similar-items: show more
       similar-items: Similar items
+      suggested-content: Suggested content
       title_unavailable: Sorry.  No title is available.
     pages:
       '404':

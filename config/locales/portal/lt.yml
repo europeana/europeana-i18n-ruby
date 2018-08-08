@@ -215,6 +215,7 @@ lt:
         title: Susiję įrašai
         view-items-above: Peržiūrėti įrašus esančius viršuje
         view-items-below: Peržiūrėti įrašus esančius apačioje
+      items-similar-to-item: 
       meta-label:
         additional-rights: Papildoma informacija apie teises
         annotations: Naudotojo pastabos
@@ -336,6 +337,7 @@ lt:
       previous-item: 
       show-more-similar-items: rodyti daugiau
       similar-items: Panašūs įrašai
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

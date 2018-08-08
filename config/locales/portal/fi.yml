@@ -215,6 +215,7 @@ fi:
         title: Aiheeseen liittyvät kohteet
         view-items-above: katso yllä olevia kohteita
         view-items-below: katso alla olevia kohteita
+      items-similar-to-item: 
       meta-label:
         additional-rights: Lisätietoa oikeuksista
         annotations: Käyttäjän huomautukset
@@ -336,6 +337,7 @@ fi:
       previous-item: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

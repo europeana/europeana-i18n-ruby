@@ -216,6 +216,7 @@ lv:
         title: Saistītie ieraksti
         view-items-above: skatīt iepriekšējos ierakstus
         view-items-below: skatīt nākamos ierakstus
+      items-similar-to-item: 
       meta-label:
         additional-rights: Tiesību papildinformācija
         annotations: Lietotāju anotācijas
@@ -337,6 +338,7 @@ lv:
       previous-item: Iepriekšējais
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
+      suggested-content: 
       title_unavailable: Nosaukums nav pieejams.
     pages:
       '404':

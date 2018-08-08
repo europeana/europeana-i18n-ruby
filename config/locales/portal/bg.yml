@@ -215,6 +215,7 @@ bg:
         title: Подобни обекти
         view-items-above: Виж обектите по-горе
         view-items-below: Виж обектите по-долу
+      items-similar-to-item: 
       meta-label:
         additional-rights: Допълнителна информация за правата
         annotations: Анотации на потребителите
@@ -338,6 +339,7 @@ bg:
       previous-item: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

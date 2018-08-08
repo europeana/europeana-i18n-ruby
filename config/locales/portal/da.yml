@@ -215,6 +215,7 @@ da:
         title: Relaterede genstande
         view-items-above: se genstande ovenfor
         view-items-below: se genstande nedenfor
+      items-similar-to-item: 
       meta-label:
         additional-rights: Information om yderligere rettigheder
         annotations: Brugeranbefalinger
@@ -336,6 +337,7 @@ da:
       previous-item: 
       show-more-similar-items: vis mere
       similar-items: Lignende genstande
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

@@ -215,6 +215,7 @@ nl:
         title: Gerelateerde objecten
         view-items-above: bekijk bovenstaande resultaten
         view-items-below: bekijk onderstaande resultaten
+      items-similar-to-item: 
       meta-label:
         additional-rights: Aanvullende informatie over rechten
         annotations: Aantekeningen van gebruikers
@@ -336,6 +337,7 @@ nl:
       previous-item: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

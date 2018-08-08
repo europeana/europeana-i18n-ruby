@@ -215,6 +215,7 @@ fr:
         title: Objets similaires
         view-items-above: voir les objets au-dessus
         view-items-below: voir les objets en dessous
+      items-similar-to-item: 
       meta-label:
         additional-rights: Informations supplémentaires concernant les droits
         annotations: Annotations utilisateur
@@ -336,6 +337,7 @@ fr:
       previous-item: 
       show-more-similar-items: voir plus
       similar-items: Objets similaires
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

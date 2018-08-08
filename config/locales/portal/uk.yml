@@ -211,6 +211,7 @@ uk:
         title: 
         view-items-above: 
         view-items-below: 
+      items-similar-to-item: 
       meta-label:
         additional-rights: 
         annotations: 
@@ -332,6 +333,7 @@ uk:
       previous-item: 
       show-more-similar-items: 
       similar-items: 
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

@@ -215,6 +215,7 @@ ru:
         title: Связанные элементы
         view-items-above: Показать вышестоящие элементы
         view-items-below: Показать нижестоящие элементы
+      items-similar-to-item: 
       meta-label:
         additional-rights: Дополнительная информация о правах
         annotations: Аннотации пользователя
@@ -336,6 +337,7 @@ ru:
       previous-item: 
       show-more-similar-items: показать больше
       similar-items: Похожие записи
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

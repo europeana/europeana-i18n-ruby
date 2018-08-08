@@ -215,6 +215,7 @@ hu:
         title: Hasonló elemek
         view-items-above: mutasd a fenti elemeket
         view-items-below: mutasd a lenti elemeket
+      items-similar-to-item: 
       meta-label:
         additional-rights: További jogi információk
         annotations: Felhasználói megjegyzések
@@ -336,6 +337,7 @@ hu:
       previous-item: 
       show-more-similar-items: mutass többet
       similar-items: Hasonló elemek
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

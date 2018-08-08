@@ -215,6 +215,7 @@ hr:
         title: Srodni objekti
         view-items-above: pogledaj gornje objekte
         view-items-below: pogledaj donje objekte
+      items-similar-to-item: 
       meta-label:
         additional-rights: Dodatne informacije o pravima
         annotations: Korisničke zabilješke
@@ -336,6 +337,7 @@ hr:
       previous-item: 
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

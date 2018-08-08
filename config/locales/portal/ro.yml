@@ -215,6 +215,7 @@ ro:
         title: Înregistrări înrudite
         view-items-above: vezi obiectele de mai sus
         view-items-below: vezi obiectele de mai jos
+      items-similar-to-item: 
       meta-label:
         additional-rights: Informații suplimentare privind drepturile
         annotations: Adnotările utilizatorului
@@ -338,6 +339,7 @@ ro:
       previous-item: 
       show-more-similar-items: arată mai multe
       similar-items: Înregistrări asemănătoare
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

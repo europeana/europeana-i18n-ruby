@@ -215,6 +215,7 @@ mt:
         title: Oġġetti relatati
         view-items-above: Ara l-oġġetti hawn fuq
         view-items-below: Ara l-oġġetti hawn isfel
+      items-similar-to-item: 
       meta-label:
         additional-rights: Tagħrif addizzjonali dwar id-drittijiet
         annotations: Annotazzjonijiet tal-utent
@@ -336,6 +337,7 @@ mt:
       previous-item: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

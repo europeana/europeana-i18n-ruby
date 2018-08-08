@@ -215,6 +215,7 @@
         title: Relaterte objekter
         view-items-above: se på objekter over
         view-items-below: se på objekter under
+      items-similar-to-item: 
       meta-label:
         additional-rights: Ytterligere rettighetsinformasjon
         annotations: Brukeranbefalinger
@@ -336,6 +337,7 @@
       previous-item: 
       show-more-similar-items: Vis mer
       similar-items: Like objekter
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':

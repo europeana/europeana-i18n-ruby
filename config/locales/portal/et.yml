@@ -215,6 +215,7 @@ et:
         title: Seotud kirjed
         view-items-above: vaata kirjeid ülal
         view-items-below: vaata kirjeid all
+      items-similar-to-item: 
       meta-label:
         additional-rights: Lisateavet õiguste kohta
         annotations: Kasutaja märked
@@ -336,6 +337,7 @@ et:
       previous-item: 
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
+      suggested-content: 
       title_unavailable: 
     pages:
       '404':
