@@ -244,6 +244,7 @@ sv:
           is-successor-of: Efterträder
           realises: Realiserar
           was-present-at: Närvarade vid
+        extended-information: 
         extent: Storlek
         file-size: Filstorlek
         format: Format

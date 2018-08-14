@@ -244,6 +244,7 @@ cs:
           is-successor-of: 'Je pokračováním:'
           realises: 'Realizuje:'
           was-present-at: 'Nachází se v:'
+        extended-information: 
         extent: Velikost
         file-size: Velikost souboru
         format: Formát

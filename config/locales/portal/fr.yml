@@ -244,6 +244,7 @@ fr:
           is-successor-of: Est le successeur de
           realises: Réalise
           was-present-at: Présent à
+        extended-information: 
         extent: Taille
         file-size: Taille du fichier
         format: Format

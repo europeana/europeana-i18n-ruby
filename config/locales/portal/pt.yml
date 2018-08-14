@@ -244,6 +244,7 @@ pt:
           is-successor-of: É sucessor de
           realises: Realiza
           was-present-at: Presente em
+        extended-information: 
         extent: Tamanho
         file-size: Tamanho de ficheiro
         format: Formato

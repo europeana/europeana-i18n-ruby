@@ -244,6 +244,7 @@
           is-successor-of: 'Er etterfølgeren av '
           realises: Frislipp av
           was-present-at: Tilstede
+        extended-information: 
         extent: Størrelse
         file-size: Filstørrelse
         format: Format

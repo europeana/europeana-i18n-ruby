@@ -244,6 +244,7 @@ en:
           is-successor-of: Is successor of
           realises: Realises
           was-present-at: Present at
+        extended-information: Extended Information
         extent: Size
         file-size: File size
         format: Format

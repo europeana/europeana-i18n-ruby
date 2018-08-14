@@ -244,6 +244,7 @@ hr:
           is-successor-of: Nastavlja
           realises: Ostvaruje
           was-present-at: Prisutan u
+        extended-information: 
         extent: Veličina
         file-size: Veličina datoteke
         format: Format

@@ -244,6 +244,7 @@ it:
           is-successor-of: E' il successore di or segue a
           realises: Realizza
           was-present-at: Presente a
+        extended-information: 
         extent: Dimensione
         file-size: Dimensione del file
         format: Formato

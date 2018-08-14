@@ -244,6 +244,7 @@ fi:
           is-successor-of: On alla olevan seuraaja
           realises: Toteuttaa
           was-present-at: Sijaitsee
+        extended-information: 
         extent: Koko
         file-size: Tiedostokoko
         format: Formaatti

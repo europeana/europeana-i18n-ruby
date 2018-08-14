@@ -244,6 +244,7 @@ nl:
           is-successor-of: 
           realises: Realisatie
           was-present-at: 
+        extended-information: 
         extent: Afmeting
         file-size: Bestandsgrootte
         format: Formaat

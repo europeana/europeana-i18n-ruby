@@ -244,6 +244,7 @@ hu:
           is-successor-of: 'A következő származéka:'
           realises: Kiadás
           was-present-at: Jelen volt
+        extended-information: 
         extent: Méret
         file-size: Fájl mérete
         format: Formátum

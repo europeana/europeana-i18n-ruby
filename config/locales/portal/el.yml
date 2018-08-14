@@ -244,6 +244,7 @@ el:
           is-successor-of: Είναι διάδοχος του
           realises: Πραγματοποιεί
           was-present-at: Παρών στο
+        extended-information: 
         extent: Μέγεθος
         file-size: Μέγεθος αρχείου
         format: Τύπος αρχείου

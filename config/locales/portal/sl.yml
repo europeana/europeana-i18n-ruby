@@ -244,6 +244,7 @@ sl:
           is-successor-of: Je naslednik
           realises: Spozna
           was-present-at: Predstavi ob
+        extended-information: 
         extent: Velikost
         file-size: Velikost datoteke
         format: Format

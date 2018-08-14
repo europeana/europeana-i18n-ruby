@@ -244,6 +244,7 @@ pl:
           is-successor-of: Jest następcą
           realises: Realizuje
           was-present-at: Obecny na
+        extended-information: 
         extent: Rozmiar
         file-size: Rozmiar pliku
         format: Format

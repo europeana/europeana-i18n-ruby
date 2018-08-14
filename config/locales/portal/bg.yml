@@ -244,6 +244,7 @@ bg:
           is-successor-of: Следва
           realises: Изразява
           was-present-at: 'Наличен на '
+        extended-information: 
         extent: Размер
         file-size: Размер на файла
         format: Формат

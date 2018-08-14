@@ -244,6 +244,7 @@ es:
           is-successor-of: Sucede a
           realises: Alcance
           was-present-at: Presente en
+        extended-information: 
         extent: Tamaño
         file-size: Tamaño del archivo
         format: Formato

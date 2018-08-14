@@ -244,6 +244,7 @@ et:
           is-successor-of: On järjeltulija
           realises: Realiseerib
           was-present-at: Kohal
+        extended-information: 
         extent: Suurus
         file-size: Failisuurus
         format: Formaat

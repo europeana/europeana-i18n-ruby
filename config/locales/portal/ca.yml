@@ -244,6 +244,7 @@ ca:
           is-successor-of: És succcesor de
           realises: realitza
           was-present-at: Present a
+        extended-information: 
         extent: Mida
         file-size: Mida del fitxer
         format: Format
