@@ -217,6 +217,7 @@ en:
           filters:
             events:
               all: All events
+              none: No event
           table:
             headings:
               date: Submission date
