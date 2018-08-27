@@ -337,6 +337,11 @@ lv:
       preview_unavailable_intro: Mūsu partneris nepiedāvā priekšskatījumu, skat. papildinformāciju avotā.
       preview_unavailable_source: Doties uz avotu
       previous-item: Iepriekšējais
+      promotions:
+        card-labels:
+          dcContributor: 
+          dcCreator: 
+          dcType: 
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
       similar-result: 

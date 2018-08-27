@@ -336,6 +336,11 @@ fr:
       preview_unavailable_intro: 
       preview_unavailable_source: 
       previous-item: 
+      promotions:
+        card-labels:
+          dcContributor: 
+          dcCreator: 
+          dcType: 
       show-more-similar-items: voir plus
       similar-items: Objets similaires
       similar-result: 

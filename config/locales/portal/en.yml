@@ -336,6 +336,11 @@ en:
       preview_unavailable_intro: No preview was provided by our partners, more information may be available at the source.
       preview_unavailable_source: Go to source
       previous-item: Previous item
+      promotions:
+        card-labels:
+          dcContributor: Contributor to this object
+          dcCreator: Creator of this object
+          dcType: The type of this object
       show-more-similar-items: show more
       similar-items: Similar items
       similar-result: Result

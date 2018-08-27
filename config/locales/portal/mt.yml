@@ -336,6 +336,11 @@ mt:
       preview_unavailable_intro: 
       preview_unavailable_source: 
       previous-item: 
+      promotions:
+        card-labels:
+          dcContributor: 
+          dcCreator: 
+          dcType: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
       similar-result: 
