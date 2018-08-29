@@ -455,6 +455,10 @@ fi:
         to: päättyen
     feedback:
       close: kiinni
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Palaute
       placeholder: Kerro meille mitä mieltä olet ja mitä voimme parantaa. Jos haluat yhteydenottoa, jätä sähköpostiosoitteesi täälläkin!

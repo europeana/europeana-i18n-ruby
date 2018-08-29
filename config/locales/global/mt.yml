@@ -457,6 +457,10 @@ mt:
         to: għal
     feedback:
       close: Agħlaq
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: żball
       open: Il-Kummenti Tiegħek
       placeholder: Għidilna x'taħseb u dak li aħna nistgħu ntejbu. Jekk tixtieq li nkunu nistu nikunttjawk lura, jekk joġħġbok ikteb l-emejl tiegħek!

@@ -455,6 +455,10 @@ hu:
         to: "-ig"
     feedback:
       close: Bezárás
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Visszajelzés
       placeholder: Nézzük, mit gondol, és mit tudunk javítani. Ha azt szeretnénk, hogy a kapcsolatot, kérjük, hagyja el e-mail címét is!

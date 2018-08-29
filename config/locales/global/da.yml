@@ -455,6 +455,10 @@ da:
         to: til
     feedback:
       close: Tæt
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Feedback
       placeholder: Lad os vide hvad du synes, og hvad vi kan forbedre. Hvis du ønsker at blive kontaktet, bedes du forlade din e-mailadresse her også!

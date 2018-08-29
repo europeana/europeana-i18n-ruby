@@ -455,6 +455,10 @@ lv:
         to: līdz
     feedback:
       close: Aizvērt
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: Kļūda
       open: Atsauksme
       placeholder: Sazinies ar mums un pastāsti savas domas un kādi uzlabojumi būtu nepieciešami. Ja vēlies saņemt no mums atbildi, lūdzu, pievieno arī savu e-pasta adresi.

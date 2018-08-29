@@ -455,6 +455,10 @@ ro:
         to: până la
     feedback:
       close: Închide
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Reacție
       placeholder: Anuntati-ne ce crezi și ce putem îmbunătăți. Dacă doriți ca să fiți contactat, vă rugăm să lăsați adresa dvs. de e-mail aici!

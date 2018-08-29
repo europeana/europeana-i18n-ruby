@@ -455,6 +455,10 @@ bg:
         to: до
     feedback:
       close: Близо
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Обратна връзка
       placeholder: Кажете ни какво мислите и какво можем да подобрим. Ако искате да се свържете с тях, моля, оставете вашия имейл адрес тук също!

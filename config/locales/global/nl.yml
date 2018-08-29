@@ -455,6 +455,10 @@ nl:
         to: tot
     feedback:
       close: Sluiten
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: Error
       open: Feedback
       placeholder: 'Laat ons weten wat beter kan! Laat uw email adres achter als u contact wilt opnemen. '

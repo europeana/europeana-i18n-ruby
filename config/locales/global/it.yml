@@ -455,6 +455,10 @@ it:
         to: a
     feedback:
       close: Vicino
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: Error
       open: Feedback
       placeholder: Se si vuole essere contattati , lascia il tuo indirizzo e-mail !

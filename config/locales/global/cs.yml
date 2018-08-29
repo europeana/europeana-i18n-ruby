@@ -455,6 +455,10 @@ cs:
         to: do
     feedback:
       close: Zavřít
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Názory
       placeholder: Dejte nám vědět, co si myslíte a co bychom mohli zlepšit. Chcete-li, abychom vás kontaktovali, zadejte také e-mailovou adresu.

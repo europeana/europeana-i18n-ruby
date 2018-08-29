@@ -455,6 +455,10 @@ sk:
         to: do
     feedback:
       close: Zatvoriť
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Spätná väzba
       placeholder: Dajte nám vedieť čo si myslíte a čo môžeme zlepšiť. Ak chcete, aby sme vás kontaktovali, vložte sem aj vašu emailovú adresu!

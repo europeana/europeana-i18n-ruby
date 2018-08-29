@@ -455,6 +455,10 @@ sr:
         to: 
     feedback:
       close: 
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: 
       placeholder: 

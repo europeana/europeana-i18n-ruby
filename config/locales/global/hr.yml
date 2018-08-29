@@ -455,6 +455,10 @@ hr:
         to: do
     feedback:
       close: Blizu
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Povratne informacije
       placeholder: Recite nam što mislite i što možemo poboljšati. Ako želite da vas kontaktiramo, molimo vas da ostavite svoj e-mail i ovdje!

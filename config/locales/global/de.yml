@@ -455,6 +455,10 @@ de:
         to: nach
     feedback:
       close: schließen
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: Error
       open: Feedback
       placeholder: Lassen Sie uns wissen , was Sie denken und was können wir verbessern. Wenn Sie kontaktiert werden möchten, lassen Sie uns bitte Ihre E-Mail -Adresse an!

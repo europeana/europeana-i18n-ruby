@@ -455,6 +455,10 @@ ca:
         to: a
     feedback:
       close: a prop
+      data-agreement: 
+      data-use-1: 
+      data-use-2: 
+      data-use-header: 
       error: 
       open: Comentaris
       placeholder: Faci&#39;ns saber el que pensa i el que es pot millorar. Si desitja ser contactat, si us plau deixi la seva adreça de correu electrònic aquí també!
