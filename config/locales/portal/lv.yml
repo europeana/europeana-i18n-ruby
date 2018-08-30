@@ -341,7 +341,10 @@ lv:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
       similar-result: 

@@ -356,7 +356,10 @@ ga:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: taispeáin níos mó
       similar-items: Míreanna dá shamhail
       similar-result: 

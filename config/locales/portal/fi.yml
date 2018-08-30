@@ -340,7 +340,10 @@ fi:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
       similar-result: 

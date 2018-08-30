@@ -340,7 +340,10 @@ da:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: vis mere
       similar-items: Lignende genstande
       similar-result: 

@@ -340,7 +340,10 @@
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: Vis mer
       similar-items: Like objekter
       similar-result: 

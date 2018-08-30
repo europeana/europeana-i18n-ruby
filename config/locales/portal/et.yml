@@ -340,7 +340,10 @@ et:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
       similar-result: 

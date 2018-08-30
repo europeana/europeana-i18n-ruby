@@ -336,7 +336,10 @@ tr:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: 
       similar-items: 
       similar-result: 

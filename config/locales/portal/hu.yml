@@ -340,7 +340,10 @@ hu:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: mutass többet
       similar-items: Hasonló elemek
       similar-result: 

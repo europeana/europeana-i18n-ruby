@@ -340,7 +340,10 @@ pt:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
       similar-result: 

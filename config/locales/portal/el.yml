@@ -340,7 +340,10 @@ el:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: εμφάνιση περισσοτέρων
       similar-items: Παρόμοια αντικείμενα
       similar-result: 

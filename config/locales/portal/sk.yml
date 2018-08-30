@@ -340,7 +340,10 @@ sk:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: ukázať viac
       similar-items: Podobné položky
       similar-result: 

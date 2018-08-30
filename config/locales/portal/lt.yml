@@ -340,7 +340,10 @@ lt:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: rodyti daugiau
       similar-items: Panašūs įrašai
       similar-result: 

@@ -340,7 +340,10 @@ sv:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: visa fler
       similar-items: Liknande poster
       similar-result: 

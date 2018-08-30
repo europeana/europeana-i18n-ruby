@@ -342,7 +342,10 @@ bg:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
       similar-result: 

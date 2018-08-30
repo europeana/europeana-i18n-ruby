@@ -340,7 +340,10 @@ mt:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
       similar-result: 

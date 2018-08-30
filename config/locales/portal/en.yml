@@ -340,7 +340,10 @@ en:
         card-labels:
           dcContributor: Contributor to this object
           dcCreator: Creator of this object
-          dcType: The type of this object
+          dcFormat: Format of this object
+          dcSubject: Subject of this object
+          dcType: Type of this object
+          dctermsMedium: Medium of this object
       show-more-similar-items: show more
       similar-items: Similar items
       similar-result: Result

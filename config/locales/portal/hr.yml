@@ -340,7 +340,10 @@ hr:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
       similar-result: 

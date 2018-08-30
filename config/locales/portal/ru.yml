@@ -340,7 +340,10 @@ ru:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: показать больше
       similar-items: Похожие записи
       similar-result: 

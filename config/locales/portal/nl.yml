@@ -340,7 +340,10 @@ nl:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
       similar-result: 

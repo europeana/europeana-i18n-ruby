@@ -340,7 +340,10 @@ sl:
         card-labels:
           dcContributor: 
           dcCreator: 
+          dcFormat: 
+          dcSubject: 
           dcType: 
+          dctermsMedium: 
       show-more-similar-items: prikaži več
       similar-items: Podobni predmeti
       similar-result: 
