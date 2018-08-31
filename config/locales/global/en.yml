@@ -455,10 +455,10 @@ en:
         to: to
     feedback:
       close: Close
-      data-agreement: I agree to Europeana's privacy policy
+      data-agreement: I agree to Europeana's Privacy Policy
       data-use-1: We may share your data anonymously with our partners in order to improve Europeana.
       data-use-2: If you provide an email address we may contact you for more information.
-      data-use-header: Any personal data
+      data-use-header: 'Any personal data:'
       error: Error
       open: Feedback
       placeholder: Let us know what you think and what we can improve.
