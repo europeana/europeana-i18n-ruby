@@ -460,6 +460,7 @@ sl:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Povratne informacije
       placeholder: Sporočite nam, kaj mislite in kaj lahko izboljšamo. Če želite, da stopimo v stik z vami, pustite tudi svoj e-poštni naslov!
       submit: Pošljite

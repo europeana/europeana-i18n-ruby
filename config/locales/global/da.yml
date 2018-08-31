@@ -460,6 +460,7 @@ da:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Feedback
       placeholder: Lad os vide hvad du synes, og hvad vi kan forbedre. Hvis du ønsker at blive kontaktet, bedes du forlade din e-mailadresse her også!
       submit: Indsend

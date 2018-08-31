@@ -460,6 +460,7 @@ sk:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Spätná väzba
       placeholder: Dajte nám vedieť čo si myslíte a čo môžeme zlepšiť. Ak chcete, aby sme vás kontaktovali, vložte sem aj vašu emailovú adresu!
       submit: Predložiť

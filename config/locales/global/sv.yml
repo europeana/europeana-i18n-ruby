@@ -460,6 +460,7 @@ sv:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Feedback
       placeholder: Låt oss veta vad du tycker och vad vi kan förbättra. Om du vill bli kontaktad, lämna din e-postadress här också!
       submit: Lämna

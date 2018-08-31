@@ -462,6 +462,7 @@ ga:
       data-use-2: 
       data-use-header: 
       error: Earráid
+      error-short: 
       open: Aiseolas
       placeholder: Inis dúinn cad a mheasann tú. Cad ar féidir linn a fheabhsú? Más mian leat go rachfaidh muid i dteagmháil leat, fág do sheoladh ríomhphoist anseo leis!
       submit: Taisc

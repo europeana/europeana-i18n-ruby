@@ -460,6 +460,7 @@ fr:
       data-use-2: 
       data-use-header: 
       error: Error
+      error-short: 
       open: Feedback
       placeholder: Si vous souhaitez être contacté , laissez-nous s'il vous plaît votre adresse e-mail !
       submit: Soumettre

@@ -460,6 +460,7 @@
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Tilbakemelding
       placeholder: La oss få vite hva du tenker og hva vi kan forbedre. Hvis du ønsker å bli kontaktet, kan du legge igjen din e-postadresse her også!
       submit: Sende inn

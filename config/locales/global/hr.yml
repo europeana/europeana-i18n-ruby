@@ -460,6 +460,7 @@ hr:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Povratne informacije
       placeholder: Recite nam što mislite i što možemo poboljšati. Ako želite da vas kontaktiramo, molimo vas da ostavite svoj e-mail i ovdje!
       submit: podnijeti

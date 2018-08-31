@@ -460,6 +460,7 @@ ro:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Reacție
       placeholder: Anuntati-ne ce crezi și ce putem îmbunătăți. Dacă doriți ca să fiți contactat, vă rugăm să lăsați adresa dvs. de e-mail aici!
       submit: A depune

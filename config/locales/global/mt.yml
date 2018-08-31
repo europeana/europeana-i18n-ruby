@@ -462,6 +462,7 @@ mt:
       data-use-2: 
       data-use-header: 
       error: żball
+      error-short: 
       open: Il-Kummenti Tiegħek
       placeholder: Għidilna x'taħseb u dak li aħna nistgħu ntejbu. Jekk tixtieq li nkunu nistu nikunttjawk lura, jekk joġħġbok ikteb l-emejl tiegħek!
       submit: Ibgħat

@@ -460,6 +460,7 @@ fi:
       data-use-2: 
       data-use-header: 
       error: 
+      error-short: 
       open: Palaute
       placeholder: Kerro meille mitä mieltä olet ja mitä voimme parantaa. Jos haluat yhteydenottoa, jätä sähköpostiosoitteesi täälläkin!
       submit: Lähetä
