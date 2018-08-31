@@ -456,21 +456,21 @@ en:
     feedback:
       close: Close
       data-agreement: I agree to Europeana's privacy policy
-      data-use-1: We may share your data anonymously with our partners in order to improve Europeana
-      data-use-2: If you provide an email address we may contact you for other information
+      data-use-1: We may share your data anonymously with our partners in order to improve Europeana.
+      data-use-2: If you provide an email address we may contact you for more information.
       data-use-header: Any personal data
       error: Error
       open: Feedback
-      placeholder: Let us know what you think and what we can improve. If you want to be contacted, please leave your email address here too!
+      placeholder: Let us know what you think and what we can improve.
       submit: Submit
       thanks:
-        long: Thank you for your feedback. If needed, we'll get back to you as soon as possible
+        long: Thank you for your feedback. If needed, we'll get back to you as soon as possible.
         short: Thank you!
       title: Feedback
       type:
-        bug: bug
-        comment: comment
-        correction: correction
+        bug: Bug
+        comment: Comment
+        correction: Correction
     find-us-elsewhere: Find us elsewhere
     find-us-social-media: Find %{channel} on social media
     follow-channel: Follow %{channel}
