@@ -475,6 +475,9 @@ ru:
     find-us-elsewhere: Вы также можете найти нас
     find-us-social-media: 
     follow-channel: Следите за %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Забыли пароль?
     forms:
       hints:

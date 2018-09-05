@@ -477,6 +477,9 @@ mt:
     find-us-elsewhere: Sibna x'imkien ieħor
     find-us-social-media: Fittex %{channel} fuq midja soċjali
     follow-channel: Segwi %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Insejt il-password?
     forms:
       hints:

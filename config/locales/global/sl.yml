@@ -475,6 +475,9 @@ sl:
     find-us-elsewhere: Poiščite nas drugje
     find-us-social-media: 
     follow-channel: Sledite %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Ste pozabili svoje geslo?
     forms:
       hints:

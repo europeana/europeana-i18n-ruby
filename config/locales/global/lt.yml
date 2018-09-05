@@ -475,6 +475,9 @@ lt:
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     find-us-social-media: 
     follow-channel: Sekti %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Pamiršote slaptažodį?
     forms:
       hints:

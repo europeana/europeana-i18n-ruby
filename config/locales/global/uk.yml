@@ -475,6 +475,9 @@ uk:
     find-us-elsewhere: 
     find-us-social-media: 
     follow-channel: 
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: 
     forms:
       hints:

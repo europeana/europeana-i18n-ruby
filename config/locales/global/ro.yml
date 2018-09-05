@@ -475,6 +475,9 @@ ro:
     find-us-elsewhere: Ne găsiți și aici
     find-us-social-media: 
     follow-channel: Urmărire %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Parola uitată?
     forms:
       hints:

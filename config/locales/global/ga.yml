@@ -477,6 +477,9 @@ ga:
     find-us-elsewhere: Aimsigh muid in áit eile
     find-us-social-media: Aimsigh %{channel} ar na meáin shóisialta
     follow-channel: Lean %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Dearmad ar do phasfhocal?
     forms:
       hints:

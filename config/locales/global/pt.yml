@@ -475,6 +475,9 @@ pt:
     find-us-elsewhere: Encontre-nos noutros sítios
     find-us-social-media: 
     follow-channel: Seguir %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Esqueceu-se da palavra-passe?
     forms:
       hints:

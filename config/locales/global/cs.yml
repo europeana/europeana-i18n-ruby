@@ -475,6 +475,9 @@ cs:
     find-us-elsewhere: Najděte nás jinde
     find-us-social-media: 
     follow-channel: Sledovat kanál %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Zapomněli jste heslo?
     forms:
       hints:

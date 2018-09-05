@@ -475,6 +475,9 @@ bg:
     find-us-elsewhere: Други наши страници
     find-us-social-media: 
     follow-channel: Следвайте %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Забравена парола?
     forms:
       hints:

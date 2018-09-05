@@ -475,6 +475,9 @@ fi:
     find-us-elsewhere: Muualla palvelussa
     find-us-social-media: 
     follow-channel: 'Seuraa: %{channel}'
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Unohditko salasanasi?
     forms:
       hints:

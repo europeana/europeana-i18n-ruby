@@ -475,6 +475,9 @@ pl:
     find-us-elsewhere: Znajdź nas także
     find-us-social-media: Znajdź %{channel} w mediach społecznościowych
     follow-channel: Śledź %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Nie pamiętam hasła.
     forms:
       hints:

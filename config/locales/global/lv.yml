@@ -475,6 +475,9 @@ lv:
     find-us-elsewhere: Meklē mūs arī citur
     find-us-social-media: Meklē %{channel} sociālajos tīklos
     follow-channel: Sekot %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Aizmirsi savu paroli?
     forms:
       hints:

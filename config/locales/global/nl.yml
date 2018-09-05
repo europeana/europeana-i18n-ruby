@@ -475,6 +475,9 @@ nl:
     find-us-elsewhere: Volg ons
     find-us-social-media: 
     follow-channel: Volg %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: 'Wachtwoord kwijt? '
     forms:
       hints:

@@ -477,6 +477,9 @@ it:
     find-us-elsewhere: Trovaci altrove
     find-us-social-media: Trova %{channel}  sui social media
     follow-channel: Segui %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Hai dimenticato la password?
     forms:
       hints:

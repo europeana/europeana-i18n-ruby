@@ -475,6 +475,9 @@
     find-us-elsewhere: Finn-oss-andre-steder
     find-us-social-media: 
     follow-channel: Følg %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: glemt-passord
     forms:
       hints:

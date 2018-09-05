@@ -475,6 +475,9 @@ et:
     find-us-elsewhere: Leia meid veel
     find-us-social-media: 
     follow-channel: Jälgi kanalit %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Unustasid parooli?
     forms:
       hints:

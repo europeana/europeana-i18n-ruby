@@ -475,6 +475,9 @@ el:
     find-us-elsewhere: Βρείτε μας αλλού
     find-us-social-media: 
     follow-channel: Ακολουθήστε %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Ξεχάσατε τον κωδικό σας
     forms:
       hints:

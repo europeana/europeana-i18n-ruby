@@ -475,6 +475,9 @@ da:
     find-us-elsewhere: Find os
     find-us-social-media: 
     follow-channel: Følg %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: 'Glemt dit brugernavn?
 
 '

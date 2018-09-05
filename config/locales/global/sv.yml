@@ -475,6 +475,9 @@ sv:
     find-us-elsewhere: Hitta oss också här
     find-us-social-media: 
     follow-channel: Följ %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Glömt ditt lösenord?
     forms:
       hints:

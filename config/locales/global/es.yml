@@ -477,6 +477,9 @@ es:
 '
     find-us-social-media: Encontrar %{channel} en las redes sociales
     follow-channel: Seguir %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: Olvidaste tu contraseña?
     forms:
       hints:

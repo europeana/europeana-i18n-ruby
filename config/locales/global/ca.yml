@@ -475,6 +475,9 @@ ca:
     find-us-elsewhere: Troba'ns arreu
     find-us-social-media: 
     follow-channel: Segueix %{channel}
+    footer:
+      disclaimer: 
+      funding: 
     forgot-password: No recordes la teva paraula de pas?
     forms:
       hints:
