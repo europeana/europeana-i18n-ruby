@@ -460,6 +460,7 @@ lt:
       data-use-2: 
       data-use-header: 
       error: 
+      error-accept: 
       error-short: 
       open: Atsiliepimas
       placeholder: Leiskite mums žinoti, ką manote ir ką galime pagerinti. Jei norite susisiekti, palikite savo elektroninio pašto adresą čia pat!

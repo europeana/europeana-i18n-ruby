@@ -460,6 +460,7 @@ es:
       data-use-2: 
       data-use-header: 
       error: Error
+      error-accept: 
       error-short: 
       open: Feedback
       placeholder: Háganos saber lo que piensa y lo que se puede mejorar. Si desea ser contactado, por favor deje su dirección de correo electrónico aquí también!

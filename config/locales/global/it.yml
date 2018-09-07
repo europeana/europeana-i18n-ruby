@@ -460,6 +460,7 @@ it:
       data-use-2: 
       data-use-header: 
       error: Error
+      error-accept: 
       error-short: 
       open: Feedback
       placeholder: Se si vuole essere contattati , lascia il tuo indirizzo e-mail !

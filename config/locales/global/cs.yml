@@ -460,6 +460,7 @@ cs:
       data-use-2: 
       data-use-header: 
       error: 
+      error-accept: 
       error-short: 
       open: Názory
       placeholder: Dejte nám vědět, co si myslíte a co bychom mohli zlepšit. Chcete-li, abychom vás kontaktovali, zadejte také e-mailovou adresu.

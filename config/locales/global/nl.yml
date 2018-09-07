@@ -460,6 +460,7 @@ nl:
       data-use-2: 
       data-use-header: 
       error: Error
+      error-accept: 
       error-short: 
       open: Feedback
       placeholder: 'Laat ons weten wat beter kan! Laat uw email adres achter als u contact wilt opnemen. '

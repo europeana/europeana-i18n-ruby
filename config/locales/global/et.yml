@@ -460,6 +460,7 @@ et:
       data-use-2: 
       data-use-header: 
       error: Viga
+      error-accept: 
       error-short: 
       open: Tagasiside
       placeholder: Anna meile teada, mida te arvate ja mida me saame parandada. Kui soovite ühendust võtta, palun jätke oma e-posti aadress siia ka!

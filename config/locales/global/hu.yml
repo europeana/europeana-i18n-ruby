@@ -460,6 +460,7 @@ hu:
       data-use-2: 
       data-use-header: 
       error: 
+      error-accept: 
       error-short: 
       open: Visszajelzés
       placeholder: Nézzük, mit gondol, és mit tudunk javítani. Ha azt szeretnénk, hogy a kapcsolatot, kérjük, hagyja el e-mail címét is!

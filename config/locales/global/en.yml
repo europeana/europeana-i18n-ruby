@@ -460,6 +460,7 @@ en:
       data-use-2: If you provide an email address we may contact you for more information.
       data-use-header: 'Any personal data:'
       error: Error
+      error-accept: Please agree to Europeana's privacy policy
       error-short: Your feedback has to consist of %{minwords} words at minimum.
       open: Feedback
       placeholder: Let us know what you think and what we can improve.

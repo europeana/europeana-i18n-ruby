@@ -460,6 +460,7 @@ el:
       data-use-2: 
       data-use-header: 
       error: 
+      error-accept: 
       error-short: 
       open: Ανάδραση
       placeholder: Ας γνωρίζουν τι σκέφτεστε και τι μπορούμε να βελτιώσουμε. Αν θέλετε να επικοινωνήσετε, παρακαλώ αφήστε το email σας εδώ!
