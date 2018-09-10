@@ -149,7 +149,7 @@ ca:
         search-tips: Consells de cerca
         using-myeuropeana: Fent servir La Meva Europeana
     galleries:
-      description: Et presentem la nostra selecció de cultura! Descobreix les galeries d'Europeana!
+      description: Et presentem la nostra selecció de cultura. Descobreix les galeries d'Europeana.
       description-default: Descobreix més coses a Europeana
       share:
         one: Comparteix aquesta galeria

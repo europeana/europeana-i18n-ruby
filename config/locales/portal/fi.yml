@@ -149,7 +149,7 @@ fi:
         search-tips: Hakuohjeita
         using-myeuropeana: Minun Europeanan käyttäminen
     galleries:
-      description: Sinulle kuratoitua kulttuuria! Tutustu Europeanan gallerioihin!
+      description: Sinulle kuratoitua kulttuuria. Tutustu Europeanan gallerioihin.
       description-default: Lisätietoa Europeanasta
       share:
         one: Jaa tämä galleria

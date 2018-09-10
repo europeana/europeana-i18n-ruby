@@ -149,7 +149,7 @@ lv:
         search-tips: Meklēšanas padomi
         using-myeuropeana: '"Mana Europeana" lietošana'
     galleries:
-      description: Tieši Jums atlasīta kultūra! Atklājiet Europeana galerijas!
+      description: Tieši Jums atlasīta kultūra. Atklājiet Europeana galerijas.
       description-default: Uzziniet vairāk Europeana
       share:
         one: Kopīgot šo galeriju

@@ -149,7 +149,7 @@ et:
         search-tips: Otsingunipid
         using-myeuropeana: Minu Europeana kasutamine
     galleries:
-      description: Sinu jaoks kureeritud kultuur! Avasta Europeana Galleries!
+      description: Sinu jaoks kureeritud kultuur. Avasta Europeana Galleries.
       description-default: Rohkem teavet Europeana kohta
       share:
         one: ''

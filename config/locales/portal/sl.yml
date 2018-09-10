@@ -149,7 +149,7 @@ sl:
         search-tips: Iskanje namigov
         using-myeuropeana: Uporaba možnosti My Europeana
     galleries:
-      description: Kultura s kuratorjem, samo za vas! Odkrijte galerije Europeana!
+      description: Kultura s kuratorjem, samo za vas. Odkrijte galerije Europeana.
       description-default: Odkrijte več na spletnem mestu Europeana
       share:
         one: Deli to galerijo

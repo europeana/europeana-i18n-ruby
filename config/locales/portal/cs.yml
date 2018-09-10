@@ -149,7 +149,7 @@ cs:
         search-tips: Tipy pro vyhledávání
         using-myeuropeana: Jak používat web Moje Europeana
     galleries:
-      description: Kultura vybraná pro vás! Objevte galerie Europeana!
+      description: Kultura vybraná pro vás. Objevte galerie Europeana.
       description-default: Další informace o službě Europeana
       share:
         one: Sdílet tuto galerii

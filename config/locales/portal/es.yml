@@ -149,7 +149,7 @@ es:
         search-tips: 'Consejos de búsqueda '
         using-myeuropeana: Usando Mi Europeana
     galleries:
-      description: "¡Cultura conservada para usted! ¡Descubra Europeana Galleries!"
+      description: Cultura conservada para usted. Descubra Europeana Galleries.
       description-default: Saber más sobre Europeana
       share:
         one: Compartir esta galería
