@@ -129,23 +129,17 @@ en:
               text_long: Share your story
             call_to_action: We invite you to contribute stories relating to European migration in your family history.
             closing_remark: Closing remark to emphasise the importance of sharing... may not be needed
-            description: Sharing your migration history can help us to tell a really big story - the story of Europe and the people who live here. Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future.
+            description: Sharing your migration history can help us to tell a really big story - the story of Europe and the people who live here. Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future on <a href="https://migration.europeana.eu/">Europeana Migration</a>.
             hero:
               attribution_institution: Gooi en Vecht Historisch
               attribution_text: A family with 10 children are going to emigrate
               subtitle: We all have objects - like pictures, letters, postcards or recipes - to share and stories to tell about where we've come from and what's shaped our lives.  For many of us, that involves our personal, family or community's stories of migration and immigration.
               title: Share your migration story
             preview_1:
-              caption: Avfotografert postkort som ble sendt fra emigrerte vadsøværinger i USA til slekt og venner i Norge. Finnmark Fylkesbibliotek. Public Domain
-              text: These objects are important parts of your heritage and recording and digitising them is easier than you might think.  Once it's done, they will become part of the European Migration Collection and made freely available for anyone to discover and use for education, research, inspiration and pleasure.
-            preview_2:
-              caption: Rectangular tobacco box with image of steamship "Rotterdam", Museum Rotterdam, 1920-1930, CC BY
-              text: 'Europe’s collective story involves movement and mixing, and as much happiness, love and life as there is sadness, war and tragedy. '
-            preview_3:
-              button_text: Read more about Marijke's story
+              button_text: Read the stories
               caption: Marijke's Photo | Europeana.  Public Domain
-              text: "'For an international day at my school in Senegal when I was about 6, my mother dressed my brother like the Ghanaian flag - she was from Ghana - and me like the Dutch flag - my father is Dutch.'"
-            preview_4:
+              text: Sharing your migration history can help us to tell a really big story - the story of Europe and the people who live here. Your story is part of Europe’s rich and shared history of migration, and now it can be recorded for the future.
+            preview_2:
               button_text: Info
               caption: |-
                 A family with 10 children are going to emigrate,<br>
