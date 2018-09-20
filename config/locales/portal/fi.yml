@@ -343,6 +343,7 @@ fi:
           dcFormat: 
           dcSubject: 
           dcType: 
+          dctermsIsPartOf: 
           dctermsMedium: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita

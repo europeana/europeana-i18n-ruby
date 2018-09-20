@@ -345,6 +345,7 @@ bg:
           dcFormat: 
           dcSubject: 
           dcType: 
+          dctermsIsPartOf: 
           dctermsMedium: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти

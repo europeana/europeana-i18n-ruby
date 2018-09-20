@@ -343,6 +343,7 @@ ca:
           dcFormat: 
           dcSubject: 
           dcType: 
+          dctermsIsPartOf: 
           dctermsMedium: 
       show-more-similar-items: mostra més
       similar-items: ítems similars

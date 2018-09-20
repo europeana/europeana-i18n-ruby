@@ -343,6 +343,7 @@ it:
           dcFormat: 
           dcSubject: 
           dcType: 
+          dctermsIsPartOf: 
           dctermsMedium: 
       show-more-similar-items: mostra di più
       similar-items: Oggetti simili

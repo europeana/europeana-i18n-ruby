@@ -343,6 +343,7 @@ en:
           dcFormat: Format of this object
           dcSubject: Subject of this object
           dcType: Type of this object
+          dctermsIsPartOf: Parent item
           dctermsMedium: Medium of this object
       show-more-similar-items: show more
       similar-items: Similar items
