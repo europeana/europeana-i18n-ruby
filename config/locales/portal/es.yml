@@ -272,7 +272,7 @@ es:
         properties: Propiedades
         provenance: 'Procedencia '
         provided-by: Más acerca de
-        provided-by-detail: Ver en%{institution_name_and_link}.
+        provided-by-detail: Ver en %{institution_name_and_link}.
         provided-by-detail-no-link: Europeana muestra este objeto a través de
         provider: Proveedor
         providing-country: 'País proveedor '

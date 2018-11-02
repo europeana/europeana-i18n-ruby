@@ -272,7 +272,7 @@ pl:
         properties: Opis fizyczny
         provenance: Pochodzenie
         provided-by: Dowiedz się więcej
-        provided-by-detail: Europeana prezentuje ten obiekt przez %{institution_name_and_link}. Odwiedź ich stronnę, aby uzyskać więcej informacji.
+        provided-by-detail: Europeana prezentuje ten obiekt przez %{institution_name_and_link}. Odwiedź ich stronę, aby uzyskać więcej informacji.
         provided-by-detail-no-link: 'Europeana prezentuje ten obiekt przez '
         provider: Agregator
         providing-country: Kraj dostarczający
