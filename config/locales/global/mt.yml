@@ -288,6 +288,7 @@ mt:
         provider: Aggregatur
         providing_country: Pajjiż fornitur
         proxy_dcterms_created: data Maħluqa
+        proxy_dcterms_issued: 
         reusability: Nista' nużagħha?
         rights: Liċenzja
         sound_duration: 'Dewmien '

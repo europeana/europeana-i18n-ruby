@@ -286,6 +286,7 @@ et:
         provider: Agregaator
         providing_country: Annetusriik
         proxy_dcterms_created: Loomise kuupäev
+        proxy_dcterms_issued: 
         reusability: Kas tohin kasutada?
         rights: Litsents
         sound_duration: Kestus

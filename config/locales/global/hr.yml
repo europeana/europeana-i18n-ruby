@@ -286,6 +286,7 @@ hr:
         provider: Agregator
         providing_country: Država
         proxy_dcterms_created: Datum izrade
+        proxy_dcterms_issued: 
         reusability: Smijem li koristiti ovaj sadržaj?
         rights: licenca
         sound_duration: Trajanje

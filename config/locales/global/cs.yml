@@ -286,6 +286,7 @@ cs:
         provider: Agregátor
         providing_country: Země původu
         proxy_dcterms_created: Datum vytvoření
+        proxy_dcterms_issued: 
         reusability: Můžu to použít?
         rights: Licence
         sound_duration: Délka

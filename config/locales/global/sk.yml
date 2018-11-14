@@ -286,6 +286,7 @@ sk:
         provider: Zberateľský subjekt
         providing_country: Poskytujúca krajina
         proxy_dcterms_created: Vytvorený dátum
+        proxy_dcterms_issued: 
         reusability: Môžem to použiť?
         rights: Licencia
         sound_duration: Trvanie

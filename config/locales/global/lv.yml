@@ -286,6 +286,7 @@ lv:
         provider: Agregators
         providing_country: Piegādātājvalsts
         proxy_dcterms_created: Izveidošanas datējums
+        proxy_dcterms_issued: 
         reusability: Vai es varu to izmantot?
         rights: Licence
         sound_duration: Ilgums

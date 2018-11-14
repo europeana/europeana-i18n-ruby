@@ -286,6 +286,7 @@ hu:
         provider: Aggregátor
         providing_country: Szolgáltató ország
         proxy_dcterms_created: Létrehozás dátuma
+        proxy_dcterms_issued: 
         reusability: Felhasználhatom?
         rights: engedély
         sound_duration: Időtartam

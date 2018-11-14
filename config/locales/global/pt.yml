@@ -286,6 +286,7 @@ pt:
         provider: Agregador
         providing_country: País Agregador
         proxy_dcterms_created: Data Criada
+        proxy_dcterms_issued: 
         reusability: Posso usar?
         rights: licença
         sound_duration: Duração

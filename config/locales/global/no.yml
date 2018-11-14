@@ -286,6 +286,7 @@
         provider: Aggregator
         providing_country: Giverland
         proxy_dcterms_created: Date laget
+        proxy_dcterms_issued: 
         reusability: Kan jeg bruke det?
         rights: lisens
         sound_duration: Varighet

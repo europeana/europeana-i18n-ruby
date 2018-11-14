@@ -286,6 +286,7 @@ ca:
         provider: Agregador
         providing_country: País proveïdor
         proxy_dcterms_created: data de creació
+        proxy_dcterms_issued: 
         reusability: Puc fer-ho servir?
         rights: llicència
         sound_duration: Durada

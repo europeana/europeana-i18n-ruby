@@ -286,6 +286,7 @@ de:
         provider: Beiträger
         providing_country: Bereitstellendes Land
         proxy_dcterms_created: Datum erstellt
+        proxy_dcterms_issued: 
         reusability: Verwendbarkeit
         rights: Lizenz
         sound_duration: Laufzeit

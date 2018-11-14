@@ -286,6 +286,7 @@ bg:
         provider: Агрегатор на съдържание
         providing_country: Страна-доставчик
         proxy_dcterms_created: дата на създаване
+        proxy_dcterms_issued: 
         reusability: Мога ли да го ползвам?
         rights: разрешително
         sound_duration: Продължителност

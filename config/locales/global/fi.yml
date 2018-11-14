@@ -286,6 +286,7 @@ fi:
         provider: Aggregaattori
         providing_country: Tarjoava maa
         proxy_dcterms_created: Päivämäärä luotu
+        proxy_dcterms_issued: 
         reusability: Voinko käyttää sitä?
         rights: lisenssi
         sound_duration: Kesto

@@ -286,6 +286,7 @@ ro:
         provider: Agregator
         providing_country: Țara furnizoare
         proxy_dcterms_created: Data creării
+        proxy_dcterms_issued: 
         reusability: Pot folosi?
         rights: licență
         sound_duration: Durata

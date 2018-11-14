@@ -286,6 +286,7 @@ sv:
         provider: Aggregator
         providing_country: Leverantörsland
         proxy_dcterms_created: Skapat datum
+        proxy_dcterms_issued: 
         reusability: Kan jag använda det?
         rights: licens
         sound_duration: Längd

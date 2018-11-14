@@ -286,6 +286,7 @@ ga:
         provider: Comhbhailitheoir
         providing_country: Tír soláthartha
         proxy_dcterms_created: Dáta Cruthaithe
+        proxy_dcterms_issued: 
         reusability: An féidir liom é/í a úsáid?
         rights: Ceadúnas
         sound_duration: Fad ama

@@ -286,6 +286,7 @@ sl:
         provider: Zbiralnik
         providing_country: Država ponudnika
         proxy_dcterms_created: Datum izdelave
+        proxy_dcterms_issued: 
         reusability: Ga lahko uporabljam?
         rights: Licenca
         sound_duration: Trajanje

@@ -286,6 +286,7 @@ el:
         provider: Συλλέκτης
         providing_country: Χώρα ιδρύματος
         proxy_dcterms_created: Ημερομηνία Δημιουργίας
+        proxy_dcterms_issued: 
         reusability: Μπορώ να το χρησιμοποιήσω;
         rights: άδεια
         sound_duration: Διάρκεια

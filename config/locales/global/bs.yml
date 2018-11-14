@@ -286,6 +286,7 @@ bs:
         provider: 
         providing_country: 
         proxy_dcterms_created: 
+        proxy_dcterms_issued: 
         reusability: 
         rights: 
         sound_duration: 

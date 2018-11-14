@@ -286,6 +286,7 @@ nl:
         provider: Aggregator
         providing_country: Land
         proxy_dcterms_created: Datum gecreeërd
+        proxy_dcterms_issued: 
         reusability: Kan ik het gebruiken?
         rights: licentie
         sound_duration: Lengte

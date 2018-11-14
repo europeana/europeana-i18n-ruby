@@ -286,6 +286,7 @@ ru:
         provider: Агрегатор
         providing_country: Страна
         proxy_dcterms_created: Дата создания
+        proxy_dcterms_issued: 
         reusability: Могу ли я это использовать?
         rights: лицензия
         sound_duration: Продолжительность

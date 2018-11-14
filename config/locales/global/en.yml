@@ -286,6 +286,7 @@ en:
         provider: Aggregator
         providing_country: Providing country
         proxy_dcterms_created: Date Created
+        proxy_dcterms_issued: Date
         reusability: Can I use it?
         rights: Licence
         sound_duration: Duration

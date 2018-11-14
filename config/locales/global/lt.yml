@@ -286,6 +286,7 @@ lt:
         provider: Agregatorius
         providing_country: Šalis
         proxy_dcterms_created: Sukūrimo data
+        proxy_dcterms_issued: 
         reusability: Ar galiu tai naudoti?
         rights: licenza
         sound_duration: Trukmė
