@@ -346,6 +346,8 @@ it:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: mostra di più
       similar-items: Oggetti simili
       similar-result: 

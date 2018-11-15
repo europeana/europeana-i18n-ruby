@@ -346,6 +346,8 @@ mt:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
       similar-result: 

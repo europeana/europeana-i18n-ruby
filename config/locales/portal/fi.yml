@@ -346,6 +346,8 @@ fi:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
       similar-result: 

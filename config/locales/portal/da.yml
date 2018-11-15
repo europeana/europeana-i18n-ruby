@@ -346,6 +346,8 @@ da:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: vis mere
       similar-items: Lignende genstande
       similar-result: 

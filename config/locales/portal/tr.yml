@@ -342,6 +342,8 @@ tr:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: 
       similar-items: 
       similar-result: 

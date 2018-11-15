@@ -346,6 +346,8 @@ nl:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
       similar-result: 

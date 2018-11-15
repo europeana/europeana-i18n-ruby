@@ -346,6 +346,8 @@ sv:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: visa fler
       similar-items: Liknande poster
       similar-result: 

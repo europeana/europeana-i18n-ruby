@@ -348,6 +348,8 @@ bg:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
       similar-result: 

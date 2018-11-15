@@ -346,6 +346,8 @@ en:
           dctermsIsPartOf: Parent item
           dctermsMedium: Medium of this object
           exhibition: This exhibition features this object
+        type:
+          exhibition: 
       show-more-similar-items: show more
       similar-items: Similar items
       similar-result: Result

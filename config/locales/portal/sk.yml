@@ -346,6 +346,8 @@ sk:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: ukázať viac
       similar-items: Podobné položky
       similar-result: 

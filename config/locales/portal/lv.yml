@@ -347,6 +347,8 @@ lv:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
       similar-result: 

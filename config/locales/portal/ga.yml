@@ -362,6 +362,8 @@ ga:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: taispeáin níos mó
       similar-items: Míreanna dá shamhail
       similar-result: 

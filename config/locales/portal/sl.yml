@@ -346,6 +346,8 @@ sl:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: prikaži več
       similar-items: Podobni predmeti
       similar-result: 

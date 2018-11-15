@@ -346,6 +346,8 @@
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+        type:
+          exhibition: 
       show-more-similar-items: Vis mer
       similar-items: Like objekter
       similar-result: 
