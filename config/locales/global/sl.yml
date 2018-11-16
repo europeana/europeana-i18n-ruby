@@ -212,6 +212,9 @@ sl:
         options: Možnosti
         show:
           ugc: Uporabniške vsebine
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ sl:
       creator: kreator
       filter: filter
       header:
+        api: 
         collection: Zbirke
         colourpalette: Barva
         country: Država

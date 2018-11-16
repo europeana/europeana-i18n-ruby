@@ -212,6 +212,9 @@
         options: Valg
         show:
           ugc: Brukergenerert innhold
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@
       creator: skaper
       filter: filter
       header:
+        api: 
         collection: samlinger
         colourpalette: Farge
         country: Land

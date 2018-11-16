@@ -212,6 +212,9 @@ fi:
         options: Valinnat
         show:
           ugc: Käyttäjien tuottama sisältö
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ fi:
       creator: tekijä
       filter: suodattaa
       header:
+        api: 
         collection: Kokoelmat
         colourpalette: Väri
         country: Maa

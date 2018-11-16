@@ -212,6 +212,9 @@ pl:
         options: Opcje
         show:
           ugc: Materiały dodane przez użytkowników
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ pl:
       creator: twórca
       filter: filtr
       header:
+        api: 
         collection: Kolekcje
         colourpalette: Kolor
         country: Kraj

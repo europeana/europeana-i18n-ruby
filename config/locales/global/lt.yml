@@ -212,6 +212,9 @@ lt:
         options: Pasirinkimai
         show:
           ugc: Vartotojų sukurtas turinys
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ lt:
       creator: autorius
       filter: filtras
       header:
+        api: 
         collection: Kolekcijos
         colourpalette: Spalva
         country: Šalis

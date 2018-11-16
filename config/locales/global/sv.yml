@@ -212,6 +212,9 @@ sv:
         options: Valmöjligheter
         show:
           ugc: Användarskapat innehåll
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ sv:
       creator: upphovsman
       filter: filtrera
       header:
+        api: 
         collection: Samlingar
         colourpalette: Färg
         country: Land

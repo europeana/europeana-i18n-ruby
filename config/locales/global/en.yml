@@ -212,6 +212,9 @@ en:
         options: Options
         show:
           ugc: User generated content
+      api:
+        collection: Fulltext
+        default: Metadata
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ en:
       creator: creator
       filter: filter
       header:
+        api: Search options
         collection: Collections
         colourpalette: Colour
         country: Country

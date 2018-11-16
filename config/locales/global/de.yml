@@ -212,6 +212,9 @@ de:
         options: Einstellungen
         show:
           ugc: Von Nutzern beigetragene Inhalte
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ de:
       creator: Urheber
       filter: filter
       header:
+        api: 
         collection: Sammlungen
         colourpalette: Farbe
         country: Land

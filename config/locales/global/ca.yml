@@ -212,6 +212,9 @@ ca:
         options: Opcions
         show:
           ugc: Contingut generat per usuaris
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ ca:
       creator: creador
       filter: filtre
       header:
+        api: 
         collection: Col·leccions
         colourpalette: Color
         country: Estat

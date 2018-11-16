@@ -214,6 +214,9 @@ mt:
         options: Għażliet
         show:
           ugc: Kontenut iġġenerat mill-utent
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -265,6 +268,7 @@ mt:
       creator: kreatur
       filter: filtru
       header:
+        api: 
         collection: Kollezzjonijiet
         colourpalette: Kulur
         country: Pajjiż

@@ -212,6 +212,9 @@ uk:
         options: 
         show:
           ugc: 
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ uk:
       creator: 
       filter: 
       header:
+        api: 
         collection: Колекції
         colourpalette: Колір
         country: Країна

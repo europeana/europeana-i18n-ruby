@@ -212,6 +212,9 @@ fr:
         options: Options
         show:
           ugc: Contenu généré par les utilisateurs
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ fr:
       creator: auteur
       filter: filtre
       header:
+        api: 
         collection: Collections
         colourpalette: Couleur
         country: Pays

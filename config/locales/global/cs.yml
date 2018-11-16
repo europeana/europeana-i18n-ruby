@@ -212,6 +212,9 @@ cs:
         options: Možnosti
         show:
           ugc: Uživatelsky generovaný obsah
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ cs:
       creator: tvůrce
       filter: filtr
       header:
+        api: 
         collection: Kolekce
         colourpalette: Barva
         country: Země

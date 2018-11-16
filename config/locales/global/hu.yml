@@ -212,6 +212,9 @@ hu:
         options: Beállítások
         show:
           ugc: Felhasználó által generált tartalom
+      api:
+        collection: 
+        default: 
       art:
         form:
           paintings:
@@ -263,6 +266,7 @@ hu:
       creator: alkotó
       filter: szűrő
       header:
+        api: 
         collection: Gyűjtemények
         colourpalette: Szín
         country: Ország
