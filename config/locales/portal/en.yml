@@ -192,14 +192,14 @@ en:
         attribute-author: Attribute the author
         attribute-html: HTML
         attribute-plaintext: Plain text
-        collapse-extended: collapse extended information
+        collapse-extended: Close all
         download: Download
         download-additional: Also available as
         download-retry: Retry
         download-started: The download has started
         downloaddata: Download data
         enlarge: Enlarge
-        expand-extended: expand extended information
+        expand-extended: Open all
         explore-by-colour: Explore by colour
         media-metadata: Media Metadata
         open-media: Open this media item
