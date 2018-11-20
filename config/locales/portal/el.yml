@@ -217,6 +217,7 @@ el:
         view-items-above: εμφάνιση προηγούμενων
         view-items-below: εμφάνιση επόμενων
       items-similar-to-item: 
+      main-img-alt: 
       meta-label:
         additional-rights: Πληροφορίες πρόσθετων δικαιωμάτων
         annotations: Σημειώσεις χρήστη

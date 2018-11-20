@@ -217,6 +217,7 @@ pt:
         view-items-above: ver itens acima
         view-items-below: ver itens abaixo
       items-similar-to-item: 
+      main-img-alt: 
       meta-label:
         additional-rights: 'Informação adicional sobre os direitos '
         annotations: 'Anotações do utilizador '

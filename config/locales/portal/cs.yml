@@ -217,6 +217,7 @@ cs:
         view-items-above: zobrazit položky výše
         view-items-below: zobrazit položky níže
       items-similar-to-item: 
+      main-img-alt: 
       meta-label:
         additional-rights: Další informace o právech
         annotations: Uživatelské poznámky

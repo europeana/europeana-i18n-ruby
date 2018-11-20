@@ -217,6 +217,7 @@ et:
         view-items-above: vaata kirjeid ülal
         view-items-below: vaata kirjeid all
       items-similar-to-item: 
+      main-img-alt: 
       meta-label:
         additional-rights: Lisateavet õiguste kohta
         annotations: Kasutaja märked

@@ -217,6 +217,7 @@ sv:
         view-items-above: visa poster ovan
         view-items-below: visa poster nedan
       items-similar-to-item: 
+      main-img-alt: 
       meta-label:
         additional-rights: 'Information om ytterligare rättigheter '
         annotations: Användaranmärkningar
