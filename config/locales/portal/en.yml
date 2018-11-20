@@ -349,6 +349,7 @@ en:
           exhibition: Features this object
         type:
           exhibition: 
+          news: News
       show-more-similar-items: show more
       similar-items: Similar items
       similar-result: Result

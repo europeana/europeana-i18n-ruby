@@ -349,6 +349,7 @@ fi:
           exhibition: 
         type:
           exhibition: 
+          news: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
       similar-result: 
