@@ -167,11 +167,13 @@ da:
       reduce-viewer: 
       register: Registrer
       remove: 
+      search: 
       share: Del
       sign-in: Log ind
       sign-out: Log ud
       skip-to-main: Spring til sideindhold
       skip-to-section: Hop til afsnit
+      subscribe: 
       view: Se
       view-at: Se på
       view-more-at: 'Se mere på '

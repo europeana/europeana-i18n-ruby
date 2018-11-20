@@ -167,11 +167,13 @@ lt:
       reduce-viewer: 
       register: Užsiregistruoti
       remove: 
+      search: 
       share: Dalytis
       sign-in: Prisijungti
       sign-out: Atsijungti
       skip-to-main: Pereiti į puslapio turinį
       skip-to-section: Pereiti į skyrių
+      subscribe: 
       view: Peržiūrėti
       view-at: Peržiūrėti
       view-more-at: 'Peržiūrėti daugiau '

@@ -167,11 +167,13 @@ bg:
       reduce-viewer: 
       register: Регистрирайте се
       remove: 
+      search: 
       share: Споделяне
       sign-in: Влезте
       sign-out: Изход
       skip-to-main: Напред към съдържанието на страницата
       skip-to-section: Напред към раздел
+      subscribe: 
       view: Преглед
       view-at: Вижте в
       view-more-at: 'Вижте още в '

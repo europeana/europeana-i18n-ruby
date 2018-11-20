@@ -167,11 +167,13 @@ sl:
       reduce-viewer: 
       register: Registrirajte se
       remove: 
+      search: 
       share: Dajte v skupno rabo
       sign-in: Prijava
       sign-out: Odjava
       skip-to-main: Preskoči na vsebino strani
       skip-to-section: Preskoči na razdelek
+      subscribe: 
       view: Prikaz
       view-at: Poglejte v
       view-more-at: 'Poglejte več v '

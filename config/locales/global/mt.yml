@@ -167,11 +167,13 @@ mt:
       reduce-viewer: 
       register: Irreġistra
       remove: 
+      search: 
       share: Ixxerja
       sign-in: Idħol
       sign-out: Oħroġ
       skip-to-main: Aqbeż għall-kontenut paġna
       skip-to-section: Aqbeż għall-taqsima
+      subscribe: 
       view: Ara
       view-at: Ara hawn
       view-more-at: 'Ara aktar hawn '

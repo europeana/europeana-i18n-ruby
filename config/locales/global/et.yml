@@ -167,11 +167,13 @@ et:
       reduce-viewer: 
       register: Registreeru
       remove: 
+      search: 
       share: Jaga
       sign-in: Logi sisse
       sign-out: Logi välja
       skip-to-main: Otse lehekülje sisule
       skip-to-section: Otse sektsiooni
+      subscribe: 
       view: Vaata
       view-at: Vaata kohta
       view-more-at: 'Vaata veel kohas '

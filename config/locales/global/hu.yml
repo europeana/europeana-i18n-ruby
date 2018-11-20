@@ -167,11 +167,13 @@ hu:
       reduce-viewer: 
       register: Regisztráljon nálunk
       remove: 
+      search: 
       share: Megosztás
       sign-in: Bejelentkezés
       sign-out: Kijelentkezés
       skip-to-main: Ugrás az oldal tartalmához
       skip-to-section: Ugrás a szakasz
+      subscribe: 
       view: Megtekintés
       view-at: Megtekintés
       view-more-at: 'Több megtekintése '

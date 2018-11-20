@@ -167,11 +167,13 @@ nl:
       reduce-viewer: 
       register: Registreren
       remove: 
+      search: 
       share: Delen
       sign-in: Inloggen
       sign-out: Uitloggen
       skip-to-main: Direct naar pagina-inhoud
       skip-to-section: Overslaan
+      subscribe: 
       view: Bekijken
       view-at: Bekijk op
       view-more-at: 'Bekijk meer op '

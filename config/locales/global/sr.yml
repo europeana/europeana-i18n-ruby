@@ -167,11 +167,13 @@ sr:
       reduce-viewer: 
       register: Региструјте се
       remove: 
+      search: 
       share: 
       sign-in: Пријава
       sign-out: Одјавити се
       skip-to-main: 
       skip-to-section: 
+      subscribe: 
       view: 
       view-at: 
       view-more-at: 

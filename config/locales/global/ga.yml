@@ -167,11 +167,13 @@ ga:
       reduce-viewer: 
       register: Cláraigh
       remove: 
+      search: 
       share: Comhroinn
       sign-in: 'Sínigh isteach '
       sign-out: Sínigh amach
       skip-to-main: Scipeáil chuig inneachar leathanaigh
       skip-to-section: Scipeáil chuig mír
+      subscribe: 
       view: Féach
       view-at: Féach ag
       view-more-at: Féach a thuilleadh-ag

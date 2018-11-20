@@ -167,11 +167,13 @@ sv:
       reduce-viewer: 
       register: Skapa användarkonto
       remove: 
+      search: 
       share: Dela
       sign-in: Logga in
       sign-out: Logga ut
       skip-to-main: Hoppa till sidans innehåll
       skip-to-section: Hoppa till sektionen
+      subscribe: 
       view: Visa
       view-at: Visa på
       view-more-at: 'Visa mer på '

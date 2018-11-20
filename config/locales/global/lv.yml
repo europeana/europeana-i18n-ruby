@@ -167,11 +167,13 @@ lv:
       reduce-viewer: 
       register: Reģistrēties
       remove: Noņemt
+      search: 
       share: Dalīties
       sign-in: Ienākt
       sign-out: Iziet
       skip-to-main: Pāriet uz lapas saturu
       skip-to-section: Pāriet uz sadaļu
+      subscribe: 
       view: Skatīt
       view-at: Skatīt
       view-more-at: 'Skatīt vairāk '

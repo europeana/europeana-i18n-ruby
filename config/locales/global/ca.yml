@@ -167,11 +167,13 @@ ca:
       reduce-viewer: 
       register: Registra-t'hi
       remove: 
+      search: 
       share: Comparteix
       sign-in: Inicia sessió
       sign-out: Tanca sessió
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
+      subscribe: 
       view: Mostra
       view-at: Mostra-ho a
       view-more-at: 'Mostra''n més a '

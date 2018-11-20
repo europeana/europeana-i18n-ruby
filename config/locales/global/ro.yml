@@ -167,11 +167,13 @@ ro:
       reduce-viewer: 
       register: Ȋnregistrare
       remove: 
+      search: 
       share: Transmitere
       sign-in: Autentificare
       sign-out: Deconectare
       skip-to-main: Treci la conținutul paginii
       skip-to-section: Treci la secțiunea
+      subscribe: 
       view: Vizualizare
       view-at: Vizualizare la
       view-more-at: 'Vizualizare mai mult la '

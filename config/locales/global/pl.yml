@@ -167,11 +167,13 @@ pl:
       reduce-viewer: 
       register: Zarejestruj się
       remove: 
+      search: 
       share: Udział
       sign-in: Zaloguj się
       sign-out: Wyloguj się
       skip-to-main: Przejdź do zawartości strony
       skip-to-section: Przejdź do sekcji
+      subscribe: 
       view: Widok
       view-at: Widok na
       view-more-at: 'Pokaż więcej na '

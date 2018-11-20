@@ -167,11 +167,13 @@ tr:
       reduce-viewer: 
       register: 
       remove: 
+      search: 
       share: 
       sign-in: 
       sign-out: 
       skip-to-main: 
       skip-to-section: 
+      subscribe: 
       view: 
       view-at: 
       view-more-at: 

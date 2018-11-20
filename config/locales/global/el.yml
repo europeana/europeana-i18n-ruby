@@ -167,11 +167,13 @@ el:
       reduce-viewer: 
       register: Εγγραφείτε
       remove: 
+      search: 
       share: Κοινοποίηση
       sign-in: Συνδεθείτε
       sign-out: Αποσύνδεση
       skip-to-main: Μετάβαση στο περιεχόμενο της σελίδας
       skip-to-section: Μετάβαση στο τμήμα
+      subscribe: 
       view: Εμφάνιση
       view-at: Δειτε στο
       view-more-at: 'Δείτε περισσότερα στο '

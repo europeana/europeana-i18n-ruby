@@ -167,11 +167,13 @@ cs:
       reduce-viewer: 
       register: Zaregistrovat
       remove: 
+      search: 
       share: Sdílet
       sign-in: Přihlásit se
       sign-out: Odhlásit se
       skip-to-main: Přeskočit na obsah stránky
       skip-to-section: Přeskočit na oddíl
+      subscribe: 
       view: Zobrazit
       view-at: Zobrazit na
       view-more-at: 'Zobrazit další na '

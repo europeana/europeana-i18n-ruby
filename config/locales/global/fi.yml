@@ -167,11 +167,13 @@ fi:
       reduce-viewer: 
       register: Rekisteröidy
       remove: 
+      search: 
       share: Jaa
       sign-in: Kirjaudu sisään
       sign-out: Kirjaudu ulos
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
+      subscribe: 
       view: Katso
       view-at: 'Katso täällä:'
       view-more-at: 'Katso lisää täältä: '
