@@ -347,6 +347,10 @@ en:
           dctermsIsPartOf: Parent of this object
           dctermsMedium: Medium of this object
           exhibition: Features this object
+          gallery: Gallery
+          gallery-count:
+            one: "%{count} Item"
+            other: "%{count} Items"
         type:
           exhibition: 
           news: News

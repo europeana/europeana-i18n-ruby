@@ -349,6 +349,8 @@ bg:
           dctermsIsPartOf: 
           dctermsMedium: 
           exhibition: 
+          gallery: 
+          gallery-count: 
         type:
           exhibition: 
           news: 
