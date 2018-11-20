@@ -593,6 +593,15 @@ sk:
       uk: Ukrajinčina
       yi: ייִדיש
     login: Login
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Pretransformujeme svet kultúrou! Chceme stavať na bohatom európskom dedičstve a uľahčiť ľuďom používanie, či už pre prácu, učenie sa, alebo iba pre zábavu.
     mission-title: Naše poslanie
     more:

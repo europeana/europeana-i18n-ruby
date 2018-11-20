@@ -591,6 +591,15 @@ ca:
       uk: Ucraïnès
       yi: ייִדיש
     login: Identifica't
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Transformem el món amb cultura! Volem construir sobre el ric patrimoni d'Europa i fer-ho fàcil de fer servir, tant a nivell laboral, docent o per gaudi personal.
     mission-title: La nostra missió
     more:

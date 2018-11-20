@@ -593,6 +593,15 @@ sl:
       uk: Ukrajinščina
       yi: ייִדיש
     login: Prijava
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Svet spreminjamo s kulturo! Želimo graditi na bogati evropski dediščini in ljudem olajšati njeno uporabo, bodisi za delo, za učenje ali samo za zabavo.
     mission-title: Naše poslanstvo
     more:

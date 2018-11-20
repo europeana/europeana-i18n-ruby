@@ -591,6 +591,15 @@ ro:
       uk: Ucrainiană
       yi: ייִדיש
     login: Autentificare
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Prin cultură noi transformăm lumea! Ne dorim să contribuim la dezvoltarea patrimoniului cultural european, și să-l facem ușor accesibil, fie pentru scopuri profesionale sau doar de amuzament.
     mission-title: Misiunea noastră
     more:

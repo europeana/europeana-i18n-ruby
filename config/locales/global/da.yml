@@ -593,6 +593,15 @@ da:
       uk: Ukrainsk
       yi: ייִדיש
     login: Login
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Vi ændre verden med kultur. Vi ønsker at bygge videre på den rige arv fra Europa og gøre det nemmere for folk at bruge uanset om det er til arbejde, uddannelse eller underholdning.
     mission-title: Vores mission
     more:

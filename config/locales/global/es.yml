@@ -593,6 +593,15 @@ es:
       uk: Ucraniano
       yi: Yidish
     login: Accede
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: "¡Transformamos el mundo a través de la cultura! Queremos aprovechar el enorme patrimonio cultural Europeo y que la gente pueda usarlo fácilmente para su trabajo, su aprendizaje o por puro placer.\n"
     mission-title: Nuestra misión
     more:

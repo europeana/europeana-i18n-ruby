@@ -591,6 +591,15 @@ nl:
       uk: Ukraans
       yi: ייִדיש
     login: Aanmelden
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: 'Wij geloven dat cultuur de wereld een stukje beter maakt! Daarom verzamelen wij al het cultureel erfgoed en maken het online beschikbaar zodat u het kan gebruiken voor professionele, entertainment en leerdoeleinden. '
     mission-title: Onze missie
     more:

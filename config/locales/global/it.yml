@@ -593,6 +593,15 @@ it:
       uk: Ucraino
       yi: ייִדיש
     login: Login
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Trasformiamo il mondo con la cultura! Vogliamo sviluppare la ricca eredità europea e facilitare l'uso da parte delle persone per lavoro, per studio o semplicemente per divertimento.
     mission-title: La nostra missione
     more:

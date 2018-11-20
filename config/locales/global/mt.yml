@@ -593,6 +593,15 @@ mt:
       uk: Ukrain
       yi: Jiddix
     login: Irrifma biex tid
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Aħna nittrasformaw id-dinja permezz tal-kultura! Rridu li nibnu fuq il-wirt għani tal-Ewropa u nagħmluha aktar faċli għal persuni li jużaw, kemm jekk għal xogħol, għat-tagħlim jew biss għall-gost.
     mission-title: Il-missjoni tagħna
     more:

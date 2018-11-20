@@ -591,6 +591,15 @@ tr:
       uk: 
       yi: 
     login: 
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: 
     mission-title: 
     more:

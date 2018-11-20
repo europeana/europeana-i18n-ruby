@@ -591,6 +591,15 @@ lt:
       uk: Ukrainiečių
       yi: Jidiš
     login: Prisijungti
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Mes keičiame pasaulį kultūros pagalba! Siekiame kurti turtingiausią Europos kultūrinio paveldo sistemą ir padaryti ją patogia naudotis tiek darbo, tiek mokslo, tiek laisvalaikio tikslais.
     mission-title: Mūsų misija
     more:

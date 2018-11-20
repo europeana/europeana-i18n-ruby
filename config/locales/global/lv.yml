@@ -591,6 +591,15 @@ lv:
       uk: Ukraiņu
       yi: ייִדיש
     login: Pieslēgties
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Ar kultūru mēs mainām pasauli! Mēs vēlamies attīstīt Eiropas bagāto kultūras mantojumu un padarīt to cilvēkiem pieejamāku izmantošanai, - gan darbam, gan mācībām, gan izklaidei.
     mission-title: Mūsu misija
     more:

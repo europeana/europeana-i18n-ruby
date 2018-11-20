@@ -593,6 +593,15 @@ et:
       uk: ukraina
       yi: ייִדיש
     login: Logi sisse
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Me muudame kultuuri abil maailma! Tahame võtta aluseks euroopa rikka pärandi ja teha selle inimestele kergemi kasutatavaks - olgu eesmärgiks töö, õppimine või lihtsalt lõbu.
     mission-title: Meie missioon
     more:

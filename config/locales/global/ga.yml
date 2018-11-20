@@ -595,6 +595,15 @@ ga:
       uk: Úcráinis
       yi: 
     login: Logáil isteach
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Trasfhoirmíonn muid an domhan le cultúr! Ta sé mar chuspóir againn oidhreacht shaibhir an Eoraip a fhorbairt agus éascú le húsáid ag chuile duine don obair, don fhoghlaim, nó mar chaitheamh aimsire.
     mission-title: Ár misean
     more:

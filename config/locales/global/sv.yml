@@ -591,6 +591,15 @@ sv:
       uk: Ukrainska
       yi: Jiddisch
     login: Logga in
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Vi förändrar världen med kultur! Vi vill bygga vidare på Europeas rika kulturarv och göra det enklare att använda i såväl arbete, utbildning och för nöjes skull.
     mission-title: Vårt uppdrag
     more:

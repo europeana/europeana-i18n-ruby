@@ -591,6 +591,15 @@ hr:
       uk: Ukrajinski
       yi: ייִדיש
     login: Prijava
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Mi preoblikujemo svijet kulturom! Želimo unaprijediti bogatu baštinu Europe i olakšati ljudima njeno korištenje, bilo za posao, učenje ili samo za zabavu.
     mission-title: Naša misija
     more:

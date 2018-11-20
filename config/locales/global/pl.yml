@@ -591,6 +591,15 @@ pl:
       uk: Ukraiński
       yi: ייִדיש
     login: Login
+    media:
+      types:
+        IIIF: 
+        audio: 
+        image: 
+        oembed: 
+        pdf: 
+        text: 
+        video: 
     mission: Kulturą zmieniamy świat! Chcemy budować na bogatym dziedzictwie kulturowym Europy i ułatwić do niego dostęp, aby każdy miał szansę wykorzystać je w pracy, do nauki lub po prostu dla zabawy.
     mission-title: Nasza misja
     more:
