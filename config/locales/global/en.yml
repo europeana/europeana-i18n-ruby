@@ -374,7 +374,7 @@ en:
           label: No Re-use
         restricted:
           brief: 'Yes'
-          info: limitations apply
+          info: limited reuse
           label: Limited Re-use
         simple: Simple
       rights:
