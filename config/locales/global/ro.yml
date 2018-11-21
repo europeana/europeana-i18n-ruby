@@ -364,6 +364,7 @@ ro:
       reusability:
         advanced-MARKEDFORDELETION: Avansat
         expiry: până la %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

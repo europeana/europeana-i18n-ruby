@@ -364,6 +364,7 @@ hu:
       reusability:
         advanced-MARKEDFORDELETION: Összetett
         expiry: "%{date}-ig"
+        free-reuse: 
         open:
           brief: 
           info: 

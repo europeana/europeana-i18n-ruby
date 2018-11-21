@@ -364,6 +364,7 @@ el:
       reusability:
         advanced-MARKEDFORDELETION: Για προχωρημένους
         expiry: έως %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

@@ -364,6 +364,7 @@
       reusability:
         advanced-MARKEDFORDELETION: Avansert
         expiry: Til %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

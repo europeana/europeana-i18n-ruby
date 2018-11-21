@@ -364,6 +364,7 @@ sk:
       reusability:
         advanced-MARKEDFORDELETION: Pokročilý
         expiry: do %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

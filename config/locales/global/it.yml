@@ -364,6 +364,7 @@ it:
       reusability:
         advanced-MARKEDFORDELETION: Avanzato
         expiry: fino a %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

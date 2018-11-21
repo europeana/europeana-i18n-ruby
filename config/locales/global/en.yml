@@ -364,6 +364,7 @@ en:
       reusability:
         advanced-MARKEDFORDELETION: Advanced
         expiry: until %{date}
+        free-reuse: Free reuse
         open:
           brief: 'Yes'
           info: with attribution

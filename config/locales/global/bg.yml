@@ -364,6 +364,7 @@ bg:
       reusability:
         advanced-MARKEDFORDELETION: Подробен
         expiry: до %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

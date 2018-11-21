@@ -364,6 +364,7 @@ fr:
       reusability:
         advanced-MARKEDFORDELETION: Avancée
         expiry: jusqu'à %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

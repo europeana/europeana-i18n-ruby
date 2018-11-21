@@ -364,6 +364,7 @@ sl:
       reusability:
         advanced-MARKEDFORDELETION: Napredno
         expiry: do %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

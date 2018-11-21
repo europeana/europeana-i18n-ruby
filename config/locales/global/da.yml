@@ -364,6 +364,7 @@ da:
       reusability:
         advanced-MARKEDFORDELETION: Udvidet
         expiry: indtil d. %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

@@ -364,6 +364,7 @@ sr:
       reusability:
         advanced-MARKEDFORDELETION: 
         expiry: 
+        free-reuse: 
         open:
           brief: 
           info: 

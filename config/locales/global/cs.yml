@@ -364,6 +364,7 @@ cs:
       reusability:
         advanced-MARKEDFORDELETION: Rozšířené
         expiry: do %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

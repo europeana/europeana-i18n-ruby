@@ -366,6 +366,7 @@ mt:
       reusability:
         advanced-MARKEDFORDELETION: Avvanzat
         expiry: sa %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

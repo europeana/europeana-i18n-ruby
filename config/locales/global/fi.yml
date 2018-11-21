@@ -364,6 +364,7 @@ fi:
       reusability:
         advanced-MARKEDFORDELETION: Laajennettu
         expiry: "%{date} saakka"
+        free-reuse: 
         open:
           brief: 
           info: 

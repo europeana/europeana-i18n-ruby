@@ -364,6 +364,7 @@ et:
       reusability:
         advanced-MARKEDFORDELETION: Detailne
         expiry: Kuni %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

@@ -364,6 +364,7 @@ sv:
       reusability:
         advanced-MARKEDFORDELETION: Avancerad
         expiry: till %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

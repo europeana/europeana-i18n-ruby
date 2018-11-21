@@ -364,6 +364,7 @@ lt:
       reusability:
         advanced-MARKEDFORDELETION: Papildomas
         expiry: iki %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

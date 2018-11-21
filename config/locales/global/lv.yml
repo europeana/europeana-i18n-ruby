@@ -364,6 +364,7 @@ lv:
       reusability:
         advanced-MARKEDFORDELETION: Paplašinātā
         expiry: līdz %{date}
+        free-reuse: 
         open:
           brief: Jā
           info: 

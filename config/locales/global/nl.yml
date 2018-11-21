@@ -364,6 +364,7 @@ nl:
       reusability:
         advanced-MARKEDFORDELETION: Geavanceerd
         expiry: tot %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

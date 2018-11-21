@@ -364,6 +364,7 @@ ca:
       reusability:
         advanced-MARKEDFORDELETION: Avançat
         expiry: fins a %{date}
+        free-reuse: 
         open:
           brief: 
           info: 

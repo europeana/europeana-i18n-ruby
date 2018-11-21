@@ -364,6 +364,7 @@ ru:
       reusability:
         advanced-MARKEDFORDELETION: ''
         expiry: До %{date}
+        free-reuse: 
         open:
           brief: 
           info: 
