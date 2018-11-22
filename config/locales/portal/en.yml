@@ -350,8 +350,8 @@ en:
           exhibition: Features this object
           gallery: Features this object
           gallery-count:
-            one: "%{count} Item"
-            other: "%{count} Items"
+            one: "%{count} Image"
+            other: "%{count} Images"
           news: Features this object
         type:
           exhibition: 
