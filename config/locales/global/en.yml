@@ -367,7 +367,7 @@ en:
         free-reuse: Free reuse
         open:
           brief: 'Yes'
-          info: with attribution
+          info: free reuse
           label: Free Re-use
         permission:
           brief: 'No'
