@@ -327,7 +327,7 @@ en:
       nav:
         next: Next
         prev: Previous
-      next-item: Next item
+      next-item: Next search result
       points:
         east: East
         north: North
@@ -337,7 +337,7 @@ en:
       preview_unavailable_explanation: This link will take you to
       preview_unavailable_intro: No preview was provided by our partners, more information may be available at the source.
       preview_unavailable_source: Go to source
-      previous-item: Previous item
+      previous-item: Previous search result
       promotions:
         card-labels:
           dcContributor: Contributor to this object
