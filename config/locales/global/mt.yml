@@ -149,8 +149,12 @@ mt:
   global:
     about-us: Dwarna
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Niżżel il-menu
       copy: 
+      copy-attribution: 
       delete: Iddilitja
       download: 
       downloading: 
@@ -620,6 +624,7 @@ mt:
       language-required: Il-lingwa għandha tkun speċifikata
       signup: Irreġistra għan-newsletter tagħna
       submit-alt: Abbona
+    other-formats: 
     our-sites: Is-siti tagħna
     page: paġna
     password: Password

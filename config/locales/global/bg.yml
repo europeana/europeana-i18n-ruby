@@ -149,8 +149,12 @@ bg:
   global:
     about-us: За нас
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Свиване
       copy: 
+      copy-attribution: 
       delete: Изтриване
       download: 
       downloading: 
@@ -618,6 +622,7 @@ bg:
       language-required: Моля, изберете език.
       signup: Абонамент за бюлентин
       submit-alt: Абонирай се
+    other-formats: 
     our-sites: нашите страници
     page: страница
     password: Парола

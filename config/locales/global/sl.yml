@@ -149,8 +149,12 @@ sl:
   global:
     about-us: O nas
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Strnite
       copy: 
+      copy-attribution: 
       delete: Izbrišite
       download: 
       downloading: 
@@ -620,6 +624,7 @@ sl:
       language-required: Navesti morate jezik.
       signup: Naročite se na naše e-novice
       submit-alt: Naročite se
+    other-formats: 
     our-sites: naša spletišča
     page: stran
     password: geslo

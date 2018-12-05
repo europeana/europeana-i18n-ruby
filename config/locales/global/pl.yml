@@ -149,8 +149,12 @@ pl:
   global:
     about-us: O nas
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Zwiń
       copy: 
+      copy-attribution: 
       delete: Usuń
       download: 
       downloading: 
@@ -618,6 +622,7 @@ pl:
       language-required: Zaznacz preferowany język.
       signup: Zapisz się na comiesięczną dawkę kultury w naszym biuletynie
       submit-alt: Subskrybować
+    other-formats: 
     our-sites: nasze strony
     page: strona
     password: Hasło

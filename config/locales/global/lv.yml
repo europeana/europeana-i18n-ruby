@@ -149,8 +149,12 @@ lv:
   global:
     about-us: Par mums
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Salocīt
       copy: Kopēt
+      copy-attribution: 
       delete: Dzēst
       download: Lejupielādēt
       downloading: Lejupielādējas
@@ -618,6 +622,7 @@ lv:
       language-required: Ir jāuzrāda valoda.
       signup: Paraksties uz mūsu informatīvo izdevumu
       submit-alt: abonēt
+    other-formats: 
     our-sites: mūsu vietnes
     page: lapa
     password: Parole

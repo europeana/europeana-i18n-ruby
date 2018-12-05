@@ -149,8 +149,12 @@ sv:
   global:
     about-us: Om oss
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Mindre
       copy: 
+      copy-attribution: 
       delete: Radera
       download: 
       downloading: Laddar ner
@@ -618,6 +622,7 @@ sv:
       language-required: Språk måste anges
       signup: Prenumerera på vårt nyhetsbrev
       submit-alt: Prenumerera
+    other-formats: 
     our-sites: Våra sajter
     page: sida
     password: Lösenord

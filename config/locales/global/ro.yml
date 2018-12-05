@@ -149,8 +149,12 @@ ro:
   global:
     about-us: Despre noi
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Reducere
       copy: 
+      copy-attribution: 
       delete: Ștergere
       download: 
       downloading: 
@@ -618,6 +622,7 @@ ro:
       language-required: Specificați limba
       signup: Înscrieți-vă aici pentru a primi buletinul nostru de știri
       submit-alt: subscrie
+    other-formats: 
     our-sites: paginile noastre
     page: pagină
     password: Parolă

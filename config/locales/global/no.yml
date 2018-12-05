@@ -149,8 +149,12 @@
   global:
     about-us: Om oss
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Kollapse
       copy: 
+      copy-attribution: 
       delete: Slett
       download: 
       downloading: 
@@ -618,6 +622,7 @@
       language-required: Du må spesifisere et språk.
       signup: Meld deg på vårt nyhetsbrev
       submit-alt: Abonnere
+    other-formats: 
     our-sites: Våre nettsteder
     page: side
     password: Passord

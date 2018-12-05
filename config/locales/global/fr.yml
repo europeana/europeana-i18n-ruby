@@ -149,8 +149,12 @@ fr:
   global:
     about-us: À propos
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Réduire
       copy: 
+      copy-attribution: 
       delete: Supprimer
       download: 
       downloading: 
@@ -618,6 +622,7 @@ fr:
       language-required: Une langue doit être précisée.
       signup: Inscrivez-vous à notre newsletter
       submit-alt: Souscrire
+    other-formats: 
     our-sites: nos sites
     page: page
     password: Mot de passe

@@ -149,8 +149,12 @@ ru:
   global:
     about-us: О нас
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Свернуть
       copy: 
+      copy-attribution: 
       delete: Удалить
       download: 
       downloading: 
@@ -618,6 +622,7 @@ ru:
       language-required: Язык должен быть указан.
       signup: Подпишитесь на рассылку наших новостей
       submit-alt: Подписывайся
+    other-formats: 
     our-sites: наши сайты
     page: страница
     password: Пароль

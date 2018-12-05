@@ -149,8 +149,12 @@ en:
   global:
     about-us: About us
     actions:
+      click-here-try-again-1: You can click
+      click-here-try-again-2: here
+      click-here-try-again-3: to try again
       collapse: Collapse
       copy: Copy
+      copy-attribution: Show your appreciation. Copy to attribute.
       delete: Delete
       download: Download
       downloading: Downloading
@@ -620,6 +624,7 @@ en:
       language-required: A language must be specified.
       signup: Sign up for our newsletter
       submit-alt: Subscribe
+    other-formats: Other formats
     our-sites: our sites
     page: page
     password: Password

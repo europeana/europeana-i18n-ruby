@@ -149,8 +149,12 @@ hr:
   global:
     about-us: O nama
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Smanjite
       copy: 
+      copy-attribution: 
       delete: Pobrišite
       download: 
       downloading: 
@@ -618,6 +622,7 @@ hr:
       language-required: Jezik mora biti naveden.
       signup: Prijavite se na naš newsletter
       submit-alt: pretplatiti
+    other-formats: 
     our-sites: naše stranice
     page: stranica
     password: Lozinka

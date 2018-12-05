@@ -149,8 +149,12 @@ pt:
   global:
     about-us: Sobre nós
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Ocultar
       copy: 
+      copy-attribution: 
       delete: Apagar
       download: 
       downloading: 
@@ -618,6 +622,7 @@ pt:
       language-required: Uma língua terá que ser especificada.
       signup: Inscreva-se na nossa newsletter
       submit-alt: Se inscrever
+    other-formats: 
     our-sites: os nossos sites
     page: página
     password: Palavra-passe

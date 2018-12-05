@@ -149,8 +149,12 @@ nl:
   global:
     about-us: Over ons
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Instorten
       copy: 
+      copy-attribution: 
       delete: Verwijderen
       download: 
       downloading: 
@@ -618,6 +622,7 @@ nl:
       language-required: Dit is een verplicht veld
       signup: Word lid van onze nieuwsbrief!
       submit-alt: abonneren
+    other-formats: 
     our-sites: onze sites
     page: pagina
     password: Wachtwoord

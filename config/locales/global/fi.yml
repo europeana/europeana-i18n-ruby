@@ -149,8 +149,12 @@ fi:
   global:
     about-us: Tietoa meistä
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Tiivistä
       copy: 
+      copy-attribution: 
       delete: Poista
       download: 
       downloading: 
@@ -618,6 +622,7 @@ fi:
       language-required: Kieli on määritettävä.
       signup: Tilaa uutiskirje
       submit-alt: merkitä
+    other-formats: 
     our-sites: sivustomme
     page: sivu
     password: Salasana

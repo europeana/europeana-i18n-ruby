@@ -149,8 +149,12 @@ lt:
   global:
     about-us: Apie mus
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Suglausti
       copy: 
+      copy-attribution: 
       delete: Ištrinti
       download: 
       downloading: 
@@ -618,6 +622,7 @@ lt:
       language-required: Pasirinkite kalbą
       signup: Užsiprenumeruokite mūsų naujienlaiškį
       submit-alt: prenumeruoti
+    other-formats: 
     our-sites: mūsų puslapiai
     page: puslapis
     password: Slaptažodis

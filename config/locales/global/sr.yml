@@ -149,8 +149,12 @@ sr:
   global:
     about-us: 
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: 
       copy: 
+      copy-attribution: 
       delete: 
       download: 
       downloading: 
@@ -618,6 +622,7 @@ sr:
       language-required: 
       signup: 
       submit-alt: 
+    other-formats: 
     our-sites: 
     page: 
     password: 

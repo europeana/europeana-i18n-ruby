@@ -149,8 +149,12 @@ da:
   global:
     about-us: Om os
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Kollaps
       copy: 
+      copy-attribution: 
       delete: Slet
       download: 
       downloading: 
@@ -620,6 +624,7 @@ da:
       language-required: 'Angiv sprog '
       signup: Tilmeld dig til vores nyhedsbrev
       submit-alt: Tilmeld
+    other-formats: 
     our-sites: Vores sider
     page: side
     password: Adgangskode

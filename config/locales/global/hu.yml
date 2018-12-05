@@ -149,8 +149,12 @@ hu:
   global:
     about-us: Rólunk
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Összecsukás
       copy: 
+      copy-attribution: 
       delete: Törlés
       download: 
       downloading: 
@@ -618,6 +622,7 @@ hu:
       language-required: Meg kell jelölnie egy nyelvet.
       signup: Iratkozon fel hírlevelünkre
       submit-alt: Iratkozz fel
+    other-formats: 
     our-sites: weboldalaink
     page: oldal
     password: Jelszó

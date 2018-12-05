@@ -149,8 +149,12 @@ ga:
   global:
     about-us: Fúinne
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Leacaigh
       copy: 
+      copy-attribution: 
       delete: Scrios
       download: 
       downloading: 
@@ -624,6 +628,7 @@ ga:
       language-required: Caithfear teanga a shonrú.
       signup: Cláraigh le haghaidh ár nuachtlitir
       submit-alt: Suibscríobh
+    other-formats: 
     our-sites: ár suíomhanna
     page: leathanach
     password: Pasfhocal

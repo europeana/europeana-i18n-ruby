@@ -149,8 +149,12 @@ ca:
   global:
     about-us: Sobre nosaltres
     actions:
+      click-here-try-again-1: 
+      click-here-try-again-2: 
+      click-here-try-again-3: 
       collapse: Redueix
       copy: 
+      copy-attribution: 
       delete: Elimina
       download: 
       downloading: 
@@ -618,6 +622,7 @@ ca:
       language-required: Especifiqueu una llengua
       signup: Signeu per a una newsletter
       submit-alt: subscriure
+    other-formats: 
     our-sites: els nostres webs
     page: pàgina
     password: Paraula de pas
