@@ -490,6 +490,8 @@ sk:
     follow-channel: Sledovať %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Zabudli ste svoje heslo?
     forms:

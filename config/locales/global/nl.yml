@@ -490,6 +490,8 @@ nl:
     follow-channel: Volg %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: 'Wachtwoord kwijt? '
     forms:

@@ -490,6 +490,8 @@ hu:
     follow-channel: "%{channel} követése"
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Elfelejtetted a jelszavad?
     forms:

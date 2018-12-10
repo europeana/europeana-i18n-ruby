@@ -490,6 +490,8 @@ ru:
     follow-channel: Следите за %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Забыли пароль?
     forms:

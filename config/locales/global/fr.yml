@@ -490,6 +490,8 @@ fr:
     follow-channel: Suivre %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Vous avez oublié votre mot de passe ?
     forms:

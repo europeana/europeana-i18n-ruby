@@ -490,6 +490,8 @@ sl:
     follow-channel: Sledite %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Ste pozabili svoje geslo?
     forms:

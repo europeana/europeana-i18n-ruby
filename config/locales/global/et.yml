@@ -490,6 +490,8 @@ et:
     follow-channel: Jälgi kanalit %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Unustasid parooli?
     forms:

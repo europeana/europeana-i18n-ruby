@@ -490,6 +490,8 @@ hr:
     follow-channel: Slijedite %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Zaboravili ste lozinku?
     forms:

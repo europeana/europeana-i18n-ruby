@@ -490,6 +490,8 @@ bs:
     follow-channel: 
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: 
     forms:

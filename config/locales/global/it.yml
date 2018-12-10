@@ -492,6 +492,8 @@ it:
     follow-channel: Segui %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Hai dimenticato la password?
     forms:

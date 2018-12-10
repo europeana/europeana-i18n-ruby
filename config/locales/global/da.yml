@@ -490,6 +490,8 @@ da:
     follow-channel: Følg %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: 'Glemt dit brugernavn?
 

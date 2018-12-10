@@ -492,6 +492,8 @@ ga:
     follow-channel: Lean %{channel}
     footer:
       disclaimer: 
+      disclaimer_1: 
+      disclaimer_2: 
       funding: 
     forgot-password: Dearmad ar do phasfhocal?
     forms:
