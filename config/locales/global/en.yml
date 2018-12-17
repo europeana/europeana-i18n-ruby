@@ -219,8 +219,8 @@ en:
         show:
           ugc: User generated content
       api:
-        collection: Fulltext
-        default: Metadata
+        collection: Records with full-text
+        default: Metadata-only records
       art:
         form:
           paintings:
@@ -272,7 +272,7 @@ en:
       creator: creator
       filter: filter
       header:
-        api: Search options
+        api: Search for
         collection: Collections
         colourpalette: Colour
         country: Country
