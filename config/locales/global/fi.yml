@@ -464,6 +464,7 @@ fi:
         'true': HD
       year:
         from: alkaen
+        specific-date: 
         to: päättyen
     feedback:
       close: kiinni

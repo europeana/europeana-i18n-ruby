@@ -464,6 +464,7 @@ sv:
         'true': HD
       year:
         from: från
+        specific-date: 
         to: till
     feedback:
       close: Stänga

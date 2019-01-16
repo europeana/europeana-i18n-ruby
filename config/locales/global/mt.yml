@@ -466,6 +466,7 @@ mt:
         'true': Definizzjoni Għolja (576p+)
       year:
         from: minn
+        specific-date: 
         to: għal
     feedback:
       close: Agħlaq

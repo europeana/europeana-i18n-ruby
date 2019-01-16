@@ -464,6 +464,7 @@ ro:
         'true': HD
       year:
         from: 'de la '
+        specific-date: 
         to: până la
     feedback:
       close: Închide

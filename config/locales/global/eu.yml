@@ -1,4 +1,4 @@
-sr:
+eu:
   Symphonies: 
   X11:
     colours:
@@ -169,12 +169,12 @@ sr:
       next: 
       previous: 
       reduce-viewer: 
-      register: Региструјте се
+      register: 
       remove: 
       search: 
       share: 
-      sign-in: Пријава
-      sign-out: Одјавити се
+      sign-in: 
+      sign-out: 
       skip-to-main: 
       skip-to-section: 
       subscribe: 
@@ -419,7 +419,7 @@ sr:
         'false': 
         'true': 
       type:
-        3d: 3D
+        3d: 
         image: 
         sound: 
         text: 

@@ -464,6 +464,7 @@ hr:
         'true': HD
       year:
         from: od
+        specific-date: 
         to: do
     feedback:
       close: Blizu

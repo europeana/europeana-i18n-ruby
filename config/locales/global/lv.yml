@@ -464,6 +464,7 @@ lv:
         'true': HD
       year:
         from: 'no'
+        specific-date: 
         to: līdz
     feedback:
       close: Aizvērt

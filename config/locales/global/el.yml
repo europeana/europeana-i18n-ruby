@@ -464,6 +464,7 @@ el:
         'true': HD
       year:
         from: από
+        specific-date: 
         to: μέχρι
     feedback:
       close: Κοντά

@@ -464,6 +464,7 @@ et:
         'true': HD
       year:
         from: alates
+        specific-date: 
         to: kuni
     feedback:
       close: Sulge

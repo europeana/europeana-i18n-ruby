@@ -464,6 +464,7 @@ es:
         'true': HD
       year:
         from: desde
+        specific-date: 
         to: a
     feedback:
       close: cerca

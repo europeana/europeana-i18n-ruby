@@ -466,6 +466,7 @@ ga:
         'true': Ardghléine (576p+)
       year:
         from: ó
+        specific-date: 
         to: fo
     feedback:
       close: Dún

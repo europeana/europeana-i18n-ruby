@@ -464,6 +464,7 @@ da:
         'true': HD
       year:
         from: fra
+        specific-date: 
         to: til
     feedback:
       close: Tæt

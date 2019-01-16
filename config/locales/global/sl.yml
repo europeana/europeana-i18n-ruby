@@ -464,6 +464,7 @@ sl:
         'true': Visoka ločljivost (576 p+)
       year:
         from: od
+        specific-date: 
         to: do
     feedback:
       close: Zaprite

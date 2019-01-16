@@ -464,6 +464,7 @@ ru:
         'true': HD
       year:
         from: с
+        specific-date: 
         to: по
     feedback:
       close: Закрыть

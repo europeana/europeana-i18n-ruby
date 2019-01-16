@@ -464,6 +464,7 @@ cs:
         'true': Vysoké rozlišení (>576p)
       year:
         from: od
+        specific-date: 
         to: do
     feedback:
       close: Zavřít

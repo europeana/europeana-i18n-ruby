@@ -464,6 +464,7 @@ fr:
         'true': HD
       year:
         from: de
+        specific-date: 
         to: à
     feedback:
       close: Fermer

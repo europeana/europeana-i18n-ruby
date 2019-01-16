@@ -464,6 +464,7 @@ en:
         'true': High Definition (576p+)
       year:
         from: from
+        specific-date: Specific date
         to: to
     feedback:
       close: Close

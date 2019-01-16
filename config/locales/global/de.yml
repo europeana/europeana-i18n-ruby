@@ -464,6 +464,7 @@ de:
         'true': HD
       year:
         from: von
+        specific-date: 
         to: nach
     feedback:
       close: schließen

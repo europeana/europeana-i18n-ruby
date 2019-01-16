@@ -464,6 +464,7 @@ hu:
         'true': HD
       year:
         from: "-tól"
+        specific-date: 
         to: "-ig"
     feedback:
       close: Bezárás

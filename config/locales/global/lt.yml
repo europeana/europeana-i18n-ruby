@@ -464,6 +464,7 @@ lt:
         'true': HD
       year:
         from: nuo
+        specific-date: 
         to: iki
     feedback:
       close: Uždaryti
