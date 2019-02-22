@@ -149,15 +149,15 @@ hr:
   global:
     about-us: O nama
     actions:
-      click-here-try-again-1: 
-      click-here-try-again-2: 
+      click-here-try-again-1: Kliknite
+      click-here-try-again-2: ovdje
       click-here-try-again-3: 
       collapse: Smanjite
-      copy: 
+      copy: Kopiraj
       copy-attribution: 
       delete: Pobrišite
-      download: 
-      downloading: 
+      download: Preuzmi
+      downloading: Preuzimanje
       edit: Uredite
       expand: Proširite
       expand-viewer: 
@@ -170,14 +170,14 @@ hr:
       previous: prijašnji
       reduce-viewer: 
       register: Registracija
-      remove: 
-      search: 
+      remove: Ukloni
+      search: Pretraži
       share: Podijelite
       sign-in: Prijava
       sign-out: Odjavi se
       skip-to-main: Preskoči na sadržaj stranice
       skip-to-section: Preskoči na odjeljak
-      subscribe: 
+      subscribe: Pretplati se
       view: Pregled
       view-at: Pogledajte u
       view-more-at: 'Pogledajte više u '
@@ -296,7 +296,7 @@ hr:
         provider: Agregator
         providing_country: Država
         proxy_dcterms_created: Datum izrade
-        proxy_dcterms_issued: 
+        proxy_dcterms_issued: Datum
         reusability: Smijem li koristiti ovaj sadržaj?
         rights: licenca
         sound_duration: Trajanje
@@ -370,15 +370,15 @@ hr:
         expiry: do %{date}
         free-reuse: 
         open:
-          brief: 
+          brief: Da
           info: 
           label: 
         permission:
-          brief: 
+          brief: Ne
           info: 
           label: 
         restricted:
-          brief: 
+          brief: Da
           info: 
           label: 
         simple: Jednostavno
