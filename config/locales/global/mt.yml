@@ -3,14 +3,14 @@ mt:
   X11:
     colours:
       '000000': Iswed
-      000080: Blu skur
-      00008B: Blu Skur
+      '000080': Blu skur
+      '00008B': Blu Skur
       0000CD: 
       0000FF: Blu
       '006400': 
-      008000: 
-      008080: 
-      008B8B: 
+      '008000': 
+      '008080': 
+      '008B8B': 
       00BFFF: 
       00CED1: 
       00FA9A: 
