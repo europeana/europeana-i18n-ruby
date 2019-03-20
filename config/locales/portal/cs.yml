@@ -85,7 +85,6 @@ cs:
         moving-images: Videa
         sound: Zvukové nahrávky
         texts: Texty
-      description: 
       e7a1418:
         contribute: Přidat 1914-1918 příběh
         my-account: Můj účet
@@ -184,8 +183,6 @@ cs:
         placeholder:
           text: Vyhledávat podle klíčového slova zde
     news: Novinky
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

@@ -85,7 +85,6 @@ lt:
         moving-images: Vaizdo įrašai
         sound: Garso įrašai
         texts: Tekstai
-      description: 
       e7a1418:
         contribute: Pridėti savo 1914–1918 m. istoriją
         my-account: Mano sąskaita
@@ -184,8 +183,6 @@ lt:
         placeholder:
           text: Ieškoti pagal raktinį žodį čia
     news: Naujienos
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

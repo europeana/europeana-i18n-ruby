@@ -85,7 +85,6 @@ el:
         moving-images: Βίντεο
         sound: Ηχογραφήσεις
         texts: Κείμενα
-      description: 
       e7a1418:
         contribute: Προσθέστε
         my-account: Ο λογαριασμός μου
@@ -184,8 +183,6 @@ el:
         placeholder:
           text: Αναζήτηση με λέξη-κλειδί εδώ
     news: Νέα
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

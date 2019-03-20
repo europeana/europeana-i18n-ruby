@@ -91,7 +91,6 @@ ga:
         moving-images: Físeáin
         sound: Taifeadtaí fuaime
         texts: Téacsanna
-      description: 
       e7a1418:
         contribute: Cuir do 1914-1918 scéal
         my-account: Mo chuntas
@@ -194,8 +193,6 @@ ga:
         placeholder:
           text: Cuardaigh anseo de réir eochairfhocail
     news: Nuacht
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

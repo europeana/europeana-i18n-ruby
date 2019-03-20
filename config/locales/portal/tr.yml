@@ -85,7 +85,6 @@ tr:
         moving-images: 
         sound: 
         texts: 
-      description: 
       e7a1418:
         contribute: 
         my-account: 
@@ -180,8 +179,6 @@ tr:
         placeholder:
           text: 
     news: 
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

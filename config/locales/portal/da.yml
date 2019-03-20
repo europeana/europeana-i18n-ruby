@@ -85,7 +85,6 @@ da:
         moving-images: Videoer
         sound: Lydoptagelser
         texts: Tekster
-      description: 
       e7a1418:
         contribute: Tilføj
         my-account: Min konto
@@ -184,8 +183,6 @@ da:
         placeholder:
           text: Søg på nøgleord her
     news: Nyheder
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

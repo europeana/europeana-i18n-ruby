@@ -85,7 +85,6 @@ uk:
         moving-images: Відео
         sound: Звукозаписи
         texts: Тексти
-      description: 
       e7a1418:
         contribute: 
         my-account: 
@@ -180,8 +179,6 @@ uk:
         placeholder:
           text: 
     news: 
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

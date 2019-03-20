@@ -85,7 +85,6 @@ nl:
         moving-images: Videos
         sound: Geluidsopnames
         texts: Tekst
-      description: 
       e7a1418:
         contribute: Uw 1914-1918 verhaal toevoegen
         my-account: Mijn account
@@ -184,8 +183,6 @@ nl:
         placeholder:
           text: Zoek hier op trefwoord
     news: Nieuws
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

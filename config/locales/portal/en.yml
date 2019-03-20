@@ -85,7 +85,6 @@ en:
         moving-images: Videos
         sound: Sound recordings
         texts: Texts
-      description: Europeana Thematic Collections expose content related to specific topics.
       e7a1418:
         contribute: Add your 1914-1918 story
         my-account: My Account
@@ -184,8 +183,6 @@ en:
         placeholder:
           text: Search by keyword here
     news: News
-    notice:
-      outage-expected: Europeana Collections may experience service outages between 19:00 (CET) and 01:00 (CET) due to ongoing maintenance by our hosting provider. We appreciate your patience during this time.
     object:
       actions:
         annotate: Annotate

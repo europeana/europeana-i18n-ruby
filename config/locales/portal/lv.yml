@@ -85,7 +85,6 @@ lv:
         moving-images: Video
         sound: Skaņu ieraksti
         texts: Teksti
-      description: Europeana tematiskās kolekcijas parāda saturu par konkrētām tēmām.
       e7a1418:
         contribute: Pievieno savu 1914-1918 stāstu
         my-account: Mans konts
@@ -185,8 +184,6 @@ lv:
         placeholder:
           text: Meklēt pēc atslēgvārda šeit
     news: Ziņas
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: Anotēt

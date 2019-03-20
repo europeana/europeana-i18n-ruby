@@ -85,7 +85,6 @@ ro:
         moving-images: Înregistrări video
         sound: Înregistrări audio
         texts: Texte
-      description: 
       e7a1418:
         contribute: Adaugă istoria ta 1914-1918
         my-account: Contul meu
@@ -184,8 +183,6 @@ ro:
         placeholder:
           text: Căutare după cuvânt cheie, aici
     news: Știri
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

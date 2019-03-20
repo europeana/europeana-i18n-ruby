@@ -85,7 +85,6 @@ fi:
         moving-images: videota
         sound: äänitallennetta
         texts: tekstiä
-      description: 
       e7a1418:
         contribute: Lisää tarinasi vuosilta 1914-1918
         my-account: Tilini
@@ -184,8 +183,6 @@ fi:
         placeholder:
           text: Hae tästä hakusanalla
     news: Uutiset
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

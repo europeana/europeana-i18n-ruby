@@ -85,7 +85,6 @@ pl:
         moving-images: Ruchome obrazy
         sound: Nagrania
         texts: Teksty
-      description: 
       e7a1418:
         contribute: Dodaj swoją 1914-1918 historię
         my-account: Moje konto
@@ -184,8 +183,6 @@ pl:
         placeholder:
           text: Wyszukaj za pomocą słowa klucz
     news: Wiadomości
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

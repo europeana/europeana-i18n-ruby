@@ -85,7 +85,6 @@ fr:
         moving-images: Vidéos
         sound: Enregistrements sonores
         texts: Textes
-      description: 
       e7a1418:
         contribute: Racontez votre 1914-1918 histoire
         my-account: Mon compte
@@ -184,8 +183,6 @@ fr:
         placeholder:
           text: Rechercher par mot-clé ici
     news: Nouvelles
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

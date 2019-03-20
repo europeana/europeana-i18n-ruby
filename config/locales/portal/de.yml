@@ -85,7 +85,6 @@ de:
         moving-images: 
         sound: Tonaufnahmen
         texts: Texte
-      description: 
       e7a1418:
         contribute: 1914-1918 Beitrag hinzufügen
         my-account: Mein Konto
@@ -184,8 +183,6 @@ de:
         placeholder:
           text: Hier nach Stichwort suchen
     news: Neuigkeiten
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

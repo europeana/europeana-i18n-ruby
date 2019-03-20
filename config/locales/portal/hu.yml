@@ -85,7 +85,6 @@ hu:
         moving-images: Videók
         sound: Hangfelvételek
         texts: Szövegek
-      description: 
       e7a1418:
         contribute: Adja hozzá az Ön 1914–1918 történetét
         my-account: A fiókom
@@ -184,8 +183,6 @@ hu:
         placeholder:
           text: Kulcsszó szerinti keresés itt
     news: Hírek
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

@@ -85,7 +85,6 @@
         moving-images: Videoer
         sound: Lydopptak
         texts: Tekst
-      description: 
       e7a1418:
         contribute: Legg til din 1914-1918 historie
         my-account: Min konto
@@ -184,8 +183,6 @@
         placeholder:
           text: Søk etter nøkkelord her
     news: Nyheter
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

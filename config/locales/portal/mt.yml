@@ -85,7 +85,6 @@ mt:
         moving-images: Videos
         sound: Ħsejjes
         texts: Kitba
-      description: 
       e7a1418:
         contribute: Żid l-istorja tiegħek tal-1914-1918
         my-account: kont tiegħi
@@ -184,8 +183,6 @@ mt:
         placeholder:
           text: Fittex bil-keyword hawn
     news: Aħbarijiet
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

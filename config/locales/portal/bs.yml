@@ -85,7 +85,6 @@ bs:
         moving-images: 
         sound: 
         texts: 
-      description: 
       e7a1418:
         contribute: Dodajte svoju priču
         my-account: Moj korisnički račun
@@ -180,8 +179,6 @@ bs:
         placeholder:
           text: 
     news: 
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

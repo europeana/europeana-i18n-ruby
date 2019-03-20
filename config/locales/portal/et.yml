@@ -85,7 +85,6 @@ et:
         moving-images: Videod
         sound: Helisalvestised
         texts: Tekstid
-      description: 
       e7a1418:
         contribute: Lisa oma lugu 1914-1918 kohta
         my-account: Minu konto
@@ -184,8 +183,6 @@ et:
         placeholder:
           text: Otsi võrmesõna järgi siin
     news: Uudised
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 

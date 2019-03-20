@@ -85,7 +85,6 @@ hr:
         moving-images: video zapisa
         sound: zvučnih zapisa
         texts: tekstova
-      description: 
       e7a1418:
         contribute: Dodajte svoju 1914-1918 priču
         my-account: Moj račun
@@ -184,8 +183,6 @@ hr:
         placeholder:
           text: Pretražite po ključnim riječima ovdje
     news: Novosti
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: Anotacija

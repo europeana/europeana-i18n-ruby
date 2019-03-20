@@ -85,7 +85,6 @@ sr:
         moving-images: 
         sound: 
         texts: 
-      description: 
       e7a1418:
         contribute: Додајте своју причу
         my-account: Мој налог
@@ -180,8 +179,6 @@ sr:
         placeholder:
           text: 
     news: 
-    notice:
-      outage-expected: 
     object:
       actions:
         annotate: 
