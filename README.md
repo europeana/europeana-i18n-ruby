@@ -39,6 +39,6 @@ It's a good idea to ignore these files from version control in your project.
 
 ## License
 
-Licensed under the EUPL V.1.1.
+Licensed under the EUPL v1.2.
 
 For full details, see [LICENSE.md](LICENSE.md).

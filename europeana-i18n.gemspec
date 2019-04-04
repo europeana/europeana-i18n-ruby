@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.email       = ['richard.doe@europeana.eu']
   s.summary     = 'I18n for Europeana Rails apps'
   s.homepage    = 'https://github.com/europeana/europeana-i18n-ruby'
-  s.license     = 'EUPL-1.1'
+  s.license     = 'EUPL-1.2'
 
   s.files = Dir['{config,lib}/**/*', '.rubocop.yml', 'Gemfile', 'LICENSE.md',
                 'Rakefile', 'README.md']
