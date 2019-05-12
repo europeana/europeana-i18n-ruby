@@ -3,14 +3,14 @@ lt:
   X11:
     colours:
       '000000': Juoda
-      '000080': Jūrinė mėlyna
-      '00008B': Tamsiai mėlyna
+      000080: Jūrinė mėlyna
+      00008B: Tamsiai mėlyna
       0000CD: Mėlyna
       0000FF: Mėlyna
       '006400': Tamsiai žalia
-      '008000': Žalia
-      '008080': Elektrinė
-      '008B8B': Tamsiai elektrinė
+      008000: Žalia
+      008080: Elektrinė
+      008B8B: Tamsiai elektrinė
       00BFFF: Žydra
       00CED1: Tamsaus turkio
       00FA9A: Šviesiai žalia

@@ -3,14 +3,14 @@ en:
   X11:
     colours:
       '000000': Black
-      '000080': Navy Blue
-      '00008B': Dark Blue
+      000080: Navy Blue
+      00008B: Dark Blue
       0000CD: Medium Blue
       0000FF: Blue
       '006400': Dark Green
-      '008000': Web Green
-      '008080': Teal
-      '008B8B': Dark Cyan
+      008000: Web Green
+      008080: Teal
+      008B8B: Dark Cyan
       00BFFF: Deep Sky Blue
       00CED1: Dark Turquoise
       00FA9A: Medium Spring Green

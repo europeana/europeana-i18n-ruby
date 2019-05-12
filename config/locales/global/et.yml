@@ -3,14 +3,14 @@ et:
   X11:
     colours:
       '000000': Must
-      '000080': Mereväe sinine
-      '00008B': Tumesinine
+      000080: Mereväe sinine
+      00008B: Tumesinine
       0000CD: Mõõdukas sinine
       0000FF: Sinine
       '006400': Tumeroheline
-      '008000': Veebiroheline
-      '008080': Meresinine
-      '008B8B': Tume helesinine
+      008000: Veebiroheline
+      008080: Meresinine
+      008B8B: Tume helesinine
       00BFFF: Sügav taevasinine
       00CED1: Tume türkiis
       00FA9A: Mõõdukas kevadroheline
