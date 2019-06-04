@@ -1,0 +1,245 @@
+de:
+  contribute:
+    actions:
+      cancel: 
+      delete: 
+      sign_out: 
+    campaigns:
+      migration:
+        form:
+          buttons:
+            agent:
+              add: Eine weitere Person zu dieser Geschichte hinzufügen
+              remove: Diese Person löschen
+            location:
+              add: 
+              remove: 
+            object:
+              add: 'Der Geschichte ein weiteres Objekt hinzufügen '
+              remove: 
+            topic:
+              add: 
+              remove: 
+          hints:
+            defaults:
+              dc_creator: 'Zum Beispiel: Wer hat das Foto gemacht oder wer hat das Rezept geschrieben? Wenn du es nicht weisst, lasse dieses Feld frei. '
+              dcterms_created: Wenn du nicht sicher bist, versuche es zu schätzen.
+              media: 
+            edm_aggregatedCHO:
+              dc_contributor_agent:
+                foaf_mbox: Dies wird nirgendwo angezeigt. Wir werden sie nur benutzen, wenn wir mit dir in Kontakt treten müssen, um deine Geschichte zu bearbeiten oder du die Veröffentlichung zurückziehen möchtest. Sie wird nicht online geteilt.
+                foaf_name: Dies wird nirgendwo angezeigt.
+                skos_prefLabel: 'Dies wird zusammen mit deiner Einreichung angezeigt. '
+              dc_language: 
+              dc_subject: 'Wähle ein Stichwort aus, damit Andere deine Geschichte finden können. Wenn du anfängst etwas einzugeben, werden dir Vorschläge angezeigt, aus denen du auswählen kannst.  '
+            edm_hasView:
+              media: Es muss sich um eine Bild-, Ton-, Video- oder PDF-Datei handeln.
+            edm_isShownBy:
+              media: 
+          include_blanks:
+            edm_aggregatedCHO:
+              edm_wasPresentAt: Nein
+          js_required: 
+          labels:
+            contribution:
+              age_confirm: Ich bin älter als 16 Jahre.
+              content_policy_accept: Ich akzeptiere die Bedingungen von Europeana für Inhalte, die von Nutzern beigetragen werden <a href="%{href}" target="_blank">(verfügbar hier)</a>
+              display_and_takedown_accept: 'Ich bin einverstanden, dass meine eingereichten Daten genutzt werden, um meine Geschichte online zu veröffentlichen. Ich kann die Veröffentlichung jederzeit zurücknehmen, indem ich <a href="mailto:%{email}">%{email}</a> kontaktiere. '
+              guardian_consent: 
+            defaults:
+              dc_creator: Wer hat es geschaffen?
+              dc_description: Gib deinem Objekt einen Titel
+              dc_type: Um was für einen Gegenstand handelt es sich?
+              dcterms_created: 'Wann ist es entstanden? '
+              edm_currentLocation: 
+              edm_rights_id: Bitte wähle die Option für dein Objekt aus, die am besten passt.
+              edm_wasPresentAt: 
+              rdaGr2_dateOfBirth: 
+              rdaGr2_dateOfDeath: 
+              rdaGr2_placeOfBirth: 
+              rdaGr2_placeOfDeath: 
+            edm_aggregatedCHO:
+              dc_contributor_agent:
+                foaf_mbox: Deine Email-Adresse
+                foaf_name: 'Dein Name '
+                skos_prefLabel: Öffentlicher Name
+              dc_description: Erzähle oder beschreibe deine Geschichte
+              dc_identifier: 
+              dc_language: In welcher Sprache ist deine Geschichte?
+              dc_subject: Um welche Themen geht es in deiner Geschichte?
+              dc_subject_agents:
+                foaf_name: Gib einen Namen ein
+              dc_title: Gib deiner Geschichte einen Titel
+              dcterms_spatial: An welchen Orten findet deine Geschichte statt?
+            edm_web_resource:
+              edm_rights:
+                creativecommons_org:
+                  licenses:
+                    by-sa:
+                      '4_0': "CC BY-SA\nIch habe das Objekt geschaffen oder ich habe die Erlaubnis der Person, die es geschaffen hat. \nDas bedeutet:\nDieses Objekt wird unter einer Lizenz geteilt, die freie Nutzung für alle in jedem Kontext erlaubt.\nJeder, der das Objekt nutzt, muss die Quelle benennen und alle Veränderungen, die vorgenommen wurden, unter den gleichen Bedingungen teilen. "
+                  publicdomain:
+                    mark:
+                      '1_0': "Public Domain Marked\nDas Objekt, das ich teile, ist über 140 Jahre alt. \nDas bedeutet:\nDieses Objekt wird nicht länger durch Urheberrecht geschützt.\nJeder kann das Objekt teilen und nutzen. \n"
+                rightsstatements_org:
+                  vocab:
+                    CNE:
+                      '1_0': "Copyright Not Evaluated \nIch weiß nicht, wer das Objekt geschaffen hat oder ich habe keine explizite Erlaubnis, es zu teilen. \n\nDas bedeutet:\nDas Urheberrecht für dieses Objekt konnte nicht eindeutig bewertet werden. \nDie Sorgfaltspflicht liegt bei demjenigen, der das Objekt nutzen möchte. "
+          legends:
+            all_objects: Füge deine Objekte hinzu
+            contribution: Dein Beitrag
+            contributor: Über dich
+            each_object: Objekt %{number}
+            subject_agent: Um wen geht es in der Geschichte?
+          placeholders:
+            dc_subject_agents:
+              foaf_name: 'Zum Beispiel: John Smith, Marie Dubois'
+            defaults:
+              dc_type: 'Zum Beispiel: Zeichnung, Möbelstück, Tonaufnahme, Spielzeug, Foto'
+            edm_aggregatedCHO:
+              dc_description: "Zum Beispiel: ‘Mein Großvater ist nach dem Zweiten Weltkrieg aus Niederländisch-Ostindien (dem heutigen Indonesien) in die Niederlande zurückgekehrt. Sie haben überlebt und sind zusammen mit dieser Spardose zurück in die Niederlande gekommen. Sie erinnert uns noch heute an das Leben unserer Familie in Indien. \n"
+              dc_title: 'Zum Beispiel: Die Spardose meines Großvaters. Die Uhr meiner Großtante.'
+              dcterms_spatial: 'Zum Beispiel: Rom, Italien'
+          validation:
+            age_and_consent_exclusivity: 
+            content-policy-accept: 
+            display-and-takedown-accept: 
+            web-resource-license: 
+        pages:
+          create:
+            flash:
+              success: 
+          index:
+            begin_link:
+              text: 
+              text_long: 
+            call_to_action: 
+            closing_remark: 
+            description: 
+            hero:
+              attribution_institution: 
+              attribution_text: 
+              subtitle: 'Wir alle haben Dinge - wie Bilder, Briefe, Postkarten oder Rezepte - zu teilen oder Geschichten zu erzählen, die zeigen, woher wir kommen und was unser Leben geprägt hat. Für viele von uns gehören dazu unsere eigene Migrationsgeschichten oder die von unseren Familien und Gemeinschaften. '
+              title: Erzähl deine Migrationsgeschichte
+            preview_1:
+              button_text: 
+              text: 
+            preview_2:
+              button_text: 
+              caption: 
+              text: 
+            title: Erzähl deine Migrationsgeschichte
+          new:
+            subtitle: 'Wir laden dich ein, deine Geschichte zu erzählen - durch Objekte wie Bilder, Briefe, Postkarten oder Rezepte - so dass sie ein Teil der Europeana Migrations-Sammlung werden kann. '
+            title: Erzähl deine Migrationsgeschichte
+          update:
+            flash:
+              success: 
+    contributions:
+      confirm:
+        delete: 
+        delete_1: 
+        delete_2: 
+      events:
+        publish: 
+        unpublish: 
+        wipe: 
+      notices:
+        delete_error: 
+        deleted: 
+      states:
+        deleted: 
+        draft: 
+        published: 
+    events:
+      actions:
+        new: 
+      confirm:
+        delete: 
+      flash:
+        create:
+          success: 
+        destroy:
+          failure: 
+          success: 
+        update:
+          success: 
+    form:
+      hints:
+        contribution:
+          aasm_state: 
+      labels:
+        contribution:
+          aasm_state: 
+        user:
+          email: 
+          events: 
+          password: 
+          password_confirmation: 
+          role: 
+      validation:
+        media_size: 
+      warnings:
+        delete: 
+    helpers:
+      submit:
+        contribution:
+          create: 
+          update: 
+    pages:
+      contributions:
+        delete:
+          title: 
+        index:
+          filters:
+            events:
+              all: 
+              none: 
+          table:
+            headings:
+              date: 
+              media: 
+              name: 
+              status: 
+              ticket: 
+          title: 
+      events:
+        delete:
+          title: 
+        index:
+          table:
+            headings:
+              end_date: 
+              event_name: 
+              start_date: 
+              venue: 
+          title: 
+        new:
+          title: 
+      users:
+        delete:
+          title: 
+        index:
+          table:
+            headings:
+              email: 
+              events: 
+              last_sign_in_at: 
+              role: 
+          title: 
+        new:
+          title: 
+    site:
+      name: 
+    users:
+      actions:
+        new: 
+      confirm:
+        delete: 
+      flash:
+        create:
+          success: 
+        destroy:
+          failure: 
+          success: 
+        update:
+          success: 
