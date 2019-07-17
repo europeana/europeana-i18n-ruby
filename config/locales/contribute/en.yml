@@ -249,6 +249,7 @@ en:
               name: Name
               status: Status
               ticket: Ticket number
+              title: Title
           title: Contributions
       events:
         delete:
