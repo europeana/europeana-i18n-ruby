@@ -122,6 +122,22 @@ de:
           create:
             flash:
               success: 
+          new:
+            subtitle: 'Wir laden dich ein, deine Geschichte zu erzählen - durch Objekte wie Bilder, Briefe, Postkarten oder Rezepte - so dass sie ein Teil der Europeana Migrations-Sammlung werden kann. '
+            title: Erzähl deine Migrationsgeschichte
+          update:
+            flash:
+              success: 
+      migration:
+        form:
+          labels:
+            edm_aggregatedCHO:
+              dcterms_spatial: 
+          placeholders:
+            edm_aggregatedCHO:
+              dc_description: 
+              dc_title: 
+        pages:
           index:
             begin_link:
               text: 
@@ -142,22 +158,6 @@ de:
               caption: 
               text: 
             title: Erzähl deine Migrationsgeschichte
-          new:
-            subtitle: 'Wir laden dich ein, deine Geschichte zu erzählen - durch Objekte wie Bilder, Briefe, Postkarten oder Rezepte - so dass sie ein Teil der Europeana Migrations-Sammlung werden kann. '
-            title: Erzähl deine Migrationsgeschichte
-          update:
-            flash:
-              success: 
-      migration:
-        form:
-          labels:
-            edm_aggregatedCHO:
-              dcterms_spatial: 
-          placeholders:
-            edm_aggregatedCHO:
-              dc_description: 
-              dc_title: 
-        pages:
           new:
             subtitle: 
             title: 

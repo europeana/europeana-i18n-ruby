@@ -137,6 +137,22 @@ en:
           create:
             flash:
               success: Thank you for your contribution!
+          new:
+            subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of Europeana Collections.
+            title: Contribute
+          update:
+            flash:
+              success: Contribution saved.
+      migration:
+        form:
+          labels:
+            edm_aggregatedCHO:
+              dcterms_spatial: Where did the migration take place?
+          placeholders:
+            edm_aggregatedCHO:
+              dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
+              dc_title: 'For example: My grandfather’s money box. My great aunt’s watch.'
+        pages:
           index:
             begin_link:
               text: Share
@@ -159,22 +175,6 @@ en:
                 Gooi en Vecht Historisch
               text: In 2018, the European Year of Cultural Heritage, Europeana ran a series of collection days and events involving museums, libraries, archives and audiovisual collections across Europe.
             title: Contribute
-          new:
-            subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of Europeana Collections.
-            title: Contribute
-          update:
-            flash:
-              success: Contribution saved.
-      migration:
-        form:
-          labels:
-            edm_aggregatedCHO:
-              dcterms_spatial: Where did the migration take place?
-          placeholders:
-            edm_aggregatedCHO:
-              dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
-              dc_title: 'For example: My grandfather’s money box. My great aunt’s watch.'
-        pages:
           new:
             subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of the Europeana Migration Collection.
             title: Share your migration story
