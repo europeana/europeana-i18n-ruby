@@ -5,31 +5,45 @@ de:
       delete: 
       sign_out: 
     campaigns:
-      migration:
+      europe-at-work:
+        form:
+          placeholders:
+            edm_aggregatedCHO:
+              dc_description: 
+              dc_title: 
+        pages:
+          index:
+            hero:
+              title: 
+            title: 
+          new:
+            subtitle: 
+            title: 
+      generic:
         form:
           buttons:
             agent:
-              add: Eine weitere Person zu dieser Geschichte hinzufügen
-              remove: Diese Person löschen
+              add: 
+              remove: Remove this person
             location:
               add: 
               remove: 
             object:
-              add: 'Der Geschichte ein weiteres Objekt hinzufügen '
+              add: 
               remove: 
             topic:
               add: 
               remove: 
           hints:
             defaults:
-              dc_creator: 'Zum Beispiel: Wer hat das Foto gemacht oder wer hat das Rezept geschrieben? Wenn du es nicht weisst, lasse dieses Feld frei. '
-              dcterms_created: Wenn du nicht sicher bist, versuche es zu schätzen.
+              dc_creator: 
+              dcterms_created: 
               media: 
             edm_aggregatedCHO:
               dc_contributor_agent:
-                foaf_mbox: Dies wird nirgendwo angezeigt. Wir werden sie nur benutzen, wenn wir mit dir in Kontakt treten müssen, um deine Geschichte zu bearbeiten oder du die Veröffentlichung zurückziehen möchtest. Sie wird nicht online geteilt.
-                foaf_name: Dies wird nirgendwo angezeigt.
-                skos_prefLabel: 'Dies wird zusammen mit deiner Einreichung angezeigt. '
+                foaf_mbox: 
+                foaf_name: 
+                skos_prefLabel: 
               dc_language: 
               dc_subject: 'Wähle ein Stichwort aus, damit Andere deine Geschichte finden können. Wenn du anfängst etwas einzugeben, werden dir Vorschläge angezeigt, aus denen du auswählen kannst.  '
             edm_hasView:
@@ -134,6 +148,23 @@ de:
           update:
             flash:
               success: 
+      migration:
+        form:
+          labels:
+            edm_aggregatedCHO:
+              dcterms_spatial: 
+          placeholders:
+            edm_aggregatedCHO:
+              dc_description: 
+              dc_title: 
+        pages:
+          index:
+            hero:
+              title: 
+            title: 
+          new:
+            subtitle: 
+            title: 
     contributions:
       confirm:
         delete: 

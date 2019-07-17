@@ -5,12 +5,26 @@ en:
       delete: Delete
       sign_out: Log-out
     campaigns:
-      migration:
+      europe-at-work:
+        form:
+          placeholders:
+            edm_aggregatedCHO:
+              dc_description: 'For example: I worked at the Car Factory between 1949 and 1979. This photograph shows me and my colleagues, a staff photograph taken in 1963. I started working as a trainee and eventually moved to work in the distribution centre.'
+              dc_title: 'For example: Working in the car factory. My grandfather''s working tools.'
+        pages:
+          index:
+            hero:
+              title: Europe at work
+            title: Europe at work
+          new:
+            subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - to contribute to the story of Europe’s changing work history.
+            title: Europe at work
+      generic:
         form:
           buttons:
             agent:
               add: Add another person to this story
-              remove: Remove this person
+              remove: Add another person to this story
             location:
               add: Add another location
               remove: Remove this location
@@ -28,7 +42,7 @@ en:
             edm_aggregatedCHO:
               dc_contributor_agent:
                 foaf_mbox: "This will <strong>not</strong> be displayed anywhere. \nWe will use this to communicate with you if we need to edit or unpublish your story. This will not be shared online."
-                foaf_name: 'This will <strong>not</strong> be displayed anywhere. '
+                foaf_name: This will <strong>not</strong> be displayed anywhere.
                 skos_prefLabel: This will be displayed alongside your submission.
               dc_language: Please choose a language from this list.
               dc_subject: Choose a keyword to help people find this story. Once you start typing, we’ll show you suggestions from which you can choose.
@@ -70,7 +84,7 @@ en:
               dc_subject_agents:
                 foaf_name: 'Enter a name:'
               dc_title: Give your story a title
-              dcterms_spatial: Where did the migration take place?
+              dcterms_spatial: Which places does this story cover?
             edm_web_resource:
               edm_rights:
                 creativecommons_org:
@@ -134,7 +148,7 @@ en:
               attribution_institution: Gooi en Vecht Historisch
               attribution_text: A family with 10 children are going to emigrate
               subtitle: We all have objects - like pictures, letters, postcards or recipes - to share and stories to tell about where we've come from and what's shaped our lives.  For many of us, that involves our personal, family or community's stories of migration and immigration.
-              title: Share your migration story
+              title: Contribute
             preview_1:
               button_text: Read the stories
               text: 'People across Europe are sharing stories about living in or moving to other countries. These migration stories cover a wide variety of topics: love, education, war, persecution, cuisine, sports, weather and more. These stories have as much happiness, love and life as there is sadness, war and tragedy.'
@@ -144,13 +158,30 @@ en:
                 A family with 10 children are going to emigrate,<br>
                 Gooi en Vecht Historisch
               text: In 2018, the European Year of Cultural Heritage, Europeana ran a series of collection days and events involving museums, libraries, archives and audiovisual collections across Europe.
+            title: Contribute
+          new:
+            subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of Europeana Collections.
+            title: Contribute
+          update:
+            flash:
+              success: Contribution saved.
+      migration:
+        form:
+          labels:
+            edm_aggregatedCHO:
+              dcterms_spatial: Where did the migration take place?
+          placeholders:
+            edm_aggregatedCHO:
+              dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
+              dc_title: 'For example: My grandfather’s money box. My great aunt’s watch.'
+        pages:
+          index:
+            hero:
+              title: Share your migration story
             title: Share your migration story
           new:
             subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of the Europeana Migration Collection.
             title: Share your migration story
-          update:
-            flash:
-              success: Contribution saved.
     contributions:
       confirm:
         delete: Are you sure you want to permanently remove the contribution?
