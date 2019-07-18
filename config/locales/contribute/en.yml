@@ -24,7 +24,7 @@ en:
           buttons:
             agent:
               add: Add another person to this story
-              remove: Add another person to this story
+              remove: Remove this person
             location:
               add: Add another location
               remove: Remove this location
@@ -125,8 +125,8 @@ en:
             defaults:
               dc_type: 'For example: drawing, furniture, sound recording, toy, photograph'
             edm_aggregatedCHO:
-              dc_description: 'For example: ‘My grandfather migrated back to the Netherlands from the Dutch East Indies (modern Indonesia) after the Second World War. They survived and returned to the Netherlands along with this money box which still reminds us of my family’s life in the Indies.’'
-              dc_title: 'For example: My grandfather’s money box. My great aunt’s watch.'
+              dc_description: 'For example: This money box still reminds me of my family.’'
+              dc_title: 'For example: My great aunt''s money box. My grandfather''s working tools.'
               dcterms_spatial: 'For example: Rome, Italy'
           validation:
             age_and_consent_exclusivity: You can't be over and under 16 years old simultaneously.

@@ -24,7 +24,7 @@ de:
           buttons:
             agent:
               add: 
-              remove: Remove this person
+              remove: 
             location:
               add: 
               remove: 
@@ -110,8 +110,8 @@ de:
             defaults:
               dc_type: 'Zum Beispiel: Zeichnung, Möbelstück, Tonaufnahme, Spielzeug, Foto'
             edm_aggregatedCHO:
-              dc_description: "Zum Beispiel: ‘Mein Großvater ist nach dem Zweiten Weltkrieg aus Niederländisch-Ostindien (dem heutigen Indonesien) in die Niederlande zurückgekehrt. Sie haben überlebt und sind zusammen mit dieser Spardose zurück in die Niederlande gekommen. Sie erinnert uns noch heute an das Leben unserer Familie in Indien. \n"
-              dc_title: 'Zum Beispiel: Die Spardose meines Großvaters. Die Uhr meiner Großtante.'
+              dc_description: 'Zum Beispiel: ‘Dieser Spardose erinnert uns noch heute an das Leben unserer Familie.'
+              dc_title: 
               dcterms_spatial: 'Zum Beispiel: Rom, Italien'
           validation:
             age_and_consent_exclusivity: 
