@@ -31,6 +31,9 @@ de:
             object:
               add: 
               remove: 
+            thumbnail:
+              current: 
+              set: 
             topic:
               add: 
               remove: 

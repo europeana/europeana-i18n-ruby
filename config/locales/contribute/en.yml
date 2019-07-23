@@ -31,6 +31,9 @@ en:
             object:
               add: Add another object to this story
               remove: Remove this object
+            thumbnail:
+              current: Current thumbnail
+              set: Set as thumbnail
             topic:
               add: Add another topic
               remove: Remove this topic
