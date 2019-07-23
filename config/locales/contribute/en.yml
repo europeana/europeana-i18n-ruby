@@ -67,7 +67,7 @@ en:
               dcterms_created: When was this object created?
               edm_currentLocation: Where is this item at the moment?
               edm_rights_id: "Please select the most appropriate option for your object. \n"
-              edm_wasPresentAt: Are you at a Europeana Migration Collection Day?
+              edm_wasPresentAt: Are you at a Europeana Collection Day?
               rdaGr2_dateOfBirth: Date of birth
               rdaGr2_dateOfDeath: Date of death
               rdaGr2_placeOfBirth: Place of birth
