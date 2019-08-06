@@ -4,6 +4,7 @@ de:
       cancel: 
       delete: 
       sign_out: 
+      thumbnail: 
     campaigns:
       europe-at-work:
         form:
