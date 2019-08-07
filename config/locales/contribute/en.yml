@@ -194,6 +194,8 @@ en:
       notices:
         delete_error: 'Unable to delete: %{name}.'
         deleted: 'Deleted: %{name}.'
+        thumbnail_update_error: Failed to update thumbnail
+        thumbnail_updated: Updated thumbnail
       states:
         deleted: Deleted
         draft: Draft
@@ -251,6 +253,8 @@ en:
               ticket: Ticket number
               title: Title
           title: Contributions
+        thumbnail:
+          title: Select contribution thumbnail
       events:
         delete:
           title: Delete event

@@ -177,6 +177,8 @@ de:
       notices:
         delete_error: 
         deleted: 
+        thumbnail_update_error: 
+        thumbnail_updated: 
       states:
         deleted: 
         draft: 
@@ -233,6 +235,8 @@ de:
               status: 
               ticket: 
               title: 
+          title: 
+        thumbnail:
           title: 
       events:
         delete:
