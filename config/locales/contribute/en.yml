@@ -241,6 +241,8 @@ en:
           title: Delete Contribution
         index:
           filters:
+            campaigns:
+              all: All campaigns
             events:
               all: All events
               none: No event
