@@ -1,0 +1,696 @@
+en:
+  Symphonies: Symphonies
+  X11:
+    colours:
+      '000000': Black
+      000080: Navy Blue
+      00008B: Dark Blue
+      0000CD: Medium Blue
+      0000FF: Blue
+      '006400': Dark Green
+      008000: Web Green
+      008080: Teal
+      008B8B: Dark Cyan
+      00BFFF: Deep Sky Blue
+      00CED1: Dark Turquoise
+      00FA9A: Medium Spring Green
+      00FF00: Green
+      00FF7F: Spring Green
+      00FFFF: Cyan
+      '191970': Midnight Blue
+      1E90FF: Dodger Blue
+      20B2AA: Light Sea Green
+      228B22: Forest Green
+      2E8B57: Sea Green
+      2F4F4F: Dark Slate Gray
+      32CD32: Lime Green
+      3CB371: Medium Sea Green
+      40E0D0: Turquoise
+      4169E1: Royal Blue
+      4682B4: Steel Blue
+      483D8B: Dark Slate Blue
+      48D1CC: Medium Turquoise
+      4B0082: Indigo
+      556B2F: Dark Olive Green
+      5F9EA0: Cadet Blue
+      6495ED: Cornflower
+      '663399': Rebecca Purple
+      66CDAA: Medium Aquamarine
+      '696969': Dim Gray
+      6A5ACD: Slate Blue
+      6B8E23: Olive Drab
+      '708090': Slate Gray
+      '778899': Light Slate Gray
+      7B68EE: Medium Slate Blue
+      7CFC00: Lawn Green
+      7F0000: Web Maroon
+      7F007F: Web Purple
+      7FFF00: Chartreuse
+      7FFFD4: Aquamarine
+      '800000': Maroon
+      '800080': Purple
+      '808000': Olive
+      '808080': Web Gray
+      87CEEB: Sky Blue
+      87CEFA: Light Sky Blue
+      8A2BE2: Blue Violet
+      8B0000: Dark Red
+      8B008B: Dark Magenta
+      8B4513: Saddle Brown
+      8FBC8F: Dark Sea Green
+      90EE90: Light Green
+      9370DB: Medium Purple
+      9400D3: Dark Violet
+      98FB98: Pale Green
+      9932CC: Dark Orchid
+      9ACD32: Yellow Green
+      A020F0: Purple
+      A0522D: Sienna
+      A52A2A: Brown
+      A9A9A9: Dark Gray
+      ADD8E6: Light Blue
+      ADFF2F: Green Yellow
+      AFEEEE: Pale Turquoise
+      B03060: Maroon
+      B0C4DE: Light Steel Blue
+      B0E0E6: Powder Blue
+      B22222: Firebrick
+      B8860B: Dark Goldenrod
+      BA55D3: Medium Orchid
+      BC8F8F: Rosy Brown
+      BDB76B: Dark Khaki
+      BEBEBE: Gray
+      C0C0C0: Silver
+      C71585: Medium Violet Red
+      CD5C5C: Indian Red
+      CD853F: Peru
+      D2691E: Chocolate
+      D2B48C: Tan
+      D3D3D3: Light Gray
+      D8BFD8: Thistle
+      DA70D6: Orchid
+      DAA520: Goldenrod
+      DB7093: Pale Violet Red
+      DC143C: Crimson
+      DCDCDC: Gainsboro
+      DDA0DD: Plum
+      DEB887: Burlywood
+      E0FFFF: Light Cyan
+      E6E6FA: Lavender
+      E9967A: Dark Salmon
+      EE82EE: Violet
+      EEE8AA: Pale Goldenrod
+      F08080: Light Coral
+      F0E68C: Khaki
+      F0F8FF: Alice Blue
+      F0FFF0: Honeydew
+      F0FFFF: Azure
+      F4A460: Sandy Brown
+      F5DEB3: Wheat
+      F5F5DC: Beige
+      F5F5F5: White Smoke
+      F5FFFA: Mint Cream
+      F8F8FF: Ghost White
+      FA8072: Salmon
+      FAEBD7: Antique White
+      FAF0E6: Linen
+      FAFAD2: Light Goldenrod
+      FDF5E6: Old Lace
+      FF0000: Red
+      FF00FF: Fuchsia
+      FF1493: Deep Pink
+      FF4500: Orange Red
+      FF6347: Tomato
+      FF69B4: Hot Pink
+      FF7F50: Coral
+      FF8C00: Dark Orange
+      FFA07A: Light Salmon
+      FFA500: Orange
+      FFB6C1: Light Pink
+      FFC0CB: Pink
+      FFD700: Gold
+      FFDAB9: Peach Puff
+      FFDEAD: Navajo White
+      FFE4B5: Moccasin
+      FFE4C4: Bisque
+      FFE4E1: Misty Rose
+      FFEBCD: Blanched Almond
+      FFEFD5: Papaya Whip
+      FFF0F5: Lavender Blush
+      FFF5EE: Seashell
+      FFF8DC: Cornsilk
+      FFFACD: Lemon Chiffon
+      FFFAF0: Floral White
+      FFFAFA: Snow
+      FFFF00: Yellow
+      FFFFE0: Light Yellow
+      FFFFF0: Ivory
+      FFFFFF: White
+  global:
+    about-us: About us
+    actions:
+      click-here-try-again-1: You can click
+      click-here-try-again-2: here
+      click-here-try-again-3: to try again
+      collapse: Collapse
+      copy: Copy
+      copy-attribution: Show your appreciation. Copy to attribute.
+      delete: Delete
+      download: Download
+      downloading: Downloading
+      edit: Edit
+      expand: Expand
+      expand-viewer: Expand viewer
+      filter-all: All
+      filter-by: Filter by
+      fullscreen-enter: full screen
+      fullscreen-exit: exit full screen
+      new: New
+      next: next
+      previous: previous
+      reduce-viewer: Reduce viewer
+      register: Register
+      remove: Remove
+      search: Search
+      share: Share
+      sign-in: Sign in
+      sign-out: Sign out
+      skip-to-main: Skip to page contents
+      skip-to-section: Skip to section
+      subscribe: Subscribe
+      view: View
+      view-at: View at
+      view-more-at: 'View more at '
+      withdraw: withdraw
+    channel:
+      all: All items
+      archaeology: archaeology
+      architecture: architecture
+      art: Art History
+      art-history: Art
+      fashion: fashion
+      first-world-war: Europeana 1914-1918
+      home: Home
+      maps: maps
+      music: music
+      natural-history: natural history
+      newspapers: newspapers
+      performing-arts: performing-arts
+    channels-art: Art History
+    channels-art-image: Art History Collection image
+    channels-art-link: Art History Collections
+    channels-fashion: Fashion
+    channels-music: Music
+    choose-language: Language
+    cookie_disclaimer:
+      more_info: More info
+      text: This website uses cookies to ensure you get the best experience on our website. By clicking or navigating the site, you agree to allow our collection of information through cookies.
+    date:
+      eras:
+        gregorian:
+          before: "%{date} BCE"
+          current: "%{date} CE"
+    email-address: email address
+    error:
+      unavailable: Unavailable
+    facet:
+      advanced:
+        options: Options
+        show:
+          ugc: User generated content
+      api:
+        collection: Records with full-text
+        default: Metadata-only records
+      art:
+        form:
+          paintings:
+            genre: Genre
+            medium: Medium
+      carrier: Carrier
+      colour: Colour
+      colour-black-and-white: Black and white
+      country:
+        austria: Austria
+        belgium: Belgium
+        bulgaria: Bulgaria
+        croatia: Croatia
+        cyprus: Cyprus
+        czechrepublic: Czech Republic
+        denmark: Denmark
+        estonia: Estonia
+        europe: Europe
+        finland: Finland
+        france: France
+        germany: Germany
+        greece: Greece
+        hungary: Hungary
+        iceland: Iceland
+        ireland: Ireland
+        israel: Israel
+        italy: Italy
+        latvia: Latvia
+        lithuania: Lithuania
+        luxembourg: Luxembourg
+        malta: Malta
+        netherlands: The Netherlands
+        norway: Norway
+        poland: Poland
+        portugal: Portugal
+        romania: Romania
+        russia: Russia
+        serbia: Serbia
+        slovakia: Slovakia
+        slovenia: Slovenia
+        spain: Spain
+        sweden: Sweden
+        switzerland: Switzerland
+        turkey: Turkey
+        ukraine: Ukraine
+        unitedkingdom: United Kingdom
+        unitedstatesofamerica: USA
+        vaticancity: Vatican City
+      creator: creator
+      filter: filter
+      header:
+        api: Search for
+        collection: Collections
+        colourpalette: Colour
+        country: Country
+        data_provider: Institution
+        date-created: Date created
+        edm_ugc: Show content contributed by users
+        fashion:
+          colour: Colour
+          designer: Designer
+          material: Material
+          technique: Technique
+          type: Item type
+        image_aspectratio: Orientation
+        image_colour: Palette
+        image_size: Size
+        intermediateprovider: Intermediate Provider
+        language: Language
+        language_of_description: Language of Description
+        media: Only items with links to media
+        mime_type: File format
+        provider: Aggregator
+        providing_country: Providing country
+        proxy_dcterms_created: Date Created
+        proxy_dcterms_issued: Date
+        reusability: Can I use it?
+        rights: Licence
+        sound_duration: Duration
+        sound_hq: High Quality
+        text_fulltext: Full text
+        thumbnail: Only items with thumbnails
+        type: Media
+        ugc: Show content contributed by users
+        video_duration: Duration
+        video_hd: Quality
+        year: Date
+      image_aspectratio:
+        landscape: Landscape
+        portrait: Portrait
+      image_colour:
+        'false': Black and white
+        'true': Colour
+      image_size:
+        extra_large: Extra Large (4MP+)
+        large: Large (1-4MP)
+        medium: Medium (0.5-1MP)
+        small: Small (<0.5MP)
+      language:
+        bg: Български
+        ca: Català
+        cs: Čeština
+        da: Dansk
+        de: Deutsch
+        el: Ελληνικά
+        en: English
+        es: Español
+        et: Eesti
+        fi: Suomi
+        fr: Français
+        ga: Gaeilge
+        he: עברית
+        hr: Hrvatski
+        hu: Magyar
+        is: Íslenska
+        it: Italiano
+        lt: Lietuvių
+        lv: Latviešu
+        mt: Malti
+        mul: Multilingual
+        nl: Nederlands
+        'no': Norsk
+        pl: Polski
+        pt: Português
+        ro: Română
+        ru: Русский
+        sk: Slovenský
+        sl: Slovenski
+        sr: Српски
+        sv: Svenska
+        tr: " Türkçe"
+        uk: Українська
+        yi: ייִדיש
+      less: Fewer
+      license:
+        hide-specific: Hide specific rights statements
+        show-specific: Show specific rights statements
+      media:
+        'false': 'No'
+        'true': 'Yes'
+      more: More
+      more-refinements: More refinements
+      resource:
+        type: Type
+      reusability:
+        advanced-MARKEDFORDELETION: Advanced
+        expiry: until %{date}
+        free-reuse: Free reuse
+        open:
+          brief: 'Yes'
+          info: free reuse
+          label: Free Re-use
+        permission:
+          brief: 'No'
+          info: learn why
+          label: No Re-use
+        restricted:
+          brief: 'Yes'
+          info: limited reuse
+          label: Limited Re-use
+        simple: Simple
+      rights:
+        cc-by: CC BY
+        cc-by-nc: CC BY-NC
+        cc-by-nc-nd: CC BY-NC-ND
+        cc-by-nc-sa: CC BY-NC-SA
+        cc-by-nd: CC BY-ND
+        cc-by-sa: CC BY-SA
+        cc0: CC0
+        orphan-work: Orphan Work
+        out-of-copyright-non-commercial: 'Out of copyright - non commercial re-use '
+        public: Public Domain Marked
+        rrfa: Rights reserved - Free access
+        rrpa: Rights reserved - Paid access
+        rrra: Rights Reserved - Restricted Access
+        rs-cne: Copyright Not Evaluated
+        rs-inc: In Copyright
+        rs-inc-edu: In Copyright - Educational Use Permitted
+        rs-inc-ow-eu: In Copyright - EU Orphan Work
+        rs-noc-nc: No Copyright - Non-Commercial Use Only
+        rs-noc-oklr: No Copyright - Other Known Legal Restrictions
+        rs_noc_oklr: No Copyright - Other Known Legal Restrictions
+        ucs: Unknown copyright status
+      sound_duration:
+        long: Long (6+ minutes)
+        medium: Medium (3-6 minutes)
+        short: Short (30s - 3 minutes)
+        very_short: Very short (<30s)
+      sound_hq:
+        'true': 'Yes'
+      source: Source
+      text_fulltext:
+        'false': 'No'
+        'true': 'Yes'
+      thumbnail:
+        'false': 'No'
+        'true': 'Yes'
+      type:
+        3d: 3D
+        image: Image
+        sound: Sound
+        text: Text
+        video: Video
+      type-image:
+        orientation:
+          label: Image orientation
+          landscape: Landscape
+          portrait: Portrait
+        quality:
+          all: Show all
+          hq-only: Show only high quality
+          label: Quality
+        size:
+          explanation: What do these sizes mean?
+          label: Image size
+          large: Large (%{data})
+          medium: Medium (%{data})
+          small: Small (%{data})
+          xl: Extra large (%{data})
+      type-sound:
+        duration:
+          label: Duration
+          long: Long (%{data})
+          medium: Medium (%{data})
+          short: Short (%{data})
+          very-short: Very short (%{data})
+      type-video:
+        duration:
+          label: Duration
+          long: Long (%{data})
+          medium: Medium (%{data})
+          short: Short (%{data})
+      ugc:
+        'false': 'No'
+        'true': 'Yes'
+      video_duration:
+        long: Long (20+ minutes)
+        medium: Medium (4-20 minutes)
+        short: Short (<4 minutes)
+      video_hd:
+        'true': High Definition (576p+)
+      year:
+        from: from
+        specific-date: Specific date
+        to: to
+    feedback:
+      close: Close
+      data-agreement: I agree to Europeana's Privacy Policy
+      data-use-1: We may share your data anonymously with our partners in order to improve Europeana.
+      data-use-2: If you provide an email address we may contact you for more information.
+      data-use-header: 'Any personal data:'
+      error: Error
+      error-accept: Please agree to Europeana's privacy policy
+      error-short: Your feedback has to consist of %{minwords} words at minimum.
+      open: Feedback
+      placeholder: Let us know what you think and what we can improve.
+      submit: Submit
+      thanks:
+        long: Thank you for your feedback. If needed, we'll get back to you as soon as possible.
+        short: Thank you!
+      title: Feedback
+      type:
+        bug: Bug
+        comment: Comment
+        correction: Correction
+    find-us-elsewhere: Find us elsewhere
+    find-us-social-media: Find %{channel} on social media
+    follow-channel: Follow %{channel}
+    footer:
+      disclaimer: This website is developed and maintained on behalf of the European Commission by the consortium led by Europeana Foundation. The European Commission goal is to keep information provided at this website accurate. However, the Commission does not guarantee the accuracy of the information and accepts no responsibility or liability whatsoever with regard to the information on this site. Neither the Commission nor any person acting on the Commission’s behalf may be held responsible for the use which may be made of the information contained therein.
+      disclaimer_1: "Europeana is an initiative of the European Union, financed by the European Union’s Connecting Europe Facility and European Union Member States. The Europeana services, including this website, are operated by a consortium led by the Europeana Foundation under a service contract with the European Commission.\n\n"
+      disclaimer_2: The European Commission does not guarantee the accuracy of the information and accepts no responsibility or liability whatsoever with regard to the information on this website. Neither the European Commission, nor any person acting on the European Commission’s behalf, is responsible or liable for the accuracy or use of the information on this website.
+      funding: Funded by the European Union.
+    forgot-password: Forgot your password?
+    forms:
+      hints:
+        required-fields: Required fields
+      validation-errors:
+        blank: Please enter a value
+        confirmation-required: Please confirm
+        date-format: Please enter a valid date
+        date-past: Please select a valid date that has already occurred
+        email: Please ensure you have typed a correct email address
+        file-size: Please ensure each uploaded file is no more than %{limit_mb} MB
+        file-type: 'This file format is not one of the following: %{allowed_types}'
+        form-has-errors: Please ensure you have filled in all details correctly and try submitting again
+        user-age: Sorry, you must be over 16 years of age to participate
+        user-age-consent: Sorry, you must be over 16 years of age or have parental/guardian consent to participate
+    galleries: Galleries
+    genres: genres
+    genres-chamber-music: Chamber music
+    genres-classical-music: Classical music
+    genres-concertos: Concertos
+    genres-non-western-classical-music: Non-western classical music
+    genres-opera: Opera
+    genres-popular-music: Popular music
+    genres-traditional-music: Traditional music
+    header:
+      connect: Connect
+      develop: Develop
+      discover: Discover
+      network: Network
+    help: Help
+    home: Home
+    javascript-required: To view this content please enable JavaScript, and consider upgrading to a web browser that supports HTML5 content.
+    javascript-required-ugc: We do not allow submissions without Javascript enabled, please enable Javascript in your browser in order to submit this form.
+    labels:
+      by: by
+      images: images
+    labs: Labs
+    labs-text: 'Remix cultural content with our APIs & datasets
+
+'
+    language-basque: Basque
+    language-bulgarian: Bulgarian
+    language-catalan: Catalan
+    language-croatian: Croatian
+    language-czech: Czech
+    language-danish: Danish
+    language-dutch: Dutch
+    language-english: English
+    language-estonian: Estonian
+    language-finnish: Finnish
+    language-french: French
+    language-gaelic: Gaelic
+    language-german: German
+    language-greek: Greek
+    language-hungarian: Hungarian
+    language-icelandic: Icelandic
+    language-italian: Italian
+    language-latvian: Latvian
+    language-lithuanian: Lithuanian
+    language-maltese: Maltese
+    language-norwegian: Norwegian
+    language-polish: Polish
+    language-portuguese: Portuguese
+    language-romanian: Romanian
+    language-russian: Russian
+    language-slovakian: Slovak
+    language-slovenian: Slovenian
+    language-spanish: Spanish
+    language-swedish: Swedish
+    language-ukranian: Ukrainian
+    languages:
+      bg: Bulgarian
+      ca: Catalan
+      cs: Czech
+      da: Danish
+      de: German
+      el: Greek
+      en: English
+      es: Spanish
+      et: Estonian
+      eu: Basque
+      fi: Finnish
+      fr: French
+      ga: Gaelic
+      he: עברית
+      hr: Croatian
+      hu: Hungarian
+      is: Icelandic
+      it: Italian
+      lt: Lithuanian
+      lv: Latvian
+      mt: Maltese
+      mul: Multilingual
+      nl: Dutch
+      'no': Norwegian
+      pl: Polish
+      pt: Portuguese
+      ro: Romanian
+      ru: Russian
+      sk: Slovak
+      sl: Slovenian
+      sr: Српски
+      sv: Swedish
+      tr: Türkçe
+      uk: Ukrainian
+      yi: ייִדיש
+    login: Login
+    media:
+      types:
+        IIIF: IIIF
+        audio: Audio
+        image: Image
+        oembed: Oembed
+        pdf: PDF
+        text: Text
+        video: Video
+    mission: We transform the world with culture! We want to build on Europe’s rich heritage and make it easier for people to use, whether for work, for learning or just for fun.
+    mission-title: Our mission
+    more:
+      load-more: More
+      show-more: Show more
+      view-more: View more
+    more-info: More information
+    newsletter:
+      choose-language: Choose a language
+      email-address-invalid: Email must be a valid email address.
+      email-address-required: An email address must be specified.
+      fashion:
+        heading: Sign up!
+        subheading: Sign up for the Europeana Fashion newsletter
+      language-required: A language must be specified.
+      signup: Sign up for our newsletter
+      submit-alt: Subscribe
+    other-formats: Other formats
+    our-sites: our sites
+    page: page
+    password: Password
+    professional: Pro
+    professional-text: Get involved, share your data or use ours
+    promotions:
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: Blogs
+      collection: Thematic collection
+      collections: Thematic collections
+      dataset: Dataset
+      datasets: Datasets
+      event: Event
+      events: Events
+      exhibition: Exhibition
+      exhibitions: Exhibitions
+      featured_site: Featured site
+      featured_sites: Featured sites
+      galleries: Galleries
+      gallery: Gallery
+      image: Image
+      images: Images
+      new: What's new
+      partner: Our Partner
+      partners: Our Partners
+      playlist: Playlist
+      playlists: Playlists
+      stories: Stories
+      story: Story
+      timeline: Timeline
+      timelines: Timelines
+    punctuation:
+      list-item-separator: "; "
+      term-list: "%{term}: %{items}"
+    refine-your-search: Refine your search
+    refine-your-search-short: Filter
+    register: Register
+    research: Research
+    research-text: Connecting to the academic community
+    search-area:
+      search-button-image-alt: Search
+      search-placeholder-text: Add a search term
+    search-collections: Collections
+    search-collections-text: Explore Europe’s cultural heritage
+    share: Share
+    sitemap: Sitemap
+    subscribe: Subscribe
+    terms-and-policies: Terms of use & Policies
+    tooltips:
+      channels:
+        home:
+          new-galleries: Have you explored our new galleries?
+        search:
+          new-filter: You can now filter your search on specific licence
+          new-grid: Have you seen the new grid layout?
+    type: type
+  'no': Norway
+  pl: Portugal
+  site:
+    facet:
+      language:
+        show:
+          results: Results
+        show-results-all: Show all results
