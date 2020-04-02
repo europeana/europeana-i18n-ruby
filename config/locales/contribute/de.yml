@@ -165,6 +165,11 @@ de:
           new:
             subtitle: 
             title: 
+      sport:
+        pages:
+          new:
+            subtitle: 
+            title: 
     contributions:
       confirm:
         delete: 

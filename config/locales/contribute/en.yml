@@ -182,6 +182,11 @@ en:
           new:
             subtitle: We invite you to share your story - through objects like pictures, letters, postcards or recipes - so that it can become part of the Europeana Migration Collection.
             title: Share your migration story
+      sport:
+        pages:
+          new:
+            subtitle: We invite you to share your story - through objects like pictures, letters or postcards - to contribute to the story of Europe’s changing sport history.
+            title: Sport
     contributions:
       confirm:
         delete: Are you sure you want to permanently remove the contribution?
